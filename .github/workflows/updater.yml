@@ -44,6 +44,7 @@ jobs:
         if: steps.check_update.outputs.version != 'latest'
         shell: bash
         run: |
+          mkdir csv
           echo "::group::Dump Logs"
           . .github/scripts/dump.sh master.db
           echo "::endgroup::"
@@ -68,5 +69,5 @@ jobs:
           gh pr create --title "Update $VERSION" --body "Created automatically w/ github actions"
           #gh pr merge --merge -d
         env:
-          GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           
