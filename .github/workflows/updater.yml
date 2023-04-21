@@ -72,7 +72,7 @@ jobs:
           git commit -m "$VERSION"
           git push -u origin "patch/$VERSION"
           gh pr create --title "Update $VERSION" --body "Created automatically w/ github actions"
-          #gh pr merge --merge -d
+          gh pr merge --merge -d
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           
