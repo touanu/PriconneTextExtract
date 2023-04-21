@@ -56,13 +56,18 @@ jobs:
           & .github/scripts/extract_text.ps1
           Write-Output "::endgroup::"
 
+      - name: Cleanup
+        if: steps.check_update.outputs.version != 'latest'
+        run: |
+          Remove-Item -Force -Recurse -Path "csv", "en_csv", "master.db"
+
       - name: Create PR and merge
         if: steps.check_update.outputs.version != 'latest'
         run: |
           $VERSION="${{ steps.check_update.outputs.version }}"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add jp jp-en version
+          git add jp/* jp_en/* version
           git checkout -b "patch/$VERSION"
           git commit -m "$VERSION"
           git push -u origin "patch/$VERSION"
