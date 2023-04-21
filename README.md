@@ -4,7 +4,7 @@ Extracting texts from Priconne game automatically
 
 Made for easier translating Priconne with XUnity.AutoTranslator
 
-Also check out [PriconeTL project](https://github.com/touanu/PriconneTextExtract/blob/main/README.md)
+Also check out [PriconeTL project](https://github.com/ImaterialC/PriconeTL)
 
 ## Credit
 
