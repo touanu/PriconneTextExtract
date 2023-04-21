@@ -1,0 +1,12 @@
+アニバーサリー=Anniversary
+イエロー=Yellow
+おまかせ=Auto
+グリーン=Green
+グレー=Gray
+デフォルト=Default
+パープル=Purple
+ピンク=Pink
+ブルー=Blue
+ライトブルー=Light Blue
+レッド=Red
+

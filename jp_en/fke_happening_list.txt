@@ -1,0 +1,21 @@
+アクダイカン像=The Magistrate
+アユミのうちわ=Ayumi's Fan
+ジズ=Ziz
+スーパーボール=Pinball
+ドリル=Drill
+トルネード=Tornado
+ニノンの爆裂忍法=Ninon's Ninpo
+バナナジャンプ=Banana Jump
+バナナスライド=Banana Slide
+メサルティム=Mesarthim
+ロケット=Rocket
+向かい風=Headwind
+土砂降り雨=Downpour
+成層圏突入=Among the Stars
+目回し=All Spun Out
+腹すべり=Stomach Slide
+落雷=Lightning
+超低空飛行=Low Swoop
+追い風=Tailwind
+間欠泉=Geyser
+

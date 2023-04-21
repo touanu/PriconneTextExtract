@@ -1,0 +1,6 @@
+カイザーサーバント（マルチ）=Kaiser Servant (Multi)
+カイザーサーバント（物理）=Kaiser Servant (Physical)
+カイザーサーバント（盾）=Kaiser Servant (Defense)
+カイザーサーバント（魔法）=Kaiser Servant (Magic)
+メインボス=Main Boss
+

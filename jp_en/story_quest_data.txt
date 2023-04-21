@@ -1,0 +1,10 @@
+ADVバトル=ADV Battle
+アルマバトル=Alma Battle
+ガルグバトル=Garoog Battle
+ジズバトル=Ziz Battle
+チュートリアルバトル=Tutorial Battle
+バレンタインボスバトル=Valentine Boss Battle
+ラストバトル=Last Battle
+島クジラバトル=Island Whale Battle
+水着バトル=Swimsuit Battle
+
