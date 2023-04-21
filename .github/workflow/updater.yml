@@ -1,0 +1,71 @@
+name: Unedited Text Updater
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+defaults:
+  run:
+    shell: pwsh
+
+jobs:
+  update:
+    name: Updating base
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          repository: 'FabulousCupcake/en_redive_master_db_diff'
+          path: 'en_csv'
+      
+      - name: Check version
+        id: check_update
+        run: |
+          $remote = Invoke-RestMethod https://raw.githubusercontent.com/Expugn/priconne-database/master/version.json | Select -Expand JP | Select -Expand version
+          $local = Get-Content "version" -Raw
+          if ($remote -ne $local) {
+              Write-Host "New version ($remote) is found!"
+              "version=$remote" >> $env:GITHUB_OUTPUT
+              Invoke-WebRequest https://raw.githubusercontent.com/Expugn/priconne-database/master/master_jp.db -OutFile master.db
+          }
+          else {
+              Write-Host "The current version is latest!"
+              "version=latest" >> $env:GITHUB_OUTPUT
+          }
+
+      - name: Generate .csv dump
+        if: steps.check_update.outputs.version != 'latest'
+        shell: bash
+        run: |
+          Write-Output "::group::Dump Logs"
+          . .github/scripts/dump.sh master.db
+          Write-Output "::endgroup::"
+
+      - name: Generate raw text files
+        if: steps.check_update.outputs.version != 'latest'
+        run: |
+          Write-Output "::group::Extract Logs"
+          & .github/scripts/extract_text.ps1
+          Write-Output "::endgroup::"
+
+      - name: Create PR and merge
+        if: steps.check_update.outputs.version != 'latest'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jp jp-en version
+          git checkout -b "patch/${{ env.VERSION }}"
+          git commit -m "${{ env.VERSION }}"
+          git push -u origin "patch/${{ env.VERSION }}"
+          gh pr create --title "Update ${{ env.VERSION }}" --body "Created automatically w/ github actions"
+          #gh pr merge --merge -d
+        env:
+          GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
+          VERSION="${{ steps.check_update.outputs.version }}"
