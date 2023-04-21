@@ -19,7 +19,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Checkout
+      - name: Clone EN resources
         uses: actions/checkout@v3
         with:
           repository: 'FabulousCupcake/en_redive_master_db_diff'
