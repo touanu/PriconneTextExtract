@@ -44,9 +44,9 @@ jobs:
         if: steps.check_update.outputs.version != 'latest'
         shell: bash
         run: |
-          Write-Output "::group::Dump Logs"
+          echo "::group::Dump Logs"
           . .github/scripts/dump.sh master.db
-          Write-Output "::endgroup::"
+          echo "::endgroup::"
 
       - name: Generate raw text files
         if: steps.check_update.outputs.version != 'latest'
@@ -58,14 +58,15 @@ jobs:
       - name: Create PR and merge
         if: steps.check_update.outputs.version != 'latest'
         run: |
+          $VERSION="${{ steps.check_update.outputs.version }}"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add jp jp-en version
-          git checkout -b "patch/${{ env.VERSION }}"
-          git commit -m "${{ env.VERSION }}"
-          git push -u origin "patch/${{ env.VERSION }}"
-          gh pr create --title "Update ${{ env.VERSION }}" --body "Created automatically w/ github actions"
+          git checkout -b "patch/$VERSION"
+          git commit -m "$VERSION"
+          git push -u origin "patch/$VERSION"
+          gh pr create --title "Update $VERSION" --body "Created automatically w/ github actions"
           #gh pr merge --merge -d
         env:
           GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
-          VERSION="${{ steps.check_update.outputs.version }}"
+          
