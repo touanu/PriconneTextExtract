@@ -1,0 +1,12 @@
+イルシオンの孤島=Ellusion Isle
+クリスマス=Holiday
+タパスビーチ周辺=Tapas Beach
+タルグム地方=Targum Region
+バレンタイン=Valentine's
+マシーナ地方=Macina Region
+マナリア=Mysteria
+ランドソル近郊=Landosol Vicinity
+ランドソル郊外=Landosol Outskirts
+王都ランドソル=Landosol City
+神殿への参道=Temple Trail
+

@@ -1,0 +1,4 @@
+ロボリマ（MODE1）=Robo-Lima (MODE 1)
+ロボリマ（MODE2）=Robo-Lima (MODE 2)
+ロボリマ（MODE3）=Robo-Lima (MODE 3)
+

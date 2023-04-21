@@ -1,0 +1,6 @@
+神殿調査Lv1=Temple Trek Lvl 1
+神殿調査Lv2=Temple Trek Lvl 2
+聖跡調査Lv1=Sanctum Survey Lvl 1
+聖跡調査Lv2=Sanctum Survey Lvl 2
+聖跡調査Lv3=
+

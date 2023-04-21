@@ -1,0 +1,3 @@
+スコアを累計で192000獲得しよう=Achieve a total score of 32,000.
+スコアを累計で480000獲得しよう=Achieve a total score of 64,000.
+

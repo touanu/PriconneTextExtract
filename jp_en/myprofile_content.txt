@@ -1,0 +1,25 @@
+イエロー=Yellow
+きのこと小川=Mushroom Creek
+きのこと秋の渓谷=Autumn Scenery - Mushroom Valley
+グリーン=Green
+クリスマスの夜=Festive (Evening)
+クリスマスの昼=Festive (Afternoon)
+グレー=Grey
+サマービーチの夕日=Summer Beach (Sunset)
+サマービーチの星空=Summer Beach (Starry Sky)
+サマービーチの朝日=Summer Beach (Sunrise)
+パープル=Purple
+ハロウィンの夜=Halloween (Evening)
+ハロウィンの昼=Halloween (Afternoon)
+ピンク=Pink
+ブルー=Blue
+ライトブルー=Light Blue
+レッド=Red
+不思議の国のお城=
+不思議の国の平原=
+初日の出=First Sunrise
+天の川=
+海中の背景=Underwater Scenery
+願い竹の村の夜=
+願い竹の村の昼=
+

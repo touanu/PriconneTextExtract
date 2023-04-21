@@ -1,0 +1,17 @@
+イベントストーリー前編　エンディングを見よう=View the Part 1 Ending of the Event Story
+イベントストーリー前編　第3話を見よう=View Part 1, Episode 3 of the Event Story
+イベントストーリー後編　エンディングを見よう=View the Part 2 Ending of the Event Story
+イベントストーリー後編　第1話を見よう=View Part 2, Episode 1 of the Event Story
+イベントストーリー後編　第3話を見よう=View Part 2, Episode 3 of the Event Story
+イベント前編HARDクエスト1-1を3回クリアしよう=Clear Part 1 Event Quest 1-1 (HARD) 3 times
+イベント前編HARDボスを3回倒そう=Defeat the Part 1 boss (HARD) 3 times
+イベント前編VERY HARDボスを倒そう=Defeat the Part 1 boss (VERY HARD)
+イベント後編HARDクエスト1-1を3回クリアしよう=Clear Part 2 Event Quest 1-1 (HARD) 3 times
+イベント後編HARDボスを3回倒そう=Defeat the Part 2 boss (HARD) 3 times
+イベント後編VERY HARDボスを倒そう=Defeat the Part 2 boss (VERY HARD)
+ミオ（デレマス）の★を2にしよう=Raise Mio (IM@S CG) to 2★
+ミオ（デレマス）を編成してイベント後編HARDボスを倒そう=Defeat the Part 2 boss (HARD) using Mio (IM@S CG)
+討伐証交換リセットを1回しよう=Reset the Victory Medal Exchange 1 time
+討伐証交換リセットを3回しよう=Reset the Victory Medal Exchange 3 times
+討伐証交換リセットを5回しよう=Reset the Victory Medal Exchange 5 times
+

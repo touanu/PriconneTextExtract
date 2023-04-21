@@ -1,0 +1,17 @@
+プレイヤーLvを40にしよう=Reach player level 40
+メインクエスト6-1（NORMAL）をクリアしよう=Clear Main Quest 6-1 (NORMAL)
+メインストーリー第1章第1話を読もう=View Episode 1 of Main Story Chapter 1
+期間中に4日間ログインしよう=Log in 4 times within the campaign period
+期間中にサポートをレンタルしてクエストをクリアしよう=Clear a quest using a support character during the campaign period
+期間中にフレンドになった初心者の初心者ミッション達成を見守ろう（1人目）=Watch a new beginner friend complete all Beginner Missions (1st time)
+期間中にフレンドになった初心者の初心者ミッション達成を見守ろう（2人目）=Watch a new beginner friend complete all Beginner Missions (2nd time)
+期間中にフレンドになった初心者の初心者ミッション達成を見守ろう（3人目）=Watch a new beginner friend complete all Beginner Missions (3rd time)
+期間中にフレンドになった初心者の初心者ミッション達成を見守ろう（4人目）=Watch a new beginner friend complete all Beginner Missions (4th time)
+期間中にフレンドになった初心者の初心者ミッション達成を見守ろう（5人目）=Watch a new beginner friend complete all Beginner Missions (5th time)
+期間中に初心者プレイヤー1人とフレンドになろう=Become friends with 1 beginner during the campaign period
+期間中に初心者プレイヤー2人とフレンドになろう=Become friends with 2 beginners during the campaign period
+期間中に初心者プレイヤー3人とフレンドになろう=Become friends with 3 beginners during the campaign period
+期間中に初心者プレイヤー4人とフレンドになろう=Become friends with 4 beginners during the campaign period
+期間中に初心者プレイヤー5人とフレンドになろう=Become friends with 5 beginners during the campaign period
+期間中に初心者ミッションを全てクリアしよう=Clear all Beginner Missions within the campaign period
+
