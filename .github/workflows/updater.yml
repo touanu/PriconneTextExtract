@@ -3,7 +3,7 @@ name: Unedited Text Updater
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 5 * * *"
 
 defaults:
   run:
@@ -34,6 +34,7 @@ jobs:
               Write-Host "New version ($remote) is found!"
               "version=$remote" >> $env:GITHUB_OUTPUT
               Invoke-WebRequest https://raw.githubusercontent.com/Expugn/priconne-database/master/master_jp.db -OutFile master.db
+              Set-Content -Path "./version" -Value $remote -NoNewline
           }
           else {
               Write-Host "The current version is latest!"
