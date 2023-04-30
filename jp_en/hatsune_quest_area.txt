@@ -3,7 +3,7 @@
 ウィッシュビーチ周辺=
 エリザベスパーク=Elizabeth Park
 エリザベスパーク　牧場温泉=
-エルピス島 開拓キャンプ一帯=
+エルピス島 開拓キャンプ一帯=Elpis Island: Camp Vicinity
 エルフの里　清らかな森=
 おもちゃ工場=
 オーエド町=
@@ -13,7 +13,7 @@
 キッチンスタジアム=Kitchen Stadium
 キャンピングフィールド=
 ギルドレース　１区→２区=
-ギルドレース　３区→４区=Guild Race: Legs 3–4
+ギルドレース　３区→４区=
 ゴーストグレイヴ=Ghostly Graveyard
 サマーゲームリゾート=
 サレンディア救護院=Sarendia Orphanage
@@ -29,9 +29,10 @@
 とある無人島=
 ハロウィンパーク=
 ビーチボールパーク=
+フリーマーケット会場=
 フローラ湖畔=
 マシーナ地方=Macina Region
-マホマホ王国避暑地？=
+マホマホ王国避暑地？=Maho-Maho Kingdom Resort?
 ムーサの町=
 ランドソル 市街地=
 ランドソル 繁華街=
@@ -46,20 +47,21 @@
 世界の果ての森=
 光の裂け目=Shining Rift
 最果てを目指す旅路=
+叡智の森周辺=
 呪われた海賊島=
 和平活動の道のり=
 星降る天の川=
 港町・オーマ=
 王都ランドソル=
-王都ランドソル 中央広場=
+王都ランドソル 中央広場=Landosol City: Central Plaza
 王都ランドソル 女神の祭典=
-王都ランドソル 郊外=Landosol City: Outskirts
+王都ランドソル 郊外=
 異時間軸のランドソル=
 神殿への参道=Temple Trail
 聖テレサ女学院=St. Theresa's Academy
 聖テレサ女学院 聖学祭会場=
 辺境の地=
 追想の楽園=
-郊外の村=Remote Village
+郊外の村=
 霊界=Spirit Realm
 

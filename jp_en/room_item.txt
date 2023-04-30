@@ -111,6 +111,7 @@
 どこでもシチュー鍋=Handy Stew Pot
 どこでも紅葉盆栽=Autumn Bonsai
 どこでも茶屋=Portable Tearoom
+トカゲ？のぬいぐるみ=
 トップアイドルのトルソー=Top Idol Costume
 トナカイチェア=Reindeer Chair
 なかよしＸ　Ｍｋ―Ⅱ=Friendbot X Mk. II
@@ -399,7 +400,9 @@
 花鳥風月の背景=Nature Motif Background
 茶のソファ一人用=Brown Couch
 茶のソファ二人用=Brown Loveseat
+蒼き飛空艇の模型=
 蒼海の淡雪飴=Tideborne Sweetsnow
+蒼穹の背景=
 薬棚=Medicine Cabinet
 虎の敷物=Tiger Rug
 襖絵の壁=Sliding Screen Wall
@@ -413,6 +416,7 @@
 赤のソファ二人用=Red Loveseat
 赤のラグ=Red Rug
 赤白タイルの床=Red and White Tile Flooring
+輝く結晶のオブジェ=
 透明壁=Transparent Wall
 透明床=Transparent Flooring
 金箔の屏風=Gold Leaf Screen

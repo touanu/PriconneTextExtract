@@ -74,6 +74,7 @@ SPフェスキャラ交換Ptを変換したアイテムです。=Item converted 
 ギルドハウス3階解放時に獲得したアイテムです。=Item obtaind for unlocking the third floor of the Guildhouse.
 クランバトルの討伐報酬で獲得したアイテムです。=Item obtained from the Clan Battle victory rewards.
 クランメンバーにいいねされて獲得したマナです。=Mana obtained for a like from a clan member.
+コラボパックを購入して獲得したアイテムです。=
 サイドストーリークエスト{1}クリアで獲得したアイテムです。=Item obtained for clearing Side Story quest {1}.
 サイドストーリークエスト初回クリアで獲得したアイテムです。=Item obtained for clearing a Side Story quest for the first time.
 サイドストーリーボス「{1}」のバトルで獲得したアイテムです。=Item obtained from Side Story boss "{1}."

@@ -67,6 +67,7 @@
 =
 =
 =
+=Various random equipment can be obtained.
 =
 =
 =
@@ -79,10 +80,11 @@
 =
 =
 =
+=Various random equipment can be obtained.
 =
 =
 =
-ランダムな装備が獲得できる。=Various random equipment can be obtained.
+ランダムな装備が獲得できる。=
 =
 =
 =

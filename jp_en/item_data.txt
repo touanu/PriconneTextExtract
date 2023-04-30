@@ -46,7 +46,7 @@ EX装備(防具)を分解することで獲得できる特別な通貨。EX装�
 アキノの記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=A shard of Akino's sealed memories. Collect these items to unleash your characters' hidden power. 
 アキノの力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
 古より伝わる、装備者の力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
-ギルドハウス内で使用すると、キャラの絆Ptが20加算される。=Used in the Guildhouse. Adds 20 character bond points.
+ギルドハウスやキャラの強化画面で使用すると、キャラの絆Ptが20加算される。=Used in the Guildhouse. Adds 20 character bond points.
 アメスの記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=
 アメスの力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
 アヤネ（エクスプローラー）の記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=
@@ -136,6 +136,9 @@ EX装備(防具)を分解することで獲得できる特別な通貨。EX装�
 カヤ（リベレイター）の力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
 カヤの記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=A shard of Kaya's sealed memories. Collect these items to unleash your characters' hidden power.
 カヤの力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
+カリン（アルケミスト）の記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=
+カリン（アルケミスト）専用のグロウスフィア。キャラのステータスをLv250/RANK26まで強化できる。=
+カリン（アルケミスト）の力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
 カリンの記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=
 カリンの力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
 カルミナサマーライブのグッズを獲得するのに必要なメダル。=
@@ -191,6 +194,7 @@ EX装備(防具)を分解することで獲得できる特別な通貨。EX装�
 すべてのキャラに使用できるグロウスフィア。キャラのステータスをLv180/RANK19まで強化できる。=
 すべてのキャラに使用できるグロウスフィア。キャラのステータスをLv215/RANK23まで強化できる。=
 すべてのキャラに使用できるグロウスフィア。キャラのステータスをLv250/RANK26まで強化できる。=
+すべてのキャラに使用できるグロウスフィア。キャラのステータスをLv260/RANK28まで強化できる。=
 クロエ（聖学祭）の記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=
 クロエ（聖学祭）の力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
 クロエの記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=A shard of Chloe's sealed memories. Collect these items to unleash your characters' hidden power.
@@ -211,6 +215,7 @@ EX装備(防具)を分解することで獲得できる特別な通貨。EX装�
 コッコロの記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=A shard of Kokkoro's sealed memories. Collect these items to unleash your characters' hidden power. 
 特定のキャラのメモリーピースを交換できるチケット。=
 コッコロの力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
+特定のキャラを交換できるチケット。=
 サレン（クリスマス）の記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=
 サレン（クリスマス）の力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
 サレン（サマー）の記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=A shard of Saren (Summer)'s sealed memories. Collect these items to unleash your characters' hidden power.
@@ -218,6 +223,8 @@ EX装備(防具)を分解することで獲得できる特別な通貨。EX装�
 サレンの純真なる記憶の断片が封印されたアイテム。一定数集めると、キャラの最奥に秘められた真の力を解き放つ。=
 サレンの記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=A shard of Saren's sealed memories. Collect these items to unleash your characters' hidden power. 
 サレンの力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
+ジータ（ウォーロック）の記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=
+ジータ（ウォーロック）の力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
 ジータの純真なる記憶の断片が封印されたアイテム。一定数集めると、キャラの最奥に秘められた真の力を解き放つ。=
 ジータの記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=A shard of Djeeta's sealed memories. Collect these items to unleash your characters' hidden power. 
 ジータの力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
@@ -343,7 +350,7 @@ EX装備(防具)を分解することで獲得できる特別な通貨。EX装�
 ノゾミの純真なる記憶の断片が封印されたアイテム。一定数集めると、キャラの最奥に秘められた真の力を解き放つ。=
 ノゾミの記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=A shard of Nozomi's sealed memories. Collect these items to unleash your characters' hidden power. 
 ノゾミの力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
-ギルドハウス内で使用すると、キャラの絆Ptが10加算される。=Used in the Guildhouse. Adds 10 character bond points.
+ギルドハウスやキャラの強化画面で使用すると、キャラの絆Ptが10加算される。=Used in the Guildhouse. Adds 10 character bond points.
 キャラの装備強化に使用すると、装備強化Ptが10加算される。=Used to refine a character's equipment. Adds 10 equipment refinement points.
 ハツネ（サマー）の記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=
 ハツネ（サマー）の力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
@@ -381,7 +388,7 @@ EX装備(防具)を分解することで獲得できる特別な通貨。EX装�
 ペコリーヌの純真なる記憶の断片が封印されたアイテム。一定数集めると、キャラの最奥に秘められた真の力を解き放つ。=A shard of Pecorine's most potent sealed memories. Collect these items to unleash your characters' very deepest power.
 ペコリーヌの記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=A shard of Pecorine's sealed memories. Collect these items to unleash your characters' hidden power. 
 ペコリーヌの力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
-イベント期間中に入手できるチケット。消費してボスバトルに挑戦できる。=
+イベント期間中に入手できるチケット。消費してボスバトルに挑戦できる。=A ticket that you can obtain during the event. Spend them to participate in boss battles.
 イベント期間中に入手できるチケット。消費してボスバトルに挑戦できる。=
 イベント期間中に入手できるチケット。消費してボスバトルに挑戦できる。=
 ホマレ（ニューイヤー）の記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=
@@ -455,7 +462,7 @@ EX装備(防具)を分解することで獲得できる特別な通貨。EX装�
 ミツキの純真なる記憶の断片が封印されたアイテム。一定数集めると、キャラの最奥に秘められた真の力を解き放つ。=
 ミツキの記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=A shard of Mitsuki's sealed memories. Collect these items to unleash your characters' hidden power. 
 ミツキの力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
-ギルドハウス内で使用すると、キャラの絆Ptが30加算される。=Used in the Guildhouse. Adds 30 character bond points.
+ギルドハウスやキャラの強化画面で使用すると、キャラの絆Ptが30加算される。=Used in the Guildhouse. Adds 30 character bond points.
 キャラのLv強化に使用すると、キャラEXPが60加算される。=Used to upgrade a Character's Level. Adds 60 Character EXP.
 ミフユ（サマー）の記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=A shard of Mifuyu (Summer)'s sealed memories. Collect these items to unleash your characters' hidden power.
 ミフユ（サマー）の力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
