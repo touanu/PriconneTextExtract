@@ -59,6 +59,7 @@
 一緒にいきたい=Puppy-Dog Eyes
 下剋上=
 不安の種=
+不思議なカバン=
 主さまと一緒=
 乙女の憧れ=A Pure Maiden's Dream
 二人一緒なら=
@@ -131,6 +132,7 @@
 闇の授業=
 集中しすぎて=Enchanting Melody
 高まる=
+魔法でひと工夫=
 魔法少女？=A Magical Girl?
 黄色い声援=
 

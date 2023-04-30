@@ -56,6 +56,7 @@
 【物理】前衛で先陣を切り未来を掴む喧嘩屋ドラゴン族。\n初弾が大幅強化するスキルで自分の攻撃力とＴＰを大きく\n高め、威力を増したＵＢで先制し群がる敵を薙ぎ払う。=
 =
 【魔法】後衛で皆を支える、ギルド管理協会の職員さん。\n通常攻撃の代わりに味方の能力を高める魔法を掛け、\n味方の守護や敵への妨害など、完璧なサポートをこなす。=
+【魔法】中衛で森羅万象を究め味方を支援する錬金術師。\n物理、魔法の属性を問わない敵の弱体化と味方の強化に加\nえ、スキルによる高頻度のＨＰ回復で盤石な戦局を築く。=
 =
 【魔法】後衛から、強力な全体攻撃を放つ、強気な猫娘。\nスキルで敵の物理、魔法両方の防御力を下げるため\n編成を選ばずにバトルを有利に進められる。=[Magic] A willful catgirl that casts powerful attacks from the rearguard that hit all foes. Her skills lower both magical and physical defense, making her an easy choice for winning in any lineup.
 【魔法】中衛で仲間との絆を力に変え戦うツンデレ猫娘。\n敵を妨害するスキルと、ＵＢで敵全体を恐慌状態にし既に\n恐慌状態の敵のＴＰをダウンさせ、全戦場を掌握する。=
@@ -94,7 +95,8 @@
 =
 【物理】前衛で、光を操り味方を守る聖夜のサレンママ。\n敵の攻撃を防ぎ、ダメージを与えるユニオンバーストや、\nダメージを与えつつ回復するスキルで、攻守双方を担う。=
 【物理】中衛で、味方の速攻を支える海辺のサレンママ。\nバトル開始時に味方全体のＴＰを一気に溜めることで、\n迅速にユニオンバーストを発動させることを可能にする。=[Physical] The motherly Saren keeps her allies on the offensive from the midguard. Her ability to boost allies' TP at the start of each battle allows for rapid use of powerful Union Bursts.
-【物理】前衛で、先手必勝の大技を繰り出す騎空士。\nスキルによるＴＰ回復は、ユニオンバーストの発動を早め\nバトルの序盤から敵前衛に大ダメージを与える。=[Physical] A skyfarer who strikes swiftly with big attacks from the vanguard. TP recovery skills allow her to use Union Bursts quickly and hit foes in front for big damage early in combat.
+【物理】前衛で、先手必勝の大技を繰り出す騎空士。\nスキルによるＴＰ回復は、ユニオンバーストの発動を早め\nバトルの序盤から敵前衛に大ダメージを与える。=
+【魔法】中衛で、他の術者と魔力を束ねる究竟の魔導士。\n味方への魔法攻撃支援とＴＰ回復に加え、敵陣の攻防両面\nの弱体化で戦況を整え、自らも強力な攻撃魔法を放つ。=
 =
 【物理】中衛で氷雪を操り敵を凍滅する、氷竜の少女。\nユニオンバーストで獲得する【氷竜の印】を消費して、\nスキルの効果を増幅し、清廉な剣技で敵を切り伏せる。=
 【物理】前衛で、雪花舞う晴れ空をゆく新春氷竜少女。\nＵＢで顕現させる氷竜の牙で味方への強化スキルを高め\n自身の範囲攻撃技と共に苛烈な攻勢で敵陣を凍滅する。=
@@ -159,6 +161,7 @@
 【魔法】中衛から全体魔法攻撃を放つ超能力チアガール。\nユニオンバーストで敵全体に絶大な一撃を放ち、\nその後、超能力発動の反動で枕を抱えて夢の中へ。=
 =
 【物理】後衛から、真の絆の力を発揮する仲良し姉妹。\n敵の数が増えるほど威力が高まる攻撃スキルと、周りの\n味方を強化するスキルを操り、立ち塞がる敵を一掃する。=
+=
 =
 【物理】前衛で、敵前線を押し返す笑顔の元気娘。\n前衛に対して大ダメージを与えるユニオンバーストと、\n自身の攻撃力を強化するスキルを持つ攻撃役。=[Physical] A cheerful girl who fights from the vanguard to push back the enemy's front lines. An offensive fighter with a Union Burst that hits the vanguard hard and skills that enhance her own attack power.
 【物理】前衛で皆にエールを送り鼓舞する真夏の元気娘。\n味方のＨＰを継続回復し行動速度アップの他、味方の数に\n応じてクリティカル強化と攻撃力を引き上げ勝利に導く。=

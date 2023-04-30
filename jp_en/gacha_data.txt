@@ -105,6 +105,7 @@
 限定「コッコロ（レンジャー）」登場！\n期間中出現率UP！=
 限定「コッコロ」登場！\n期間中出現率UP！=Boosted rates for the limited character Kokkoro!
 限定「サレン」登場！期間中出現率UP！=Boosted rates for the limited character Saren!
+限定「ジータ（ウォーロック）」登場！\n期間中出現率UP！=
 限定「シェフィ（ニューイヤー）」登場！\n期間中出現率UP！=
 限定「シズル（ノワール）」登場！\n期間中出現率UP！=
 限定「シズル」登場！期間中出現率UP！=Boosted rates for the limited character Shizuru!
@@ -150,7 +151,7 @@
 対象のクリスマスキャラの出現率が期間中UP！\n『10回引く』で5等以上1個確定！=
 復刻イベント登場キャラの出現率が期間中UP！\n『10回引く』で5等以上1個確定！=
 限定キャラ復刻！出現率が期間中UP！\n『10回引く』で5等以上1個確定！=
-プラチナガチャはキャラのみ出現！=
+プラチナガチャはキャラのみ出現！=The Premium Gacha only contains characters!
 ★3キャラ出現率2倍、新キャラ「クウカ」\n限定「クリスティーナ」の出現率UP！=Double rates for 3★ characters!\nBoosted rates for the new character Kuka and the limited character Christina!
 ★3キャラ出現率2倍！限定「アキノ＆サレン」登場！\n対象キャラを仲間にする度に対象メモピ200個GET！=
 ★3キャラ出現率2倍！限定「アメス」登場！\n対象キャラを仲間にする度に対象メモピ200個GET！=
