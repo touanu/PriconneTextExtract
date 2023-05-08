@@ -334,6 +334,7 @@
 いつかこの素敵なドレスを着て\nあなたと踊れたらいいな…\n踊りの練習だけでも\n始めておこうかしら♪=I hope I can wear this lovely dress and dance with you one day... Maybe I should start taking dance lessons. ♪
 いつか必ず、森番になるんだ\nもちろん、ロザリアと一緒にね！=I'll be a forest guardian one day! Along with Losaria,  of course!
 いっくよー☆　きらーん☆\nきっらきらのお星さま、\nみ～んなにプレゼントだよ☆=Here I go! ☆ Sha-shing! ☆\nI'm giving a gift to the world\nof twinkling stars galore! ☆
+いつだってどんな世界にいたって\nアタシたちでみんなを救うぞ！\n立ち止まるな！　前を向け！\nもう二度と負けないために！=
 いつでもお姉ちゃんに\n甘えてくれていいんだぞっ☆\nナデナデだって、ギューだって、\nいっぱいしてあげちゃうからね♪=Your big sis is always here to love on you, whether it's a gentle pat or a big hug!
 いつでも元気なのが一番っ！\n疲れた時はちゃんと休んでね？\nあたしは…まだ元気だもんっ=Gotta stay full of energy! But when you're tired, it's best to get some rest. Me? I'm not sleepy yet!
 いつもお兄ちゃんの後ろに隠れて\nばかりだった私はもういません！\nこれからはお兄ちゃんの隣で…\n一緒に、歩いていきますからね♪=
@@ -699,6 +700,7 @@
 オマエが幽霊でも\n幽霊じゃなくても、関係ないの\nオマエがオマエなら\nミヤコはそれでいいの！=
 オマエが生まれた日を祝し\nクリスティーナさんがプレゼント\nを用意してあげたよ♪\nい～い反応を期待しているぞ☆=The great Christina has prepared\na gift to celebrate the day of your birth! I trust you'll treat me to an appropriately elated reaction!
 オマエが記憶喪失か…\n早くよくなるといいな！\n効きそうな薬、探してやるよ！=All of your memories, gone...\nWell, I hope they come back soon! I'll keep an eye out for any medicines that might help!
+オマエともいろんなことを\n乗り越えてきたな！\n天楼覇断剣と同じくらい\n頼もしくなったぞ！=
 オマエと一緒にいると、毎日が\nクリスマスみたいな気分なの♪\nとーってもワクワクするの～！=
 オマエと一緒にハロウィンが\nできて、とっても嬉しいの！\nプリンが食べられてオマエもいて、\nミヤコの幽霊人生はバラ色なの～=Having Halloween times with you makes Miyako super happy!\nWith pudding to eat, and you to haunt, it's the bestest afterlife!
 オマエと出会わなければ\nワタシは退屈の荒野に\n野たれ死んでいたかもしれん\n坊やの誕生に感謝しよう♪=
@@ -1251,6 +1253,7 @@
 どうしようもないあたしを、\nあんたは受け入れてくれた\nだからあたしも…\nあんたの全部を受け入れるわ！=
 どうだ、この毛並み…\n思う存分、モフりたいだろう？\nしかし残念ながらまだダメだ\n誓約を果たしてから…な☆=
 どうだ、愛らしいだろう？\n坊や、ワタシを飼ってみるか？\n飼い殺しにしてもかまわんぞ\nこう見えて主従には堅いのだ♪=
+どうだ！　カッコいいだろ！\nもっと近くでよく見ていいぞっ！\nおっと危ない…！　間違って\n真っ二つにするところだった…！=
 どうだい、坊や\n聖夜に相応しい絶景だろう？\n感謝するがいいよ。ここに連れて\n来たのはオマエが初めてだ♪=How's this, boy? A sight worthy of this special night, is it not?\nLet's see some gratitude. You're the first person I've brought here!
 どうだいお前さん、アタシの\n晴れ着姿は。キマってるだろ？\nえ、キレイだって？\nあ、ありがとな=
 どうッスか、この勇姿！\nどんな悪も\nホワイトタイガーからは\n逃げられないッスよ！=
@@ -2142,6 +2145,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 力が溢れ出て、止まりません！\nこの力で、わたしの大切なものを\nぜ～んぶ守ってみせますね\n今度は何もなくしたりしません！=I'm full of overwhelming power! With this strength, I'll protect everything that's precious to me!\nI won't lose any of it this time!
 力と、想い…大切なこと\n少しだけ、分かった気がするよ\n私、ちょっとは成長できたかな？\nえへへ…あなたのおかげだね=
 力の制御？　ああ、大丈夫だよ\nもう慣れたし。少年、もしかして\nアタシが天才なの忘れてた？\n…ありがとう。心配してくれて=
+助け合う仲間がいるって\nやっぱりいいな！　オマエと\nアタシが一緒に立ち向かえば\n何だって誰だって敵じゃないぞ！=
 助手くん、どうかな？\n魔法少女らしく見えるかね？\nこんなはじけた姿、君の前でしか\n見せられないよ。まったく…=Your verdict, my dear assistant?\nDo I look the part of a magical girl? I could never go all out like this in front of anyone but you...
 助手くん、君の観察力を試そう\n私は今、普段と違う格好だろう？\nなにか気づいたこととか…えっ？\n水着、似合ってる？　えへへ…♪=
 助手くん、準備はできたかい？\n今度の事件現場は海だよ！\n二人で一緒にバカンス\n…じゃなかった、調査に出発だ！=
@@ -2583,6 +2587,7 @@ being with you just gets me extra hype, you know?
 王子はんに見てほしくて、\n衣装を新調したんよ\n王子はん、うちはきれいどすか♪=
 王子はんの道筋はうちが\n照らします～\nせやから、王子はんは安心して\n一緒にいておくれやす～=As long as we're together, I'll light your way! So don't you let a little dark get you down, my prince!
 王宮から抜けだして会っていると\nなんだかドキドキしますね♪\nお付きの護衛もいませんから\nあなたが守ってくださいね☆=It's kind of exciting, sneaking out of the palace just to see you! ♪\nThere aren't any guards here, so you'll have to protect me yourself!
+王様だろうが神様だろうが\n誰かを苦しめる悪いヤツは\nアタシと天楼覇断剣が\nキレイにバッサリぶった斬るぞ！=
 現地でトラブルがあったら\n迷わずオレを呼びな！\nランドソルで一番荒事に強い\nガイドだからな！=
 現場でのサポートだけでなく…\nもちろん、ギルド管理協会として\n事前のサポートも行いますよ\n冒険のお手伝いは任せてください=
 甘酒には疲労回復の効果が\nあるとのことです。お疲れの際は\nわたくしがいつでもフーフーして\n飲ませて差し上げます=The New Year's drink of amazake is said to heal fatigue. If you ever feel tired, I will blow on a cup so that you may drink it comfortably.
