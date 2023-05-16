@@ -45,6 +45,7 @@
 キャラクターソング\n\n時間 / 01:31\n歌　 / サレン（堀江由衣）\n　　　アキノ（松嵜麗）\n作詞 / 磯谷佳江\n作曲 / 小野貴光\n編曲 / 玉木千尋=
 キャラクターソング\n\n時間 / 01:31\n歌　 / チカ（福原綾香）\n作詞 / 野村イクミ\n作曲 / 内海孝彰\n編曲 / 内海孝彰=Character Song\n\nVocals:\nChika (Ayaka Fukuhara)\n\nTime / 01:31\nLyrics by / Ikumi Nomura\nComposed by / Takaaki Utsumi\nArranged by / Takaaki Utsumi
 キャラクターソング\n\n時間 / 01:32\n歌　 / カスミ（水瀬いのり）\n　　　シオリ（小清水亜美）\n作詞 / 磯谷佳江\n作曲 / 渡部チェル\n編曲 / 渡部チェル=Character Song\n\nVocals:\nKasumi (Inori Minase)\nShiori (Ami Koshimizu)\nTime / 01:32\nLyrics by / Yoshie Isogai\nComposed by / Cher Watanabe\nArranged by / Cher Watanabe
+キャラクターソング\n\n時間 / 01:32\n歌　 / ジータ（金元寿子）\n作詞 / 真崎エリカ\n作曲 / 本多友紀 (Arte Refact)\n編曲 / 本多友紀 (Arte Refact)=
 キャラクターソング\n\n時間 / 01:32\n歌　 / チエル（佐倉綾音）\n　　　クロエ（種﨑敦美）\n　　　ユニ（小原好美）\n作詞 / しらゆき美優\n作曲 / 白戸佑輔(Dream Monster)\n編曲 / 白戸佑輔(Dream Monster)\n　　　佐藤厚仁(Dream Monster)=
 キャラクターソング\n\n時間 / 01:32\n歌　 / ユキ（大空直美）\n作詞 / Manami（TRYTONELABO）\n作曲 / 錦織孝宏\n編曲 / 錦織孝宏=
 キャラクターソング\n\n時間 / 01:33\n歌　 / ペコリーヌ（Ｍ・Ａ・Ｏ）\n　　　コッコロ（伊藤美来）\n　　　キャル（立花理香）\n　　　シェフィ（近藤玲奈）\n作詞 / 磯谷佳江\n作曲 / 中土智博\n編曲 / 中土智博=
@@ -117,6 +118,7 @@
 ストーリーイベントテーマ\n-｢さん！シャインPARTY｣アレンジ-\n\n時間 / 01:26\n作曲 / no_my\n編曲 / 関根修平（Cygames）=
 ストーリーイベントテーマ\n-｢サイツヨでしょ、でしょ？｣アレンジ-\n\n時間 / 01:30\n作曲 / Heart's Cry\n編曲 / 多田彰文=Story Event Theme\n(Arrangement of "Super Strong, Am I Right?")\n\nTime / 01:30\nComposed by / Heart's Cry\nArranged by / Akifumi Tada
 ストーリーイベントテーマ\n-｢ジャストアモーメント！｣アレンジ-\n\n時間 / 01:09\n作曲 / 山口朗彦\n編曲 / 関根修平（Cygames）=
+ストーリーイベントテーマ\n-｢ツバサのプロローグ｣アレンジ-\n\n時間 / 02:09\n作曲 / 本多友紀 (Arte Refact)\n編曲 / 畑田浩孝（Cygames）=
 ストーリーイベントテーマ\n-｢トリックホリック｣アレンジ-\n\n時間 / 00:52\n作曲 / 宮崎誠\n編曲 / 中村早織（Cygames）=Story Event Theme\n(Arrangement of "Trickholic")\n\nTime / 00:52\nComposed by / Makoto Miyazaki\nArranged by / Saori Nakamura (Cygames)
 ストーリーイベントテーマ\n-｢なかよしセンセーション｣アレンジ-\n\n時間 / 00:57\n作曲 / 大久保薫\n編曲 / 中村早織（Cygames）=Story Event Theme\n(Arrangement of "Friendship Sensation")\n\nTime / 00:57\nComposed by / Kaoru Okubo\nArranged by / Saori Nakamura (Cygames)
 ストーリーイベントテーマ\n-｢にゃんだフルスウィング｣アレンジ-\n\n時間 / 01:39\n作曲 / TAKT (TRYTONELABO)\n編曲 / 佐藤遥（Cygames）=
@@ -172,6 +174,7 @@
 ストーリーイベントボスバトル\n\n時間 / 02:02\n作曲 / 東大路憲太\n編曲 / 東大路憲太=Story Event Boss Battle\n\nTime / 02:02\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji
 ストーリーイベントボスバトル\n\n時間 / 02:03\n作曲 / 東大路憲太\n編曲 / 東大路憲太=Story Event Boss Battle\n\nTime / 02:03\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji
 ストーリーイベントボスバトル\n\n時間 / 02:05\n作曲 / 中村博\n編曲 / 中村博=
+ストーリーイベントボスバトル\n\n時間 / 02:08\n作曲 / Enarak（Cygames）\n編曲 / Enarak（Cygames）=
 ストーリーイベントボスバトル\n\n時間 / 02:08\n作曲 / 伊禮完（Cygames）\n編曲 / 伊禮完（Cygames）=
 ストーリーイベントボスバトル\n\n時間 / 02:09\n作曲 / 千葉梓（Cygames）\n編曲 / 千葉梓（Cygames）=Story Event Boss Battle\n\nTime / 02:09\nComposed by / Azusa Chiba (Cygames)\nArranged by / Azusa Chiba (Cygames)
 ストーリーイベントボスバトル\n\n時間 / 02:10\n作曲 / 東大路憲太\n編曲 / 東大路憲太=Story Event Boss Battle\n\nTime / 02:10\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji
@@ -181,7 +184,7 @@
 ストーリーイベントボスバトル\n\n時間 / 02:24\n作曲 / 中村博\n編曲 / 中村博=
 ストーリーイベントボスバトル\n\n時間 / 02:24\n作曲 / 東大路憲太\n編曲 / 東大路憲太=Story Event Boss Battle\n\nTime / 02:24\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji
 ストーリーイベントボスバトル\n\n時間 / 02:25\n作曲 / 松尾早人\n編曲 / 松尾早人=
-ストーリーイベントボスバトル\n\n時間 / 02:26\n作曲 / 東大路憲太\n編曲 / 東大路憲太=Story Event Boss Battle\n\nTime / 02:26\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji
+ストーリーイベントボスバトル\n\n時間 / 02:26\n作曲 / 東大路憲太\n編曲 / 東大路憲太=
 ストーリーイベントボスバトル\n\n時間 / 02:28\n作曲 / 東大路憲太\n編曲 / 東大路憲太=Story Event Boss Battle\n\nTime / 02:28\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji
 ストーリーイベントボスバトル\n\n時間 / 02:29\n作曲 / 塚越廉\n編曲 / 塚越廉=
 ストーリーイベントボスバトル\n\n時間 / 02:29\n作曲 / 澤下葵\n編曲 / 東大路憲太=Story Event Boss Battle\n\nTime / 02:29\nComposed by / Aoi Sawashita\nArranged by / Kenta Higashioji
@@ -207,6 +210,7 @@
 ストーリーイベントボスバトル\n\n時間 / 03:26\n作曲 / 畑田浩孝（Cygames）\n編曲 / 畑田浩孝（Cygames）=
 ストーリーイベントミニコンテンツ\n-｢Asymmetric World｣アレンジ-\n\n時間 / 03:27\n作曲 / 伊藤翼\n編曲 / 中川峻彰=
 ストーリーイベントミニコンテンツ\n-｢ma.sa.yu.me.｣アレンジ-\n\n時間 / 02:04\n作曲 / ウツミタカアキ\n編曲 / Enarak（Cygames）=
+ストーリーイベントミニコンテンツ\n-｢ツバサのプロローグ｣アレンジ-\n\n時間 / 01:58\n作曲 / 本多友紀 (Arte Refact)\n編曲 / 亀井瑠美=
 ストーリーイベントミニコンテンツ\n-｢わくわくSUMMER TIME！｣アレンジ-\n\n時間 / 02:40\n作曲 / 滝澤俊輔（TRYTONELABO）\n編曲 / 畑田浩孝（Cygames）=
 ストーリーイベントミニコンテンツ\n-｢私色STORY｣アレンジ-\n\n時間 / 02:19\n作曲 / 高木龍一 (Dream Monster)\n編曲 / Enarak（Cygames）=
 ミニゲーム\n-｢Heartful Place｣アレンジ-\n\n時間 / 00:45\n作曲 / 小野貴光\n編曲 / 澤下葵=Minigame\n(Arrangement of "Heartful Place")\n\nTime / 00:45\nComposed by / Takamitsu Ono\nArranged by / Aoi Sawashita
@@ -248,6 +252,7 @@
 メインクエスト\n\n時間 / 02:00\n作曲 / 加藤慶久（Cygames）\n編曲 / 加藤慶久（Cygames）=Main Quest\n\nTime / 02:00\nComposed by / Yoshihisa Kato (Cygames)\nArranged by / Yoshihisa Kato (Cygames)
 メインクエスト\n\n時間 / 02:05\n作曲 / 東大路憲太\n編曲 / 東大路憲太=Main Quest\n\nTime / 02:05\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji
 メインクエスト\n\n時間 / 02:06\n作曲 / 佐藤遥（Cygames）\n編曲 / 佐藤遥（Cygames）=
+メインクエストボスバトル\n\n時間 / 01:32\n作曲 / 中町友洋\n編曲 / 中町友洋=
 メインストーリー\n\n時間 / 02:24\n作曲 / 西木康智\n編曲 / 西木康智=Main Story\n\nTime / 02:24\nComposed by / Yasunori Nishiki\nArranged by / Yasunori Nishiki
 メモリアルマップ\n\n時間 / 01:34\n作曲 / 東大路憲太\n編曲 / 東大路憲太=Memorial Map\n\nTime / 01:34\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji
 レギオンウォー\n\n時間 / 01:00\n作曲 / 長門千晴（Cygames）\n編曲 / 田山里奈=
@@ -256,6 +261,8 @@
 レギオンウォーボスバトル\n\n時間 / 01:39\n作曲 / 伊禮完（Cygames）、長門千晴（Cygames）\n　　　関根修平（Cygames）\n編曲 / 関根修平（Cygames）=
 レギオンウォーボスバトル\n\n時間 / 02:19\n作曲 / 中川峻彰、伊禮完（Cygames）\n　　　長門千晴（Cygames）\n編曲 / 中川峻彰=
 レギオンウォーボスバトル\n\n時間 / 02:48\n作曲 / 伊禮完（Cygames）\n編曲 / 伊禮完（Cygames）=
+次元断層\n\n時間 / 01:07\n作曲 / Enarak（Cygames）\n編曲 / Enarak（Cygames）=
+次元断層\n\n時間 / 01:46\n作曲 / 中村博\n編曲 / 中村博=
 王都終末決戦\n\n時間 / 01:45\n作曲 / 千葉梓（Cygames）\n編曲 / 千葉梓（Cygames）=Final Battle of Landosol\n\nTime / 01:45\nComposed by / Azusa Chiba (Cygames)\nArranged by / Azusa Chiba (Cygames)
 王都終末決戦ボスバトル\n-｢Lost Princess｣「真なる皇帝」アレンジ-\n\n時間 / 02:45\n作曲 / 田中公平、西木康智\n編曲 / 東大路憲太=Final Battle of Landosol (Boss Battle)\n(Arrangement of "Lost Princess" and "True Ruler")\n\nTime / 02:45\nComposed by / Kohei Tanaka, Yasunori Nishiki\nArranged by / Kenta Higashioji
 王都終末決戦ボスバトル\n\n時間 / 02:15\n作曲 / 千葉梓（Cygames）\n編曲 / 千葉梓（Cygames）=Final Battle of Landosol (Boss Battle)\n\nTime / 02:15\nComposed by / Azusa Chiba (Cygames)\nArranged by / Azusa Chiba (Cygames)

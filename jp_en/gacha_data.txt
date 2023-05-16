@@ -103,7 +103,7 @@
 限定「クリスティーナ（ワイルド）」登場！\n期間中出現率UP！=
 限定「クリスティーナ」登場！\n期間中出現率UP！=Boosted rates for the limited character Christina!
 限定「コッコロ（レンジャー）」登場！\n期間中出現率UP！=
-限定「コッコロ」登場！\n期間中出現率UP！=
+限定「コッコロ」登場！\n期間中出現率UP！=Boosted rates for the limited character Kokkoro!
 限定「サレン」登場！期間中出現率UP！=Boosted rates for the limited character Saren!
 限定「ジータ（ウォーロック）」登場！\n期間中出現率UP！=
 限定「シェフィ（ニューイヤー）」登場！\n期間中出現率UP！=
@@ -120,6 +120,7 @@
 限定「ノゾミ（サマー）」登場！\n期間中出現率UP！=
 限定「ノゾミ（リベレイター）」登場！\n期間中出現率UP！=
 限定「ハツネ」登場！\n期間中出現率UP！=
+限定「ビカラ」登場！\n期間中出現率UP！=
 限定「ヒヨリ」登場！期間中出現率UP！=Boosted rates for the limited character Hiyori!
 限定「ペコリーヌ（オーバーロード）」登場！\n期間中出現率UP！=
 限定「ペコリーヌ」登場！\n期間中出現率UP！=
@@ -149,9 +150,9 @@
 「リン（レンジャー）」「マヒル（レンジャー）」の出現率が\n期間中UP！『10回引く』で5等以上1個確定！=
 「ルナ」「カヤ」の出現率が期間中UP！\n『10回引く』で5等以上1個確定！=
 対象のクリスマスキャラの出現率が期間中UP！\n『10回引く』で5等以上1個確定！=
-復刻イベント登場キャラの出現率が期間中UP！\n『10回引く』で5等以上1個確定！=Boosted rates for characters featured in the Revival Event!\nOne 5th Prize or higher guaranteed per 10-draw!
+復刻イベント登場キャラの出現率が期間中UP！\n『10回引く』で5等以上1個確定！=
 限定キャラ復刻！出現率が期間中UP！\n『10回引く』で5等以上1個確定！=
-プラチナガチャはキャラのみ出現！=The Premium Gacha only contains characters!
+プラチナガチャはキャラのみ出現！=
 ★3キャラ出現率2倍、新キャラ「クウカ」\n限定「クリスティーナ」の出現率UP！=Double rates for 3★ characters!\nBoosted rates for the new character Kuka and the limited character Christina!
 ★3キャラ出現率2倍！限定「アキノ＆サレン」登場！\n対象キャラを仲間にする度に対象メモピ200個GET！=
 ★3キャラ出現率2倍！限定「アメス」登場！\n対象キャラを仲間にする度に対象メモピ200個GET！=

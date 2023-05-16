@@ -360,6 +360,8 @@ EX装備(防具)を分解することで獲得できる特別な通貨。EX装�
 ハツネの記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=A shard of Hatsune's sealed memories. Collect these items to unleash your characters' hidden power. 
 特定のキャラのメモリーピースを交換できるチケット。=
 ハツネの力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
+ビカラの記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=
+ビカラの力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
 ヒヨリ（サマー）の記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=
 ヒヨリ（サマー）専用のグロウスフィア。キャラのステータスをLv215/RANK23まで強化できる。=
 ヒヨリ（サマー）の力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
@@ -388,7 +390,7 @@ EX装備(防具)を分解することで獲得できる特別な通貨。EX装�
 ペコリーヌの純真なる記憶の断片が封印されたアイテム。一定数集めると、キャラの最奥に秘められた真の力を解き放つ。=A shard of Pecorine's most potent sealed memories. Collect these items to unleash your characters' very deepest power.
 ペコリーヌの記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=A shard of Pecorine's sealed memories. Collect these items to unleash your characters' hidden power. 
 ペコリーヌの力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=
-イベント期間中に入手できるチケット。消費してボスバトルに挑戦できる。=A ticket that you can obtain during the event. Spend them to participate in boss battles. 
+イベント期間中に入手できるチケット。消費してボスバトルに挑戦できる。=A ticket that you can obtain during the event. Spend them to participate in boss battles.
 イベント期間中に入手できるチケット。消費してボスバトルに挑戦できる。=
 イベント期間中に入手できるチケット。消費してボスバトルに挑戦できる。=
 ホマレ（ニューイヤー）の記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。=
@@ -611,6 +613,7 @@ EX装備(防具)を分解することで獲得できる特別な通貨。EX装�
 神秘の力を宿した不思議な石。女神の秘石ショップで任意のメモリーピースを購入することができる。=A mysterious stone with mystical powers. You can purchase any memory piece at the Divine Amulet Shop.
 ミニゲームで使用するアイテム。=An item for use during a minigame.
 すべてのキャラに使用できる専用装備のグロウスフィア。専用装備を作成し、Lv240まで強化できる。=
+すべてのキャラに使用できる専用装備のグロウスフィア。専用装備を作成し、Lv270まで強化できる。=
 ミニゲームで使用するアイテム。=An item for use during a minigame.
 ミニゲームで使用するアイテム。=An item for use during a minigame.
 キャラの装備強化に使用すると、装備強化Ptが10加算される。=Used to refine a character's equipment. Adds 10 equipment refinement points.
