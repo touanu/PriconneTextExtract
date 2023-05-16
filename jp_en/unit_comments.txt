@@ -733,6 +733,9 @@
 カボチャプリン？\nそんなの邪道なの、認めないの！\n…ぱくっ…お、美味しいの～♪\nさっきの言葉は取り消すの～=Pumpkin pudding? Sounds like an insult to the name of pudding!\n*munch* W-whoa, tasty!\nMiyako takes back that last thing!
 カヤちゃんとイノリちゃんと\nこれからも仲良くしてあげてね\n…私？　…君とはずっ～と前から\n仲良しだし、大丈夫♪=
 カリザきゅんは\nイヂめたいかわゆさだけどー\n騎士きゅんはなんつかー\nちゅっちゅしたいかわゆさ～♪=
+きみ、今日誕生日なんだって？\nそういうことなら早速お祝いだ！\nハッピー！　バースデー！\nトゥーユー！=
+きみが笑顔でいると、不思議と\nぼくまで幸せな気持ちになるんだ\nだからきみのこと\nずっと笑わせてあげるからね！=
+きみの運勢は大吉だよ！\nなんたって鼠神宮の巫女が\nそばにいるんだからね！\nこれって最高のご利益だろう？=
 きゃっ！　…もー、やったな～！\n私も水かけちゃうから！　えい！\n…なんかバカップルっぽいね！\nあはは！　さ、もっと楽しもう！=
 きゃっ！　なんで～！？\n魔法、失敗しちゃいました…\nビショビショになっちゃったけど\n水着だから平気ですっ♪=
 きゃはーっ♪　みんな仮装に\n気合入りまくりじゃーん！\nヒデサイが仮装するときは\nうちがコーデしたげるし！=
@@ -969,6 +972,7 @@
 この空に羽ばたく\n海鳥のようにいつか私も…\n限りのない自由を\n掴み取ってみせる=
 この胸の高ぶるような\n愉しい出来事はないか？\nないならばワタシが\n火種をつけてやろう☆=Do you have any exciting news that will set my heart racing?\nIf not, I'll just have to spark the flames of conflict myself!
 この船に主砲はまだないが\n私の最上究極殲滅魔法が、\nいわば主砲のようなものだ！\n船長にして主砲…かっこいいな！=
+この街で一番活気があるのは\nどこかな？　ネズ耳を売るなら\nそういうところが\nうってつけだからね！=
 この衣装、ツムギが\n作ってくれたんです\n少し恥ずかしいですけど…\nでも、大好きな衣装です=
 この衣装、新しく\n仕立てたのですがいかがですか？　\nえ、似合ってる…ほめて\nいただけてよかったですわ♪=
 この衣装…海賊なのか\n水兵なのかどちらなんでしょう\n…似合ってるから問題ない？\nそうではなくて…えっと…うぅ=
@@ -1280,6 +1284,7 @@
 どんなに苦しくて大変なときでも\nどうか忘れないでいて\nあなたにはミクマの剣が…\nこの私が、そばについてることを=
 どんなピンチだって、今日まで\n騎士くんと乗り越えてきた！\nこれからも二人でいれば\nあたしは負けないよー！=Even in the nastiest of scrapes, I've always pulled through with Mr. Knight's help! If we always stick together, I'll never lose!
 どんな些細な感情でも\nあなたと分かち合いたいんです\nもう、あなたがいてくれないと\nダメみたいですね、私…=I want to share all these feelings with you, no matter how insignificant they may seem. I don't think I can live without you at this point...
+どんな人でも手を繋げば\nもう友達さ！　街中の人と\n仲良くなってみせるよ！\nさぁ、ランドソルでぼくと握手！=
 どんな初夢を見たかって？\nそれはもちろん、君に\nあんな実験やこんな治療を試す\n夢に決まってるじゃない。ふふ=
 どんな困難が行先を阻もうとも\nわたくしはこの手で明日を\n掴んでみせます。わたくしの\n決意を見ていてくださいまし=
 どんな宝石や宝物も…\nボクの美しさと輝きには\n勝てないんだなあ…\n罪作りな、ボク♪=Alas... All the jewels and treasures in the world pale before my beauty... What a tragic life I lead...
@@ -1605,6 +1610,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 ほ、欲しいものとか…ある？\nアンタ、今日アレでしょ？\nいわゆる…誕生日？　でしょ？\nほら、いいから欲しいもの言う！=
 ほーい、集まってけれ～！\nエリザベスパーク印の\n牛乳、ヨーグルト、チーズ！\n直売だべよ～！=Gather 'round, folks! Farm-to-table Elizabeth Park milk, yogurt, and cheese for sale!
 ぽーん！　子守唄を再生します！\n♪ユニちゃん良い子だ眠りゃんせ\n♪夢の扉で真理に接続\n♪多次元宇宙で神を見な～=
+ぼくが笑顔でいれば\nつられてみんなも笑顔になる\nだからぼくはいつも\n笑っていたいんだ！=
 ぼくにとって失いがたい学びは、\n君たちとの青春だ。世界の真理\nより大切なのさ。ことに生まれて\n初めて友達になってくれた君がね=My most valued lessons are the days of youth we share. Arcane secrets cannot compare. Not to you, the first friend I ever made.
 ぼくは本質的に文系なのでね、\n余白や行間を愛すのだよ\nゼロかイチかの理系思考に\nあまり浪漫は感じないのさ=I'm a scholar of the humanities,\nso I treasure subtle allusions and nuance. The absolutes of science leave little space for the heart.
 ぼっちだとしても…\n私にもきっとできることが\nあるはずだって思ったんです\n精一杯がんばりますね！=I just know there's some way I can help, even on my own. I'll give it all I've got!
@@ -1664,6 +1670,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 みんなを楽園から解放する力…\nそれが形になったのが\nこの姿なんだよね\n開放的なデザインも納得だよ=
 みんな初日の出は必死で見るのに\n夜は空を見ようともしないのね\nそれでもほら、ちゃんと昇ってる\nお正月の月っていじらしいわね…=
 みんな年の始めから元気ね\nあたしは家で静かに過ごしたい…\nい、いや、別にあんたと居るのが\n嫌ってワケじゃないから！=Why's everyone so lively at the start of the year? I just wanna snooze at home... N-no—I'm not saying I hate being around you!
+みんな集まれー！\nぼくと一緒に楽しく踊ろうよ！\nイヤなことも辛いことも全部\nぼくが忘れさせてあげるからね！=
 ミサキちゃんに勇気を\nわけてもらったから\n私は舞台に立つ楽しさを\n教えてあげたいな…♪=
 ミスティ、セオリー、\nトゥルーリィ！\n…はぁ。だんだんと\n慣れてきているのが複雑だね…=Misty, Theory, Truly!\n*sigh*... I don't know how\nto feel about the fact that\nI'm getting used to this.
 ミスティセオリートゥルーリィ！\nマジカルリボン、スパイラル！\n魔法探偵ミスティ★カスミ\n魔法の力で捜査開始！=Misty, Theory, Truly! Magical Ribbon, Spiral! Magical Detective Misty★Kasumi! With a wave of my wand, I'm on the case!
@@ -1720,12 +1727,14 @@ fun in their costumes.\n...No, of course I'm not scared!
 もしもあなた様の偽物が現れたら\nいっそ縛り上げて観賞用に…\nいえ、偽物は所詮偽物ですわ\n私に必要なのはあなた様だけ…=If an impostor of you showed up, I'd hang him up like a decoration. I need the real you.
 もしもなにか辛いことがあったら\n遠慮しないで先生に言ってね？\nなにがあっても、私があなたの\n力になってあげるから=If you're ever having a tough time, you can always come to me. I'll be here to help.
 もしよければ、甘酒を飲みます？\n…え、私と分け合いっこ！？\nあ、ああ、あの、仕事中なので！\nわわ、私は、だ、大丈夫れしゅ！！=Would you like some amazake?\n...Huh? You'll share a cup with me?! U-u-um! I'm working right now, so I... I'm f-fine, thank you!
+もし元気が出ない時があれば\n遠慮なくぼくを呼んでほしいな！\nどれだけ離れていたとしても\n駆けつけて笑顔にしてみせるよ！=
 もし急ぎの用事がないんなら\nここでゆっくりしていきなよ\n何をするわけでもないけど\nたまにはこういうのも、ね=
 もっとドキドキを感じたい！\nよくわかんないけど、\nそうすれば騎士くんとなんだって\nできそうな気がするから！=I wanna feel more of this fluttery sensation in my heart! I don't totally get it, but it makes me feel like we can do anything!
 もっともっともっともっと\nたくさんプリンを買って来るの！\nそうじゃないとミヤコ、\n成仏しちゃうかもしれないの！=Pudding pudding pudding pudding! Buy me more pudding! Else I might pass on from starvation!
 もっと強く、もっと高く…\n絆が生んだこの羽で\n主さまと未来に羽ばたきます\nいつまでも…どこまでも一緒に…=
 もみじも好きデスけど\nもみじマンジュウも好きデスよ\n考えてたらお腹が空きまシタ…\nハナヨリダンゴデス！=Autumn maple leaves are beautiful, but maple manju buns are even better! Just thinking about them is making me hungry!
 モデル仲間に、ヒデサイのこと\nカレシだと思われちゃったんだ\nマジうける～！　けど、うちも\n少しは…んん…何でもない！=My model friends think you're my BF! How funny is that? I mean, not that I'd... Oops!
+やぁ、いらっしゃい！　ネズ耳を\n売るのを手伝ってくれるかい？\nきみと一緒なら\nたくさん売れる気がするんだ！=
 やぁー！　とぉー！\nう～ん、剣を振る時って\nもっと頭から叩くように\nする方がいいんでしょうか…？=Yahhh! Hahhh! Hmm, when you're swinging a sword, is it best to try to bring it down on top of the enemy's head?
 やあ同志、君も午睡に来たのか\n遠慮せず横になりたまえよ\nロゼッタの膝枕は売約済みだが、\nぼくので良ければ貸してやろう=
 やあ少年。元気にしてる？\nたまには店に寄っていってよ\n美味しいクレープ作るからさ\n味は普通？　…そうかな？=
@@ -1771,6 +1780,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 ランドソルのハロウィンって\nでーじ盛り上がるんだね～♪\n私たちもとことん\nハロウィンを楽しみまくるさ～！=
 ランドソルの平和は私が守ります\n体からあふれる愛と希望の力…\nこの一射に愛をこめて！=I will defend peace in Landosol.\nWith the power of love and hope welling up from deep within me... my arrows of love can't fail!
 ランドソルの街を歩いてたら\n子供たちに囲まれちゃいました\nあの子たちを守るためにも\nもっともっと頑張らなくちゃ…=I was just walking through Landosol, and I found myself surrounded by children. I have to work hard to keep them all safe...
+ランドソルの街並はどこも\n見事だね！　しっかりと目に\n焼き付けてパレードの山車の\n参考にさせてもらうよ！=
 ランドソルは広いけど…\n風の匂いは、里と同じかも=Landosol may be a big city, but the scent of the air kinda reminds me of home.
 リーダーとして\nキミを導いてみせるわ！\nもちろん、効率全開で！\nさあ、準備はいい！？=
 ルゥ、暗記は苦手ですが…\nお友だちの誕生日は\nばっちり覚えてるですぅ！\nお誕生日おめでとうですよ！=I'm no good at memorizing stuff, but I always remember my friends' birthdays! Happy birthday!
@@ -2833,6 +2843,7 @@ being with you just gets me extra hype, you know?
 誕生日おめでとう、騎士クン\n今日はケーキの他にも\nいろんな料理を用意したから\nみんなでお祝いしようね！=Happy birthday, Mr. Knight! I made a cake, and lots of other treats so we can all celebrate together!
 誕生日おめでとう！　お祝いに\nパーティーしようよ！　それと何か\n欲しいものがあったらプレゼント\nしてあげるから言ってね！=Happy birthday! Let's throw a party! And if there's anything you want, I'll get it for you as a present!
 誕生日おめでとう！　ん、急に\n押しかけて迷惑だった？　今日は\nあなたの部屋を片付けようと思って\nまるでお嫁さんみたいじゃない？　=Happy birthday to you! Hmm?\nIs this not a good time? I thought I'd tidy up your room as a treat.\nJust like a devoted wife might do!
+誕生日おめでとう！　今日一日\nきみのお祝いをしてあげるよ！\nビッキィを独り占めできるなんて\nきみは幸せ者だね！=
 誕生日おめでとう！　何か\nお願い事はないかい？　そ、それは\nダメだ少年！　兜を脱ぐなんて…\n恥ずかしくて爆発してしまうよ！=Happy birthday, young man!\nIs there anything you would like from me? ...N-no, not the helmet!\nI would die of embarrassment!
 誕生日おめでとう！\nあんまり人に物あげたこと\nなくてさ…何が欲しいんだ？=Hey, it's your birthday!\nI'm not used to getting presents for people, though...\nWhat kinda stuff do you like?
 誕生日おめでとう！\nいつもお世話になってるから\n今日はアタシが特別に\nエスコートしてあげるわ♪=
@@ -2926,6 +2937,7 @@ being with you just gets me extra hype, you know?
 過去のこと？\n責めちゃっていいですよ？\nやったことは変わりませんし\n恨まれても仕方ないです★=
 過去を知った時は辛かった…\nでも、知らないままだったら\nなにも気づけなかったと思うの\nきっと、あなたへの想いにも…=
 違う世界に来てしまうなんて…\nでも、あなたたちみたいな\n優しい人に出会えて、よかった=I never dreamed we'd end up\nin a whole other world.\nBut I'm glad we met such wonderful people here.
+遠路はるばるランドソルに来て\n正解だったよ！\nまさにラッキー！　クッキー！\nビッキィ！　だね！=
 都会では山籠もりのことを\nキャンプって言うんですよね？\nわぁ〜、キャンプかぁ〜…\nなんだかハイセンスな響き…！=
 都会を離れてこうやって\n自然に触れるのもええなぁ\n危険がいっぱいのジャングルも\n王子はんとなら大丈夫や♪=
 野良猫たちに、\nたい焼きを買ってあげてるにゃ！\nみんな喜んでくれるんだにゃ♪=I buy taiyaki for all the stray cats, you knyow! It makes them purr with satisfaction!

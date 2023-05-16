@@ -31,6 +31,7 @@
 いんふれいむず=In Flames
 うぃーあーごーるでん=We Are Golden
 ヴぁんぱいあはんたーうぃずいりや=Vampire Hunters with Illya
+えいちのれんきんじゅつしもーぶ=
 えがおのまいほーむ=Home Full of Smiles
 えぴそーどおぶぱいれーつかいぞくじまののろわれしいほう=
 えんじょいあんどりふれっしゅでこぼこがーるずきゃんぷ=
@@ -62,6 +63,7 @@
 かるきのす=Karkinos
 がるぐ=Garoog
 かるみなさまーらいぶじゃすとあもーめんと=
+かれいなるせかいのきょうてき=
 がんぷくきさいのまねきねこ=
 がんほうにひそむもの=What Lurks on the Crag
 きぼうをゆめみるらくえん=
@@ -94,6 +96,7 @@
 こくねつのさばく=Scorching Desert
 こころおもい=
 こねくてぃんぐはっぴー=Connecting Happy!!
+こねくとうぃずぶるーしょうじょがそらにいたるまで=
 こもれびもんたーじゅ=Sunbeam Montage
 さいこうすたーとだっしゅ=Ulti*mate Start Dash
 さいつよでしょでしょ=Super Strong, Am I Right?
@@ -107,6 +110,8 @@
 しーくれっとろんぎんぐ=
 しーずざでい=
 じおておごにあのたたかい=
+じげんだんそう=
+じげんのはざまにあらわれしきょうい=
 じず=Ziz
 しのびのとうりょうはんぞう=Ninja Chief Hanzo
 しまくじら=Island Whale
@@ -145,6 +150,7 @@
 ちゅうちゅうぱにっくちーずおまもりだいさくせん=Squeak Squeak Panic! The Cheese Thief Thwacker
 ついんぴっぐす=Twin Pigs
 つづみのおとひびくもり=Forest of Beating Drums
+つばさのぷろろーぐ=
 でぃあーずおかえりとただいまのやくそく=
 でぃんどんほーりーないと=Ding Dong Holy Night♪
 てがかりをさがして=
@@ -254,6 +260,7 @@
 ゆけむりぼうねんきたんはつひのでにさかずきを=
 よみがえりしきょういたち=
 らくえんのしゅごしゃ=
+らんどそるいちごいちえ=
 りがいのちからをもとめしもの=
 りとるあどべんちゃー=Little Adventure
 りとるさまーめもりーずなぎさでみつけたちいさなしあわせ=

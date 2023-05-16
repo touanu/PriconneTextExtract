@@ -1,6 +1,6 @@
 0=
-ボスバトル（HARD）=
+ボスバトル（HARD）=Boss Battle (HARD)
 ボスバトル（NORMAL）=
-ボスバトル（VERY HARD）=Boss Battle (VERY HARD)
-ボスバトル（VERYHARD）=Boss Battle (VERY HARD)
+ボスバトル（VERY HARD）=
+ボスバトル（VERYHARD）=
 
