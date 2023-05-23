@@ -79,6 +79,9 @@
 5キャラをRANK8にしよう=Raise 5 characters to rank 8
 5キャラをRANK9にしよう=Raise 5 characters to rank 9
 5人のプレイヤーと共闘をクリアしよう=
+5月クランバトル (クランモード)で2段階目に到達しよう=
+5月クランバトル (クランモード)で3段階目に到達しよう=
+5月クランバトル (クランモード)で4段階目に到達しよう=
 60キャラ獲得しよう=Recruit a total of 60 characters
 6人のプレイヤーと共闘をクリアしよう=
 70キャラ獲得しよう=Recruit a total of 70 characters
