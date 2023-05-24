@@ -2,6 +2,10 @@ name: Unedited Text Updater
 
 on:
   workflow_dispatch:
+    inputs:
+      force_update:
+        type: boolean
+        required: true
   schedule:
     - cron: "0 5 * * *"
 
@@ -24,7 +28,7 @@ jobs:
         run: |
           $remote = Invoke-RestMethod https://raw.githubusercontent.com/Expugn/priconne-database/master/version.json | Select -Expand JP | Select -Expand version
           $local = Get-Content "version" -Raw
-          if ($remote -ne $local) {
+          if ($remote -ne $local -or ${{ inputs.force_update }} -eq 'true') {
               Write-Host "New version ($remote) is found!"
               "version=$remote" >> $env:GITHUB_OUTPUT
               Invoke-WebRequest https://raw.githubusercontent.com/Expugn/priconne-database/master/master_jp.db -OutFile master.db
