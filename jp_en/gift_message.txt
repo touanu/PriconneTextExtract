@@ -7,7 +7,7 @@
 「{0}」{1}日分の補てんアイテムです。=Compensation for {1} day(s)' worth of {0}.
 「{0}」{1}日目「{2}」で獲得したアイテムです。=Item obtained from {0} on Day {1} of {2} .
 「{0}」{1}日目で獲得したアイテムです。=Item obtained on day {1} of {0}.
-「{0}」で獲得したアイテムです。=
+「{0}」で獲得したアイテムです。=Item obtained from {0}.
 「{0}」の追加報酬分です。=Additional reward for "{0}."
 「{1}」で獲得したアイテムです。=Item obtained from {1}.
 「DMM版事前登録キャンペーン」の10万人達成報酬です。=-

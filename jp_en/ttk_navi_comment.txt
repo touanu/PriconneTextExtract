@@ -1,14 +1,16 @@
-あたしだって\nやるときはやるよ！=When I actually do a job,\nI do it properly!
-あたしも意外と\nやるもんでしょ？=I'm more effective than\nyou'd think, aren't I?
-あたしを敵に回した\n恐ろしさ\n思い知ったか！=Now you see what happens\nwhen you make an enemy\nout of me!
-おのれ～\nあたしのチーズを\n盗みやがって～！=Curse you, mice...!\nHow dare you steal\nmy delicious cheese?!
-このままじゃ\nまっひ～に\n叱られちゃうよ=At this rate,\nMahy's gonna give me\na huge telling-off!
-チーズが欲しいなら\nきちんと働いて\n買いに来なよ=If you want the cheese so bad,\ngo earn a proper living wage\nand buy it from us!
-ふぅ…\nこれであたしの仕事は\n終わりだね=Whew...\nThat should be the end of\nmy work for today.
-まじめに\nやったんだけどな…\n悔しいな～=I thought I was working\npretty hard, too...\nHow did this happen?!
-やったね！\nこれでようやく\nサボれるよ…=All right!\nNow I finally have a chance\nto slack off...
-やられた…\nねずみって意外と\nてごわいね=They got me...\nMice are trickier little beasts\nthan I thought.
-疲れた…\nけど、次こそは\n守り抜くよ…=So... tired...\nBut next time, I swear\nI'll keep the cheese safe...
-疲れた…\nねずみの逃げ足\n速すぎるよ…=Man, I'm pooped...\nWhy do they have to scurry\naround so fast...?
-終わった終わった\n一人でもなんとか\nなるもんだね=And that's a wrap.\nWho knew I could take care\nof all this on my own?
+リン=Rin
+
+あたしだって\nやるときはやるよ！=
+あたしも意外と\nやるもんでしょ？=
+あたしを敵に回した\n恐ろしさ\n思い知ったか！=
+おのれ～\nあたしのチーズを\n盗みやがって～！=
+このままじゃ\nまっひ～に\n叱られちゃうよ=
+チーズが欲しいなら\nきちんと働いて\n買いに来なよ=
+ふぅ…\nこれであたしの仕事は\n終わりだね=
+まじめに\nやったんだけどな…\n悔しいな～=
+やったね！\nこれでようやく\nサボれるよ…=
+やられた…\nねずみって意外と\nてごわいね=
+疲れた…\nけど、次こそは\n守り抜くよ…=
+疲れた…\nねずみの逃げ足\n速すぎるよ…=
+終わった終わった\n一人でもなんとか\nなるもんだね=
 

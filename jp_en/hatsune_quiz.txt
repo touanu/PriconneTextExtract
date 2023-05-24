@@ -1,5 +1,35 @@
-謎解き3=Riddle 1 Riddle 2 Riddle 3 Riddle 4
-謎解き2=Riddle 1 Riddle 2 Riddle 3 Riddle 4
-謎解き4=Riddle 1 Riddle 2 Riddle 3 Riddle 4
-謎解き1=Riddle 1 Riddle 2 Riddle 3 Riddle 4
+主人公が映っているのはどれでしょう=Which Relationship is Wrong? Whose Book Could It Be? Where's the Protagonist Hiding? Who is the Mystery Owner?
+探し物はなんでしょう=Which Relationship is Wrong? Whose Book Could It Be? Where's the Protagonist Hiding? Who is the Mystery Owner?
+暗号を解読して人物を推理しよう=Which Relationship is Wrong? Whose Book Could It Be? Where's the Protagonist Hiding? Who is the Mystery Owner?
+間違った組み合わせはどれでしょう=Which Relationship is Wrong? Whose Book Could It Be? Where's the Protagonist Hiding? Who is the Mystery Owner?
+
+1.ブックストア=
+1.ミミとキョウカが誰かを見て驚いている=
+1.ルカ=
+1.姉妹=
+
+2.ブックカバー=
+2.ミフユ=
+2.双子=
+2.夏のリゾートでバーベキュー=
+
+3.トワイライトキャラバンの皆が談笑している=
+3.レイ=
+3.ワードブック=
+3.先生と生徒=
+
+4.クリスティーナと対峙しているのは・・・=
+4.シズル=
+4.スコアブック=
+4.父と娘=
+
+キャラの名前に注目してみよう。=
+バラバラになったものは整理してみよう。=
+主人公の性格がよく表れている一枚。=
+武器や髪形など身体的特徴に注目してみよう。=
+
+謎解き1=
+謎解き2=
+謎解き3=
+謎解き4=
 

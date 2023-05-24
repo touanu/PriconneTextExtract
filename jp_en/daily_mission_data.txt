@@ -1,10 +1,10 @@
-12:00～翌朝04:59の間にゲームにログインしよう=
-18:00～翌朝04:59の間にゲームにログインしよう=
+12:00～翌朝04:59の間にゲームにログインしよう=Login to the game between 2:00 a.m. and 0:59 p.m. UTC.
+18:00～翌朝04:59の間にゲームにログインしよう=Login to the game between 8:00 p.m. and 0:59 p.m. the next day UTC.
 キャラのスキルを1回強化しよう=Enhance a character's skills 1 time
 クランバトルに1回挑戦しよう=Attempt a Clan Battle 1 time
 クランメンバーに「いいね」しよう=Like a clan member
 ダンジョンに1回挑戦しよう=
-ダンジョンのバトルを1回クリアしよう=
+ダンジョンのバトルを1回クリアしよう=Clear a Dungeon battle 1 time
 ノーマルガチャを10回引こう=Draw the normal Gacha 10 times
 バトルアリーナで1回戦おう=Participate in the Battle Arena 1 time
 プリンセスアリーナで1回戦おう=Participate in the Princess Arena 1 time
