@@ -1,6 +1,6 @@
 信頼度を100まで到達させよう=Raise intimacy to 100
-信頼度を200まで到達させよう=
-信頼度を500まで到達させよう=
-信頼度を800まで到達させよう=
-信頼度をMAXにしよう=
+信頼度を200まで到達させよう=Raise intimacy to 200
+信頼度を500まで到達させよう=Raise intimacy to 500
+信頼度を800まで到達させよう=Raise intimacy to 800
+信頼度をMAXにしよう=Raise intimacy to max
 

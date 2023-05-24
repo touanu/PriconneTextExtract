@@ -1,14 +1,14 @@
-★6才能開花演出=
-絆ランク演出1=
-絆ランク演出10=
-絆ランク演出11=
-絆ランク演出2=
-絆ランク演出3=
+★6才能開花演出=6★ Ascension animation
+絆ランク演出1=Bond Level 1
+絆ランク演出10=Bond Level 10
+絆ランク演出11=Bond Level 11
+絆ランク演出2=Bond Level 2
+絆ランク演出3=Bond Level 3
 絆ランク演出4=Bond Level 4
 絆ランク演出5=Bond Level 5
-絆ランク演出6=
-絆ランク演出7=
-絆ランク演出8=
-絆ランク演出9=
+絆ランク演出6=Bond Level 6
+絆ランク演出7=Bond Level 7
+絆ランク演出8=Bond Level 8
+絆ランク演出9=Bond Level 9
 解放演出1=Unlock animation 1
 
