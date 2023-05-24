@@ -36,16 +36,14 @@ Get-ChildItem .\csv | ForEach-Object -Parallel {
             # Remove duplicated texts
             $sorted_db = $db | Group-Object $text | ForEach-Object {
                 $_.Group | Select-Object $text, "$($texts[0])-translated" -First 1
-            } | Sort-Object $text
+            }
 
             # Write to 2 different files: under "jp" folder for only JP texts and under "jp_en" folder for JP and translated texts
             Add-Content -Force -Path ".\jp\$($_.BaseName).txt" -Value ($sorted_db.$text -join "=`n")
             if ($null -ne $id -or $null -ne $endb) {
                 $output = [System.Text.StringBuilder]""
                 $sorted_db | . { process {
-                        if ($_.$text) {
-                            $null = $output.AppendLine("$($_.$text)=$($_."$text-translated")")
-                        }
+                        $null = $output.AppendLine("$($_.$text)=$($_."$text-translated")")
                     }
                 }
                 Add-Content -Force -Path ".\jp_en\$($_.BaseName).txt" -Value ($output.ToString())
