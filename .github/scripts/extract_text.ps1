@@ -28,8 +28,9 @@ Get-ChildItem .\csv | ForEach-Object -Parallel {
         foreach ($text in $texts) {
             # Add translated texts from global datamined db
             $db | . { process {
-                $entext = $endb.Where({ $_.$id -eq $record.$id }) | Select-Object -ExpandProperty $text
-                $record | Add-Member -Force -NotePropertyName "$($text)-translated" -NotePropertyValue $entext
+                $jp_id = $_.$id
+                $entext = $endb.Where({ $_.$id -eq $jp_id }) | Select-Object -ExpandProperty $text
+                $_ | Add-Member -Force -NotePropertyName "$($text)-translated" -NotePropertyValue $entext
             }}
 
             # Remove duplicated texts
