@@ -3,33 +3,33 @@
 暗号を解読して人物を推理しよう=Which Relationship is Wrong? Whose Book Could It Be? Where's the Protagonist Hiding? Who is the Mystery Owner?
 間違った組み合わせはどれでしょう=Which Relationship is Wrong? Whose Book Could It Be? Where's the Protagonist Hiding? Who is the Mystery Owner?
 
-1.ブックストア=
-1.ミミとキョウカが誰かを見て驚いている=
-1.ルカ=
-1.姉妹=
+1.ブックストア=1. Sisters 1. Jun 1. Someone has surprised Mimi and Kyoka. 1. Ruka
+1.ミミとキョウカが誰かを見て驚いている=1. Sisters 1. Jun 1. Someone has surprised Mimi and Kyoka. 1. Ruka
+1.ルカ=1. Sisters 1. Jun 1. Someone has surprised Mimi and Kyoka. 1. Ruka
+1.姉妹=1. Sisters 1. Jun 1. Someone has surprised Mimi and Kyoka. 1. Ruka
 
-2.ブックカバー=
-2.ミフユ=
-2.双子=
-2.夏のリゾートでバーベキュー=
+2.ブックカバー=2. Twins 2. Christina 2. A barbecue at a summer resort. 2. Mifuyu
+2.ミフユ=2. Twins 2. Christina 2. A barbecue at a summer resort. 2. Mifuyu
+2.双子=2. Twins 2. Christina 2. A barbecue at a summer resort. 2. Mifuyu
+2.夏のリゾートでバーベキュー=2. Twins 2. Christina 2. A barbecue at a summer resort. 2. Mifuyu
 
-3.トワイライトキャラバンの皆が談笑している=
-3.レイ=
-3.ワードブック=
-3.先生と生徒=
+3.トワイライトキャラバンの皆が談笑している=3. Teacher and student 3. Matsuri 3. The members of Twilight Caravan chatting. 3. Rei
+3.レイ=3. Teacher and student 3. Matsuri 3. The members of Twilight Caravan chatting. 3. Rei
+3.ワードブック=3. Teacher and student 3. Matsuri 3. The members of Twilight Caravan chatting. 3. Rei
+3.先生と生徒=3. Teacher and student 3. Matsuri 3. The members of Twilight Caravan chatting. 3. Rei
 
-4.クリスティーナと対峙しているのは・・・=
-4.シズル=
-4.スコアブック=
-4.父と娘=
+4.クリスティーナと対峙しているのは・・・=4. Father and daughter 4. Tomo 4. Someone faces off against Christina. 4. Shizuru
+4.シズル=4. Father and daughter 4. Tomo 4. Someone faces off against Christina. 4. Shizuru
+4.スコアブック=4. Father and daughter 4. Tomo 4. Someone faces off against Christina. 4. Shizuru
+4.父と娘=4. Father and daughter 4. Tomo 4. Someone faces off against Christina. 4. Shizuru
 
-キャラの名前に注目してみよう。=
-バラバラになったものは整理してみよう。=
-主人公の性格がよく表れている一枚。=
-武器や髪形など身体的特徴に注目してみよう。=
+キャラの名前に注目してみよう。=Pay close attention to areas such as their weapons and hairstyles. It seems like the numbers may relate to the characters' names... The answer lies within the main character's personality. Rearrange the pieces to reach the truth behind each point.
+バラバラになったものは整理してみよう。=Pay close attention to areas such as their weapons and hairstyles. It seems like the numbers may relate to the characters' names... The answer lies within the main character's personality. Rearrange the pieces to reach the truth behind each point.
+主人公の性格がよく表れている一枚。=Pay close attention to areas such as their weapons and hairstyles. It seems like the numbers may relate to the characters' names... The answer lies within the main character's personality. Rearrange the pieces to reach the truth behind each point.
+武器や髪形など身体的特徴に注目してみよう。=Pay close attention to areas such as their weapons and hairstyles. It seems like the numbers may relate to the characters' names... The answer lies within the main character's personality. Rearrange the pieces to reach the truth behind each point.
 
-謎解き1=
-謎解き2=
-謎解き3=
-謎解き4=
+謎解き1=Riddle 1 Riddle 2 Riddle 3 Riddle 4
+謎解き2=Riddle 1 Riddle 2 Riddle 3 Riddle 4
+謎解き3=Riddle 1 Riddle 2 Riddle 3 Riddle 4
+謎解き4=Riddle 1 Riddle 2 Riddle 3 Riddle 4
 

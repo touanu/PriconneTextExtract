@@ -6,11 +6,11 @@
 蒼海の孤塔=Tideborne Tower
 雲海の山脈=Cloudtop Peak
 
-厳峰に佇む竜の寝床=
-大海原にそびえる謎の巨塔=
+厳峰に佇む竜の寝床=The perilous peak where a dragon makes its nest.
+大海原にそびえる謎の巨塔=A tall and lonely tower surrounded by ocean.
 天空の番人が静かに眠る聖城=
-断崖絶壁で発見された遺跡=
-深い森の奥に存在する1本の大樹=
-瘴気渦巻く常闇の孤峰=
-雲をつらぬく山脈=
+断崖絶壁で発見された遺跡=Ruins discovered on a treacherous cliff.
+深い森の奥に存在する1本の大樹=A massive tree deep within the forest.
+瘴気渦巻く常闇の孤峰=A region of eternal night, tainted by dark energies.
+雲をつらぬく山脈=A mountain that pierces the clouds.
 
