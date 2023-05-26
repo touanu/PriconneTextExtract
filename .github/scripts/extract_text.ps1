@@ -1,3 +1,4 @@
+"Database{0,-29}ID{0,-22}Texts{0,-32}Status`n" -f ""
 Get-ChildItem .\csv | ForEach-Object -Parallel {
     $db = Import-Csv $_
     if (Test-Path ".\en_csv\$($_.Name)" -PathType Leaf) {
@@ -30,12 +31,12 @@ Get-ChildItem .\csv | ForEach-Object -Parallel {
             $db | . { process {
                 $jp_id = $_.$id
                 $entext = $endb.Where({ $_.$id -eq $jp_id }) | Select-Object -ExpandProperty $text
-                $_ | Add-Member -Force -NotePropertyName "$($text)-translated" -NotePropertyValue $entext
+                $_ | Add-Member -Force -NotePropertyName "$text-translated" -NotePropertyValue $entext
             }}
 
             # Remove duplicated texts
             $sorted_db = $db | Group-Object $text | ForEach-Object {
-                $_.Group | Select-Object $text, "$($texts[0])-translated" -First 1
+                $_.Group | Select-Object $text, "$text-translated" -First 1
             }
 
             # Write to 2 different files: under "jp" folder for only JP texts and under "jp_en" folder for JP and translated texts
@@ -43,15 +44,25 @@ Get-ChildItem .\csv | ForEach-Object -Parallel {
             if ($null -ne $id -or $null -ne $endb) {
                 $output = [System.Text.StringBuilder]""
                 $sorted_db | . { process {
-                        $null = $output.AppendLine("$($_.$text)=$($_."$text-translated")")
+                        if ($_.$text) {
+                            $null = $output.AppendLine("$($_.$text)=$($_."$text-translated")")
+                        }
                     }
                 }
                 Add-Content -Force -Path ".\jp_en\$($_.BaseName).txt" -Value ($output.ToString())
             }
         }
-        Write-Output "Extracted $($_.Name)"
+        $status = "OK!"
     }
     else {
-        Write-Output "$($_.Name) doesn't have JP text. Skipped!"
+        $status = "Skipped!"
     }
+
+    if ($texts[1]) {
+        $texts_info = "{0}, {1}" -f $texts[0], $texts[1]
+    }
+    else {
+        $texts_info = "{0}" -f $texts[0]
+    }
+    "{1,-37}{2,-24}{3,-37}{4}" -f "", $_.Name, $id, $texts_info, $status
 }
