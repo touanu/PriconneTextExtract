@@ -1,6 +1,6 @@
 お年玉獲得=A New Year's Gift
 クリスマスプレゼント獲得=A Holiday Gift
 
-お年玉として下記アイテムを獲得しました。=
-クリスマスプレゼントとして下記アイテムを獲得しました。=
+お年玉として下記アイテムを獲得しました。=Obtained the following as a special New Year's gift.
+クリスマスプレゼントとして下記アイテムを獲得しました。=Obtained the following as a special holiday gift.
 
