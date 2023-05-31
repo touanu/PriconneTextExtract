@@ -433,6 +433,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 あやつが来てから\n動悸が治まらぬ…\n如何ような病で\nあろうかの…=Ever since he arrived, my heartbeat has been racing... What manner of illness is this?
 あやつのことを想うと\nそれだけで行く年\n来る年が楽しみになる\nふふ、愉快なやつじゃ=
 あやつへのお年玉は\nちと多めにしておくか\n…日ごろの感謝も\n込めてのう=
+あやつを誘って\n月を見に行こうかの\n夜が楽しみじゃ♪=
 あら、\nちょうどよかった\n今から一緒に\nバイトでもどう？=Ah, perfect timing. Would you like to work part-time with me?
 あら、あなた様\n私に秘密でどこに\n行こうとして\nいますの…？=
 あら、キメラの素体に\nぴったりですわ=Oh my. That matches perfectly with the stuffed chimera.
@@ -659,6 +660,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 いい香りね\n塔にもこういうの\n置いておこうかしら=
 いい香りね～\n保育園にも\n置こうかしら=This smells lovely! Maybe I should try it in the nursery.
 いかなる強者でも\n兵站、補給は\n必要なものです=
+いかなる衣装で\nあろうとも、わらわは\n完璧に着こなして\nしまうのじゃ♪=
 いくつでも\n食べられますよ！\n幸せ～☆=I can eat, eat, and eat some more! This is happiness! ☆
 いくつ新年を迎えても\n俗世の垢にまみれない\nそんな君こそが…\n私には最高のお薬よ=
 いけない、もうこんな\n時間なのね\n診察に没頭すると\n時間感覚がなくなるわ=
@@ -1163,6 +1165,8 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 おやつは別腹、\nごはんも別腹、\n魔物も別腹～=Always room for food, dessert, and a little side of monster!
 おやつは別腹\nごはんも別腹\n魔物も別腹～=Always room for food, dessert, and a little side of monster!
 およいだあとは、\nちゃんと体を\nあっためなくちゃね！=
+お主、疲れておるな？\nわらわが癒してやろう\nほれ、近う寄るのじゃ=
+お主がおるだけで\nギルドハウスが\n賑やかになるのう\nある種の才能じゃな♪=
 お主が望むなら世界の\n半分をくれてやっても\n良いのじゃぞ？=If you so desired, I would be willing to grant you half of this world.
 お主のために雑煮を\n手作りしてみたのじゃ\n食べていくがよい♪=
 お主へのお年玉は\nいちばん最後じゃ！\n残り物には福が宿る\nそうじゃからのう=
@@ -1794,6 +1798,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 こういう格好は\nユキあたりがすごく\n似合いそうだな=
 こういったものに\n揮発性の薬を仕込む\nのも一つの手ですわね=
 こういったものに\n腰を沈めると…\nき、気が緩んで…=I-I can feel all my energy seeping away when I sit on things like this...
+こうして、仲間と\nのんびり過ごす時間も\n悪くないのう♪=
 こうして歩いていれば\n弟くんが声をかけて\nくれるはず…=I'm sure Little Bro will approach me if I walk around like this...
 こうして温まって\nいると、病気も\n治る気がします=I feel like this warmth is curing me of my sickness.
 こうして誰かと一緒に\n暮らせるのもあいつや\nみんなのおかげね=
@@ -2544,6 +2549,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 つい本の続きが\n気になって、夜更かし\nしちゃうんだよね～…=I always get too invested and end up staying up late whenever I'm reading novels.
 ったくよぉ…\nオレがかわいいなんて\n冗談はもうよせよ？=OK, come off it...\nNo more dumb jokes about me being cute or whatever.
 つまらない本は\n私が書き直すわ\nこれはどうかしら？=
+つまらぬ戦いで\n晴れ着を汚しとうない\n今日は一日\nゆっくりするかの=
 つん、つん。ふふっ♪\n癒やされます…=Poke... poke... Hee hee.\nI could do this all day.
 ツムギが作ってくれた\nこの服…一体\nいつサイズを…？=When did Tsumugi get the measurements for these new clothes?
 ツリーのてっぺんの\n星って、なんだか\n欲しくなるんだよね=Isn't there something enticing about the star on top of a tree?
@@ -2726,6 +2732,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 なんか服きっついなー\nちょい太ったかー？\nん～\nま・気のせーっしょ♪=
 なんか落ち着かないや\nもしかして、\n困ってる人が\n近くにいるのかな…？=I'm a bit restless. Could someone nearby be in need of help?
 なんじゃ？\nわらわの姿に\n見惚れたかの？=
+なんじゃ？\nわらわの姿に\n見惚れておったとな？\nす、素直でよいのじゃ=
 なんスかこの香り？\nすぅぅ…ふぅぅ…\n力がみなぎるッス！=Hey, what's this smell?\n*sniff*... Whewww...\nI feel full of energy now!
 なんだ、オマエも\n暇なのか？\n奇遇だな、ワタシもさ=What's this? Do you suffer the throes of tedium? What a coincidence! So do I.
 なんだ、暇なのか？\n心躍ることでも探しに\n出かけようではないか=Are you bored, young lad? Then let's go and see what thrills we can find!
@@ -3169,6 +3176,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ふかふかぁ…\nクリスマスの準備中に\n眠くなっちゃいますぅ=It's so fluffy... I've still got preparations to do, but I might end up falling asleep here.
 ふかふかさ～\n海の底の\n人魚になった気分さ～=It's so soft and fluffy! Feels like I'm a mermaid under the sea!
 ふかふかしてて\n気持ちいい～♪\n疲れが癒されるぅ…=
+ふかふかじゃの♪\n今度あやつにも\n座らせてやろう=
 ふかふかチエルン\n略して、ふかルン♪=Fluffy-comfy Chierun!\nOr for short,\nFlufferun!
 ふかふかで\nあったかくて…\nお兄ちゃんみたい♪=All fluffy and warm... Just like Big Bro. ♪
 ふかふかですぅ～♪\nおひるねが\nしたくなるですぅ！=Nice and comfy! Now this is real nap material! ♪
@@ -3434,6 +3442,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ま、魔物料理の本！？\n誰よこんな本\n買ったの！　って…\n一人しかいないか=
 まあ、クリスマスの\n飾りつけを手伝って\nいただけるのですか？\nありがとうございます=
 まあ、少年になら\n見られても…\nい、いや！\nなんでもない！=
+まさか、わらわが\nこのような装束を\n纏う日がくるとはな…\n感慨深いものじゃ=
 まさかこのワタシが\nプロポーズするとはな\n…笑えるじゃないか=To think I, of all people, would make a proposal\nof marriage.\nWhat a hilarious farce.
 まさか私が\nアイドルになるなんて\n思ってなかったです=I honestly never thought I'd actually become an idol myself.
 まさか私が\n恋愛読本を読む\n日が来るなんて…=I never thought I’d find myself actually reading romance novels...
@@ -3748,6 +3757,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ユイちゃんに\nおやつ作って\nもらおうかな～♪=Maybe I can get Yui to make me a snack? ♪
 ユイちゃんにもらった\n日焼け止め\n塗っておいて\nよかった～=
 ユカリさんと\nジュンさん…元気かな\nまた一緒に\nキャンプしたいなぁ…=
+ユキといったか…\n掴みどころのない\nやつじゃが、根性は\n認めてやるかの=
 ユニ先輩に似合いそ！\nいやクロエ先輩かな？\nチエルは当然すぎて…=
 ユニ先輩の体操着姿…\nあれはあれで実に良き\n一生見てられますよね=
 よ、予定がなかったら\nでいいんだけど…\nその、ふ、二人で\n訓練とか…どうかな？=
@@ -3755,6 +3765,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 よーし\n困ってる人のために\nパワーアップ☆=Okay! Time to power up for all those in need! ☆
 よいしょっと…\nちょっとのんびり\nさせてもらうよ=All right... I think I've earned myself a break.
 よいではないか\nよいではないか～\nいけませんご堪忍を～=You know you like it...\nYou know you like it...\nOh, Mr. Sadist, you mustn't!
+よいぬくもりじゃ…\n忌々しい太陽とは\n大違いじゃの=
 よい子は早く寝ねぇと\nサンタさんが\n来てくれねぇべよ？=
 よい座り心地じゃ\nわらわの玉座としよう=This is very comfortable. I shall take it for my throne.
 よい香りですね\n魔女教の悪臭とは\n大違いです=What a lovely scent...\nIt couldn't be more different from the\nWitch Cult's stench.
@@ -3905,6 +3916,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 わっ、ぽよんぽよん！\nトランポリンみたいで\nた～のし～！=
 わっ、弟くん\nどこ触ってるの？\nも～驚いちゃったぞ♪=
 わっ！\n…………いや\n驚いてなどいない=
+わらわの美貌で\nこのギルドハウスも\nより華やかに\nなったようじゃな=
 わわ、かわいい…！\n船室のベッドに\n置いておきたいな…\n連れてってはダメか？=
 わわ、大人な香り…\nロマンチックな\nクリスマスが\n過ごせそうです♪=
 わわっ、お菓子が\nいっぱいッス！\nみんなで\n食べるッスよ！=
@@ -4163,6 +4175,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 今日はプリンだけじゃ\n満足してやらないの！\nミヤコをたくさん\n甘やかせなの！=
 今日はポカポカした\nいい天気ですね～\nお散歩日和です！=The weather is so warm and pleasant today! It's a perfect day for a walk!
 今日はみんなに\nなにを読んで\nあげようかしら=What book should I read for everyone today?
+今日はわらわが食事の\n準備をして、あやつの\n帰りを待ってやろう\n献立は何がよいかの…=
 今日は一日、\n外に出ない！\nもう決めたわ！=I'm not taking one step outdoors today! My mind is made up!
 今日は一日、\n恥ずかしがらずに\n過ごせるかなあ…？=I wonder if I can make it through today without embarrassing myself.
 今日は一日中\nみんなと遊ぶの～！\nオマエも来いなの！=
@@ -4490,9 +4503,12 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 君のこともっともっと\n教えて欲しいな。私に\n補習授業してくれる？=I really want to learn more about you.\nCan I ask you to teach your teacher?
 君の声は精神に\n高揚をもたらすな…\n波形を分析したいぞ=Your voice seems to rouse my state of mind... I'd like to inspect these neural signals further.
 吸うとくしゃみが\n止まらなくなるお香を\nここに…くしゅっ！=I'll just scatter a bit of sneezing powder here and... Achoo!
+吸血鬼であるわらわに\n相応しい装束じゃろう\nあとは真っ赤な血を\n添えたいのう…=
 吸血鬼のわらわが、\nこのようなもの…\nうまい♪=A vampire has no need for such sustenance...\nMmm, delicious!
+吸血鬼の弱点について\n記されておるのか…\nふむ、眠気が\nさめてしもうたぞ=
 吸血鬼らしい行動って\n噛みついたり…いや\nそれは大胆過ぎです！=
 呪われた財宝の\n解呪依頼が多くて…\nふぅ…えっと次は…=
+味付けの参考に\nあと、もう一つだけ…\n止まらんのじゃ…=
 呼びましたか？\n呼びましたね？\nでは愛を語りましょう\nそうしましょう=
 呼びましたか？\n手短にお願いしますよ\n忙しいんですから！=
 呼んだ？\n可愛いボクと話したい\n気持ちはわかるよ=You called? Well, given how pretty I am, I'm not surprised.
@@ -4908,6 +4924,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 意外とこういう場所に\n隠し扉があったり…\nしないです？=
 意外と難しいんですよ\n正しい亀甲縛りと\nいうものは…=It's harder than it looks. Proper rope bondage, I mean...
 意外に複雑な\n構造ですね=Hmm, the needlework is surprisingly intricate.
+愛いやつじゃ\n少しばかり、わらわが\n遊んでやろうかの=
 愛いやつじゃのう\nわらわのそばに置いて\nやってもよいぞ♪=
 愛と希望の力が\nクウカの中に…\nこの胸の高鳴りが…？=
 愛と希望の魔法少女！\n弟くんの平和は\nお姉ちゃんが守るよ♪=
@@ -5163,6 +5180,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 朝は小鳥はんも\nおなかがすいてるから\nよう飛び回りはるねえ=All the li'l birds flutter about in the mornin' because they're hungry.
 朝は得意なんです\nもし兄様が苦手なら\nわたくしが起こして\n差し上げますよ=
 朝は暑くてやる気が\n出ない？　でしたら、\nえぇい、元気になぁれ=The heat this morning is killing your motivation? Don't worry! I'll cheer you right up!
+朝一番、わらわに\n会いたかったとな…\n眷属よ\n褒めてつかわすぞ♪=
 朝日と共に\nボクの美しさも\n周りを照らすよ=My beauty illuminates the world alongside the morning sun!
 朝日に照らされて\n街がキラキラ白銀に\n輝いてるよ=
 朝早くから感心じゃの\nさすがわらわの\n眷属じゃ=Early to rise, I see. I should expect no less from my minion.
@@ -5278,6 +5296,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 気まぐれは\nチャームポイント\nみたいなもんよ=It seems my fickle nature is my most charming feature.
 気ままに、お気楽に\nあいつと冒険する…\nそれって幸せよね=
 気力の源は体力！\n体力の源は\n健康とご飯！=Stamina fuels willpower, and health and food fuel stamina!
+気品ある香りじゃのう\nわらわの古城にも\n一つ欲しいところじゃ=
 気安く触ったら\n火傷する…\n炎はボクに似ているね=Play with fire and you'll get burned. Same goes for me!
 気持ちいい…\nこの気持ち良さは\nどんな魔法も勝てない=This feels good...\nBetter than anything a magic spell can do.
 気持ちいい…\nこの癒しを、魔法と\n論理の二つの観点から\n解明したいね…=This feels so good...\nI need to analyze this comforting sensation from magical and logical perspectives.
@@ -5561,6 +5580,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 眠いなどと言わせんぞ\nまだまだ一日は\n終わらんからな！=I won't allow you to retire to bed so soon. The day is not over until I decree it!
 眠くなっちゃった～\nおにいちゃん！\n今日は一緒に寝よ～=I'm so sleepy... Hey, mister! Can you sleep with me tonight?
 眠くならないように、\n運動しよっと！=I've got to exercise before I get too drowsy!
+眠るには惜しい夜じゃ\n眷属よ、もうしばらく\nわらわの傍に\nおるがよい=
 眠れないなら、\nホットミルク飲むか？\n体あったまって、\n眠くなると思うぜ=
 眠れないの？\nお姉ちゃんが子守歌\n歌ってあげるね！=Can't sleep? How about your big sis sings you a lullaby?
 眠れないのかしら…\nじゃ、じゃあ…\n子守歌…聴く？=
@@ -5568,7 +5588,9 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 眷属のお主に\n正月休みはまだ早い！\nずっとわらわのそばに\n控えておくのじゃ♪=
 眷属の物はわらわの物\n故に、この部屋は\nわらわの部屋じゃな！=My minions' property is my property... Thus, this room belongs to me!
 眷属よ、どこに行った\nのじゃ？\nわらわの世話を\n許可するのじゃ=Where have you been, my minion? I shall permit you to see to my needs.
+眷属よ、わらわが\n食事を用意したぞ\n忌々しい太陽に負けず\n頑張るのじゃ=
 眷属よ、わらわから\n離れてはならんぞ！\n子供に戻ってしまう\nではないか！=My minion! Do not stray too far from me! I do not wish to become a child!
+眷属よ、風呂にするか\nご飯にするか\nそれとも、わらわに…\nいや、忘れるのじゃ=
 眼鏡を頭の上に乗せて\n「メガネメガネ～」\nって言う練習した方が\nいいべか？=Here's a new one: Y'all say I need glasses, but I don't see why!
 着替えは？　荷物は？\nお出かけの準備は\nお姉ちゃんが手伝うね=Got your change of clothes? Your bags? Big Sis is here to help you pack.
 着物がそんなに\n珍しい？\nキミも着てみる？\n…冗談だよ=Is it that unusual to see someone in a kimono? How about you try wearing one, then? Sorry. I was only joking.

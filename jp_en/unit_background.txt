@@ -23,6 +23,7 @@
 イリヤ・オーンスタイン=Illya Ornstein
 イリヤ（クリスマス）=Illya (Holiday)
 イリヤ（ニューイヤー）=
+イリヤ（儀装束）=
 ヴァンピィ=
 ウヅキ（デレマス）=Uzuki (IM@S CG)
 エミリア=Emilia
@@ -288,6 +289,7 @@
 平原_競技場_昼=
 本の世界_平原=
 海_ステージ=Beach - Stage
+滝壺_夜=
 滝壺_昼=
 無人島=Desert Island
 牧場 拠点=Elizabeth Park

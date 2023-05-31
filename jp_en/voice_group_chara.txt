@@ -37,6 +37,7 @@ NIGHTMARE（マツリ）=Nightmare (Matsuri)
 イリヤ（カリン掛け合い用）=
 イリヤ（クリスマス）（カリン掛け合い用）=
 イリヤ（ニューイヤー）（カリン掛け合い用）=
+イリヤ（儀装束）（カリン掛け合い用）=
 ヴァイスフリューゲルランドソル支部（アユミ）=Weissflügel: Landosol Branch (Ayumi)
 ヴァイスフリューゲルランドソル支部（クウカ）=Weissflügel: Landosol Branch (Kuka)
 ヴァイスフリューゲルランドソル支部（ニノン）=Weissflügel: Landosol Branch (Ninon)
