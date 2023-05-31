@@ -37,6 +37,7 @@
 イリヤ=Illya
 イリヤ（クリスマス）=Illya (Holiday)
 イリヤ（ニューイヤー）=
+イリヤ（儀装束）=
 ヴァイスフリューゲル\nランドソル支部=Weissflügel (Landosol Branch)
 ヴァンピィ=
 ウヅキ（デレマス）=Uzuki (IM@S CG)

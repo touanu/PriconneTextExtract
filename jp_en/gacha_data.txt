@@ -158,6 +158,7 @@ Half Anniversaryガチャ=Half Anniversary Gacha
 限定「アヤネ」登場！期間中出現率UP！=Boosted rates for the limited character Ayane!
 限定「アユミ（怪盗）」登場！\n期間中出現率UP！=
 限定「イリヤ（ニューイヤー）」登場！\n期間中出現率UP！=
+限定「イリヤ（儀装束）」登場！\n期間中出現率UP！=
 限定「ウヅキ」登場！\n期間中出現率UP！=Boosted rates for the limited character Uzuki!
 限定「エミリア」登場！期間中出現率UP！=Boosted rates for the limited character Emilia!
 限定「エリコ（サマー）」登場！\n期間中出現率UP！=
