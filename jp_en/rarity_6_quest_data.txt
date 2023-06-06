@@ -48,6 +48,7 @@
 モニカの解放クエスト=
 ユイの解放クエスト=Yui's Ascension Quest
 ユカリの解放クエスト=Yukari's Ascension Quest
+ユキの解放クエスト=
 ヨリの解放クエスト=
 リノの解放クエスト=Rino's Ascension Quest
 リマの解放クエスト=Lima's Ascension Quest
