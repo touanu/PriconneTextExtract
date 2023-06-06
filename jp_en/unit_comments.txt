@@ -878,6 +878,7 @@
 ここの生き物はあまり\n人を警戒しないのかな\nこんなに近くでも逃げないで…\nふふっ、小さくてかわいいね=
 ここはニャットちゃんと私で\n対処します\n私たちが成長した姿、\nあなたも見守っててください！=
 ここは私に任せてください！\nアンチビーストを倒して\nみなさんに笑顔を取り戻します！=Leave this to me!\nI'll defeat the Antibeasts and rescue everyone's smiles!
+ここまでボクについてこられる\nなんて、キミは想像以上だよ\nそんなにボクの隣がいいのかい？\nならこれからもいるといいよ♪=
 こそこそ隠れるのは終わりです\nこれから先は打って出ます\n貴方とその仲間たち…\n戦力として当てにしていますよ=The time for hiding away is over. From this point on, I'll be taking action. I hope you and your friends won't fail me in battle.
 こちょこちょこちょ…えへへ～\nハロウィンのいたずらだよ～♪\nトリックオアトリート！=Tickle, tickle, tickle... Eheheh!\nThat was a trick for Halloween!\nTrick or treat! ♪
 こちらの世界では、\n角があっても\n珍しくはないのですね\nなんだか、少しうれしいです=It seems that having horns is not such a rare thing in this world. That makes me a little happy.
@@ -1631,6 +1632,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 ほんのり赤くなってる？\nいやだ、見ないで恥ずかしいわ\n男の人に裸足を見せたのなんて\nこれが初めてだもの…=
 ポーズを決めてるんじゃなくて！\nバランス！　崩して！　落下中！\nピンチなんですよ、お兄さん！\nボーっとしてる場合ですかっ！？=
 ボクのこのかわいらしさ…\n美と医学の進歩のための\n何かのヒントになる気がするよ=
+ボクの美しさはもはや神秘の領域\n奇跡や魔法に等しいよ\nボクと同じ時代を生きてることを\n誉れに思ってよね♪=
 ボクは、キミといたいから\nここにいるんだよ\n引き立て役ってわけじゃ\nないから、安心してね！=I stay by your side because that's where I want to be. Not just because you make me look even cuter by comparison!
 ボクほど美しくない、なんて\n恥ずかしがることじゃないよね\nだって改めて言うまでもなく\n当たり前じゃない、そんなの♪=Don't be embarrassed that you're not as beautiful as me. That's just as natural as the sky being blue.
 ホワイトタイガー出動ッス！\nさあ、今日も平和を守るため\n一緒にパトロールにいくッスよ！=
@@ -1734,6 +1736,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 もしよければ、甘酒を飲みます？\n…え、私と分け合いっこ！？\nあ、ああ、あの、仕事中なので！\nわわ、私は、だ、大丈夫れしゅ！！=Would you like some amazake?\n...Huh? You'll share a cup with me?! U-u-um! I'm working right now, so I... I'm f-fine, thank you!
 もし元気が出ない時があれば\n遠慮なくぼくを呼んでほしいな！\nどれだけ離れていたとしても\n駆けつけて笑顔にしてみせるよ！=
 もし急ぎの用事がないんなら\nここでゆっくりしていきなよ\n何をするわけでもないけど\nたまにはこういうのも、ね=
+もし美しさが罪になるのなら\nボクは世界一の大罪人に\nなっちゃうね！　ああ、自分の\n美しさが恐ろしいよ…！=
 もっとドキドキを感じたい！\nよくわかんないけど、\nそうすれば騎士くんとなんだって\nできそうな気がするから！=I wanna feel more of this fluttery sensation in my heart! I don't totally get it, but it makes me feel like we can do anything!
 もっともっともっともっと\nたくさんプリンを買って来るの！\nそうじゃないとミヤコ、\n成仏しちゃうかもしれないの！=Pudding pudding pudding pudding! Buy me more pudding! Else I might pass on from starvation!
 もっと強く、もっと高く…\n絆が生んだこの羽で\n主さまと未来に羽ばたきます\nいつまでも…どこまでも一緒に…=
@@ -2328,6 +2331,7 @@ being with you just gets me extra hype, you know?
 巨木であろうと、\n鬼であるレムを\n阻むことは不可能です\n全て粉砕させていただきます=Even the mightiest of oaks cannot block the path of a demon such as myself. I will crush all obstacles that stand in my way.
 師匠と弟子の関係だったのに\n気がついたらキミに\n頼りっぱなしになってたわね…\nふふ、恥ずかしいな=We're teacher and student,\nbut somehow I seem to find myself relying on you...\nHaha, how embarrassing.
 帰れる場所があるって、本当に\n素敵よね。あんたも疲れたら\nいつでもここに来なさい\n待ってるから=
+常に更新し続ける美の最高到達点\nそれを見続ける権利を\nキミにあげるよ！　ふふ、これで\nもうボクから離れられないね=
 平和を守るため…そして\n人々にささやかな幸せを\n届けるために、私は歌い続けます=I'll keep singing, no matter what. Both to protect this land, and to provide a little bit of happiness to everyone.
 年に一度の文武の祭典…\n皆が祭囃子に浮足立つ日こそ、\n賢者はあえて日常を貫くのだよ\nではロゼッタ、後はよしなに…=
 年下に見えるお姉さんは\n好きですか？\nええ、貴方の好みを聞いていますが\n…そう。それなら良いのです=
@@ -2742,6 +2746,7 @@ being with you just gets me extra hype, you know?
 空中で書類を書くコツ、ですか？\nう～ん…紙が落ちるよりも早く\n筆を動かす、ですかね？\n一緒に練習してみましょう！=
 童話の幸せな結末\nその続きはだれも分からへんけど\nうちと王子はんならずっとずっと\n幸せに暮らせそうやねぇ♪=
 笑顔はパワーのみなもと☆\n大変なことはたくさんあるけど\nいつでも笑顔を忘れない\nそれがミオちゃんなのだー！=Smiles are a source of power! ☆\nLife can be tough sometimes,\nbut I never forget to smile!\nThat's the Mio way!
+笑顔も泣き顔も、怒った顔だって\n究極にかわいいボク♪\nねえ、キミはどのボクが\n一番好きなのかな？=
 精一杯、ご奉仕します！\nなんでも言ってくださいね？=I live to serve! Whatever you need, just say the word!
 精霊たちが、わたくしたちの絆を\n祝福してくれているようです\n笑顔あふれる素晴らしい仲間に\n心からの加護を！=
 精霊たちも、主さまが見ていると\n調子が良いみたいです♪=It seems your gaze makes the spirits feel good as well. ♪
