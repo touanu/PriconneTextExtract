@@ -231,7 +231,6 @@
 レイ（プリンセス）=
 レム=Rem
 
-？？？=???
 アルターメイデン=
 ヴァイスフリューゲル　ランドソル支部=Weissflügel (Landosol Branch)
 カルミナ=Carmina
@@ -256,7 +255,6 @@
 聖テレサ女学院（なかよし部）=St. Theresa's Academy (Friendship Club)
 自警団（カォン）=Caon
 
-？？？=
 エルフ=elvenfolk
 エルフ、獣人族=
 ドラゴン族=dragonfolk
@@ -271,7 +269,6 @@
 魔族=demonfolk
 魔族？=
 
-？？？=
 「おともだち」を探すこと=looking for "friends"
 あんパン=Sweet Bun
 いたずら、探検=pranks, exploring
@@ -362,7 +359,7 @@
 食べ歩き、料理=eating, cooking
 
 Lynn=
-M・A・O=M・A・O
+M・A・O=
 こやまきみこ=Kimiko Koyama
 たかはし智秋=Chiaki Takahashi
 三石琴乃=Kotono Mitsuishi
@@ -492,7 +489,7 @@ M・A・O=M・A・O
 多くの男性を魅了する無垢な女教師=A pure-hearted teacher who charms the hearts of men
 天真爛漫で人気者のカリスマモデル=A charismatic fashion model who's naïve yet popular
 妄想大好き！　ほんとは照れ屋な女の子=A shy girl who loves fantasizing
-妖しい微笑で全てを見透かす臥竜の頭領=???????
+妖しい微笑で全てを見透かす臥竜の頭領=
 実験が趣味の危険な科学者=A dangerous scientist who enjoys conducting experiments
 弱きを助け強きをくじく猫娘=A catgirl who fights against the strong on behalf of the weak
 弾ける笑顔！　アイドルを夢見る女の子=That dazzling smile! A girl with big idol dreams
@@ -514,7 +511,7 @@ M・A・O=M・A・O
 男勝りで情に厚いワイルド娘=A wild girl who's strong-minded and compassionate
 研究所に隠れ住む物静かなお姉さん=A researcher of few words who lives a secretive life
 礼儀正しくしっかり者のちびっ子優等生=A polite, level-headed young honor student
-秘密結社ラビリンスの『迷宮女王』=？？？？？？？
+秘密結社ラビリンスの『迷宮女王』=
 空への冒険を夢見る騎空士の少女=A skyfarer who dreams of adventure in the skies
 約束を誓い合うマナリアの双姫=
 純情でほっとけない大人の女性=A pure-hearted woman with a mysterious charm
@@ -537,7 +534,6 @@ M・A・O=M・A・O
 頭脳明晰な美少女名探偵=A brilliant, beautiful detective
 鬼がかりの万能妹メイド=A younger twin maid who is fanatical as a demon
 
-？？？=？？？
 「白き翼」こと、ヴァイスフリューゲル…\nその名に恥じぬよう、天高く舞い、\n華麗に敵を倒してみせる！=
 『壊し屋』の二つ名を持つ私…\nですが、怖がる必要はありませんわ\nあなた様は大切な運命の人ですから…=I'm known to some as the Destroyer...\nBut there's no need to be afraid.\nI would never harm my destined soulmate...
 test=
