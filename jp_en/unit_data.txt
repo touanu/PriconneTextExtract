@@ -50,7 +50,7 @@
 カヤ=Kaya
 カヤ（タイムトラベル）=
 カヤ（リベレイター）=
-カリン=
+カリン=Karin
 カリン（アルケミスト）=
 キャル=Karyl
 キャル（オーバーロード）=
@@ -248,7 +248,7 @@
 レイ（ハロウィン）=
 レイ（プリンセス）=
 レム=Rem
-主人公=
+主人公=the main character
 眷属=
 髑髏=Skull
 
@@ -275,7 +275,7 @@
 かずまさ=
 かすみ=Kasumi
 かや=Kaya
-かりん=
+かりん=Karin
 きゃる=Karyl
 きょうか=Kyoka
 くうか=Kuka
@@ -292,7 +292,7 @@
 しおり=Shiori
 しずる=Shizuru
 しのぶ=Shinobu
-しゅじんこう=
+しゅじんこう=Yuuki
 じゅん=Jun
 しるふ=Sylph
 すずな=Suzuna

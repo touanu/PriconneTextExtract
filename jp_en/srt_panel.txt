@@ -51,7 +51,7 @@
 うさぎ=rabbit
 うさぎさんだいすき=bunny lover
 うずしお=whirlpool
-うた=harmony
+うた=singing
 うたひめ=diva
 うつくしいボク=beauty
 うてん=
@@ -81,11 +81,11 @@
 おうち=
 おおあめ=
 おおかみ=puppy
-おかし=bar
+おかし=dessert
 おかね=money
 おこちゃま=kid
 おこめ=rice
-おさかな=fish
+おさかな=tuna
 おしゅうじ=calligraphy
 おたから=
 おたより=confession of love
@@ -351,7 +351,7 @@
 ちゅうにびょう=Order of Gehenna Immortals
 ちょうちょ=
 ちょうのうりょくしょうじょ=psychic
-ちょうみりょう=flavor of the east
+ちょうみりょう=not sugar
 チエル=Chieru
 チェア=guildhouse item
 チカ=Chika
@@ -390,10 +390,10 @@
 とうがらし=
 とうふ=tofu
 どくきのこ=
-とびどうぐ=arrow
+とびどうぐ=dangerous item
 とら=tiger
 とらねこ=feline
-とり=bird
+とり=ugly duckling
 とりのす=omelet in the making
 とれたて=
 どんぐり=acorn
@@ -776,7 +776,7 @@
 「つえ」の英語読み。=
 「つりざお」の英語読み。=The art of catching fish specifically with a fishing rod. Involves a lot of patience and skill.
 「てがみ」のまた別の呼び方。=A heartfelt message for that special someone. Let's just hope it doesn't lead to a rejection.
-「てがみ」の英語読み。=Letters and other deliveries sent through the trusty postal service.
+「てがみ」の英語読み。=The postman brings the mail... or does the mailman bring the post?
 「とう」の英語読み。=
 「とうがらし」の種類の一部。=
 「とうがらし」の英語読み。=
@@ -807,7 +807,7 @@
 「ぶどう」の英語読み。=Though each individual fruit may be smaller than most, the grape is a proud member of the wider fruit family.
 「ふね」の英語読み。=A ship designed for long-distance transportation. These proud vessels must be sturdy enough to survive the perils of the open sea.
 「ペコリーヌ」の専用装備。ペコリーヌに更なる力を与える、『王家の装備』の真なる姿。=Pecorine's Unique Equipment. The true form of the Royal Equipment that grants her incredible strength.
-「ぼうし」の種類の一部。=A classic hat, similar to the fedora but with a narrower brim. Once upon a time, it was a status symbol.
+「ぼうし」の種類の一部。=Though fedoras can be found in many walks of life, they have an enduring association with the well-dressed criminal underworld.
 「ぼうし」の英語読み。=A time-honored style of hat, popularly associated with detectives as well as less savory types.
 「ほうせき」の英語読み。=Well, it probably does have a price, but you might be happier not hearing it.
 「ほし」の英語読み。=The vast open reaches that lie beyond the sky. Populated by a variety of astronomical objects, but a lot more of absolutely nothing.
@@ -1030,7 +1030,7 @@
 ボクが美しすぎるのが悪いのかな？=With such beauty, is it any wonder?
 まーるい輪。=Many wedding traditions involve an exchange of rings that represent an oath of love and loyalty.
 またの名を！=A name to strike fear into the Syndicate's hearts!
-まわりからは意外だと思われているらしい。=People often find it surprising that these two are such fast friends.
+まわりからは意外だと思われているらしい。=They seem to have so little in common, but friendship is a funny thing.
 まん丸に輝いた状態の月。=The moon at its roundest. Least favorite phase of reluctant werewolves.
 マイクは歌の必需品！=The most popular use for a handheld microphone, whether in a professional on-stage performance or a more casual karaoke setting.
 マツリが憧れる正義のヒーロー。名前にツッコんではいけな\nい。=A fictional hero of justice popular with the children of Landosol. But "Tora" is Japanese for "tiger," so isn't that name redundant?
@@ -1083,7 +1083,7 @@
 中に何が入っているかは開けてからのお楽しみ。=
 中の木の実を守っている。刺さると痛い。=
 主にパワーをアップさせるためのトレーニング。=A heavy object intended to be lifted in order to develop one's muscles.
-主に日差しを避けるためのかさ。=A bright and summery color, though it's at least as popular for rain umbrellas as for parasols.
+主に日差しを避けるためのかさ。=The kind of day when you might regret leaving your umbrella at home.
 主に雨を避けるためのかさ。=A variety of umbrella generally used as a shield from the sun rather than the rain.
 主に飾り付けるため身に着けるもの。=
 乱数を発生させるための道具。=Technically, a single dice is a "die," but who's counting?
@@ -1123,7 +1123,7 @@
 名探偵「カスミ」が愛用する探偵道具の一つ。=As a proud detective, Kasumi would never be caught dead without one of these close to hand.
 名誉ある王宮騎士団の鎧。ランドソルの治安を守ろう。=
 味をしめたらしい。=Inori's newfound friend knows what he likes, and what he likes is chocolate.
-味付けに使う。=Found in the cuisines of many eastern nations, soy sauce is a key ingredient in producing their distinctive flavors.
+味付けに使う。=Suzume, did you sprinkle salt on the cookies again?
 唱喚術師。歌により精霊を呼び出す幻の秘術を使う。字の間違いに注意。=It takes a rare innate talent to become this unique type of mage. Chika's melodies summon spirits of nature to do her bidding.
 商才溢れるお嬢様。=The very picture of a proud noble heiress, though she does have the mercantile talent to back up her confidence.
 喧嘩上等。=If there's a fight up for grabs, Kaya will be the first to accept it.
@@ -1419,7 +1419,7 @@
 頑丈な素材でつくられた身を守るための防具。=
 頑丈な身体を持つ岩の魔物。=
 頭がやわらかいじゃばらでできたおもちゃ。叩かれるとコミカルな音が鳴る。=A classic children's toy. Unlike a real hammer, you can whack things with it all day and not cause any real damage... well, within reason.
-頭が金属でできた鈍器。叩かれるととても痛い。=A tool for striking nails that stick out. Or various other things. Just try not to hit your finger.
+頭が金属でできた鈍器。叩かれるととても痛い。=Another name for the classic toy hammer, so called because of the squeaking noise it makes when it strikes its target.
 頭にかぶる装身具。=A type of clothing worn atop the head. It's good manners to take them off indoors.
 頭を守るための防具。=
 顔は似てても性格は異なる。=Though they look alike, Yori can only dream of matching Akari's outgoing personality.

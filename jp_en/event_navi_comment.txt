@@ -30,7 +30,7 @@
 エリコ=
 エリコ（サマー）=
 エリコ（バレンタイン）=
-カオリ=
+カオリ=Kaori
 カオリ（サマー）=
 カオリ（ハロウィン）=
 カスミ=
@@ -38,7 +38,7 @@
 カヤ=
 カヤ（タイムトラベル）=
 カヤ（リベレイター）=
-カリン=
+カリン=Karin
 カリン（アルケミスト）=
 キャル=
 キャル（ニューイヤー）=
@@ -105,7 +105,7 @@
 ノゾミ（クリスマス）=
 ノゾミ（サマー）=
 ノゾミ（リベレイター）=
-ハツネ=
+ハツネ=Hatsune
 ハツネ（サマー）=
 ハロウィンシノブ=
 ハロウィンミヤコ=
@@ -127,7 +127,7 @@
 マツリ（ワイルド）=
 マヒル=Mahiru
 マヒル(クリスマス)=
-マホ=
+マホ=Maho
 マホ（エクスプローラー）=
 マホ（サマー）=
 マホ（シンデレラ）=
@@ -194,13 +194,13 @@
 見た目アカリ・ボイスヨリ=
 見た目ヨリ・ボイスアカリ=
 
-イベントお疲れ様です！\n皆さんのご活躍ぶりには\nいつも感謝しています=
-お疲れ様でした\n討伐証の交換、\nお忘れないように！=
-お疲れ様です！\nここでは、討伐証と報酬を\n交換することができます！=
-ギルド管理協会です！\n討伐証をお持ちでしたら、\n報酬交換できますよ=
-ミッションをクリアして、\n報酬をゲットしましょう！=
-ミッションをクリアすると、\n報酬がもらえますよ！\n頑張ってください=
-受け取ることができる\n報酬があるようです\n確認してみてください=
-報酬がもらえますよ！\nチェックしてみてください=
-終わっちゃいましたねー\n討伐証は努力の証！\n報酬と交換しましょう！=
+イベントお疲れ様です！\n皆さんのご活躍ぶりには\nいつも感謝しています=That's it for the event! Those Victory Medals are proof of your efforts, though, so don't forget to exchange them!
+お疲れ様でした\n討伐証の交換、\nお忘れないように！=Welcome back! Don't let those Victory Medals go unexchanged!
+お疲れ様です！\nここでは、討伐証と報酬を\n交換することができます！=Welcome back! You can exchange Victory Medals for rewards here!
+ギルド管理協会です！\n討伐証をお持ちでしたら、\n報酬交換できますよ=A kind reminder from the Guild Association! Victory Medals can be exchanged for rewards!
+ミッションをクリアして、\n報酬をゲットしましょう！=Complete missions to earn yourself rewards!
+ミッションをクリアすると、\n報酬がもらえますよ！\n頑張ってください=Completing missions will earn you nifty rewards! Good luck!
+受け取ることができる\n報酬があるようです\n確認してみてください=Don't forget to collect your mission rewards!
+報酬がもらえますよ！\nチェックしてみてください=You've got rewards waiting to be collected!
+終わっちゃいましたねー\n討伐証は努力の証！\n報酬と交換しましょう！=That's it for the event! Those Victory Medals are proof of your efforts, though, so don't forget to exchange them!
 

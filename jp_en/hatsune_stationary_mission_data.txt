@@ -243,7 +243,7 @@
 ジズを5体倒そう（全難易度共通）=Defeat Ziz 5 times (Any Difficulty)
 ジャック・オー・プリンを10体倒そう（全難易度共通）=Defeat Jack-o-Pudding 10 times (Any Difficulty)
 ジャック・オー・プリンを15体倒そう（全難易度共通）=Defeat Jack-o-Pudding 15 times (Any Difficulty)
-ジャック・オー・プリンを1体倒そう(NORMAL限定)=
+ジャック・オー・プリンを1体倒そう(NORMAL限定)=Defeat Jack-o-Pudding 1 time (NORMAL)
 ジャック・オー・プリンを1体倒そう(VERY HARD限定)=Defeat Jack-o-Pudding 1 time (VERY HARD)
 ジャック・オー・プリンを20体倒そう（全難易度共通）=Defeat Jack-o-Pudding 20 times (Any Difficulty)
 ジャック・オー・プリンを25体倒そう（全難易度共通）=Defeat Jack-o-Pudding 25 times (Any Difficulty)
