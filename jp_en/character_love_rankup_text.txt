@@ -41,7 +41,6 @@
 風宮 あかり=Akari Kazemiya
 風宮 より=Yori Kazemiya
 
-？？？=？？？
 ……クスクス…私は\n…倉石恵理子……=Hee hee... I'm\nEriko Kuraishi.
 あ…あの…えっと…\n栗…林…くるみ…です……=W-well... um...\nMy name is\nKuri...bayashi\nKurumi...
 あの…私…綾瀬ゆかりです…\nあの…ごめんなさい！=Hey... I'm Yukari Ayase.\nUmm... Sorry!
@@ -81,7 +80,6 @@
 風宮あかりです=I'm Akari Kazemiya.
 風宮よりです。\nあああああ！=I'm Yori Kazemiya.\nOh no!
 
-？？？？=？？？？
 ……あ、アラーム。=Oh, the alarm.
 あ！/\お兄ちゃ～ん\nまってよ～=Oh! Mister,\nwait up!
 あぁ？\nお前のそいつの仲間か？=Say what?\nYou're a friend of his?
@@ -121,7 +119,6 @@
 菓子でつろうなどと\n稚拙な策を……=How naive of you to think\nyou could lure me with sweets.
 見ての通りの\nセクシー美少女で=I'm a sexy, young girl,\nas you can see.
 
-？？？？=？？？？
 …そうでしょ？？=Isn't that right?
 …って、お願い！\n誰にも言わないでおいて～！=Wait, please!\nDon't tell anyone!
 …と思ったら\nバイトの時間だ！\nまたあとでね！=Hold on.\nI'll be late for my\npart-time job!\nCatch you later!
