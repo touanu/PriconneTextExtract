@@ -35,9 +35,9 @@ Get-ChildItem .\csv | ForEach-Object -Parallel {
             }}
 
             # Remove duplicated texts
-            $sorted_db = $db | Group-Object $text | ForEach-Object {
-                $_.Group | Select-Object $text, "$text-translated" -First 1
-            }
+            $sorted_db = $db | Group-Object $text | . { process {
+                $_.Group | Sort-Object "$text-translated" -Descending | Select-Object $text, "$text-translated" -First 1
+            }}
 
             # Write to 2 different files: under "jp" folder for only JP texts and under "jp_en" folder for JP and translated texts
             Add-Content -Force -Path ".\jp\$($_.BaseName).txt" -Value ($sorted_db.$text -join "=`n")
