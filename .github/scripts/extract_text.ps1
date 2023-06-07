@@ -1,4 +1,4 @@
-"Database{0,-29}ID{0,-22}Texts{0,-32}Status`n" -f ""
+"Database{0,-83}Status`n" -f ""
 Get-ChildItem .\csv | ForEach-Object -Parallel {
     $db = Import-Csv $_
     if (Test-Path ".\en_csv\$($_.Name)" -PathType Leaf) {
@@ -19,6 +19,7 @@ Get-ChildItem .\csv | ForEach-Object -Parallel {
     }
 
     if ($texts) {
+        $texts_info = [System.Text.StringBuilder]"`n- texts: "
         if (Test-Path -PathType Leaf ".\jp\$($_.BaseName).txt") {
             Remove-Item ".\jp\$($_.BaseName).txt"
         }
@@ -30,13 +31,17 @@ Get-ChildItem .\csv | ForEach-Object -Parallel {
             # Add translated texts from global datamined db
             $db | . { process {
                 $jp_id = $_.$id
-                $entext = $endb.Where({ $_.$id -eq $jp_id }) | Select-Object -ExpandProperty $text
-                $_ | Add-Member -Force -NotePropertyName "$text-translated" -NotePropertyValue $entext
+                $entext = $endb.Where({ $_.$id -eq $jp_id}) | Select-Object -ExpandProperty $text
+                if ($entext -notmatch "([\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9f]|^\?+$|^？+$|^\s*$)") {
+                    $_ | Add-Member -Force -NotePropertyName "$text-translated" -NotePropertyValue $entext
+                }
             }}
 
             # Remove duplicated texts
             $sorted_db = $db | Group-Object $text | . { process {
-                $_.Group | Sort-Object "$text-translated" -Descending | Select-Object $text, "$text-translated" -First 1
+                if ($_.Name -notmatch "(^？+$|^\s*$)") {
+                    $_.Group | Sort-Object $text, "$text-translated" -Descending | Select-Object $text, "$text-translated" -First 1
+                }
             }}
 
             # Write to 2 different files: under "jp" folder for only JP texts and under "jp_en" folder for JP and translated texts
@@ -44,25 +49,24 @@ Get-ChildItem .\csv | ForEach-Object -Parallel {
             if ($null -ne $id -or $null -ne $endb) {
                 $output = [System.Text.StringBuilder]""
                 $sorted_db | . { process {
-                        if ($_.$text) {
                             $null = $output.AppendLine("$($_.$text)=$($_."$text-translated")")
                         }
-                    }
                 }
                 Add-Content -Force -Path ".\jp_en\$($_.BaseName).txt" -Value ($output.ToString())
+            }
+
+            if ($text -eq $texts[0]) {
+                $null = $texts_info.Append("$text")
+            }
+            else {
+                $null = $texts_info.Append(", $text")
             }
         }
         $status = "OK!"
     }
     else {
+        $texts_info = ""
         $status = "Skipped!"
     }
-
-    if ($texts[1]) {
-        $texts_info = "{0}, {1}" -f $texts[0], $texts[1]
-    }
-    else {
-        $texts_info = "{0}" -f $texts[0]
-    }
-    "{1,-37}{2,-24}{3,-37}{4}" -f "", $_.Name, $id, $texts_info, $status
+    "{0,-91}{3}`n- id: {1}{2}`n" -f $_.Name, $id, $texts_info, $status
 }
