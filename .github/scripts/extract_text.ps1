@@ -68,5 +68,5 @@ Get-ChildItem .\csv | ForEach-Object -Parallel {
         $texts_info = ""
         $status = "Skipped!"
     }
-    "{0,-91}{3}`n- id: {1}{2}`n" -f $_.Name, $id, $texts_info, $status
+    "{0,-91}{3}`n- id: {1}{2}`n`n" -f $_.Name, $id, $texts_info, $status
 }
