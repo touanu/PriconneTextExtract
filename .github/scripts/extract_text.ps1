@@ -32,7 +32,7 @@ Get-ChildItem .\csv | ForEach-Object -Parallel {
             $db | . { process {
                 $jp_id = $_.$id
                 $entext = $endb.Where({ $_.$id -eq $jp_id}) | Select-Object -ExpandProperty $text
-                if ($entext -notmatch "([\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9f]|^\?+$|^？+$|^\s*$)") {
+                if ($entext -notmatch "((?!・)[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9f]|^\?+$|^？+$|^\s*$)") {
                     $_ | Add-Member -Force -NotePropertyName "$text-translated" -NotePropertyValue $entext
                 }
             }}
