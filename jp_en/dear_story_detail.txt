@@ -108,7 +108,7 @@
 お気に入りの\n制服デス！=
 お気に入りの\n場所は？=Places of Interest
 お菓子を\n配ろう？=Handing Out Treats
-お菓子を\n食べよう=Let's Eat Treats
+お菓子を\n食べよう=Let's Eat Treats!
 オーマの調理法=
 オススメの配信=
 かわいい衣装=Cute Costumes
