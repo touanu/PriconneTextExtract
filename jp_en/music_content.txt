@@ -31,6 +31,7 @@
 キャラクターソング\n\n時間 / 01:28\n歌　 / イノリ（藤田茜）\n　　　カヤ（小市眞琴）\n　　　ホマレ（大西沙織）\n作詞 / eNu\n作曲 / R・O・N\n編曲 / R・O・N=Character Song\n\nVocals:\nInori (Akane Fujita)\nKaya (Makoto Koichi)\nHomare (Saori Onishi)\nTime / 01:28\nLyrics by / eNu\nComposed by / R・O・N\nArranged by / R・O・N
 キャラクターソング\n\n時間 / 01:28\n歌　 / エリコ（橋本ちなみ）\n作詞 / 夕野ヨシミ (IOSYS)\n作曲 / ARM (IOSYS)\n編曲 / ARM (IOSYS)=
 キャラクターソング\n\n時間 / 01:28\n歌　 / マツリ（下田麻美）\n　　　クリスティーナ（たかはし智秋）\n作詞 / eNu\n作曲 / 設楽哲也\n編曲 / 設楽哲也=
+キャラクターソング\n\n時間 / 01:29\n歌　 / イリヤ（丹下桜）\n作詞 / 毛蟹（LIVE LAB.）\n作曲 / 毛蟹（LIVE LAB.）\n編曲 / 毛蟹（LIVE LAB.）=
 キャラクターソング\n\n時間 / 01:29\n歌　 / シオリ（小清水亜美）\n作詞 / Cocoro. (Dream Monster)\n作曲 / 高木龍一 (Dream Monster)\n編曲 / 高木龍一 (Dream Monster)=
 キャラクターソング\n\n時間 / 01:29\n歌　 / ヨリ（原紗友里）\n　　　アカリ（浅倉杏美）\n作詞 / 森本練\n作曲 / 森本練\n編曲 / 森本練=
 キャラクターソング\n\n時間 / 01:29\n歌　 / リノ（阿澄佳奈）\n作詞 / 篠崎あやと\n作曲 / 篠崎あやと\n編曲 / 篠崎あやと=
@@ -91,6 +92,7 @@
 ストーリーイベントテーマ\n-｢Call Me Darling！｣アレンジ-\n\n時間 / 00:58\n作曲 / 池田健仁(Cygames)\n編曲 / 中村早織(Cygames)=Story Event Theme\n(Arrangement of "Call Me Darling!")\n\nTime / 00:58\nComposed by / Kento Ikeda (Cygames)\nArranged by / Saori Nakamura (Cygames)
 ストーリーイベントテーマ\n-｢Crossing Destiny｣アレンジ-\n\n時間 / 00:55\n作曲 / 宮崎誠\n編曲 / 中村早織（Cygames）=Story Event Theme\n(Arrangement of "Crossing Destiny")\n\nTime / 00:55\nComposed by / Makoto Miyazaki\nArranged by / Saori Nakamura (Cygames)
 ストーリーイベントテーマ\n-｢Ding Dong Holy Night♪｣アレンジ-\n\n時間 / 00:55\n作曲 / 馬渕直純\n編曲 / 中村早織（Cygames）=Story Event Theme\n(Arrangement of "Ding Dong Holy Night♪")\n\nTime / 00:55\nComposed by / Naozumi Mabuchi\nArranged by / Saori Nakamura (Cygames)
+ストーリーイベントテーマ\n-｢Gothical Radical † Eternal Wedding｣\nアレンジ-\n\n時間 / 01:13\n作曲 / 毛蟹（LIVE LAB.）\n編曲 / 佐藤遥（Cygames）=
 ストーリーイベントテーマ\n-｢GREEDY LOVE｣アレンジ-\n\n時間 / 00:58\n作曲 / 設楽哲也\n編曲 / 長谷部翔（Cygames）=
 ストーリーイベントテーマ\n-｢Halloween Monster Jam ！！！｣アレンジ-\n\n時間 / 01:16\n作曲 / 中村早織（Cygames）、長谷部翔（Cygames）\n編曲 / 下智子=
 ストーリーイベントテーマ\n-｢Heartful Place｣アレンジ-\n\n時間 / 01:00\n作曲 / 小野貴光\n編曲 / 淺田美咲（Cygames）=Story Event Theme\n(Arrangement of "Heartful Place")\n\nTime / 01:00\nComposed by / Takamitsu Ono\nArranged by / Misaki Asada (Cygames)
@@ -174,6 +176,7 @@
 ストーリーイベントボスバトル\n\n時間 / 02:02\n作曲 / 東大路憲太\n編曲 / 東大路憲太=Story Event Boss Battle\n\nTime / 02:02\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji
 ストーリーイベントボスバトル\n\n時間 / 02:03\n作曲 / 東大路憲太\n編曲 / 東大路憲太=Story Event Boss Battle\n\nTime / 02:03\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji
 ストーリーイベントボスバトル\n\n時間 / 02:05\n作曲 / 中村博\n編曲 / 中村博=
+ストーリーイベントボスバトル\n\n時間 / 02:07\n作曲 / 関根修平（Cygames）\n編曲 / 関根修平（Cygames）=
 ストーリーイベントボスバトル\n\n時間 / 02:08\n作曲 / Enarak（Cygames）\n編曲 / Enarak（Cygames）=
 ストーリーイベントボスバトル\n\n時間 / 02:08\n作曲 / 伊禮完（Cygames）\n編曲 / 伊禮完（Cygames）=
 ストーリーイベントボスバトル\n\n時間 / 02:09\n作曲 / 千葉梓（Cygames）\n編曲 / 千葉梓（Cygames）=Story Event Boss Battle\n\nTime / 02:09\nComposed by / Azusa Chiba (Cygames)\nArranged by / Azusa Chiba (Cygames)
@@ -209,6 +212,7 @@
 ストーリーイベントボスバトル\n\n時間 / 03:18\n作曲 / 東大路憲太\n編曲 / 東大路憲太=Story Event Boss Battle\n\nTime / 03:18\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji
 ストーリーイベントボスバトル\n\n時間 / 03:26\n作曲 / 畑田浩孝（Cygames）\n編曲 / 畑田浩孝（Cygames）=
 ストーリーイベントミニコンテンツ\n-｢Asymmetric World｣アレンジ-\n\n時間 / 03:27\n作曲 / 伊藤翼\n編曲 / 中川峻彰=
+ストーリーイベントミニコンテンツ\n-｢Gothical Radical † Eternal Wedding｣\nアレンジ-\n\n時間 / 01:28\n作曲 / 毛蟹（LIVE LAB.）\n編曲 / 中村早織（Cygames）=
 ストーリーイベントミニコンテンツ\n-｢ma.sa.yu.me.｣アレンジ-\n\n時間 / 02:04\n作曲 / ウツミタカアキ\n編曲 / Enarak（Cygames）=
 ストーリーイベントミニコンテンツ\n-｢ツバサのプロローグ｣アレンジ-\n\n時間 / 01:58\n作曲 / 本多友紀 (Arte Refact)\n編曲 / 亀井瑠美=
 ストーリーイベントミニコンテンツ\n-｢わくわくSUMMER TIME！｣アレンジ-\n\n時間 / 02:40\n作曲 / 滝澤俊輔（TRYTONELABO）\n編曲 / 畑田浩孝（Cygames）=
@@ -226,6 +230,7 @@
 ミニゲーム\n-｢あの夏のメモリー｣アレンジ-\n\n時間 / 01:15\n作曲 / 滝澤俊輔（TRYTONELABO）\n編曲 / 長谷部翔(Cygames)=
 ミニゲーム\n-｢ぷりん・あ・ら・くりすますなの！｣アレンジ-\n\n時間 / 02:05\n作曲 / 坪田修平（TRYTONELABO）\n編曲 / 関根修平（Cygames）=
 ミニゲーム\n-｢白翼のグローリエ｣アレンジ-\n\n時間 / 00:30\n作曲 / 渡部チェル\n編曲 / 中村早織（Cygames）=Minigame\n(Arrangement of "White-Winged Glorie")\n\nTime / 00:30\nComposed by / Cher Watanabe\nArranged by / Saori Nakamura (Cygames)
+メインクエスト\n\n時間 / 00:54\n作曲 / 西木康智\n編曲 / 西木康智=
 メインクエスト\n\n時間 / 00:55\n作曲 / 西村真吾\n編曲 / 西村真吾=Main Quest\n\nTime / 00:55\nComposed by / Shingo Nishimura\nArranged by / Shingo Nishimura
 メインクエスト\n\n時間 / 00:57\n作曲 / 多田彰文\n編曲 / 多田彰文=Main Quest\n\nTime / 00:57\nComposed by / Kei Kato\nArranged by / Kei Kato
 メインクエスト\n\n時間 / 01:00\n作曲 / 伊禮完（Cygames）\n編曲 / 伊禮完（Cygames）=Main Quest\n\nTime / 01:00\nComposed by / Kan Irei (Cygames)\nArranged by / Kan Irei (Cygames)
@@ -237,6 +242,7 @@
 メインクエスト\n\n時間 / 01:07\n作曲 / 石塚玲衣\n編曲 / 石塚玲衣=Main Quest\n\nTime / 01:07\nComposed by / Rei Ishizuka\nArranged by / Rei Ishizuka
 メインクエスト\n\n時間 / 01:08\n作曲 / 東大路憲太\n編曲 / 東大路憲太=Main Quest\n\nTime / 01:08\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji
 メインクエスト\n\n時間 / 01:08\n作曲 / 西村真吾\n編曲 / 西村真吾=Main Quest\n\nTime / 01:08\nComposed by / Shingo Nishimura\nArranged by / Shingo Nishimura
+メインクエスト\n\n時間 / 01:10\n作曲 / 白井友規（Cygames）\n編曲 / 白井友規（Cygames）=
 メインクエスト\n\n時間 / 01:14\n作曲 / 東大路憲太\n編曲 / 東大路憲太=Main Quest\n\nTime / 01:14\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji
 メインクエスト\n\n時間 / 01:18\n作曲 / 長門千晴（Cygames）\n編曲 / 長門千晴（Cygames）=
 メインクエスト\n\n時間 / 01:20\n作曲 / 伊藤翼\n編曲 / 伊藤翼=Main Quest\n\nTime / 01:20\nComposed by / Tsubasa Ito\nArranged by / Tsubasa Ito

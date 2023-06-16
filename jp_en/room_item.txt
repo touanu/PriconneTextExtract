@@ -178,10 +178,10 @@
 プリンセスシアター=
 ブルージェリーフィッシュライト=Blue Jellyfish Lamp
 ブルーシェルクッション=Blue Shell Cushion
-ぺコリーヌの手作りウッドテーブル=
-ぺコリーヌの手作りログスツール①=
-ぺコリーヌの手作りログスツール②=
 ペールトーンの壁=Pale-Tone Wall
+ペコリーヌの手作りウッドテーブル=
+ペコリーヌの手作りログスツール①=
+ペコリーヌの手作りログスツール②=
 ポーション生成機=Potion Creation Device
 ホームメイドグリーンラグ=Homemade Green Rug
 ホームメイドパターンドラグ=Homemade Patterned Rug

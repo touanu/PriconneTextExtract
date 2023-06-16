@@ -13,6 +13,7 @@
 イカリイカ=
 イクト・ガラディオン=Ikt Galadion
 イチゴヘビ=Strawberry Serpent
+イノセントマジシャン=
 イビルキャノン=Evil Cannon
 イリヤのシャドウ=Kasumi's Shadow
 イワアライグマ=Rockoon
@@ -169,7 +170,6 @@
 ワイルドボア=Wild Boar
 ワタリトビ=Wandering Kite
 ワッパダヌキ=Tanukid
-塔アンチビースト=
 塔の雨神様=
 壊乱の黒鎧騎士=Dark Knight of Corruption
 水瑚麟=Coral Qilin

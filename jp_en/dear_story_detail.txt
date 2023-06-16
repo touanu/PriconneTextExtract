@@ -146,7 +146,6 @@
 スパイとの\n付き合い方=
 センターは誰？=Who's Taking Center Stage?
 たい焼きの開発=
-たき火の魅力=
 ただいま空腹\nにつき=On an Empty Stomach
 タマキについて=All About Tamaki
 タマキの\n印象について=
@@ -304,6 +303,7 @@
 冒険の思い出=
 最近の\nユニちゃんズ=Recent Activities of the Yuni-ettes
 最近のなかよし部=Recent Activities of the Friendship Club
+最高のキャンプを\n目指して=
 最高の一杯に\n必要な物=
 最高の一杯を\n求めし女=
 初めてのオフ会\nについて=

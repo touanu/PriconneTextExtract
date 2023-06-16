@@ -376,6 +376,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 あの世に行っても\nショーグンは\nワタシの大事な\nショーグンデス！=
 あの人、\nお菓子くれるかな？\nくれなかったら…ふふ=Will he give me candy today, I wonder?\nIf he doesn't... Hee hee.
 あの人、\n大食いの子って\n嫌いかな？=I wonder if he doesn't like girls who eat a lot.
+あの人、今度はボクを\nどう褒めるだろう？\nもし語彙が尽きても\n許してあげよっと♪=
 あの人、泳げないって\n聞きました！\n私が教えてあげないと=
 あの人\n大食いの子って\n嫌いかな？=I wonder if he doesn't like girls who eat a lot.
 あの人が\nわたしの騎士だったら\nいいのにな…=I'd love it so much\nif he could be\nmy personal knight...
@@ -391,6 +392,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 あの人と二人で\n浜辺を散歩…\n素敵ですねぇ=Taking a stroll along the beach with him sounds so nice...
 あの人と見た\n海の景色を…ずっと\n忘れずにいたいな=
 あの人に、一緒に\n遊んでほしいけど…\nな、なんていえば？=I want him to come play with me... b-but what should I say?
+あの人に似合うコーデ\n考えてあげよっと\n案外、なんでも\n着こなしそうだよね♪=
 あの人に勉強を\n教えられるように\nしっかり予習を\nしておこうっと…！=
 あの人に水着を\n褒めてもらえたら、\nすごく嬉しいなぁ=I'll be so happy if he says something nice about my swimsuit.
 あの人の\nためにも早く\n病気を治さないと…=I need to hurry up and get better for his sake.
@@ -745,6 +747,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 イノリのヤツ\nやたらと脇腹\nつついてきやがって…\nくすぐったいっての=
 イノリ様の側近に\n選ばれるなんて\n名誉なことですよ！=
 イブもプリン！\nクリスマスもプリン！\nプレゼントもプリン！=
+イリヤみたいにお城に\n住んでみたいんだ♪\n美を統べる者に\n相応しいでしょ？=
 インスピレーションが\n溢れてくる…\nいい曲が書けそう…=There's no doubt I can write a lovely song when I'm overflowing with this much inspiration.
 う～　眠いの…\n二度目の二度寝を\nするの…=Mmm... So sleepy... Just two more snoozes...
 う～　眠いの…\n二度目の二度寝を\nするの… =Mmm... So sleepy... Just two more snoozes...
@@ -1376,6 +1379,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 お祭りは\n楽しんだ者勝ちデス！\n踊らにゃ\nソンソンデス！=
 お稽古事を始めるなら\nうちに言ってな\nどんなことも教えたる=
 お笑い芸人は、\n体が資本だべさ～！=Gotta be farm strong in comedy, to make sure the jokes hit hard!
+お肌にいいものは\n大体好きだよ\nトマトジュースとかね=
 お肌に潤いが\nでてきたみたい～♪=Look how moisturized my skin is! ♪
 お肌のケアに\nパックしながら\n寝ようかな～=Maybe I could try sleeping with a face mask to improve my skin?
 お腹いっぱい、今日は\nよく眠れそうですね♪\n明日もおいしい一日を=My stomach's full, and I'm gonna sleep like a baby! Here's hoping tomorrow is just as delicious!
@@ -1647,7 +1651,9 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 キミは私の行く先を\n照らしてくれる\n光のような存在だよ=You're something of a beacon to me. Always shining the way ahead.
 キミへの応援\nちゃんと\n届いてるかな…=
 キミへの気持ちを\n踊りで表現\nしてみるさ～=Let's see if I can turn my feelings about you into a dance!
+キミもボクの\n美の虜にしてあげる♪\nうれしいでしょ？=
 キミも三線に興味が\nあるのかな～？\n私が教えるさ～！=Do you wanna learn how to play the sanshin? I can teach you!
+キミも美を磨けば\nもっと輝けるはずさ！\nボクがメイクとか\nしてあげようか？=
 キミを応援\nすることができて…\n私、すごく幸せ…=
 キミを抱き枕に…\nじょ、冗談冗談！=I'll use you as a body pillow... I-I'm kidding!
 キミを立派な\nバイト戦士にするのが\n師匠としての役目よね=As your teacher, it's my duty to raise you into the ultimate part-timer.
@@ -2684,6 +2690,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 トリックオアトリート\n…返事がないので\nイタズラしておきます=
 トリックオアトリート\nお菓子をくれないと\n不吉な占いをします=Trick or treat!\nIf you don't hand over the candy, your fortune may prove unfortunate...
 トリックオアトリート\nお菓子をくれなきゃ\n逮捕しちゃうぞ♪=
+ドレスの影響かな…\n前より黒や赤が\n好きになったかも=
 ドレスは汚れていない\nようですが…やだ\n髪がほつれてますわ！=My dress doesn't look dirty, but... Oh no! My hair is a mess!
 ドングリあげるから\nあんパン買ってきて～=I'll give you some acorns if you buy me a sweet bun!
 ドングリでも\nつまみながら\n一緒にゲームしようよ=Let's play a game while munching on some acorns!
@@ -3415,6 +3422,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ポカポカするね…\n助手くん\n君もおいでよ=
 ポカポカね～♪\n…ああー！\nチョコが溶けてる！=It's so nice and warm. ♪ Wait, my chocolate's melting!
 ポカポカ温まりながら\n書類仕事をするのも\nいいものですね…=
+ボクがいるだけで\nここがぐんっと\n華やかになったね♪=
 ボクがいるだけで\nこの部屋は美の神殿♪\nランドソルの新たな\n観光名所になるね！=My mere presence makes this room a shrine of beauty. ♪ A Landosol landmark!
 ボクが座ったソファは\n「美しいソファ」に\nランクアップした！=Any sofa I sit upon becomes upgraded to a "lovely sofa"!
 ボクが抱きしめると\n普段よりかわいく\n見えちゃうね♪=
@@ -3422,6 +3430,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ボクが触った瞬間に\nこの本は美を\n携えてしまうんだ=The moment I touched this book, it was bestowed with grace.
 ボクが食べると、\n食べ物まで\n可愛いなあ…=When I eat, even the food becomes cute.
 ボクが食べると\n食べ物まで\n可愛いなあ…=When I eat, even the food becomes cute.
+ボクにぴったりな\n日傘を買ったんだ♪\n散歩にでも行こうよ！=
 ボクのかわいい笑顔を\n近くで見る以上の\n癒やしはないよね♪=
 ボクのかわいさで\n癒やされて\nみんな健康に\nなっちゃうね=
 ボクの化粧品使う？\n一緒に可愛くなろうよ=Would you like to try my makeup? Let's be cute together!
@@ -3431,6 +3440,8 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ボクの美しさは\nみんなのために\nあるんだよ！=My beauty is meant for the masses!
 ボクの美しさを\n維持するために\nお昼ご飯食べなくちゃ=Eating lunch is essential to maintaining my good looks.
 ボクの誕生とともに\n全ての美しさは過去の\n遺物になったんだよ！=All other beauty became a thing of the past on the day I was born!
+ボクはボクに\n魅了されっぱなしさ♪\nまさに魔性の存在だよ=
+ボクを描いた絵画\n今度持ってきて\n飾ってあげようかな=
 ボスたるもの\n早起きは鉄則ですよ！\nふぁあ…=
 ボスたるものぉ〜…\n夜更かしぐらい当然…\nぐー…=
 ボスなら経済書ぐらい\n…う。難しくて\n読めねーです…=
@@ -3834,6 +3845,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 リラックスできますね\n集中力も\n上がりそうです=This is relaxing. I feel like it might help me focus better.
 リラックスできる\nいい香りですね～♪=What a nice scent...\nI think it might help me to relax! ♪
 リラックスできる\n素敵な香りだね～\n成仏しそうだよ～=
+リラックスは大事だよ\n心の余裕こそが\n美の秘訣だからね♪=
 リンちゃんミオちゃん\n二人に負けないように\n私、頑張ります！=Rin, Mio... I've got to do my best to keep up with you both!
 るんたった～\nハロウィンハロウィン\n楽しいな～♪=Tra-la-la! ♪\nHalloween, Halloween, always so much fun~! ♪
 ルゥの帽子、\nかわいいです？\nお気に入りですぅ♪=You think my hat's cute? Thanks! It's my favorite!
@@ -3981,6 +3993,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 んっ～…いい香りね\n日頃の疲れが\n取れる気がするわ=
 んっふっふ\nドキ！　水着だらけの\nギルドハウス！\nとかどうかな？=
 んふ、んふふ…\n火ってイイよね…\nずっと見てられるね…=
+んん、まだ眠い…\n美のためにも、\nもうひと眠りするよ…=
 んん？　なんだか\n元気がないみたい\n先生がぎゅぅ～って\nしてあげる…　=Hm? You see a bit down in the dumps. A big hug will fix that!
 んんー…\nやっぱりけんぞくと\nベスちゃんは似てる？=
 ン・ン・ン～♪\nお・い・し～♪\nも～っと食べるぅ～♪=
@@ -4080,6 +4093,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 二人乗りができると\nいいですわね…=
 二人羽織とは\nあんなにも暖かい\nものなのですね…=I can still feel my lord's warmth from that ninin-baori eating contest...
 人々の平和を守る旅に\n同行してくれる人を\n探していて…=I'm searching for someone to join me on my journey to keep the people safe.
+人々を魅了するほどの\n魔性の香り…\nボクにふさわしいね♪=
 人とお話するのって、\n私、大好きです！\n友達ふやすぞ～！=I absolutely love talking to people! I'll make lots of friends!
 人と話すのは\n得意じゃないな…=I'm not all that great\nat making conversation...
 人の喜ぶ顔を見るのも\n悪くはないな…おっと\nワタシらしくないな☆=Joyful faces are not a displeasing sight...\nOh dear! That isn't like me at all, is it?!
@@ -4109,6 +4123,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 今のうちに\n助手くんの秘密を…\nわ…私はなにをっ！？=
 今のが突き？\n軽い！　もっと鋭く！\nさあ、もう一回！=You call that a thrust? That was way too weak! Try again, harder this time!
 今のナナカちゃんは\nたぶん水属性！=
+今のボクがカップを\n触ると壊しちゃうんだ\nだからほら、キミが\nボクに紅茶を飲ませて=
 今の内に部屋の\n掃除をしておこっと…\nみんな喜んで\nくれるといいなぁ=
 今の私が作れる\n最高の一曲…\nあの人に届くといいな=
 今の街はハロウィン\n一色だからね～\n人混みが大変だよ=
@@ -4407,6 +4422,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 冬の夜空は星が\nキレイですね～\nお兄ちゃん、一緒に\n見に行きませんか？=
 冬場の釣りも\nこれくらい暖かけりゃ\nいいんだけどね=Fishing in the winter's all well and good, but I wish it wasn't so cold.
 冷えは病につながるわ\nしっかり温めて\n体をいたわりましょ=
+冷えは美の大敵さ\nボクのように\n美しくなりたいなら\n体を温めるべきだよ=
 冷えは美容の大敵\nなんだから！\nここ、ボクの場所ね！=Cold air is the enemy of good looks! This is my spot, okay?
 冷たすぎる飲み物で\n体を冷やさないよう\n気をつけないと…=
 冷やす方が得意だけど\nあったかいのも、\nキライじゃないのよ=
@@ -4505,7 +4521,9 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 君のこともっともっと\n教えて欲しいな。私に\n補習授業してくれる？=I really want to learn more about you.\nCan I ask you to teach your teacher?
 君の声は精神に\n高揚をもたらすな…\n波形を分析したいぞ=Your voice seems to rouse my state of mind... I'd like to inspect these neural signals further.
 吸うとくしゃみが\n止まらなくなるお香を\nここに…くしゅっ！=I'll just scatter a bit of sneezing powder here and... Achoo!
+吸血鬼って\n美しい存在だよね…\nボクほどではないけど=
 吸血鬼であるわらわに\n相応しい装束じゃろう\nあとは真っ赤な血を\n添えたいのう…=
+吸血鬼になるなんて\nやっぱりゴメンだね！\n永遠の美よりも\n大事なことがあるのさ=
 吸血鬼のわらわが、\nこのようなもの…\nうまい♪=A vampire has no need for such sustenance...\nMmm, delicious!
 吸血鬼の弱点について\n記されておるのか…\nふむ、眠気が\nさめてしもうたぞ=
 吸血鬼らしい行動って\n噛みついたり…いや\nそれは大胆過ぎです！=
@@ -4600,6 +4618,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 夙興夜寝なんて\nやめておきなさい\n休息は大切よ=
 夜！　それはクウカが\n活性化する時間です！\n闇の活動開始です～♪=
 夜からが、\nオタ活本番でしょ！=When the sun goes down, an otaku's day is just getting started!
+夜こそボクの時間！\nさぁ、あまねく人々へ\nボクの美を広めよう！=
 夜だけど、私は\nもう少し仕事をするよ\n魔法少女の強い体は\nこんなときに便利だね=It's getting late, but I'll keep working awhile longer. Magical girl stamina comes in handy at times like this.
 夜っていいよね。色々\n見えすぎない感じとか\n…この話したっけ？=
 夜ってなんだか\nワクワクしてなかなか\n眠れないんだよね\nにいちゃんはどう？=
@@ -5780,6 +5799,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 美しいボクは\n常にいい香りを\nしていなくちゃね=
 美しい技は\n美しい体が\nあってこそ！=Only a beautiful body can perform beautiful techniques!
 美しさとは\n日々の努力が\n作るものなんだよ=
+美のアドバイスを\n聞きたい人いるかい？\nボクがもっともっと\n輝かせてあげるよ♪=
 美の女神と愛の女神が\nボクを作る時、本気\n出しちゃったんだね♪=The goddesses of beauty and love put everything they had into me. ♪
 美は食で作られる\n美容にいいものを\n食べようよ！=
 美味しい…この味なら\n薬を混ぜても違和感は\nなさそうですわ…=
@@ -6032,6 +6052,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 金は天下の\nマワリモノ！\nところで\nどういう意味デス？=Money makes the world go round! Hey, can you tell me what that means?
 釣りのコツ？\n何事も経験が大事だ\n今から行くかい？=The trick behind fishing? It's all about experience. How about we head out now?
 鉄球ですか？\nあれは護身用ですので\n問題はありませんよ？=My morningstar?\nIt's just for self-defense,\nso there's no problem,\nis there?
+銀のアクセサリーが\nボクは大好きでね\nいつでもプレゼント\n待ってるよ♪=
 鍛錬でお腹ぺこぺこ。\nお昼ごはんが\n楽しみだね=Wow, I'm hungry after all that training. I can hardly wait for lunch!
 鍛錬後はすごくお腹が\n空くんだよね。\nう～ん、おいしい♪=I always get so hungry after training. Mmmm, that's good!
 鍵開けって難しい…\nうーん、もっと\n練習しておかなくちゃ=
@@ -6115,6 +6136,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 食事の必要がない体…\nつまり、食べたければ\n食べていいのよね～♪=My body doesn't need sustenance. Which means I can just eat whatever, whenever I want. ♪
 食事は大切だけど\n食べ過ぎには\n注意しておこう…=Sustenance is important, but I must be sure not to eat too much.
 食事は魔力に\n変換する体力の\n元になるのだ！=Food supplies the physical stamina I convert into magical power!
+食事をするボクの\nなまめかしさ…♪\n吸血鬼すらも\nドキッとするだろうね=
 食欲が満たされたら\nつ、次はやはり…！\nそうなのですね！？=Once I satisfy my appetite for food, next comes my appetite for... Right?!
 食欲を満たした次は\n何を満たせば\nいいですかねぇ～♪=
 飯でも食いがてら\nおススメの店の\n下調べでもしようぜ！=

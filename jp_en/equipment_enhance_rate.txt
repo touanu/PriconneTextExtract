@@ -93,6 +93,7 @@
 ゴシックメイデン=
 コスモスクロース=Cosmic Veil
 コマンドナイフ=Commando Knife
+サファイアフォークヘアピン=
 サマーライトビキニアーマー=
 サンダーパンクダガー=
 サンフラワーストローハット=
@@ -428,6 +429,7 @@
 精霊王の護石=Spirit King's Talisman
 紅天弓=Sunset Bow
 紅玉刀スカーレットムーン=
+紅色花飾菓子切包丁=
 紅鳥のクラリオンブローチ=
 純潔の巫女装束=Priestess Garb
 紫霧の短剣=
@@ -442,6 +444,7 @@
 翠緑の霊衣=Viridian Robe
 翠風刃エメラルドエッジ=
 翠風神ノ太刀=Fujin's Emerald Longsword
+翡翠花飾箸=
 聖信徒のペンダント=Disciple's Pendant
 聖光のリリープレート=
 聖円環ヘブンリーロータス=
