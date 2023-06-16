@@ -480,6 +480,7 @@ MODE3 部位C=MODE 3 Part C
 リノのシャドウ=Rino's Shadow
 リビングメイル=Living Mail
 リマのシャドウ=Lima's Shadow
+リリ（フォールン）のシャドウ=
 リン（4章ゲスト）=Rin (Chapter 4 guest)
 リン（デレマス）のシャドウ=Rin (IM@S CG)'s Shadow
 リン（レンジャー）のシャドウ=Rin (Ranger)'s Shadow

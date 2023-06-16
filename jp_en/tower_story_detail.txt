@@ -103,6 +103,9 @@
 ルナの塔 第26章 オープニング=
 ルナの塔 第26章 第1話=
 ルナの塔 第26章 第2話=
+ルナの塔 第26章 第3話=
+ルナの塔 第26章 第4話=
+ルナの塔 第26章 第5話=
 ルナの塔 第2章 オープニング=Tower of Luna Chapter 2: Opening
 ルナの塔 第2章 第1話=Tower of Luna Chapter 2: Episode 1
 ルナの塔 第2章 第2話=Tower of Luna Chapter 2: Episode 2
@@ -203,6 +206,7 @@
 二人のエコノミカ=
 交わる二人の距離=
 交わる平行線=
+人形がつないだきっかけ=
 仁義なきドッジボール=It's a Dog-Eat-Dodgeball World
 今ここにある絆=The Bonds We Share
 休息の神髄は労働にあり=
@@ -243,6 +247,7 @@
 悪事は見逃せないけれど=
 悪霊退散！　ドジ卒業？=
 情熱は一心同体=
+想いの結実=
 憑いてるからツイてない？=
 憧れを追いかけて=
 才色兼備の証明=
@@ -298,6 +303,7 @@
 譲らぬ主張と友情と=Of Friendship and Convictions
 輝く舞台へのいざない=
 近づく距離感=Closing the Distance
+進んで下がって、また前へ=
 運命の相方？=
 開幕、お兄ちゃん争奪戦！=A Battle for the Ages
 隠しきれない才能=
