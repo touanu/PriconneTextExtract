@@ -53,6 +53,7 @@
 宿題に1回挑戦しよう（全難易度共通） =
 山神様に1回挑戦しよう（全難易度共通） =Battle the Mountain God 1 time (Any Difficulty)
 島クジラに1回挑戦しよう（全難易度共通） =Battle the Island Whale 1 time (Any Difficulty)
+復活の白き島クジラに1回挑戦しよう（全難易度共通） =
 忍びの頭領ハンゾウに1回挑戦しよう（全難易度共通） =Battle Ninja Chief Hanzo 1 time (Any Difficulty)
 暴走のイノセントボウに1回挑戦しよう（全難易度共通） =
 海将タツノココマンダーに1回挑戦しよう（全難易度共通） =

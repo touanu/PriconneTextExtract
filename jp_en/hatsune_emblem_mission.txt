@@ -158,6 +158,10 @@
 山神様を1体倒そう（SPECIAL限定）=Defeat the Mountain God 1 time (SPECIAL)
 山神様を1体倒そう（VERY HARD限定）=Defeat the Mountain God 1 time (VERY HARD)
 得意な宿題を1回終わらせよう=
+復活の白き島クジラを1体倒そう（HARD限定）=
+復活の白き島クジラを1体倒そう（NORMAL限定）=
+復活の白き島クジラを1体倒そう（SPECIAL限定）=
+復活の白き島クジラを1体倒そう（VERY HARD限定）=
 忍びの頭領ハンゾウを1体倒そう（HARD限定）=Defeat Ninja Chief Hanzo 1 time (HARD)
 忍びの頭領ハンゾウを1体倒そう（NORMAL限定）=Defeat Ninja Chief Hanzo 1 time (NORMAL)
 忍びの頭領ハンゾウを1体倒そう（SPECIAL限定）=Defeat Ninja Chief Hanzo 1 time (SPECIAL)

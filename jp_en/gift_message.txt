@@ -104,6 +104,7 @@ SPフェスキャラ交換Ptを変換したアイテムです。=Item converted 
 所持上限を超えて獲得したキャラ交換の報酬です。=Character exchange rewards obtained over the possession limit.
 所持上限を超えて獲得したスタミナです。=Stamina obtained over the possession limit.
 所持上限を超えて獲得したスペシャル交換チケットの報酬です。=Special Exchange Ticket rewards obtained over the possession limit.
+所持上限を超えて獲得したダイスです。=
 所持上限を超えて獲得したバトルアリーナのタイム報酬です。=Battle Arena timed rewards obtained over the possession limit.
 所持上限を超えて獲得したバトルアリーナの報酬です。=Battle Arena rewards obtained over the possession limit.
 所持上限を超えて獲得したプリンセスアリーナのタイム報酬です。=Princess Arena timed rewards obtained over the possession limit.

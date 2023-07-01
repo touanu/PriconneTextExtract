@@ -151,12 +151,14 @@
 あなたが歳を取って、\nおじいさんになったら、一緒に\n私もおばあさんになりますね\nもちろん、幽霊になったら…=Many birthdays from now, when you're an old man, I'll be there too as an old woman. And of course, if you become a ghost...
 あなたが王子様だったら、\n誰のどんなピンチにでも\n駆けつけてくれるんでしょうね！\n優しい王子様に憧れちゃう♪=If you were a prince, you'd come running to help anyone in any situation! I would love a kind prince. ♪
 あなたが迷った時は\n私にも力にならせてください\n暗夜の灯火となるように\nあなたの進む道を占いますから=
+あなたさま、夏ですわ！\nウィスタリア家の威信を\nかけたバカンスの始まりを\nここに宣言しますわよ！=
 あなたさまが\nそばにいてくださることが、\nどれほど私を強くしているか、\nお気づきかしら？=Have you noticed how much stronger it makes me to have you at my side?
 あなたさまがいてくれれば\n私は不死鳥の如く蘇りますわ！\nさあ、一気呵成に\n決めてしまいましょう！=
 あなたさまが私の騎士になる日を\n私はいつまでも待っていますわ\nその時には、二人で\n色々な場所に行きますわよ！=I'll wait as long as it takes for you to become my knight. Then we'll travel the world!
 あなたさまとクリスマスを共に\n過ごせてうれしいですわ！\nさあ、さっそくパーティーの\n準備をいたしましょう♪=
 あなたさまと一緒なら、\n私は迷わずに、\nどこまでもまっすぐ進みますわ！=With you at my side, I feel no hesitation. I'll proceed no matter what lies ahead!
 あなたさまと一緒にいると\n知らない世界を知ることが\nできますわ。さあ、次は何を\n見せてくださるの？=
+あなたさまの誕生日をこうして\n一緒にお祝いできるなんて…\nこの幸せな時間、私にとっても\n最高の思い出になりますわ=
 あなたといると、\nドキドキしたり、苦しくなったり…\nでも、なんか…嬉しいんだ=When we're together, my heart races and my chest gets tight. But, like, in a good way.
 あなたとこの蒼い空を守る…！\n私たちならきっとできるよ！\nさあ立って！　一緒に戦おう！=
 あなたとの冒険はいつだって\nワクワクがいっぱい！\nさあ、次はどこへ行こっか！\nその道は絶対空に続いてるから！=
@@ -355,6 +357,7 @@
 いつも助けられてばっかりだから\n…今度は私が先輩を助けます！\nお、恩返しがしたいんです！=You're always helping me when I'm in trouble, so now it's my turn to help you! I... I want to repay you for everything!
 いつも失敗してすみません…\nは、腹を切ってお詫びをっ！\n…え、そっちの方が迷惑？=Sorry I always mess up. I'll atone by committing seppuku! Huh? That'd be worse?
 いつも実験に協力してくれて\nありがとう。お礼に今度、\nとっておきの秘薬をあげるわ♪=Thank you for helping with my experiments. As thanks, I made a special potion for you.
+いつも慌ただしいからこそ\n今だけはあなたさまと…\nこの潮騒と夕焼けのひと時に\n身を委ねていたいのです=
 いつも私は君のことを助手くんと\n呼んでいるだろう？　でも今は、\n遊びに来ているわけだから…\nその…やっぱりなんでもないっ！=
 いまのアタシなら、\n箒で空も飛べちゃうかも～♪\nそのときは、アンタもちゃんと\n乗せてあげるわね=I can hop on my broom and fly through the sky anytime I want. ♪ But don't worry. I'll let you on as well.
 いまのお稽古、どうでしたか？\nひゃわ…！？\n頭は撫でないでくださいぃ…！\nよかったのは分かったので…！=
@@ -638,6 +641,7 @@
 お誕生日おめでとうございます！\nこんな日に\nあなたと一緒に居られるなんて…\n友達ができるよりうれしいです♪=I hope your birthday is full of happiness! I can't believe you're spending it with me... This is even better than making friends!
 お誕生日おめでとうございます！\nプ、プレ、プレゼントどうぞっ！\n先輩に似合う服を見つけました\nそれから次は、先輩が好きな…=H-happy birthday to you!\nLook, I b-brought a p-present!\nI just know these clothes will suit you! Next up, I got your favorite...
 お誕生日おめでとうございます！\n今日のために色々と\n用意させていただきましたので、\n精いっぱいお祝いいたしますね=Happy birthday!\nI prepared plenty of special treats to celebrate, so let's all have a wonderful time.
+お誕生日おめでとうございます！\n今日はどんなお願いだって\nフルパワーで叶えちゃいますっ！\nさあさあ、なんなりとっ♪=
 お誕生日おめでとうございます！\n可愛い後輩から可愛いちぇるを\nプレゼント！　ちぇる～ん☆\n良かったですね、一生ものですよ=
 お誕生日おめでとうございます！\n可愛い後輩から可愛い笑顔を\nプレゼント！　ちぇる～ん☆\n良かったですね、一生ものですよ=A very chelly birthday to you!\nYou can have this adorable smile as a present! Cheru~n! ☆ Isn't that the best? Treasure it for life!
 お誕生日おめでとうございます！\n森にいる小鳥さんたちと\n合唱団を結成して、\nお祝いの歌を作ってきました！=A very happy birthday to you!\nI formed my own little chorus with the birds in the forest, and we'd like to sing for you now!
@@ -746,6 +750,7 @@
 きょ、今日は友達運が最高！？\n誰かに話しかけられるかもって…\n早速話しかけられる練習を\n始めないと…！=M-my fortune today is perfect for making friends? Promising new encounters await? I'd better hide away and practice in preparation!
 きらーん☆\nこれがハツネちゃんの本気だよ！\nキミが元気にがんばれるように\n私もいっぱい応援するからね！=
 きらめく太陽に美しい海…\n夏まっさかり、ですね\nあなたと過ごす夏がどんなものに\nなるのか…楽しみです。ふふ=
+きらめく海に輝く太陽…\nそして魅力的な私！\n夏を楽しむのに、これ以上\n必要なものがありまして？=
 きれいな湖じゃのう…\nじゃが、油断は禁物じゃ\nお主は泳ぎが苦手であろう？\nわらわの傍を離れるでないぞ=
 きれいな花畑よね…\nわ、私みたいなのには\n似合わないかもだけど\n…な、何でもないわ=What a pretty meadow. I-I don't think I fit this backdrop... Oh, um, never mind.
 キ、キリっとした顔で、\n先輩に成長したところを\nちゃんと見せなきゃ…！\n眉毛をあげればいいのかな…？=
@@ -869,6 +874,7 @@
 こうやってお兄ちゃんと一緒に\n居ると、本当の兄妹みたいだね\nえへへ♪　今日は妹として、\n思いっきり甘えちゃおうかな♪=
 こうやって踊れば、\n幽霊とだって友達になれるさ～♪\nほら、キミも一緒に\n自由に楽しく踊るさー！=
 こう暑いと、かき氷が食べたいね\nお前さんも一緒にどうだい？\n色んな種類があるみたいだし\n別々の味を買おうじゃないか=
+こう見えてもわたし、\nシュヴァリエなんですっ！\n『王家の装備』を\nお守りしてるんですよっ！=
 こう見えて私は女なんだ\nわけあって鎧は外せないが\nよろしく頼むよ=There are reasons why I can't remove my armor, but I'm still a woman under this mask.
 こう見えて薬で治すだけじゃなく\n手術の腕もなかなかなのよ\n痛みなんて感じさせないわ…♪=
 ごきげんよう\n私が一人前の商人になるため、\nご指導ご鞭撻のほど\nよろしくお願いしますわ！=Good day. I request your guidance and support to help me become a true merchant!
@@ -1120,6 +1126,7 @@
 ずっとずっと、こうして主さまと\n過ごしていたいです…\nいずれお勤めに戻らなくては\nなりませんが、それでも…=
 ずっと剣を扱ってきたからか\n魔法にはまだ慣れないな…\nしかし剣先から光線が出るのは\nなぜかワクワクするな…！=
 ずっと胸がドキドキして\nどうにも抑えきれないんだ\n…夏の雰囲気に\n私も当てられたのかな…？=
+ずっと走り続けていれば\nいつか疲れ切ってしまいますわ\nさざ波の音に耳を傾け\nしばしの休憩といたしましょう♪=
 スタイリッシュなレディの魅力に\nメロメロなのはわかるけど…\nそ、そんなに見つめられると\nさすがに恥ずかしいわ…もうっ！=
 ステージに立つからには\nチャレンジする気持ちを\n忘れたらダメだよね！\nこれからも前向きにいくよー！=You've gotta be ready to step outside your comfort zone to be on-stage! I can do this!
 ステージの上ってこんなに\nキラキラしてるんですね…！\n私、もっとお芝居上手になって\nいろんな人を笑顔にしたいですぅ=
@@ -1276,6 +1283,7 @@
 ときどき…詩を書いたりもするの\n…あなたの詩も書いたけれど…\nダ、ダメ…見せられないわ\n恥ずかしいもの…=
 どきなさーい魔物ども♪\nレディ・ミサキのお通りよ！\nアンタはちゃんと、\nエスコートしなさいよね！=Beat it, monsters! Lady Misaki's coming through! And you, you have to escort me!
 ときに後輩、君はどこぞの学院で\nスポーツを学んできたらしいな\nそれはどういった類の…\nなに、海で野球？　難しいな…=
+どこに逃げてもロックオン！\nわたしの両手は甘くないです！\nひっさつ！\nダブルロケットぱーんちっ！=
 ところで、あんたはあたしの\n仮装をどう思ってるの？\n…お腹が寒そうだって？\nそういうことじゃないよ～！=
 とにかく目立たない！\nそして、常に隅っこに！\nこうすれば、ぼっちの私でも\n平和な学院生活が…ひぃ！！=Always keep a low profile!\nStick close to dark corners!\nThat way, even a loner can enjoy a peaceful school lif— Aaagh!
 どのような女性が好みですか？\n明るい私？　クールな私？\nもの静かな私？　…もちろん、\n私以外の方ではありませんよね？=What sort of girl do you want? Should I be cheery? Chill? You do only want me, right?
@@ -1357,6 +1365,7 @@
 なんでずっと見つめてるかって？\nお兄ちゃんと一緒に過ごす\nクリスマスを、いつまでも\n覚えていたいから！　ですよ♪=
 なんでもかんでもどんなことでも\nお姉ちゃんに言ってね！\nもっともっと頼って甘えて～\n遠慮しないでいいんだぞっ☆=You can talk to me about absolutely any tiny little thing. Let me take care of it!
 なんて優しい風…\nふふっ…まるで精霊たちが、\nわたくしと主さまを\n祝福してくれているようです♪=Ah, the wind feels so tender...\nEheh. It is as though the spirits are bestowing all their blessings upon me, and upon my lord.
+ナイトさんのこと、\nもっともっと教えてくださいっ！\nわたし、あなたに\n興味津々みたいなんですっ♪=
 ナデナデしてあげようか？\nそれとも肩もみ？　膝枕？\nチョコとセットで、お姉ちゃんの\nあま～いお世話はいかがっ？=Do you want any headpats? Or a shoulder rub? Or would you like to rest in my lap? Your big sis can be as sweet as any chocolate!
 にいちゃーん！\n早く早くっ探検に行こっ！\nにいちゃんのこと\n待ってたんだよ！=C'mon, mister! Hurry up! Let's go exploring! I've been waiting for you!
 にいちゃん、もっともっと\n遊ぼうね。約束だよ！\nほら、指切りげんまん♪=Let's play together lots and lots more! It's a promise! C'mon, you gotta pinky swear!
@@ -1487,6 +1496,7 @@
 ハッピーバースデーお兄ちゃん！\nサンタでエンジェルな\nアカリが、いーっぱい\nお祝いしてあげますね♪=
 ハッピーバースデーお兄ちゃん！\n気になる誕生日プレゼントは～…\nそう、お兄ちゃんの大好きな妹！\n私も大好きです、えへへ…=
 ハッピーバースデーだべ！\n今日はあんちゃんのためだけに\n渾身ネタを、飛ばーすでー！\nいっぱい笑ってほしいべよ♪=Happy birthday to ya! I reckon this "presents" an opportunity for me to "cake" you with gags!\nYou knew it was in the "cards"!
+ハッピーバースデーですわね！\nささやかなお祝いですが、記念に\n打ち上げ花火を用意しましたの\n一万発では少なすぎるかしら？=
 ハッピーバースデートゥーユー…\n…ふふ。あなたをお祝いする曲を\n歌えることがこんなにうれしい…\n来年もまた、聴いてね…？=
 ハッピーバースデートゥーユー♪\n人間の男の子の誕生日をこうして\nお祝いできるなんてね…\n私がプレゼントをもらった気分♪=Happy birthday to you! ♪ I never thought I'd get to celebrate a boy's birthday like this. Feels like I'm the one that's gotten a present!
 ハッピーバースデーなの～！\nお祝いのプリンケーキなの！\nほら、早くローソク吹き消すの！\nミヤコも食べたいの～！=
@@ -1624,6 +1634,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 ぼっちだとしても…\n私にもきっとできることが\nあるはずだって思ったんです\n精一杯がんばりますね！=I just know there's some way I can help, even on my own. I'll give it all I've got!
 ぼっちの私に、誰かと一緒に\n作業する日が来るなんて…！\nまさか夢…！？\n絶対そうに決まってます〜！=
 ほら、あたしを連れていきなさい\nまたあんたのそばにいてあげるわ\n今度こそ、最後の最後までね=
+ほら、あなたさまも\nもっと近くに来てくださいな\nふふっ…捕まえましたわ♪\nさ、こちらで横になって…♪=
 ほら、コーヒーを淹れたから\n貴公も少し休憩するといい\n疲れが溜まっているようなら\nパンケーキもつけてやろう♪=
 ほら、口元にチョコが付いてるよ\nお姉ちゃんがとって…あむ\nうん、とっても甘い♪=Oh dear, you've got chocolate around your mouth! Here, let me wipe that off... Mmmm. It tastes just as sweet as you!
 ほら、行くわよ\n疲れたっていうなら\n手繋いでやっても…て、本当に\n繋ぐ気？　べ、別にいいけど…=C'mon, hurry up. If you're tired already, I can always hold your hand... Wait, you really want to do that?! W-well, fine, I guess...
@@ -1632,6 +1643,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 ほらほら、早く出かけようよ！\nワクワクの冒険が待ってるぞ～！\nあ、その後はレッスンするから\nちゃーんと手伝ってね☆=Come on, let's get going! There are big adventures waiting for us!\nOh, and I've got lessons after that, so help me with those too!
 ほら空には白いハトが飛んでるよ\nまるで羽根が雪のように舞って\n世界が輝いているようだ…\nふふ…少年、メリークリスマス=
 ほれ、もっと近う寄るのじゃ\nわらわの晴れ着姿、とくと\nその目に焼きつけるがよい\n…お主にだけ特別、じゃぞ？=
+ほんとはハグとか握手とか\nいっぱいしたいんですけどねっ？\nわたしのパワーってちょっと\nすごすぎちゃって！　我慢です～=
 ほんのり赤くなってる？\nいやだ、見ないで恥ずかしいわ\n男の人に裸足を見せたのなんて\nこれが初めてだもの…=
 ポーズを決めてるんじゃなくて！\nバランス！　崩して！　落下中！\nピンチなんですよ、お兄さん！\nボーっとしてる場合ですかっ！？=
 ボクという存在を後世に残すため\n絵画を描いてもらおうと思ってね\n有名な画家に依頼したから\nサイフの中身は空っぽさ=
@@ -1785,6 +1797,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 よっしゃー！\n敵が全部片付いたら、\n二人でパーッと飯だ飯！\nお前の好物たくさん作ってやる！=Aww yeah! Enemies are KO'ed, so let's blow off some steam and eat! What'cha craving?
 よってらっしゃい\n見てらっしゃいにゃ！\nここにしかないスイーツが\n看板メニューにゃ！=Come one, come all,\nto our beach cafe!\nNyow with a new sweet treat\nyou won't find anywhere else!
 ライクからラブになるには\n「キュン★」が大切ですからー\nだからもっともーっと…\n「キュン★」な展開希望です★=
+ライラエルさまは\nとってもとっても優しいんですっ\nいつも笑顔でわたしの話を\n聞いてくださるんですよ～っ！=
 ラズール・レオ！　…違うかな？\nもっとこう、相手を貫くように…\nもう一回！　ラズール・レオ！=Lazuli Leo! ...No, wait a minute.\nI need to focus on the image of my blade piercing the enemy...\nOne more time! Lazuli Leo!
 ラブリーキュアリーブレイブリー\nマジカルレベルインフィニット！\n魔法提督ラブリー★モニカ\n空に代わって指揮を執る！=
 ランウェイの上から、絶対に\nヒデサイを見つけちゃうし！\nだからヒデサイも、うちのこと\n見ててね？　絶対約束だかんね♪=
@@ -1829,9 +1842,11 @@ fun in their costumes.\n...No, of course I'm not scared!
 わたくしは自然と共に、\n主さまのお力となります=I shall be one with the natural world in serving you, my lord.
 わたし、もっともっと強くなって\nあなたを守り続けてみせます！\nずっとあなたといたいですから♪=I'm going to get stronger and stronger, until I can protect you\nno matter what! 'Cause I want us to always stay together! ♪
 わたしがごはんのことばかり\n考えてると思っていませんか？\n半分は正解ですけど、もう半分は\n…あなたのことですよ☆=Be honest—do you think I'm always thinking about food?\nWell, you're half right, but the other half... is all about you! ☆
+わたしからハグとかすると\n危ないので…なのでっ！\nナイトさんからしてもらえたり\nしないかな～って！　えへへっ♪=
 わたしに出来ることがあったら、\n何でも言ってね\nちょっとした怪我なら、\nすぐに治せるよ=Let me know if there's anything you need me for! I can heal up little cuts and scratches in no time!
 わたしのそばから離れないで\nくださいね？　王女命令であり\nただのペコリーヌからの\n一生のお願いです☆=
 わたしの着物、似合ってますか？\n髪もいつもと違うんです\nもっと近くで見てください\n特別ですよ☆=
+わたしを充填できる人が\nもう一人いるなんて、ぜーんぜん\n知りませんでしたっ！\nナイトさんってすごいんですね♪=
 わらわこそが夜を統べる者\nさあ、夜の散歩へゆくぞ\nついてくるがよい=
 わらわの真の姿は美しかろう？\nなに？　見慣れてないから\nいつもの方が良い？　なんと\n張り合いのないことを…！=Is my true form not breathtaking? Hmm? You prefer my usual form? How boring of you!
 わらわの美貌を\n引き立てる良い衣装じゃな\n…これで、あやつを\n誘惑するのもよいかもしれぬ♪=This garb is a fine complement to the beauty I naturally possess.\n...Perhaps it will even increase my chances of seducing him! ♪
@@ -2033,6 +2048,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 今日はキミの誕生日みたいにゃ！\nだから今日だけ特別に\nたい焼き食べ放題に\nしてあげるにゃ～=Aren't you celebrating your birthday right nyow? As a special treat, I'll give you as much taiyaki as you can eat... for free!
 今日はキミの誕生日よね？\nお祝いのケーキを作ってみたの\n自分で作ると節約できるし、\n味にもけっこう自信あるのよ！=
 今日はどんなご本を\n読もうかしら…\nあなたは、どれが好き？=What sort of book should I read today? What type is your favorite?
+今日はナイトさんのお誕生日っ♪\nいっぱいいっぱいおめでとうって\n言わせてくださいねっ！=
 今日はニャットちゃんを洗って…\n…え？　お世話してえらい？\nふふ、私はニャットちゃんの\nママ代わりですからね♪=
 今日はねー、このあとイベントで\nモデルの仕事やるんだー\n良かったら見に来てよ！=I'm gonna be a model at an event today. You should come and see me!
 今日はピアノを弾きに\n行こうと思ってるんだ\n…その、アンと一緒に\n連弾する約束をしてて…=
@@ -2124,6 +2140,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 元気してるさー？\n私はいつでも元気だよー！\nさーさ、一緒に何するさー？=How're you holding up? I'm always in high spirits! Come on, let's have some fun!
 兄様はいつも優しくて、強くて、\n勇敢で、たくましくて…\nそれにその…すごく\nかっこいいおかた…です♪=
 兄様はこの姿のわたくしにも\n普段通り接してくださいますね\n…これはこれでかわいい？\nそ、そのようなご冗談は…！=
+充填してくれたときにもらった\nナイトさんのあったかさ…\nわたしのタンクにまだ残ってます\nだから…わたしは無敵ですっ！=
 先生にしてほしいことはある？\n…あらあら、そんなことを？\nうふふ。いいわよ、いらっしゃい\nあなたのお願いだものね…♪=
 先生の役目はあなたを見守ること\nあなたさえよければ、\nずっと私をそばにいさせてね\n成長するあなたを、見ていたいの=
 先生の授業、受けたいの？\nふふ…背伸びしたい年頃だもんね\nいいわ。ちょっぴり早いかも\nしれないけど、教えてあげる♪=
@@ -2192,6 +2209,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 古今東西の絵本ではなぁ、\nお姫はんを守るのは、\n王子はんの役目なんよ？=It's a prince's job to protect his princess, ya know. Any fairy tale could tell you that.
 可愛い弟くんを困らせる人は、\nお姉ちゃんが\nぜーんぶ成敗してあげる！=I'll punish anyone who bothers my sweet little bro!
 右を見ても左を見ても\nカップルばかりだけど…\nみんなの目に、私たちは…\nどう…映っているのかな…？=
+叶うならあなたさまと\nこの時間を永遠に…なんて\n…ふふ、何でもありませんわ\n先へ進んでこそ私たちですもの！=
 合体必殺攻撃なのだ～☆\n二人でカッコよく、\nキメちゃおうね、シオリン♪=
 同じ騎空士として\n一緒に頑張ろうね！\n何か困ったことがあったら\nいつでも相談して！=Let's do our best as fellow skyfarers! Don't hesitate to ask if you ever need anything!
 同年代の子と話しても、みんな\n子どもっぽくって退屈なのよね\nだからアンタと遊んであげるわよ\n感謝しなさいよね！=Kids my age are so childish. I get bored with them. So be glad I hang out with you!
@@ -2242,9 +2260,11 @@ fun in their costumes.\n...No, of course I'm not scared!
 変身できるからといって\n日々の鍛錬は欠かさないよ\nそうだ。キミも一緒にどう？\n特別メニューを組んであるんだ=
 変身できるのは、あなたのおかげ\nでもあるんだよね…だったら、\nこれからはず～っと一緒に居て\nもらわないと…な～んてね♪=
 夏って気分アガるよね♪\nヒデサイも応援してくれるし、\nもう怖いもんなしって感じだよ☆=The summer hype is real! ♪ Feels like I can take on the whole world when you're cheering me on, whiz-boy. ☆
+夏といえば…いえ春夏秋冬\nいつでもマイシーズンですわ！\n私に似合わない季節など\nありませんもの。そうでしょう？=
 夏といえばアイドルの季節！\n歌って、踊って、キラキラして！\nみーんなまとめて\n笑顔にしちゃうから！=
 夏と言えば、花火どす\n夜空に咲く大輪の花…\nはぁ、王子はんと二人で\n見に行きたいわぁ=It ain't summer without some\nlovely fireworks goin' off in the\nnight sky. *sigh* Wish I could\nwatch them along with my prince.
 夏には夏の、冬には冬の\nおいしい食べ物があるべよ！\nうちで採れた旬の味を\nあんちゃんにも食べてほしいべ=
+夏のグルメ、夏のレジャー…\n全て楽しみ切るなら\nいくら時間があっても\n足りませんわね♪=
 夏の夜空に花を咲かせましょう\nあなた様が私以外全て\n忘れてしまうくらい…めくるめく\n夢のような花火を…クスクスクス=
 夏の日差しって、開放的な\n気分にさせるわよね！\nあたしももう少し\n冒険してみようかしら♪=Summer sunshine really gives you that sense of freedom, doesn't it? I'm feeling up for a little adventure. ♪
 夏の楽しみ方は色々あるけど～\nこうして演奏するのは格別さ～\n聞こえる波のリズムに乗って\n心のままに音楽を楽しむさー！=There's a bunch of ways to enjoy summer, but it's hard to beat performing like this. I just let myself flow with the waves!
@@ -2257,6 +2277,7 @@ being with you just gets me extra hype, you know?
 夏の海は不思議の国どすえ\nうちと一緒に\n楽しく過ごしまひょ♪=The beach at this time of the year\nalways makes me feel like I'm in\nwonderland. Let's make the most\nof it together, my prince. ♪
 夏の海辺はロマンチックやねぇ\nこんな場所に王子はんと二人きり\nゆったり暮らしたいどすなぁ\n…お城はどこに建てまひょか♪=The seaside's always so romantic\nduring summer. I'd love to live\nhere alone with my prince. Where\nshould we build our castle? ♪
 夏の紫外線はすっごく強烈なの！\nキミも気をつけた方がいいよ？\n…というわけで\n私の日傘で相合い傘しよっか♪=
+夏の美しさに目を奪われるのも\n結構ですが、ちゃんと私も\n見てくださいませんと\n拗ねてしまいますわよ♪=
 夏はへんたいふしんしゃにも\n気をつけないといけません\n…私が見張ってますからね！\n絶対に離れちゃダメですよ！=
 夏は人を大胆にする、なんて\n信じてはいなかったのだけれど…\n今なら分かる気がするよ=
 夏は開放的な気持ちになりますね\n今なら素直に\n自分の想いを歌に込められそう…\n私の夏の歌、聴いてもらえますか=
@@ -2290,6 +2311,7 @@ being with you just gets me extra hype, you know?
 天使なボクの姿を\nもっと見たいのかい？\nキミにならいいよ\n心ゆくまでじっくりと見てて♪=
 天空より舞い降りし\nヴァイスフリューゲルの剣技！\nその華麗なる姿を、\n見せてやる！=The majesty of Weissflügel swordplay swoops down from the sky! Behold!
 太陽サンサン、波がざぷ～んっ♪\n気持ちいいね、おにいちゃん♪\nぷかぷか浮かんでるだけでも\nミミ、す～っごく幸せ♪=
+太陽はまばゆく燃える\nばかりではありませんわ\n夕焼けのように甘く焼き付く…\nそんな一面もありますのよ♪=
 失くしたはずの羽…\n大事にするわ。これであんたの\nピンチに駆けつけてあげるから=
 女の子は夢の国で暮らすことに、\n夢を見るんどすなぁ\n運命の王子はんと夢の国～♪=You oughtta know every girl dreams of livin' in a fairyland. With a Prince Charming by her side, of course!
 女性にこの倒木を\n破壊するのは無理、ですか？\nご託は結構ですので、\nそこで見ていてください=You think it's impossible for a girl of my stature to destroy a fallen tree?  Well, actions speak louder than words, so watch and learn.
@@ -2418,6 +2440,7 @@ being with you just gets me extra hype, you know?
 戦いの後ってすごく疲れるし、\nお腹が空くんだ…あなたも\n一緒にご飯なんてどうかな？=I'm always tired out after a battle, and hungry, too. Do you want to join me for a meal?
 戦いの指揮は私に任せろ！\n愛と希望に満ちた戦略で\n敵を討ち果たして見せよう\n最後の決めポーズまで完璧だ！=
 戦いや普段の時だけじゃなくて\nもっと色んな時間を騎士クンと\nずっっと一緒に過ごしたい…\n…まずは、食事に誘わなくちゃ！=
+戦うことはあんまり楽しくない\nですけど…悪い魔物さんを\n放置なんて絶対できませんっ！\nクローチェ、戦闘開始しますっ！=
 戦うなら、\n治療と援護はまかせて！\n攻撃はその、一緒に\n頑張って欲しい…かな=If you're heading to battle, I'll handle healing and support! As for attacking, um... I might need some help.
 戦うのは、わたしにまかせて！\n今の幸せも、未来の幸せも\n壊させたりしないよ…！\n今度こそ！　必ず！=
 戦うのは怖いけど、\n今は先輩がいるから\nとっても心強いです！=I'm still scared of fighting,\nbut when you're here with me,\nI feel much more powerful!
@@ -3069,6 +3092,7 @@ being with you just gets me extra hype, you know?
 魔法探偵ミスティ★カスミか…\nちょっとだけ楽しいかも♪\n…って、助手くん！？　\nい、今のは忘れてくれたまえ！=Magical Detective Misty★\nKasumi...This is actually kind\nof fun! ...Wait—dear assistant?!\nF-forget you heard that just now!
 魔法提督の指揮を見せてやろう！\n貴公、今すぐ街中のお菓子を\n買い占めてくるのだ！\n…すまん、冗談だ=
 魔物さんに襲われたんだけど、\n私の顔を見たら、\nまっ赤になって倒れちゃって…\nどうしたのかしら？=I ran into a monster, but it blushed and fell over when it saw my face. I wonder why.
+魔物さんの好き放題には\nさせませんよっ！\nこの国とみなさんを守るのも\nわたしの役目ですからっ！=
 魔物に追いかけられて、\n死ぬかと思ったの～\n…って、よく考えたら、\nもう死んでたの！=Monsters were chasing me! I thought I was a goner! But then I remembered, I'm already a goner!
 魔物に間違われることも多いけど\n私、運命なんかに負けないわ！\nあなたと会ってから、ますます\nそう思えるようになったの=Many people take me for a monster, but after meeting you, I learned not to let it bug me!
 魔物は怖い生き物。でも…\nレンジャーになってから\n色んなことを考えています\nこれが学ぶということなんですね=
