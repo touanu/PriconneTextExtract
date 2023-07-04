@@ -22,6 +22,7 @@
 …煩悩は去年に置いてきたはず\n気にしないで！　なんでもない！\nなんでもない、はずだから…=I was sure I parted ways with these feelings over the new year... Never mind me! It's nothing! I hope...
 …私の写真集みてるの？　この\n派手な水着は撮影用だってば！\nプライベートで着るやつは\nもっと可愛いもん。…見たい？=This flashy swimsuit's for the photo shoot! My personal one's much cuter. Wanna see it?
 …私は、自分の進む道は\n自らの手で切り開きたいんだ\nそしてその道は、大切な仲間と\nキミと一緒に歩んでいきたい=I don't want to let other people decide my future for me. I'll carve it out for myself, together with my precious friends and you.
+…考えてみれば、こうして\nゆっくり過ごす時間など\nいつ以来でしょうか\n…想い出に残る夜にしましょう=
 …記憶がなくても、キミの本質は\n変わらない。それを知った時は\n本当にうれしかったよ\nこれからもよろしくね、少年=
 …騎士クンと出会った時にね\nわたしの中にわたしとは違う\nもう１人の自分が生まれたの\nそのわたしも、騎士クンが…！=
 …魔法の力で捜査開始！\nた、誕生日のお祝いとして、\n君のためだけに変身して\nみたんだけど…ど、どうかな？=With a wave of my wand, I'm on the case! ...I-I thought I'd give you a private transformation for your birthday. D-did you like it?
@@ -506,6 +507,7 @@
 おや、お前さんもこの剣舞に\n興味があるのかい？\nなら手取り足取りキッチリと\n仕込んでやるよ=
 おや、今日は人助けはお休み？\n一人きりでのんびりしたいなら\n迷宮を作ってあげようか\nあれ？　なんで逃げるの？=
 おや、何をしてるのかな？\n不審な行動をしたら、\nあなたでも逮捕するよ？\nなんて、冗談だけど♪=Oh? What are you doing here?\nIf you make any sudden moves,\nI might have to arrest you.\n...Haha, I'm just kidding!
+おや、日差しが眩しいのですか？\nでは私のサングラスを使いなさい\n…ふふっ。いえ、失礼\nお似合いですよ、かわいらしくて=
 おや、震えているじゃないか\n寒いだと？　この軟弱者め\nだったらこのコートに入るか？\nふっ、遠慮しなくていいんだぞ♪=My, my. Do I see you shivering?\nTo think you can't even handle the cold. Come, take refuge in my coat. Hahah.... No need to be shy!
 お主…わらわと何処かで\n会ったことはないか？\nお主を見ていると、何故か\nなつかしさを覚えるのじゃが…=Have we met before?\nI have the oddest sense of nostalgia when I look at you.
 お主は、特別な眷属じゃ\n今より「昼を総べる者」を\n名乗るが良いぞ=You are my most special minion. Henceforth you should refer to yourself as "Ruler of the Day."
@@ -903,6 +905,7 @@
 このたくさんのハートの飾り\nアカリの想いが詰まってるんです\nどんな想いか分かりますか？\nねぇ、お兄ちゃん…♪=
 このつながりがある限り、\nどんな運命にだって負けないわ！\nさあ、とっとと片付けて、\nおいしいご飯を食べにいくわよ！=
 このドレス着てると、凄い力が\n勝手に出ちゃって不便なんだよね\nまあ、全然オッケーだけど！\n美は全てに優先されるからね♪=
+このナイトプールは貸切です\nつまり、ここでの出来事は\nなにもかも我々だけのもの…\n今夜のことは秘密ですよ？=
 このプレゼント、あやつは\n喜んでくれるじゃろうか…\nうう…なんだか\nドキドキしてきたのじゃ…=I wonder, will he be glad to receive this present...?\nUrgh... why must my heart\nbegin racing...?
 このペンと同じくらい武器を\n上手に扱えれば一緒に冒険\nできたんですけど事務仕事以外は\n苦手でして…ほんとですよ？=
 このポーズとこのポーズ\nどっちがかっこいいですか！？\n…どっちもかわいい？\nガ、ガキ扱いするなですよ！=
@@ -1605,6 +1608,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 ふふふ\nキミが怪我したら…\nぺろぺろ舐めてあげにゃくも…\nないかにゃ～？=If you get a scratch, I wouldn't mind licking it better. Myahaha!
 ふふん、華麗なもんでしょ\nあんたにだけ教えてやるけど\n実は最近まで初心者だったのよ\nほら、もっと驚きなさい！=Spectacular, right? Until recently I was a total beginner. Hey, act a little surprised!
 ふむ…そろそろ睡眠を\n取ろうと思っていたのだが、\n君が話相手になってくれるなら\n起きているのもやぶさかではない=Hrm... I was planning to retire\nto bed fairly soon, but if you'll\nprovide me with conversation,\nI may consider staying awake.
+ふむ…大人らしい水着で、\n私によく似合っている、と…\n褒め方を教えた覚えはないですが\nしかし…悪くありませんね=
 ふむふむ…この本によると\nそんな効果まで…？\n…あっ、独り言聞こえてました？\nお、お恥ずかしいです…=
 ファイトファイト～♪\nキミが元気いっぱい\nがんばれるように\n私がいっぱい応援するよ！=
 フッフッフ…とっておきの\n新忍法の見せどころデース！\nムム、まだ使っちゃダメデスか？\nショーグンのイケズデス～…=Heh heh heh... You're about to witness my latest ninja spectacle! What's that? I shouldn't use this one yet? Aw, but Shogun...!
@@ -1897,6 +1901,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 一緒にお餅つきをしましょうか～\nあなたがつき手で先生が返しね♪\n息を合わせてぺったんぺったん…\nふふふ、とっても上手よ〜♪=
 一緒に悪の組織を退治しに\n行くッス！　半人前でも\n二人で行けば一人前ッス！=Let's go take down some evil organizations! We're still barely halfway to being true heroes, but two halves make a whole!
 一緒に海に行くさ！\n水の中は、\n最高に気持ちいいさ～=Let's take a trip to the beach! Nothing feels better than the water on your skin!
+七冠とは利己的な存在\n当然、私も例外ではありません\nというわけで、貴方には私の夏に\n徹底的に付き合ってもらいますよ=
 万聖節の夜に舞い降りる\n南瓜の使者…！\nう～ん、決めゼリフどうしよう\nアンナたそに考えてもらおっか？=
 上り坂下り坂まさかの連続とは…\nふふっ、結婚もとんだ戦場だな\n何があっても手を離すなよ？\n病める時も健やかなる時もな☆=
 下克上のためなら\nどんな手でも使うですよ！\nなーに、バレなきゃいいんです！\n…バレたらもっと大変ですし=
@@ -1995,6 +2000,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 今日がキミの誕生日だったのね\nだったらお祝いをしないと！\nさあ、海でパーティーの食材を\nゲットしてくるわよ！=It's your birthday today, is it? Then we'd better celebrate in style! Let's go catch some fresh fish and throw a party!
 今日が誕生日ですか\nおめでとうございます\n…これ以上何か必要ですか？=It's your birthday today, is it?\nWell, have a happy one.\n...Did you want something else?
 今日が誕生日なんどすか？\nそれは、ほんにめでたいなあ～\n今日をマホマホ王国の\n記念日にしたいぐらいやわあ♪=It's your birthday? Well, ain't that a big event! Big enough that I wanna make today a national holiday in the Maho-Maho Kingdom!
+今日くらいはすべて忘れて\n羽を伸ばすことにします\n貴方もそうしなさい？\n我々は日々働きすぎなのですから=
 今日ってあんたの誕生日よね\nなんかしてほしいこととかある？\nあんたのこと、思いっきり\n甘やかしてあげるわ♪=
 今日ってお前の誕生日だよな？\nぐ、偶然、たまたま作った\nケーキがあるんだけど…\n食わねぇか？=It's your birthday today, right? I-I just happened to, you know, bake a cake for no real reason, so... Wanna have some of it?
 今日ってキミのお誕生日だよね！\nえへへ、忘れるわけないよ～！\nパーティの準備もばっちりだし、\nいっぱい楽しく過ごそうね！=
@@ -2235,6 +2241,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 君を虜にするための香水を\nつけてきたはずなのに、\nどうして魔物ばっかり…=I created this perfume specifically to snare you! Why does it only work on monsters?
 吸血鬼っていろいろな姿に\n変身できるみたいだけど…\nボク以上に美しいものには\nさすがになれないだろうね=
 吸血鬼の力の影響かな…\n時々、無性に飲みたくなるんだ…\nあの真っ赤なトマトジュースを！\n差し入れ、いつでも歓迎するよ♪=
+呆れるほどのお人よし…\n貴方を一言で表せばこうも単純\nなのに、私は貴方になれない…\nこの秘密をいつか暴いてみせます=
 周りのビンが気になりますか？\nご安心を、すべて調味料です\n料理するときは手になじむものを\n使いたいという、乙女心ですわ=You're wondering about all these bottles? Don't worry, they're only flavorings. I just prefer to use my usual equipment when cooking.
 周りはカップルだらけ…\n郷に入っては郷に従え！\nということで、その…\n二人で手を繋いでみませんか♪=
 呪文を唱えてる理由が知りたい？\nなんていうんだろう、魔法の形を\nイメージしやすくなるんだよね\n…それにほら、カッコいいでしょ=You want to know why I chant these incantations? I suppose it just helps me visualize the magic. And, you know... it sounds cool.
@@ -2281,6 +2288,7 @@ being with you just gets me extra hype, you know?
 夏はへんたいふしんしゃにも\n気をつけないといけません\n…私が見張ってますからね！\n絶対に離れちゃダメですよ！=
 夏は人を大胆にする、なんて\n信じてはいなかったのだけれど…\n今なら分かる気がするよ=
 夏は開放的な気持ちになりますね\n今なら素直に\n自分の想いを歌に込められそう…\n私の夏の歌、聴いてもらえますか=
+夏らしく貴方の誕生日を\n祝わせてもらいましょう。分身に\n腕利きの花火職人を模倣させます\n思う存分、花火を楽しみなさい=
 夏休みの一番の思い出は\nこのきれいな夜の海かな\n君と一緒に見たんだから\n一生忘れないわ、きっと…=The ocean's so pretty at night. I doubt I'll ever forget this sight, especially since I'm with you.
 外にいるのに何だか暑いって\n思うのは、もしかして…\nあんたが隣にいるから\nなのかしら…？=
 外出など普段はしないのですが…\n気が向いたので初詣に行きますよ\n…ええ、他意など一切ない\n単なる気まぐれです=
@@ -2513,6 +2521,7 @@ being with you just gets me extra hype, you know?
 暑い日は水分を欠かさないでね\n喉が渇いてなくてもこまめに…\nダ、ダメだよ騎士クン！\nわたしのはあげられないの！=
 暑くても元気いっぱいだよ！\nだって騎士くんと一緒だもん！\nもしも元気がないなら\nあたしのをあげちゃう！=
 暑さが辛くないのか、だと？\nふっ。私を誰だと思っている…\n我が闇の力をもってすれば\n夏の日差しなど敵ではない！=
+暑さ対策は万全にすべきです\nこの麦わら帽子を被りなさい\n…私の帽子とお揃いなことに、\n特に深い意味はありませんよ=
 暇だしあんた相手しなさいよ\n何をしたいか？　そうね…\nあんたが相手ならなんでもいいわ=
 月明かりと星の光…\nそれにどこまでも続く\n海だけが広がっていて…\n世界に二人きりみたいですね=
 有能な弟子がいてくれて助かるわ\nえ？　お給料がほしい？\nそうねぇ…あぁ、あのさ\nこの水着姿がお代じゃダメ？=I'm lucky to have a fine student to help me. What's that? Payment? Hmmm... Isn't seeing me in this swimsuit payment enough?
@@ -2695,6 +2704,7 @@ being with you just gets me extra hype, you know?
 私、自分の誕生日が分からなくて\n…だから、お祝いとかできないの\nその分、あなたの誕生日を\nお祝いさせて貰っていいかしら？=
 私、魔法少女になったんです\n私もお姉ちゃんみたいに\nたくさん人助けできたらいいな\nなんて…えへへ=I've become a real magical girl!\nDoes this mean I'll be able to help lots of people just like my sister?\nI hope so... Eheheh...
 私が！　私たちが！\nサイカワサイツヨ\n魔法少女なのだ！\nいくぞ相棒！=
+私が…いえ、私たちが\n存分にもてなしてあげますよ\n貴方の望む夏を\n実現してあげましょう=
 私があなたを癒してあげる…♪\n心も体も、全部先生に任せてね\n今だけは何も考えずに\n私のぬくもりを感じてていいのよ=
 私がお姫様になったら\n何をしようかしら…\n王子様と二人きりの舞踏会とか\nしてみたいわね♪=I wonder what I would do if were a princess... I'd like to throw a ball just for me and my prince. ♪
 私がこんな風にリラックス\nできるのはキミの前だけよ～\n迷惑かけちゃうかもしれないけど\nキミは許してくれるわよね…♪=I never feel quite this relaxed except when I'm with you! I know I'm probably a total nuisance, but you'll forgive me, won't you?
@@ -2772,6 +2782,7 @@ being with you just gets me extra hype, you know?
 私を狂わせるのも\n私を満たすのも、あなた様\nそう…私の全ては\nあなた様次第なのですわ=
 私を迎えてくれた\n【美食殿】のみんな、\nそれにあなたも…\n絶対に、守ってみせるわ！=
 科学の発展はみんなのため\nこう見えても、病気や怪我を\n治すのが目標なの=Science is meant to benefit everyone. My goal really is to heal people, you know.
+秘密とは人にとって大事なもの…\n貴方も秘密を作るといいでしょう\nただし、私にだけはその内容を\n共有すること。いいですね？=
 稽古に付き合ってほしいな\n大丈夫大丈夫！\nきちんと手加減するから！\nふふ、多分だけどね=I'd like to do some training with you. Don't worry, don't worry!\nOf course I'll go easy on you!\nHaha... Unless I change my mind.
 空に剣の光が輝き続ける限り\n私は負けない！　だって私には\nあなたとの冒険が待ってるから！=
 空も海も輝いて…この世の\n全てが、主さまのお誕生日を\n祝福しているようです\nわたくしも心よりお祝いします♪=The sky and sea are sparkling...\nIt's as though the world itself is celebrating the day of your birth, my lord. It fills my heart with joy.
@@ -2834,6 +2845,7 @@ being with you just gets me extra hype, you know?
 花火って夏のイメージだけど…\n秋に見る花火も最高さ～！\nやっぱりランドソルの\nハロウィンはすごいね～♪=
 英霊よ、我が声に応えよ！\nみんなを護るために\nあなたの力を貸して！=Spirits! Heed my call! Lend me your strength, and help me protect my friends!
 荒事は好みじゃないけど…\n事件解決のためなら\nおとなしくしているつもりは\nないんだよっ！=I'm not one for violence, but I'm more than willing to take matters into my own hands if the case requires it!
+虫取り網をプレゼントした程度で\nそこまで喜ぶとは…まあ、\n気に入ったのならいいのですが\n…ハッピーバースデー=
 虫歯になっちゃいそう？\n大丈夫だよっ、お姉ちゃんが\n弟くんの歯を綺麗に磨いてあげる\nあーんしてみて♪=You're concerned about getting cavities? Don't worry, your big sis will scrub those teeth all clean!\nGo on, say "ah"!
 行儀が悪い？　なに、寝転がって\n読もうが背筋を正して読もうが、\n頭に入れてしまえば同じ知識さ\n君も隣りで横になりたまえよ=My manners are lacking? Please.\nThe words are the same whether I read them upright or reclining. Now, come and laze by my side.
 街のみんながこんなに\n応援してくれてんだ！\n絶対に爆笑をかっさらうべよ！=All the folks from in town are supportin' me! I gotta knock 'em dead with my jokes!

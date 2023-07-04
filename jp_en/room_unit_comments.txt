@@ -65,6 +65,7 @@
 …練習に\n使うのはさすがに\n可哀そうね=I'd feel bad about using it for practice.
 …袖から手が\n出せないから\nこのまま撫でよう\nよしよし=
 …貴方がその眠たげな\n顔を洗ってくる間に、\n温かいお茶でも\n淹れておきましょう=
+…貴方が望むならば\nいくらでも怖い話を\nしてあげますが…\nいかがですか？=
 …香炉かしら？\nこちらの世界にも\n質のよい物があるのね=Is this... incense?\nThis world's items seem fairly high in quality.
 …騎士くんがいないと\nなんか調子でない…\n早く会いたいよぉ…=
 …騎士クンって\nおせち料理で\n何が好きなんだろう？=I wonder what sort of osechi dishes Mr. Knight likes?
@@ -171,6 +172,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ああ～ダメになるぅ…\nもうここでずっと\nゲームしてた～い=
 あぁーん♪\nこういう物語みたいな\n恋愛あこがれる～　=Ahhh! ♪ I just love these sort of fairytale romances!
 ああっ、暖気がまるで\nロウソクのように\nクウカを攻めますっ！=Ahh! The heat is like burning candles, punishing my body!
+ああ見えてもマサキは\n私のプリンセスナイト\nあまり侮られては\n困りますよ？=
 あいつ、早く\n帰ってこないかな=I wish he'd get back soon.
 あいつ\n腹すかせてないと\nいいんだけど…=I just hope he has enough to eat.
 あいつが来たら、\n尾行しなくちゃ♪=Once he gets here, I've gotta shadow him. ♪
@@ -1884,6 +1886,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ここは、みなさまと…\nわたくしの\n帰る場所でございます=
 ここはいいとこだべ\nうちの動物たちも\n連れてきてやりてぇな=I sure do love this place. Wish I could bring all the animals here to enjoy it too!
 ここは夜でも\nにぎやかですね=This place is always\nso lively, even at night.
+ここは誰かの秘密を\n盗み聞くのに\n最適な場所ですね\n…ジョークですよ=
 ここは賑やかだけど…\nうるさいとは感じない\nむしろ、心地いい…=
 ここももう少し広いと\n落ち着くのですけど。\n改築しませんこと？=This place would be relaxing if it were just a little larger... Shall we renovate?
 ここを私のチョコで\n埋め尽くしますわ=I'll fill this place to the brim with my chocolate...
@@ -2406,6 +2409,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 せっかくだし\nこの子にも晴れ着を\n着せてあげたいね=
 せっかくですから\nより良い素材を\n自分で集めたいですね=
 せっかくの\nクリスマスなんだもの\nエスコート\nよろしくね♪=
+せっかくのバカンス…\n自由に羽を\n伸ばすとしましょう=
 せっかくの夏だし\n肝試しに\n行ってみたいかも…=
 せっかくの正月休みだ\nたまにはゆっくりと\n本でも読もうかね=
 せっかくの水着だし\n泳ぐ練習でも\nしてみようかしら=
@@ -2415,6 +2419,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 せっかく海に来たのだ\n泳ぎも上手に\nなりたいものだな=
 せっかく羽が\nついてるのに\n飛べないのが残念だわ=
 ぜひおすすめしたい\n依頼があるんです\nこちらをどうぞ♪=
+セミの鳴き声に入道雲\nそしてクリームソーダ\nこれでこそ夏ですね=
 センサーによると…\nこの香りはいい香りに\n該当するみたいですっ\nなるほどーっ！=
 センスがあって\nいいお部屋ですわね\n私も見習いたいですわ=
 そ、そんなに\n見つめられると\nて、照れちゃいます…=Wh-when you stare at me so intensely, it m-makes me blush...
@@ -2493,6 +2498,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 たくさん運動して\n動きでも笑いがとれる\nように頑張るべ～！=I gotta keep up my workouts to make better skits!
 ただいま☆\n幸せ特盛りの\nわたしの日常！=
 ただの砂遊びも\nあんたと一緒なら\n楽しいから不思議ね…=It's strange how something as simple as building sandcastles and such can be so fun when I'm with you.
+たとえどのような\n秘密を持とうとも\n私には筒抜けですよ=
 たとえぼっちを\n卒業しても…\n私は一生ＢＢ団です！=
 たとえ怪盗でも、人の\n家にお邪魔するときは\n身だしなみをしっかり\nしないと…=
 たとえ水着姿でも\n困ってる人を見たら\n助けに行くからね！=
@@ -2736,6 +2742,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 なかなかいいだろ？\nこの格好。キミも\n作ってもらったら\nどうだ？=
 なかなかいいモフりを\nしてやがるです…\n舎弟にしてやるですよ=
 なかなか愛らしい\n造形をしているな？\nワタシには負けるがな=These features hold a certain charm...\nThough it could never match my own!
+なかなか気に入った…\nというのは\n誰にも秘密です=
 なごんじゃうわね…\nよぉし、次のバイトも\n頑張らないと！=Aww, how sweet.\nAll right, I feel ready to take on my next challenge!
 なぜか、動物などに\n好かれる体質で…\n迷い猫捜しのバイトの\nお役に立てますか？=
 なぜだか\n眠り足りないような\n感じがしますわ…=For some reason, I feel like I need more sleep...
@@ -3291,6 +3298,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ふむ、昼餉時か…\n今日のランチは\nサプリ定食にしよう=Hrm, it's the hour for luncheon. I think I'll have a platter of dietary supplements.
 ふむ、良い香りじゃ\n聖夜の宴でも\nこれを使うとしよう=Hmm, this scent pleases the senses...\nIt will be a fine accompaniment to our festivities.
 ふむ、都会は夜でも\nこんなにも、にぎやか\nなのですね=Hm, I didn't know cities were so lively at night.
+ふむ…夏らしい\nクッションですね\nナイトプールに\n映えそうです=
 ふむ…鎧がないと\nページがめくりやすい=
 ふむ…面白い！\n今度全巻\n借りにこようっと=
 ふむふむ、なるほど\n友だちを作るには\n笑顔が大事っと…=Ah, I see now. A smile is important for making friends.
@@ -4062,8 +4070,10 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 一緒に勉強して立派な\n大人になりましょうね\n私がそばで見張ってて\nあげます=
 一緒に忍法考える\nデス！\nショーグン用の\n忍法も必要デスね！=Let's come up with ninpo skills together! You need some ninpo, too, Shogun!
 一緒に部屋の\n整頓でもする？\nハマると楽しいわよ♪=Want to clean the place up together? It's pretty addictive. ♪
+一緒に風鈴の音を\nのんびり楽しもう…？\n…別に構いませんよ\n貴方とならば=
 一緒の時間が楽しくて\nバイトのことを\n忘れちゃいそうね=Spending time with you\nis so much fun, I almost forget to go to my jobs...
 一部の人からは\n海賊より海賊らしいと\n評判の父です=
+七冠にも休息は\n必要なのです\nしばらくここで\n休ませてもらいますよ=
 上手くいけば\nヒット商品になる\nポテンシャルを\n感じますわね…！=
 下克上…いい言葉です\nって、ボスに聞かれて\nないですよね…？=
 不届き者はどこで\nゴザルデス？　忍法で\n退治してくれヨウ！=Where are the evil intrudifiers?! I will ninja them into oblivion!
@@ -4601,6 +4611,8 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 変身の反動で\nお腹が空いても\n魔物料理だけは\nいやだからね！？=
 変身ポーズ中の動き、\n少し変えた方が\nいいかな…\nあなたはどう思う？=
 夏が眩しいのは\nてぃーだがにこにこ\n笑ってるからさ～！=Summer's always so bright 'cause the sun is smiling down on us!
+夏だからこそ\n冷え対策は\n重要なのです\n…とはいえ暑いですね=
+夏だからといって\n浮かれすぎないように\n節度を持って\n楽しみなさい？=
 夏といえば\nかき氷だよね\n近くにお店は…=
 夏といえば海にスイカ\n花火に水着…\nそして惚れ薬ですわ…=
 夏と言えば\nバカンスですけど…\n予定、あるんですか？=
@@ -4633,11 +4645,13 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 夏らしい爽やかで\nいい匂い…あなたに\nピッタリな香りですね=
 夏を楽しみきるには\nエネルギーが\n必要だからね=
 夏を楽しむときは\n休憩も大事ですよね\n計画的に、計画的に！=
+夏を舞台にした\n小説は数多くあります\n彼が好きそうな本を\n何冊か見繕いましょう=
 夏休み、\n毎日たのしいな～♪\nつぎはなにしよう？=
 夏休みって、\nワクワクして\n早起きしちゃうよね♪=
 夏休みって、\n給食ないから…\nそれはちょっぴり\nさみしいかも…？=
 夏休みのご飯って\nなんだかとくべつ\nおいしい気がするね♪=
 夏休みの宿題で\nポスターかくんだ～♪\nおにいちゃんを\nかいてもいい？=
+夏休みの宿題でも\n作るとしましょうか\n彼の限界を少し超えた\n負荷を与えるには…=
 夏休みの宿題は\nちゃんとやった？\n遊んでばかりではダメ=Have you done your summer homework? Playing's all good, but don't forget about that.
 夏休みの宿題は\n計画的に進めましょう\n当たり前のことです！=
 夏休み中でも\nしっかりお勉強\nしないと！=Studying's still important, even during the summer holidays!
@@ -4774,6 +4788,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 子どもたちにサインを\n求められてしまった…\nこれもまた私の使命！=
 子どもたちのために\n浮き輪を用意して\nおかないと…=I should get some swim rings for the children.
 子供たちの遊びって\nあたしが子供の頃と\nあまり変わらないのね=Children's games haven’t changed much since I was young.
+子供だましの怪談に\n関心はありませんが…\n霊には興味があります\n観察対象として、ね=
 学校に\n遅刻しないように\n早く準備しないとね=I have to get ready fast so I'm not late for school.
 学校の図書室に\n恋愛小説を\n置いて欲しいなあ=I wish they had romance novels in the school library.
 学校の給食でも\n食べたいわぁ～=It'd be nice if they served this at school, too.
@@ -4922,6 +4937,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 彼と二人で\n買い物に…って…\nこれってデートに\nなっちゃうのかな！？=
 彼と凧揚げして\n遊びたいけど\n森では引っかかって\nできないかしら…？=
 彼と私\n釣り合うかな…\n大丈夫よね？=I wonder if he and I are compatible... We must be!
+彼と過ごす夏を\n特別なものにしたい…\nそれが私の望みです=
 彼には私がいないと\n…っていうのは少し\n過保護すぎるかしら？=Is it too audacious of me to think he needs me by his side?
 彼に罵られたら\nどんな気分かしら\n意外と快感かも？=How would it feel if he yelled at me...? Mhm... Pretty pleasant?
 彼に負けないよう\n私も更に強くなろう\n共に戦うために！=I must become as strong as he is so that we can fight beside each other!
@@ -4929,6 +4945,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 彼のために、\n特別なイタズラを\n考えとくさ～♪=
 彼の分の食器も\nこっそり買い揃えちゃ\nおうかな…そ、それは\nさすがにまだ早いか…=
 彼の着物姿\nきっと凛々しいわよね\n想像しただけで\n笑顔になるわ～♪=
+彼の絵日記…\nあとでゆっくりと\n読ませてもらいます=
 彼は\nどこまで強くなるのか\n私も負けられないな=No matter how strong he becomes, I must not fall behind.
 彼は優しいから、\nきっと良い\nお父さんになるわね=That kindness of his will make him a fantastic father.
 彼以外を選んでいたら\n今回の事態は\n乗り切れなかったな…\nさすがだよ、少年=
@@ -5116,6 +5133,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 早く週末が\n来ないかしら…\n仕事を忘れてパーっと\nキャンプ飲みを…！=
 早起きしてわらわを\n待っておったのか？\nさすがはわらわの眷属\n殊勝な心がけじゃな♪=
 早起きとか\nつらたんだよねー\n昼すぎまで寝てたい=Waking up early is such a bummer. I wanna sleep all day.
+早起きとは感心ですね\nでは一緒に\n体操でもしましょうか=
 早起きは３本お得！\n…クリスマスなら\n追加で10本ぐらい\nもらえちゃうかも！？=
 早起きは三ルピの徳と\n申しますが…\nもっとお得ですわね=They say the early bird gets the worm... but I'd prefer money.
 早起きは三文の得よ\nいい一日を迎えるため\n目を覚まさなきゃ=
@@ -5150,6 +5168,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 昼食のお誘いかい？\nいいよ、付き合おう=
 昼食の時間ですね\n何か食べたいものは\nありますか？=It's almost lunchtime.\nIs there anything in particular you would like to eat today?
 昼食の誘い？\n嬉しいけど\n人前では食べないんだ=You're inviting me to lunch? I'm flattered, but I never eat in front of others.
+昼食は流しそうめん？\n非効率的ですね\n…食べないとは\n一言も言っていません=
 昼食は済ませた？\nなにを食べたか\n当ててあげよう！=
 昼食は町の屋台で\n立ったまま食べて\nみたいですわ！=I'd like to try eating lunch standing at one of those food carts in town!
 昼食後のストレッチ\n終わり！　さあ、\nビーチが待ってるわ！=Post-meal stretches, done! Now let's hit up that beach!
@@ -5702,6 +5721,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 私…見た目\nそこまで変じゃ\nないですよね…？=I don't look that weird, do I...?
 私がアイドル…\n…実感ないけど\n精一杯やってみよう=Me, an idol... It still doesn't feel real, but I'll give it my best shot.
 私がこうして\nゆっくりできるのは\n少年がそばにいて\nくれるからだよ=
+私がどのような味が\n好きなのかは…\n当然秘密です=
 私がもっと\n可愛ければ、\n友達できるかなあ？=Would it be easier to make friends if I were cuter?
 私が一本を取られる\nなんてね…願い事は\nもう決まったのかな？=You scored a hit on me, eh? You already know what you're going to ask for?
 私が作ったおもちゃも\n誰かの友達に\nなってたら\nいいなぁ…♪=
@@ -5759,6 +5779,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 私の病気、\n悪化してるのかも！？\nすごく胸がドキドキ\nするんです…=I think my illness is getting worse! My heart just keeps racing...
 私の病気\n悪化してるのかも！？\nすごく胸がドキドキ\nするんです…=I think my illness is getting worse! My heart just keeps racing...
 私の目が見たいの？\nいいけど…魅了されて\n魂が壊れちゃうよ…？\n…冗談で〜す☆=
+私の秘密ですか？\nまんじゅうが怖い…\nというのはどうです？=
 私の笑顔は素敵だって\n誰かに褒められた…\nそんな気がするんです=
 私の膝枕と、どっちが\nフカフカかしら？=Which is softer, this or my lap?
 私の身も心も、全てが\nあなた様のもの。\nあなた様の全ても…=I belong entirely to you, body and soul. And you to me.
@@ -5939,6 +5960,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 落とし穴の下に\nやわらかいの置けば\nケガしないよね！=
 蒼の剣を受けよ！\nえ、何してるのって？\nただの発声練習だけど=Taste the sting of my Violet Blade! ...Huh? What am I doing? Just vocal exercises.
 薄着で暖を取るのって\n最高にぜいたくだよな\nへへっ、堪能させて\nもらうとするか=
+薫風を思わせる\nこのさわやかな香り…\n悪くないセンスですね=
 薬に興味があるの？\nなら、今度ゆっくりと\n教えてあげるわね=
 虫除けのアロマは\n冒険の必需品どす\n忘れんようにせんと=
 蚊にくわれたぞ！\nわらわの血を吸う\nとは～！=A mosquito bit me! How dare it drain blood from me?!
@@ -5949,6 +5971,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 袖を引っ張ったり\nしないでね？\n着崩れしちゃうから♪=
 装備の手入れでも\nしようかな…=Maybe I should go work on my equipment...
 見た目については\n前よりも気をつけてと\nノゾミに言われてます=Nozomi says I need to be even more careful about my appearance than ever.
+見た目も手触りも\n完璧に覚えました\nいつでも模倣できます=
 見つけた！　ちょうど\n頼みたいことが\nあるんだけど、いい？=There you are! Hey, do you think I can ask you a favor?
 見つけてしまったの\nかもしれないわ…\nラムの楽園を！=I think I've finally\nfound it... My own\npersonal paradise!
 見つめられると\nドキドキするデス…\n新しい忍法デスか？=My heart pounds when you stare at me like this. Is it a new ninpo of yours?
@@ -5995,6 +6018,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 貴公はコーヒーを\n飲めるのかっ？それは\nうらやましいな…=
 貴方がたのことも、\n少しくらいは\n信用してないことも\nありませんでしてよ=
 貴方にはまだ色々と\n教えるべきことが\nありますね=There is much left for me to teach you, I think.
+貴方に約束しましょう\n決して忘れられない\n夏にしてあげますよ=
 貴様がそばにいると\nとても安心できる…\n…不思議だ=Having you nearby is very reassuring... How strange.
 貴様のためならば\n我が真なる魔力\nいつでも\n解き放とうぞ！=
 買ってきたプリンには\n全部ミヤコの名前を\n書いておくの～=I'm gonna write "Miyako" on every pudding I buy!
