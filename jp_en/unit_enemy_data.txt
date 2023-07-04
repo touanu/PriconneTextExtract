@@ -309,6 +309,7 @@
 ニンフ=Nymph
 ネアのシャドウ=
 ネジレアカシア=Twisted Acacia
+ネネカ（サマー）のシャドウ=
 ネネカ（ニューイヤー）のシャドウ=
 ネネカのシャドウ=Neneka's Shadow
 ネプテリオン=Nepterion
@@ -1551,6 +1552,7 @@ SP MODE2=
 ニノンの姿をした特殊な魔物=A peculiar monster bearing a striking resemblance to Ninon.
 ネアの姿をした特殊な魔物=
 ネズミ一家随一の武闘派。再び一家総出で事を\n構えることに血を滾らせ、好戦的な目を光らせる。\n\n・バトル開始時、自身の物理防御力と魔法防御力\n　を小アップさせる。この防御力アップ効果で上\n　昇した防御力は、バトル中に受ける防御力ダウ\n　ンスキルの影響を受けない。\n・讐鼠・ステゴロのチュウザから受けるすべての\n　ダメージで発生する、パーティキャラのＴＰ回\n　復量を中ダウンさせる。\n・前から１番目のキャラに物理小ダメージ。=
+ネネカ（サマー）の姿をした特殊な魔物=
 ネネカ（ニューイヤー）の姿をした特殊な魔物=
 ネネカの姿をした特殊な魔物=A peculiar monster bearing a striking resemblance to Neneka.
 ノゾミ（クリスマス）の姿をした特殊な魔物=A peculiar monster bearing a striking resemblance to Nozomi (Holiday).

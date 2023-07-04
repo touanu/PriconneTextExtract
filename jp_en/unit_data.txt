@@ -137,6 +137,7 @@
 ニノン（ハロウィン）=
 ネア=
 ネネカ=Neneka
+ネネカ（サマー）=
 ネネカ（ニューイヤー）=
 ネフライトワイバーン=
 ノゾミ=Nozomi
@@ -568,6 +569,7 @@
 【魔法】後衛で、新たな姿で騎士の冒険を支える妖精。\nダメージカットや防御力アップ、無効バリアで味方を護り\nバリアを起点とする攻撃力とＴＰの支援で攻勢に転ずる。=
 【魔法】後衛で、極大魔法を操り敵を討つ姫装の猫娘。\n回復や補助を兼ねた各攻撃スキルを駆使し戦況を整え、\n極大威力のユニオンバーストを撃ち込み敵を燼滅する。=
 【魔法】後衛で、死霊術でおともだちを作る可憐な少女。\nルナがダメージを与える度に集まってくるおともだちを、\n各スキルで消費する。消費数に応じ強大な力を発揮する。=[Magic] A sweet little girl who uses necromancy from the rearguard in order to make Friends. Friends that Luna gathers when she deals damage are consumed by each skill. The great power she manifests is based on the number of Friends she consumes.
+【魔法】後衛で、涼しげに微笑む夏色姿の『変貌大妃』。\nスキルで味方を大幅に強化し、最も魔法攻撃力が高い味方\nの魔法攻撃力を写し取った攻撃力で、強力なＵＢを放つ。=
 【魔法】後衛で、相手の行動妨害に特化した名探偵。\n束縛や混乱を付与するスキルで相手の行動を妨害し、\n魔法防御力ダウンのフィールドを展開して王手をかける。=[Magic] A great detective who specializes in obstructing the enemy's actions from the rearguard. Her skills inflict Bind and Confusion to prevent enemy attacks from succeeding, while she deploys a field to lower their magical defense, leaving them utterly helpless.
 【魔法】後衛で、精霊を唱喚して戦う雪華の歌姫。\nユニオンバーストで呼び出す精霊たちはＨＰやＴＰを\n回復する能力を持ち、不利な戦況をも一変させる。=[Magic] A winter songstress who fights from the rearguard with the aid of ethereal spirits. The spirits she summons with her Union Burst can turn a battle around by recovering allies' HP and TP.
 【魔法】後衛で、美しい旋律を紡ぎ支援する幽寂の歌姫。\n味方の強化と敵の弱体化の両方面での補助を行い、さらに\n召喚した鉱石の飛竜との波状攻撃により敵を鎮圧する。=
