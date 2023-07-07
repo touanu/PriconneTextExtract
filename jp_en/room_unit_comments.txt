@@ -3895,6 +3895,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 レアカードをゲット！\nすごいでしょ！？=I got a rare card! Awesome, huh?!
 レアカードをゲット！\nねえねえ、\nすごいでしょ！？=I got a rare card! Hey, hey, look! Can you believe it?!
 レイ様への新作\nどんな服にしよう…\n方向性が絞れない～！=Oh, what should I do for Rei's new outfit?\nI can't decide on a style!
+レイ様も格好良いけど\n騎士さんもなかなか…\nって、今の聞こえて\nませんよねっ？=
 レッスンがんばったし\nまだお昼だし…\nランチ大盛りにしても\nセーフだよね！=
 レッスンしたら\nお腹が空いちゃって…\nぱくぱくもぐもぐ…=All those lessons have made me hungry... *munch munch munch*
 レッスンしてる時さ\n何か、誰かが足りない\nそう思うことがあるの=During our lessons, sometimes I feel like there's somebody missing...
@@ -6243,6 +6244,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 騎士さんの\nギルドハウス…★\nなんだかドキドキ\nしちゃいます♪=
 騎士さんのおかげで\nカルミナでも\n頑張れてますよ！=Thanks to you, I have time to focus on Carmina, too!
 騎士さんのことは\n気に入らないですけど\n別に嫌いという\nわけじゃなくて…=
+騎士さんはシンプルな\n服が似合いそうです！\n今度、一緒に\n見に行きましょう♪=
 騎士さん暇そうですね\nに、荷物持ちとして\n誘ってみようかな…=
 騎士さん騎士さーん★\nウザ絡みしても\nいいですかー？\n騎士さんってばー★=
 騎空士としても\n拳法家としても\n目指すは世界一ね！=Whether I'm a skyfarer or a monk, I always aim to be the best!

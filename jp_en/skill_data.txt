@@ -148,6 +148,7 @@
 エンスローンメント+=
 エンチャントアロー=Enchanted Arrow
 エンドオブフェニックス=
+エンドドレステーラー=
 エンハンスエイム=Enhanced Aim
 エンハンスエイム+=Enhanced Aim+
 エンハンスプレゼント=Enhancing Present
@@ -2127,6 +2128,7 @@ UB=UB
 前方範囲内の敵すべてに物理大ダメージを与え、自分の物理攻撃力を大アップする。対象が魔法攻撃をする敵だった場合、ダメージが増加する。魔法攻撃をする敵がいる場合、さらに物理攻撃力の上昇量がアップする。=
 前方範囲内の敵すべてに物理大ダメージを与え、長時間スタンさせる。さらに、味方全体の物理防御力と魔法防御力を大アップし、自分を中心とした範囲内の味方すべてに継続ＨＰ回復状態を付与する。=
 前方範囲内の敵すべてに物理大ダメージを与えて小さく吹き飛ばし、さらに自分の物理防御力を特大アップさせ、味方全体に物理無効バリアを展開する。=Deals large physical damage to all enemies in range, and knocks them back slightly. In addition, boosts own phyiscal defense by a massive amount, and deploys a barrier that negates physical damage around nearby allies.
+前方範囲内の敵すべてに物理大ダメージを与えて束縛し、さらに前方範囲内の一番遠くの敵を大きく引き寄せ、一番近くの敵を大きく吹き飛ばす。範囲内の敵の数に応じて、与えるダメージ量が増加する。=
 前方範囲内の敵すべてに物理大ダメージを与える。=Deals large physical damage to all enemies in range.
 前方範囲内の敵すべてに物理大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく3.5倍になる。=Deals large physical damage to all enemies in range. When this skill is a critical hit, its damage is multiplied by 3.5 instead of 2.
 前方範囲内の敵すべてに物理大ダメージを与える。さらに、ＴＰが無くなるまでの間【氷竜の牙】が顕現する。=

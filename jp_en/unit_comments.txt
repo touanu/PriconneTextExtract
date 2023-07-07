@@ -341,6 +341,7 @@
 いつだってどんな世界にいたって\nアタシたちでみんなを救うぞ！\n立ち止まるな！　前を向け！\nもう二度と負けないために！=
 いつでもお姉ちゃんに\n甘えてくれていいんだぞっ☆\nナデナデだって、ギューだって、\nいっぱいしてあげちゃうからね♪=Your big sis is always here to love on you, whether it's a gentle pat or a big hug!
 いつでも元気なのが一番っ！\n疲れた時はちゃんと休んでね？\nあたしは…まだ元気だもんっ=Gotta stay full of energy! But when you're tired, it's best to get some rest. Me? I'm not sleepy yet!
+いつもお世話になってますから\n今度は私がお手伝いしますね？\nべ、別に騎士さんと一緒に\n居たいわけじゃないです…からっ=
 いつもお兄ちゃんの後ろに隠れて\nばかりだった私はもういません！\nこれからはお兄ちゃんの隣で…\n一緒に、歩いていきますからね♪=
 いつもお疲れ様♪\nあなたが頑張っているところ、\n先生はちゃーんと見ているからね\nいい子いい子=You're doing such a great job! I'm always watching how hard you work. Good boy!
 いつもズボンだから、\nスカートってのは落ち着かねえな\nま、まあ、こういう系の服も\nきらいじゃねえけどさ…=
@@ -1750,6 +1751,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 もう逃げも隠れもしないぞっ！\nどんなに傷ついても最後まで\n戦ってやる！　そう決めたんだ！=I'm done with running and hiding! No matter how hard it gets, I'll fight to the bitter end! That's the decision I've made!
 もぐ…なんだ？\nし、新作の味見をしていたのだ！\n貴公も気になるのなら\n一緒に味見してみるか？=
 もし、無人島に流されちゃっても\n君と一緒だったら\n助けなんか来なくてもいいな…\nって、ナシナシ！　今のナシ！=
+もしかして、私の運命の赤い糸は\nレイ様じゃなくて騎士さんと\nつながってたり…して…？\nやだ、私なにを考えてるんだか！=
 もしかして魔物料理、\n苦手でしたか？\nわたしは好きなんですけど=Are you not a fan of cooked monster? Personally, I love it.
 もしキミが疲れちゃった時は\nこのボクの最高のかわいさで\nたっぷりと癒してあげるよ♪=
 もしこの先、私に友達がたくさん\nできたとしても、団長さんは私の\n特別な人です。だってあなたは\n私の最初の友達なんですから=
@@ -1890,6 +1892,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 一人では乗り越えられないことも\nグレアと一緒なら大丈夫！\nそう信じられる絆が\n私たちにはあるから！=
 一人で千万の敵に挑むよりも\n二人で普通に生きることの方が\n難しいとはな…\nふふ、結婚…実に面白い！=
 一人のクリスマスに\n慣れちゃってたから\nキミと過ごすクリスマス…\nちょっとドキドキしちゃうかも=
+一人一人が輝く服を作るのが\n私の夢なんですっ！\nこの力があれば、\nそれを叶えられますよ！=
 一人前の冒険者になれば\n世のため人のために働けます！\nそうやって一つずつ、世界への\n償いをしていきたいのです=
 一口食べるにゃ？\nほら、あーんするにゃ！=You want to try a bite?\nGo on, say "myaaaah"!
 一大事デス！\nアクダイカンが現れたデス！\n一緒に成敗するでゴザルデス！=Oh noes! An Evil Magistrate is threatening the shogunate! This calls for ninja smiting!
@@ -2854,6 +2857,7 @@ being with you just gets me extra hype, you know?
 衣装に合わせて髪型も\n変えてみたんだけど、どう？\n…似合ってる？　ふふん♪\nま、聞くまでもなかったわね！=
 見た目で判断すると\nいてぇ目にあうど？\n体はちっこいけど\n心に秘めた愛は無限大だべ！=Try judgin' me by my looks, and you'll regret it. My body might be little, but the love in my heart is bigger than the open fields!
 見て、けんぞく！　ちょうちょ！\nベスちゃんったらもう夢中だね！\nけんぞくは楽しい？\nヴァンピィちゃんも楽しーよ♪=
+見ていてください！\nアイドルとしてだけじゃなく\n仕立て屋としても\nみんなを笑顔にしてみせますっ！=
 見ていてくれ！\nこれこそ私の思いが…\n私たちの力が\n一つになった証だ！=
 見てください、主さま\nおさかながこんなに近くに…\nとても神秘的でございます=Look, my lord!\nThe fish are so close, I could\nreach out and touch them!\nWhat a truly magical sight...
 見てください\nちょっと筋肉がついてきたんです\nこのままムキムキになれたら…\n私があなたのこと、守れますね♪=
@@ -3076,6 +3080,7 @@ being with you just gets me extra hype, you know?
 騎士さんがピンチの時は\n言ってくださいねー\nラブ＆テレポーテーションで\n駆けつけちゃいますから★=
 騎士さんがレイ様に\n変なことしないように\n私がしっかり見張ります！=I'm going to keep a close eye on you to make sure you don't try anything with Rei!
 騎士さんって、\nとっても優しいですよねー\nでもでもー、わたしには\n優しくしなくて、いいですよ？=
+騎士さんとの絆が強くなるほどに\n私の力も強くなります！\n…って、いいですけど\nちょっと近くないですか？=
 騎士さんと二人でハロウィン…\n周りからどう見えるんだろう…？\nまぁ、どうだっていいですけど！\n私は別に、気にしませんよ！=
 騎士さんのお誕生日★　なら、\n盛大にお祝いしなくちゃですね！\nそれじゃわたし、盛大な祝砲を…\nえっ、だめです？　…はーい★=
 騎士さんは人気者ですよねー\nこんな人を好きになって\nそして想いが叶わなかったら…\nどれだけ傷つくんでしょうねー★=
