@@ -636,6 +636,7 @@
 お誕生日おめでとう～♪\nミミも早く大きくなって、\nおにいちゃんの、\nおねえちゃんになりたいな～♪=Happy birthday! ♪\nI wanna grow up fast so I can be Mr. Nice Guy's big sister. ♪
 お誕生日おめでとう～♪\n昨日より一つ大人になったのね\nお祝いに先生が、\nナデナデしてあげるわ♪=Well, well. Happy birthday!\nYou're growing up so quickly.\nHere, let Miss Io give you a pat on the head to celebrate!
 お誕生日おめでとう♪\n先生、ちょっと趣向を凝らして\n誕生日雑煮を作ってみたの！\nあなたの好物、てんこ盛りよ～♪=
+お誕生日おめでとう♪\n急いで来ちゃったから\nこんな格好でごめんね？\n少しでも早くお祝いしたかったの=
 お誕生日おめでとうございます！\n…あはは、やっぱり緊張しますね\n私の挨拶、大丈夫でしたか？\n声とか裏返ってませんでした？=
 お誕生日おめでとうございます！\nお兄ちゃん、やっぱり誕生日は\n家族と過ごすべきですよ\n私とパーティーしましょう！=Are you having a great birthday? C'mon, Big Bro, special days are for spending with family! Let's throw a proper party together!
 お誕生日おめでとうございます！\nお祝いに宝の地図をどうぞ\n私の錬金術による\n冒険のサポート付きですよ=
@@ -785,6 +786,7 @@
 キミと過ごすクリスマス…\nとっても素敵ね\nこんな幸せな時間が\nずっと続けばいいのに…=
 キミと過ごすハロウィンは\nとびきり特別さ～♪\n一生忘れられないくらい\n楽しい夜にしようね～♪=
 キミには守ってもらってばっかり\nだから…今度は私がキミを守るよ\nでも、応援はよろしくね♪\nもちろん最前列じゃないとダメ！=
+キミに見られるなら、\nもう少しおとなしいデザインの\n水着がよかったかも…\nう、ううん…なんでもないわ=
 キミのこと、他の誰よりも\nおっきな声で応援するね！\nどんな時でも、ちゃんとキミに\n聞こえるように！=
 キミのことを考えて演奏すると\n音がいつもと違う感じになるさー\nなんて言えばいいのかな～…\nとにかく聴いてほしいさー！=There's something special about my performances whenever I think about you. I can't really explain it, so… just listen!
 キミのスケジュール管理、\n私がしてあげようか？\n24時間つきっきりで\nもちろん管理費はいただくけど=Want me to manage your daily schedule? I'll be there 24 hours a day. For a fee, of course.
@@ -973,6 +975,7 @@
 この水中メガネを使ったら、\n海の中でもきれいに見えるよ！\nねえにいちゃん！　海のお魚と\nにらめっこ勝負しようよ♪=
 この水着、\nうちに似合うてますやろか？\n王子はんに見せたくて\n一生懸命選んだんどす♪=Do you reckon that I\nsuit this here swimsuit?\nI picked it out just for you. ♪
 この水着、イケてるっしょ！\nファンのみんなに\n喜んでもらえるといいな～♪=This bikini's off the hook, isn't it? Here's hoping the fans'll be squealing over it! ♪
+この水着、どう…かな？\n少しは夏っぽい格好してたほうが\nキミも涼しく感じるかな、なんて\n思ったんだけど…=
 この水着、似合いますか？\n…えぇ、いいお返事…\nあなた様との最高の夏のために\n最高のものを選びましたわ…=
 この水着、似合いますか？\nあなた様を想って選びました…\n生地もこだわって…ほら、もっと\n近くで見てください…クスクス=
 この水着、結構動きやすいので\n素潜りとかして\n海の幸をゲットできそうです！=This swimsuit's surprisingly suited for physical activity! I might be able to take a dip in the ocean and fish up some stuff!
@@ -1152,9 +1155,11 @@
 せっかくのお料理ですもの\n温かいうちにいただきましょう？\nふふ、安心なさってくださいまし\nお代わりはたーんとありますわ！=
 せっかくのお祭りデスから\n髪型も変えてみまシタ！\nどうデスか？　似合ってマスか？\nショーグンに褒めてほしいデス！=
 せっかくのクリスマスなのに\n暇そうね。仕方ない、少しだけ\n付き合ってあげるわ。何か\n温かい物でも飲みに行きましょ？=
+せっかくのバカンスが\nキミと二人きりじゃないのは\nちょっと残念だけど…\nそれはまた今度、ね♪=
 せっかくの正月だものね\n私もたまには息抜きして\nあなたと新年の思い出を\n作ろうと思うわ=
 せっかくの正月です\n貴方も人の事ばかりにかまけず\n自分のための時間を持ちなさい\nお姉さんからのアドバイスですよ=
 せっかくの水着ですし、\nたくさん泳いで、\nたくさんはしゃいで…\n思い出いっぱい作りましょうね！=It'd be a waste not to make the most of this trip now that I've got myself a nice swimsuit. The more fun memories, the better!
+せっかくの海なんだもの\nタマキさんとミフユさんに\n負けないくらい\n楽しんじゃいましょ♪=
 せっかくの穏やかな時間なのよ？\nあくせくしないで波に身を任せて\nのんびり過ごすの。こういうのも\nたまにはいいでしょ♪=
 せっかく別の世界に来たんだし、\nあなたとも仲良くなりたいな！\nよろしくねっ=It'd be a waste to not make new friends in a whole new world! So I'll start with you!
 せっかく君と一緒のお正月なのに\n全然ゆっくりできなくて残念\n残業・休日診療いたしません！\nなんて言ってみたいものだわ=
@@ -1457,6 +1462,7 @@
 バイト先でもＢＢ団の使命は\n忘れませんよ…！\nぼっち卒業を目指して\nバイト仲間作りにも励みます…！=
 バザーは大盛況よ♪\nこのあとパーッとご飯でも\n行きましょ！　あんたがいれば\n疲れなんか吹っ飛んじゃう♪=The bazaar was a hit! Let's celebrate with a feast. You'll be the ultimate refreshment!
 ハッピ～バースデ～♪\nプレゼントはナナカちゃんの\nコスプレ姿！　…なんちゃって～\n何か言ってよ、ハズイじゃんか～=
+ハッピーバースデー、キーミッ♪\nさあ、めでたい日なんだから\n盛大にお祝いしなくちゃ\nはい、カンパーイ♪=
 ハッピーバースデー、ってな！\n今日は一日、遊び倒そうぜ\n夜が明けるまで\n付き合ってやるからさ=
 ハッピーバースデー、トゥユー♪\nハッピーバースデー、トゥユー♪\nどう？　キミだけのための\nプライベートライブだよ！=Happy birthday to you. ♪ Happy birthday to you. ♪ Not everyone gets their own private concert from me!
 ハッピーバースデー、眷属よ\n今日が最良の日となるように\nわらわが全てを尽くして\nお主を祝福してやろう！=
@@ -1578,6 +1584,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 ふーふー…心も体も\nあったまります♪　なんでもない\nスープなのに、特別な味がします\nきっと二人だから…ですよね…！=
 ふぁぁ…ハロウィンって\nとっても楽しいね～！\nねえねえ、おにいちゃんも\nいっしょにパレードしよ～♪=Ahhhh... Isn't Halloween\njust so much fun?\nHey, mister, can we go to the parade together? ♪
 ふう、日差しが暑くて\nかなわんわぁ～\n王子はん、あっちの日陰で\n涼みまへんか♪=Phew… The sunlight's mighty\nstrong, isn't it? What say we cool\nourselves off in the shade? ♪
+ふう、暑いわね…\n熱中症には気を付けないと\n喉がかわいたらすぐに言ってね？\n麦しゅわ以外も用意してるわよ♪=
 ふう…汗かいちゃったから\n水分はしっかり取らないとね♪\n騎士くんは大丈夫？\n熱中症には気を付けようね！=
 ぷうきちは私の大切な\nお友達なんだよ\nお兄ちゃんも、ぷうきちと\n仲良くしてね！=Pukichi's my dearest friend, so try to get along with him!
 ぷうきち大家族完成～♪\nこっちは、ぷうすけとぷうきち…\nあっちは、ぷうままとぷう兄…\nじゃなくて、お兄ちゃん♪=The Pukichi family's all together! ♪Over here we've got Pusuke and Pukichi. Over there we've got Pumama and Pubro— Wait, that's just you! ♪
@@ -2285,6 +2292,7 @@ being with you just gets me extra hype, you know?
 夏の海に二人きり…\nなんだかドキドキしちゃいます！\nせっかくなので、雰囲気を出して\nダーリンって呼んでいいですか☆=
 夏の海はおいしいものがたくさん\nあって、食べすぎちゃいますね…\nあ、今おなかは見ちゃダメです！\nダ、ダメなのに…へんた～いっ！=
 夏の海は不思議の国どすえ\nうちと一緒に\n楽しく過ごしまひょ♪=The beach at this time of the year\nalways makes me feel like I'm in\nwonderland. Let's make the most\nof it together, my prince. ♪
+夏の海辺の仕事なら水着が効率的\nってみんなが言ってたけど\nもしかして…うちのギルドだけの\n常識だったんじゃ…=
 夏の海辺はロマンチックやねぇ\nこんな場所に王子はんと二人きり\nゆったり暮らしたいどすなぁ\n…お城はどこに建てまひょか♪=The seaside's always so romantic\nduring summer. I'd love to live\nhere alone with my prince. Where\nshould we build our castle? ♪
 夏の紫外線はすっごく強烈なの！\nキミも気をつけた方がいいよ？\n…というわけで\n私の日傘で相合い傘しよっか♪=
 夏の美しさに目を奪われるのも\n結構ですが、ちゃんと私も\n見てくださいませんと\n拗ねてしまいますわよ♪=
@@ -2519,7 +2527,9 @@ being with you just gets me extra hype, you know?
 時間を操作する力…\nこの力で、ずっと先輩を後ろから\n見て…じゃ、じゃなくてぇ！\nみんなの役に立ってみせますぅ！=
 普段はグレアと二人でいることが\n多いかな！　グレアの隣は\nとっても落ち着くし、安心するの=You'll find me together with Grea more often than not! I always feel so relaxed and safe around her.
 普段は着物とか着ないんだけど\nおかしかったりしないかな～？\n素直な感想を聞かせてね\n君を焼き払ったりしないから♪=
+普段忙しければ忙しいほど\n遊べるときにしっかりと遊んで\n日常とメリハリをつけるの\n社会人からのアドバイスよ♪=
 晴れ着に合わせて髪も\n編んでみたのじゃが…ふふ\nなかなか見違えたじゃろう？\n何度でも惚れ直すがよいぞ♪=
+暑いときはすっきりした\nセゾン系もいいけど…\n私はボディがしっかりしてる\nアベイ系が好きだわ♪=
 暑い日に泳ぐのって最高だよな！\nそうだ、浮き輪引っ張って\n泳いでやろうか？=Hard to beat a good swim on a hot day, isn't it? How about you jump on a swim ring, and I'll pull you along while swimming?
 暑い日は水分を欠かさないでね\n喉が渇いてなくてもこまめに…\nダ、ダメだよ騎士クン！\nわたしのはあげられないの！=
 暑くても元気いっぱいだよ！\nだって騎士くんと一緒だもん！\nもしも元気がないなら\nあたしのをあげちゃう！=
@@ -2818,6 +2828,7 @@ being with you just gets me extra hype, you know?
 聖夜の平和を守る慈愛の戦士\n聖女仮面、見参！\n…一応考えてみたけど\n決めポーズはいらないかな=
 聖学祭か…気が重いな…\n学芸発表はともかく運動競技は…\nうむ、人にはそれぞれ適性がある\n荒事は荒くれ後輩たちに任せよう=
 聖学祭に提出したぼくの芸術は、\nあまり評価を得なかったらしい\nぼくは印象派だからな、\n心得のない者には分からぬ領域だ=
+聖騎士っぽい水着、って\n注文したんだけど…\nどの辺がそれっぽいのかしら？\n…もしかして、色？=
 聞いてください\n身長が伸びていました！\n一ミリも！=Listen to this! I grew!\nI'm a whole millimeter taller!
 聞こえるよ…騎士くんの声\nどんなに離れてても、\nあたしには分かる！=I can hear your voice cheering me on... Even when we're apart, I can always tell you're there for me!
 背中のこれが羽かどうかって？\nいつの間にかこうだったのよ\nあたしもあんたとおんなじね=
@@ -3025,6 +3036,7 @@ being with you just gets me extra hype, you know?
 雪遊びしましょう、お兄ちゃん！\n雪だるま作って、雪合戦して、\nそれからそれから…\nデ、デートもしたいです～！=
 霊のみなさん、楽しそうです…\nハロウィンですからね\nわ、私も…楽しいです\nあ、あなたと、いられるので…=The spirits are having such fun... Halloween is special for them.\nAnd I'm... enjoying myself too. Since I'm w-with you...
 青い海、白い砂浜、輝く太陽！\nそしておいしいお魚！\nここは天国ですね！=The calm, blue sea! A gleaming white beach! The radiant sunshine! Plus, a whole load of tasty seafood! If this isn't heaven, then I don't know what is!
+青い海！　白い泡！\nそして、キミ…！\n必要なものが全部あるんだもの\nふふっ、ここはまるで天国ね=
 青い海に照り付ける太陽…\nこれぞバカンスって感じだね\n楽しむ準備はできてる？\n夏は待ってくれないよ！=
 静かな教会に白いハト\nなんとも神秘的な光景だね\n美しい鳴き声の響きがまるで\nクリスマスキャロルのようだ=
 面倒なことになったものね\nまぁ、危険人物はいないようだし\n楽できる分には問題ないわ=This situation is so awkward.\nStill, I suppose there are no dangerous individuals to worry about, so I'll sit back and enjoy it.

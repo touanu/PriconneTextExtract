@@ -223,6 +223,7 @@
 モザイクタイルの床=Mosaic Tile Flooring
 モノクロタイルの床=Monochrome Tile Flooring
 ゆらゆら楽しい木馬のプチグリフォン=Mini-Gryphon Rocking Horse
+ユカリの「夏は、麦しゅわ。」ポスター=
 ライオンの噴水=Lion Fountain
 ラグマットフロア=Winter Rug Flooring
 ラジオブースチェア（グリーン）=
