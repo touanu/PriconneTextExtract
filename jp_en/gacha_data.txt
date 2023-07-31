@@ -203,6 +203,7 @@ Half Anniversaryガチャ=Half Anniversary Gacha
 限定「ミミ（サマー）」登場！\n期間中出現率UP！=
 限定「ミヤコ（クリスマス）」登場！\n期間中出現率UP！=
 限定「ユイ」登場！期間中出現率UP！=Boosted rates for the limited character Yui!
+限定「ランファ（サマー）」登場！\n期間中出現率UP！=
 限定「リン（デレマス）」登場！\n期間中出現率UP！=Boosted rates for the limited character Rin (IM@S CG)!
 限定「ルカ」登場！\n期間中出現率UP！=
 限定「レイ（サマー）」登場！\n期間中出現率UP！=

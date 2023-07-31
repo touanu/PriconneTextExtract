@@ -64,6 +64,7 @@
 キョウカ（リトルリリカル）=
 クウカ=Kuka
 クウカ（オーエド）=Kuka (Oedo)
+クウカ（サマー）=
 クウカ（ノワール）=
 クリア=
 クリスティーナ=Christina
@@ -101,6 +102,7 @@
 シズル（ノワール）=
 シズル（バレンタイン）=Shizuru (Valentine)
 シノブ=Shinobu
+シノブ（サマー）=
 シノブ（パイレーツ）=
 シノブ（ハロウィン）=Shinobu (Halloween)
 ジュン=Jun
@@ -126,6 +128,7 @@
 ツムギ=Tsumugi
 ツムギ（サマー）=
 ツムギ（ハロウィン）=
+ドクロ親父=
 トモ=Tomo
 トモ（ハロウィン）=
 トモ（マジカル）=
@@ -232,6 +235,7 @@
 ラビリスタ（オーバーロード）=
 ラム=Ram
 ランファ=
+ランファ（サマー）=
 リノ=Rino
 リノ（クリスマス）=
 リノ（ワンダー）=
@@ -308,6 +312,7 @@
 ちか=Chika
 つむぎ=Tsumugi
 どくろ=Skull
+どくろおやじ=
 とも=Tomo
 ななか=Nanaka
 にのん=Ninon
@@ -480,6 +485,7 @@
 【物理】前衛で攻撃対象が１つの敵に特化した海の狼娘。\n攻撃対象が１つの場合、スキルとユニオンバーストともに\n真価を発揮し他を圧倒する絶大な破壊力で敵をなぎ払う。=[Physical] A wolfgirl on the beach who crushes foes from the vanguard. Her skills and Union Burst achieve their full potential when only a single target remains, allowing her to overwhelm it with a flurry of devastating blows.
 【物理】前衛で敵の物理攻撃を妨害する吸血鬼テーラー。\n挑発と物理無効バリア、さらに最も物理攻撃力が高い敵を\n狙った妨害スキルによって、鉄壁の防御を織り上げる。=
 【物理】前衛で敵後方に花火を仕掛ける夜涼みの悪戯娘。\n敵の最前衛をスタンで足止めしつつ、最後衛を中心とした\nＵＢで狭範囲の敵を引き寄せ、ＴＰダウンで攻勢を阻む。=
+【物理】前衛で新たな刺激を追い求める水着姿のドＭ娘。\n自分のＨＰが下がるほど効果量が上昇するスキルの物理攻\n撃力アップとＵＢのダメージで、勝利の大海へ飛び込む。=
 【物理】前衛で母製の鎧を纏い気合い上々の獣人族騎士。\n自分のＨＰが低いほど与えるダメージと無効バリアの耐久\n力を高め、防御力ダウンと永続攻撃アップで活路を拓く。=
 【物理】前衛で水刃の加護を纏い水面を駆ける渚の剣士。\nクリティカル時のダメージを底上げしＵＢ発動の度、纏う\n【水刃の加護】で全スキルダメージを上げ、敵陣を穿つ。=
 【物理】前衛で炎翼を背に敵を粉砕する、陽気な元気娘。\n戦いが続く程に自身の攻撃能力を強めるスキルを操り、\n高めた力で放つ超爆の一撃は、あらゆる敵を塵と化す。=
@@ -562,6 +568,7 @@
 【魔法】後衛で、味方の支援に特化した象牙の塔の才媛。\n自身の攻撃力は低いが、物理攻撃力の高い味方を強化し\n更に味方全体を魔法無効バリアで護りつつ勝利へ導く。=[Magic] The scholar from the Ivory Tower who offers support from the rearguard. Though she deals little damage herself, she leads her allies to victory with powerful buffs to physical attackers and barriers that nullify incoming magical attacks.
 【魔法】後衛で、回復と攻撃をこなすドジっ娘メイド。\n周りの味方のＨＰを回復しつつ物理攻撃力を高める\nスキルは、中衛・後衛の攻撃役と抜群の相性。=[Magic] A clumsy maid that heals and attacks from the rearguard. Her skills that heal those around her and also boost physical attack power pair well with mid- or rearguard offense.
 【魔法】後衛で、妨害スキルを操るオシャレ魔法少女。\n相手を誘惑状態にするスキルや、複数の状態異常を\n同時に付与するユニオンバーストで相手をかく乱する。=[Magical] A fashionable magical girl who obstructs the enemy from the rearguard. With a skill that inflicts Charm and a Union Burst that inflicts multiple ailments at once, her presence throws the enemy ranks into disarray.
+【魔法】後衛で、密やかな潮騒に耳を傾ける晩陽の歌姫。\n魔法クリティカルの極大アップを筆頭に攻防両面で周囲の\n味方を強化し、さらに自身もＵＢで数多の敵を退かせる。=
 【魔法】後衛で、攻撃と回復をこなす、ハーフエルフ。\n高い魔力で攻撃魔法を繰り出して敵を蹴散らしつつ、\nユニオンバーストは瀕死の味方すらも瞬時に癒す。=[Magic] A half elf who combines healing and offense from the rearguard. Her innate magical talent produces powerful spells that leave enemies no quarter, while her Union Burst can bring allies back from the brink of death in an instant.
 【魔法】後衛で、攻防双方で活躍する晴れ着姿の猫娘。\n与ダメージに応じて魔法攻撃力がアップするユニオン\nバーストで、高いベースの攻撃力がさらに強大になる。=[Magic] A catgirl in traditional finery who provides both offense and defense from the rearguard. Her Union Burst boosts her magic attack based on the damage it deals, increasing her already formidable offensive power.
 【魔法】後衛で、敵の体力を奪い取る、夏の夜の先生。\nダメージを与えつつ味方を回復するスキルを複数持ち、\n攻守どちらの側でも高い能力を発揮する。=[Magic] A summertime teacher who steals away foes' health from the rearguard. Her posession of multiple skills that both deal damage and heal allies makes her shine on both offensive and defensive fronts.

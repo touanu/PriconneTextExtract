@@ -48,6 +48,7 @@
 キョウカ（サマー）=
 キョウカ（ハロウィン）=Kyoka (Halloween)
 クウカ（オーエド）=Kuka (Oedo)
+クウカ（サマー）=
 クウカ（ノワール）=
 クリスティーナ・モーガン=Christina Morgan
 クリスティーナ（クリスマス）=Christina (Holiday)
@@ -168,6 +169,7 @@
 ラビリスタ（オーバーロード）=
 ラム=Ram
 ランファ=
+ランファ（サマー）=
 リノ（クリスマス）=
 リノ（ワンダー）=
 リマ=Lima
@@ -259,7 +261,7 @@
 プラノ平原=Prano Plains
 ブリザ渓谷=Brisa Canyon
 ホマレの部屋=Jungle - Tent
-マルジェン海岸=Marjan Coast
+マルジェン海岸_昼=Marjan Coast
 ミステリオン森林=Mysterion Woods
 ムーサの町_昼=Musa Town (Day)
 メルクリウス財団 拠点=Mercurius Foundation Headquarters

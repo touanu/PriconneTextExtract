@@ -1,6 +1,7 @@
 3rd Anniversary=
 4.5 Year Anniversary=
 4th Anniversary=
+5.5 Year Anniversary=
 5th Anniversary=
 アオイ=Aoi
 アオイ（キャンプ）=
@@ -70,6 +71,7 @@
 ギルドハウス=Guildhouse
 クウカ=Kuka
 クウカ（オーエド）=Kuka (Oedo)
+クウカ（サマー）=
 クウカ（ノワール）=
 クリスティーナ=Christina
 クリスティーナ（クリスマス）=Christina (Holiday)
@@ -232,6 +234,7 @@
 ラビリンス=Labyrinth
 ラム=Ram
 ランファ=
+ランファ（サマー）=
 リトルリリカル=Little Lyrical
 リノ=Rino
 リノ（クリスマス）=
