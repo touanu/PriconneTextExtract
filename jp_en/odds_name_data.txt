@@ -26,6 +26,7 @@ RANK5～8の装備アイテム=Rank 5~8 Equipment
 カリン（アルケミスト）のメモリーピース=
 キャルのメモリーピース=
 キョウカのメモリーピース=Kyoka's Memory Shard
+クウカ（サマー）のメモリーピース=
 クウカのメモリーピース=Kuka's Memory Shard
 クルミ（クリスマス）のメモリーピース=Kurumi (Holiday)'s Memory Shard
 クルミのメモリーピース=Kurumi's Memory Shard

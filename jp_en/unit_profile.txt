@@ -60,6 +60,7 @@
 キョウカ（ハロウィン）=Kyoka (Halloween)
 クウカ=Kuka
 クウカ（オーエド）=Kuka (Oedo)
+クウカ（サマー）=
 クウカ（ノワール）=
 クリスティーナ=Christina
 クリスティーナ（クリスマス）=Christina (Holiday)
@@ -93,6 +94,7 @@
 シズル（ノワール）=
 シズル（バレンタイン）=Shizuru (Valentine)
 シノブ=Shinobu
+シノブ（サマー）=
 シノブ（パイレーツ）=
 シノブ（ハロウィン）=Shinobu (Halloween)
 ジュン=Jun
@@ -117,6 +119,7 @@
 ツムギ=Tsumugi
 ツムギ（サマー）=
 ツムギ（ハロウィン）=
+ドクロ親父=
 トモ=Tomo
 トモ（ハロウィン）=
 トモ（マジカル）=
@@ -214,6 +217,7 @@
 ラビリスタ（オーバーロード）=
 ラム=Ram
 ランファ=
+ランファ（サマー）=
 リノ=Rino
 リノ（クリスマス）=
 リノ（ワンダー）=
@@ -236,6 +240,7 @@
 レイ（プリンセス）=
 レム=Rem
 
+-=
 アルターメイデン=
 ヴァイスフリューゲル　ランドソル支部=Weissflügel (Landosol Branch)
 カルミナ=Carmina
@@ -260,6 +265,7 @@
 聖テレサ女学院（なかよし部）=St. Theresa's Academy (Friendship Club)
 自警団（カォン）=Caon
 
+-=
 エルフ=elvenfolk
 エルフ、獣人族=
 ドラゴン族=dragonfolk
@@ -275,6 +281,7 @@
 魔族=demonfolk
 魔族？=
 
+-=
 「おともだち」を探すこと=looking for "friends"
 あんパン=Sweet Bun
 いたずら、探検=pranks, exploring
@@ -365,6 +372,7 @@
 食べること、眠ること=eating, sleeping
 食べ歩き、料理=eating, cooking
 
+-=
 Lynn=
 M・A・O=M・A・O
 こやまきみこ=Kimiko Koyama
@@ -526,6 +534,7 @@ M・A・O=M・A・O
 純情でほっとけない大人の女性=A pure-hearted woman with a mysterious charm
 素顔を見せない冷静沈着な女性騎士=A calm, cool, and collected knight who hides her face
 絆でつながる信愛の姉妹=
+美女と娘が大好き♪　ろくでなし骸骨男=
 義理堅くてからかい好きな剣術少女=A swordfighter with a strong sense of duty who loves to tease
 自由奔放ナチュラル無礼な現代っ子=An unstoppable bundle of energy who's always ahead of the curve
 英霊と契約を結んだマナリアの天才王女=The spirit-summoning royal prodigy of Mysteria
