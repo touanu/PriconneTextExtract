@@ -262,6 +262,7 @@
 あんたもあたしも色々あったけど\n過去よりも今、今よりも未来を\nあたしたちでより良くしましょ♪=
 あんたもだいぶここに\nなじんでるわよね\nこのままずっと\n居てくれてもいいのよ？=
 あんたもなにか\nお化けの仮装とかしなよ～\nミイラ男とか、カエル人間とか\nインパクトのあるやつね=
+あんたも困ったことがあったら\n遠慮なく自分たちに相談するッス\nいつだって、力になるッスよ\nそれが、ヒーローッスから♪=
 あんたも自分と一緒におそろいの\nカッコイイポーズをキメるッス！\nせーの…\nトリックオアジャスティスッス！=
 あんた今日、誕生日だって？\nなんで言わんの、そーゆーこと…\nなんも用意してなかったじゃん\nじゃあ飴ちゃん多めにあげるわ=
 あんた今日、誕生日だよね\nああいや、さっきチエルに聞いて\nそだ、偶然ケーキ作ってきたから\nコレあげるわ。いや偶然だけど=
@@ -1380,6 +1381,7 @@
 なんでずっと見つめてるかって？\nお兄ちゃんと一緒に過ごす\nクリスマスを、いつまでも\n覚えていたいから！　ですよ♪=
 なんでもかんでもどんなことでも\nお姉ちゃんに言ってね！\nもっともっと頼って甘えて～\n遠慮しないでいいんだぞっ☆=You can talk to me about absolutely any tiny little thing. Let me take care of it!
 なんて優しい風…\nふふっ…まるで精霊たちが、\nわたくしと主さまを\n祝福してくれているようです♪=Ah, the wind feels so tender...\nEheh. It is as though the spirits are bestowing all their blessings upon me, and upon my lord.
+なんの遠慮もなく、自分が\nこうしてお仕事できるのは\nあんたのおかげッス\nこれからも、ずっと一緒ッス！=
 ナイトさんのこと、\nもっともっと教えてくださいっ！\nわたし、あなたに\n興味津々みたいなんですっ♪=
 ナデナデしてあげようか？\nそれとも肩もみ？　膝枕？\nチョコとセットで、お姉ちゃんの\nあま～いお世話はいかがっ？=Do you want any headpats? Or a shoulder rub? Or would you like to rest in my lap? Your big sis can be as sweet as any chocolate!
 にいちゃーん！\n早く早くっ探検に行こっ！\nにいちゃんのこと\n待ってたんだよ！=C'mon, mister! Hurry up! Let's go exploring! I've been waiting for you!
@@ -1706,6 +1708,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 みんなが楽しそうに笑ってるのが\n何よりもうれしいの\nそんな場所であんたと過ごせるの\n本当に幸せよ=
 みんなが笑顔でいてくれたら\nあたしも笑顔でいられるんだ！\nだからほら、スマイルスマイル！=As long as my friends are smiling, I can keep smiling! So c'mon, let's see a nice big smile on your face!
 みんなが笑顔になるクリスマスが\n大好きだよ！\nこの思いは最高の\nパフォーマンスでお返しするね！=I love the holidays because they put smiles on everyone's faces!\nSo I'm going to repay everyone with a perfect performance!
+みんなで力を合わせて\n大切なものを守る…\n一人だけじゃ難しいことも\n仲間がいたらなんとかなるッス！=
 みんなで花火をするのって\nとっても楽しいですね\n今度は両手持ちで\n行きますよ～♪=Doing this with everyone is so much fun! For my next trick, I'll dual wield these fireworks! ♪
 みんなで踊ると楽しいさ～！\nやさやさ、\nキミも一緒に踊るさ～！=Is anything better than dancing together? C'mon, you should join in too!
 みんなと過ごす時間は、\n私を幸せな気持ちにしてくれた\nでも、あなたと二人で過ごす\nひと時も…キライじゃなかったわ=
@@ -2857,9 +2860,11 @@ being with you just gets me extra hype, you know?
 聞こえるよ…騎士くんの声\nどんなに離れてても、\nあたしには分かる！=I can hear your voice cheering me on... Even when we're apart, I can always tell you're there for me!
 背中のこれが羽かどうかって？\nいつの間にかこうだったのよ\nあたしもあんたとおんなじね=
 自分、世界平和のためなら\nどんな敵にも負けないッス！\nヒーローに二言は無いッスよ！=If world peace is at stake,\nI won't lose to any villain!\nA true hero never goes back\non her word!
+自分たちは正義のヒーローッス！\n種族なんて関係ない…\nみんなを守るために戦う！\n騎士団は、変わったんスよ！=
 自分で言うのもなんですが\nこの歌は特に自信作なんです\nあなたの心に響かせてみせます=
 自分のイチ押しは\nなんといってもこのマント！\nかっこいいし、くるまったら\nお昼寝もできるすぐれモノッス！=
 自分のなくした記憶もだけど…\nあなたが忘れた過去も気になるわ\n二人で一緒に\n見つけられたらいいわね=
+自分の活躍、見ててほしいッス\nいろんな人のお世話になったッス\nけど、一番辛いとき、あんたは\nそばにいてくれた人ッスから…♪=
 自分の目に映った私が\n本当の私だと思いますか…？\n私は変貌大妃\n千変万化の女ですよ=Are you so naive that you would believe what your eyes tell you? I'm the Metamorph Monarch—\nthere is no form I can't take.
 自然はいつだって、私のことを\n受け入れてくれるんです…！\nそれはもう今か今かと\n待ち受けている勢いでっ！=
 自然は分け隔てなく\nそこに生きる者全てに恵みを\nもたらしてくれます\n大切にしたいですね、主さま=

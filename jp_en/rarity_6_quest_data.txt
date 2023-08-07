@@ -36,6 +36,7 @@
 ヒヨリの解放クエスト=Hiyori's Ascension Quest
 ぺコリーヌの解放クエスト=Pecorine's Ascension Quest
 ペコリーヌ（サマー）の解放クエスト=
+マツリの解放クエスト=
 マヒルの解放クエスト=
 マホの解放クエスト=Maho's Ascension Quest
 ミサキの解放クエスト=
