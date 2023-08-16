@@ -82,6 +82,7 @@ SPフェスキャラ交換Ptを変換したアイテムです。=Item converted 
 サポートで獲得した報酬です。=Reward obtained from clan support.
 スタミナが変換されて獲得したコインです。=Coins converted from stamina.
 ストーリー閲覧で獲得したアイテムです。=
+スフィアパックを購入して獲得したアイテムです。=
 デイリージュエルパックのアイテムです。=Daily Jewel Pack
 トモ（マジカル）登場記念のプレゼントです。=
 バージョンアップしていただいたお礼です。=Thank you for updating versions.

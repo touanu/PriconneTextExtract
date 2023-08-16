@@ -106,6 +106,7 @@
 シズル（ノワール）=
 シズル（バレンタイン）=Shizuru (Valentine)
 シノブ=Shinobu
+シノブ（サマー）=
 シノブ（パイレーツ）=
 シノブ（ハロウィン）=Shinobu (Halloween)
 ジュン=Jun
@@ -293,6 +294,7 @@
 第3部 第1章_リバースワールド=
 第3部 第2章_驀進！　バンディ・シスターズ=
 第3部 第3章_宝石兎と天使の雷=
+第3部 第4章_存亡のジオ・テオゴニア=
 第3章_襲来する黒き幻影（シャドウ）=Chapter 3_Lurking Shadows
 第4章_災厄の牧場（エリザベスパーク）=Chapter 4_Pastures in Peril
 第5章_集結、七冠（セブンクラウンズ）=Chapter 5_The Seven Crowns

@@ -5,6 +5,7 @@
 3rd Anniversaryガチャ=
 4.5Year Anniversaryガチャ=
 4th Anniversaryガチャ=
+5.5Year Anniversaryガチャ=
 5th Anniversaryガチャ=
 Half Anniversaryガチャ=Half Anniversary Gacha
 カムバック スペシャルフェスガチャ=Comeback Special Gala Gacha
@@ -66,6 +67,7 @@ Half Anniversaryガチャ=Half Anniversary Gacha
 ★3キャラ出現率2倍\n新キャラ「リノ（クリスマス）」登場！期間中出現率UP！=
 ★3キャラ出現率2倍\n限定「キャル（オーバーロード）」登場！期間中出現率UP！=
 ★3キャラ出現率2倍\n限定「クリスティーナ」登場！=Double rates for 3★ characters!\nFeaturing the limited character Christina!
+★3キャラ出現率2倍\n限定「シノブ（サマー）」登場！期間中出現率UP！=
 ★3キャラ出現率2倍\n限定「タマキ」登場！期間中出現率UP！=Double rates for 3★ characters!\nBoosted rates for the limited character Tamaki!
 ★3キャラ出現率2倍\n限定「ネネカ」出現！=
 ★3キャラ出現率2倍\n限定「ネネカ」登場！=Double rates for 3★ characters!\nFeaturing the limited character Neneka!

@@ -72,6 +72,7 @@
 5キャラをRANK28にしよう=
 5キャラをRANK29にしよう=
 5キャラをRANK2にしよう=Raise 5 characters to rank 2
+5キャラをRANK30にしよう=
 5キャラをRANK3にしよう=Raise 5 characters to rank 3
 5キャラをRANK4にしよう=Raise 5 characters to rank 4
 5キャラをRANK5にしよう=Raise 5 characters to rank 5
@@ -220,6 +221,7 @@
 クリアランクの☆を13350個集めよう=
 クリアランクの☆を13450個集めよう=
 クリアランクの☆を1350個集めよう=Gather 1350 clear rank stars
+クリアランクの☆を13550個集めよう=
 クリアランクの☆を1380個集めよう=Gather 1380 clear rank stars
 クリアランクの☆を1410個集めよう=Gather 1410 clear rank stars
 クリアランクの☆を1440個集めよう=Gather 1440 clear rank stars
@@ -594,6 +596,7 @@
 プレイヤーLvを250にしよう=
 プレイヤーLvを260にしよう=
 プレイヤーLvを270にしよう=
+プレイヤーLvを280にしよう=
 プレイヤーLvを30にしよう=Reach player level 30
 プレイヤーLvを40にしよう=Reach player level 40
 プレイヤーLvを50にしよう=Reach player level 50
@@ -1690,11 +1693,18 @@
 メインクエスト64-7 (NORMAL)をクリアしよう=
 メインクエスト64-8 (NORMAL)をクリアしよう=
 メインクエスト64-9 (NORMAL)をクリアしよう=
+メインクエスト65-1 (HARD)をクリアしよう=
 メインクエスト65-1 (NORMAL)をクリアしよう=
+メインクエスト65-10 (NORMAL)をクリアしよう=
+メインクエスト65-2 (HARD)をクリアしよう=
 メインクエスト65-2 (NORMAL)をクリアしよう=
 メインクエスト65-3 (NORMAL)をクリアしよう=
 メインクエスト65-4 (NORMAL)をクリアしよう=
 メインクエスト65-5 (NORMAL)をクリアしよう=
+メインクエスト65-6 (NORMAL)をクリアしよう=
+メインクエスト65-7 (NORMAL)をクリアしよう=
+メインクエスト65-8 (NORMAL)をクリアしよう=
+メインクエスト65-9 (NORMAL)をクリアしよう=
 メインクエスト7-1 (HARD)をクリアしよう=Clear Main Quest 7-1 (HARD)
 メインクエスト7-1 (NORMAL)をクリアしよう=Clear Main Quest 7-1 (NORMAL)
 メインクエスト7-10 (NORMAL)をクリアしよう=Clear Main Quest 7-10 (NORMAL)
@@ -1881,4 +1891,5 @@
 聖跡調査クエストLv4をクリアしよう=
 聖跡調査クエストLv5をクリアしよう=
 聖跡調査クエストLv6をクリアしよう=
+聖跡調査クエストLv7をクリアしよう=
 

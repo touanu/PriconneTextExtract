@@ -208,6 +208,7 @@
 カースブルーム=Cursed Bloom
 カースブルーム+=Cursed Bloom+
 ガーディアンメロディ=Guardian Melody
+ガイストチェイン=
 カウンタースラッシュ=Counter Slash
 カオスドレスアップ=
 ガトリング★シンフォニア=
@@ -457,6 +458,7 @@
 スプラッシュトワリング=Twirling Splash
 スプラッシュトワリング+=
 スプレッドアフェクション=
+スペクターズエッジ=
 スペシャルスイートギフト=
 スマイリング・ブレイブ=Smiling Bravery
 スライミィストリーム=
@@ -540,6 +542,7 @@
 テイルウィップ+=Tail Whip+
 ディープスピリット=Deep Spirit
 ディープスピリット+=Deep Spirit+
+ディープブルーメナス=
 ティアーズソング=
 ディアレストメモリー=
 ディアレストメモリー+=
@@ -697,6 +700,7 @@
 ノーブルプロミネンス=
 ノーミルクノーライフ=No Milk, No Life
 ノーミルクノーライフ+=
+ノイジーバカンス=
 ノワールホールド=
 はわわわ、大変です～！？=
 ハードスラッシュ=Hard Slash
@@ -1116,6 +1120,7 @@
 ラピッドフェンサー=Rapid Riposte
 ラピッドフェンサー+=Rapid Riposte+
 ラピッドラビット=
+ラフィングスカル=
 ラブサマーティーチング=Lovely Summer Lesson
 ラブサマーティーチング+=Lovely Summer Lesson+
 ラブスティール=Love Bandit
@@ -1338,6 +1343,8 @@
 涅の小夜嵐=
 涅の小夜嵐+=
 消えぬ怨恨=Undying Resentment
+深淵の狂騒歌=
+深淵の狂騒歌+=
 深淵冥魔蒼海呪=
 深淵冥魔蒼海呪+=
 深緑の癒風=
@@ -1517,6 +1524,7 @@
 【召喚】自分の前に、目の前の敵１キャラを攻撃するドクロを召喚する。=[Summon] Summons a skull in front of oneself, which attacks an enemy directly in front.
 【召喚】自分の前に、目の前の敵１キャラを攻撃するぷちゴーレムを召喚し、さらに一番前の味方の周囲に物理防御力と魔法防御力を大アップさせるフィールドを展開する。=[Summon] Summons a mini-golem in front of oneself, which attacks an enemy directly in front. Deploys a field around the frontmost ally that grants a large boost to physical and magical defense.
 【召喚】自分の前に、目の前の敵１キャラを攻撃するぷちゴーレムを召喚する。=[Summon] Summons a mini-golem in front of oneself, which attacks an enemy directly in front.
+【召喚】自分の物理攻撃力と物理クリティカルを中アップする。さらにシノブ（サマー）が召喚したドクロ親父が味方にいる場合、ドクロ親父のＨＰを大回復し、そうでない場合ドクロ親父を召喚する。=
 【召喚】自分の目の前に３体の精霊を唱喚する。=[Summon] Summons three spirits directly in front of oneself.
 【変身】幽霊に変身し、しばらくの間無敵状態になる。=[Transform] Transforms into a ghost, becoming invincible for a short time.
 【変身】幽霊に変身し、しばらくの間無敵状態になる。また、自分の回避を中アップさせ、さらに物理防御力を大アップさせる。=[Transform] Transforms into a ghost, becoming invincible for a short time. Additionally, moderate boost to own Dodge and large boost to own physical defense.
@@ -1525,6 +1533,7 @@
 【挑発】味方全体の物理攻撃力を大アップさせ、物理/魔法無効バリアを展開し、自分の物理防御力と魔法防御力を特大アップさせる。さらに敵全体を挑発してスタンさせる。=
 【挑発】味方全体の物理攻撃力を小アップさせ、自分の物理防御力と魔法防御力を大アップさせる。さらに敵全体を挑発する。=[Taunt] Taunts all enemies. Large boost to own physical and magical defense. Small boost to physical attack of all allies.
 【挑発】敵全体を挑発し、さらに自分の物理防御力を大アップさせる。=[Taunt] Taunts all enemies. Large boost to own physical defense.
+【挑発】敵全体を挑発し、さらに自分は一定時間全ての物理攻撃を回避する。=
 【挑発】敵全体を挑発し、自分の物理防御力を大アップさせる。さらに自分のＨＰを中回復させる。=[Taunt] Taunts all enemies. Large boost to own physical defense, and recovers own HP by a moderate amount.
 【挑発】敵全体を挑発し、自分の魔法防御力を特大アップ。挑発後のモーション中に攻撃された場合、前方範囲内の敵に物理中ダメージを与え、物理防御力を小ダウンさせスタンさせる。=[Taunt] Taunts all enemies, massively boosts own magical defense, and enters a stance. If attacked during this stance, deals moderate physical damage to all enemies in range, lowers their physical defense by a small amount, and inflicts Stun.
 【挑発】敵全体を挑発する。挑発後のモーション中に攻撃を受けた場合、前方範囲内の敵すべてに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。=[Taunt] Taunts all enemies and enters a stance. If attacked during this stance, deals small physical damage to all enemies in range and lowers their physical defense by a small amount.
@@ -2759,6 +2768,7 @@ UB=UB
 自分の物理攻撃力と物理クリティカルを大アップさせ、目の前の敵１キャラに物理中ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく７倍になる。=
 自分の物理攻撃力と物理クリティカルを大アップさせ、目の前の敵１キャラに物理大ダメージを与える。=
 自分の物理攻撃力と物理クリティカルを大アップさせ、目の前の敵１キャラに物理大ダメージを与える。このスキルのダメージは【剣の刻印】の数に応じて増加する。=
+自分の物理攻撃力と物理クリティカルを大アップさせ、目の前の敵１キャラに物理特大ダメージを与え、さらにクリティカルを受けた際のダメージを小アップさせる。=
 自分の物理攻撃力と物理クリティカルを大アップさせる。=Large boost to own physical attack and physical critical rate.
 自分の物理攻撃力と物理クリティカルを特大アップさせ、目の前の敵１キャラに物理大ダメージを与える。さらに、追加の物理特大ダメージを与える。=
 自分の物理攻撃力と物理クリティカルを特大アップする。さらに七冠の権能を解放し、味方の物理攻撃クリティカル時のダメージを小アップする。=
