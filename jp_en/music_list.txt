@@ -1,7 +1,9 @@
 あいしつのばろめっつ=
 あいすういんぐす=
 あいどるをめざして=Aiming for Idoldom!
+あいのきずな=
 あいぼうのわたあめちゃん=
+あかねいろのよりみち=
 あくありおす=Aquarius
 あくだいかん=Evil Magistrate
 あぐりーらぶりー=Ugly Lovely
@@ -58,7 +60,6 @@
 かがやけらぶりーどりーみー=
 かがようこおりのけっしょう=Sparkling Ice Crystals
 かくせいうわきぼし=
-かくにんちゅうです=
 かけがえのないにちじょう=
 かけろとこなつあるてぃめっとびーちふらっぐす=
 かざんのふもと=Foot of the Volcano
@@ -80,8 +81,10 @@
 くいーんうたくらげ=
 くうかだいかいてん=Kuka the Whirling Wonder
 くおんのそのをかたどるもの=
+ぐらっじれいす=
 ぐらっとん=Glutton
 ぐりーでぃらぶ=
+ぐるめちぇいさーごうしゅっぱつしんこう=
 ぐれーととぅんぬす=
 くろかぜのせいれい=
 くろがねのないとめあ=Ironclad Nightmare
@@ -141,6 +144,7 @@
 すまいりーこんとらすと=Smiley Contrast
 せいしゅんすぴなー=Youthful Spinner
 せのびふぁーすときす=First Kiss on Tiptoes
+せんりつゆうきかいがんさまーりぞーとすりらーず=
 そうごんなるねっさ=
 だいおうしょうじょう=
 たいかいをのぞんで=Seeking the Sea
@@ -227,6 +231,7 @@
 ぷりんせすないと=Princess Knight
 ぷりんせすのひみつ=
 ぷりんせすふぁいと=
+ぷれしゃすじゃーにー=
 ぷれぜんとぱにっくらんどそるのさんたたち=Present Panic! The Santas of Landosol
 へんぼうせしじゅうしゃぶらど=
 ほーりーぱっしょんろーぜず=

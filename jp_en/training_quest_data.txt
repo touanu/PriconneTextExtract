@@ -5,6 +5,7 @@
 マナクエストLv13=
 マナクエストLv14=
 マナクエストLv15=
+マナクエストLv16=
 マナクエストLv2=Mana Quest Lvl 2
 マナクエストLv3=Mana Quest Lvl 3
 マナクエストLv4=Mana Quest Lvl 4
@@ -20,6 +21,7 @@
 経験値クエストLv13=
 経験値クエストLv14=
 経験値クエストLv15=
+経験値クエストLv16=
 経験値クエストLv2=EXP Quest Lvl 2
 経験値クエストLv3=EXP Quest Lvl 3
 経験値クエストLv4=EXP Quest Lvl 4

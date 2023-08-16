@@ -77,6 +77,7 @@
 シズル（サマー）=
 シズル（ノワール）=
 シズル（バレンタイン）=Shizuru (Valentine)
+シノブ（サマー）=
 シノブ（パイレーツ）=
 シノブ（ハロウィン）=Shinobu (Halloween)
 ジュン（クリスマス）=
@@ -261,6 +262,7 @@
 プラノ平原=Prano Plains
 ブリザ渓谷=Brisa Canyon
 ホマレの部屋=Jungle - Tent
+マルジェン海岸_夜=
 マルジェン海岸_昼=Marjan Coast
 ミステリオン森林=Mysterion Woods
 ムーサの町_昼=Musa Town (Day)

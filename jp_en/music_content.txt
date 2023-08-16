@@ -49,9 +49,11 @@
 キャラクターソング\n\n時間 / 01:32\n歌　 / カスミ（水瀬いのり）\n　　　シオリ（小清水亜美）\n作詞 / 磯谷佳江\n作曲 / 渡部チェル\n編曲 / 渡部チェル=Character Song\n\nVocals:\nKasumi (Inori Minase)\nShiori (Ami Koshimizu)\nTime / 01:32\nLyrics by / Yoshie Isogai\nComposed by / Cher Watanabe\nArranged by / Cher Watanabe
 キャラクターソング\n\n時間 / 01:32\n歌　 / ジータ（金元寿子）\n作詞 / 真崎エリカ\n作曲 / 本多友紀 (Arte Refact)\n編曲 / 本多友紀 (Arte Refact)=
 キャラクターソング\n\n時間 / 01:32\n歌　 / チエル（佐倉綾音）\n　　　クロエ（種﨑敦美）\n　　　ユニ（小原好美）\n作詞 / しらゆき美優\n作曲 / 白戸佑輔(Dream Monster)\n編曲 / 白戸佑輔(Dream Monster)\n　　　佐藤厚仁(Dream Monster)=
+キャラクターソング\n\n時間 / 01:32\n歌　 / ペコリーヌ（Ｍ・Ａ・Ｏ）\n　　　コッコロ（伊藤美来）\n　　　キャル（立花理香）\n作詞 / 瀬名航（SOVA）\n作曲 / 白戸佑輔(Dream Monster)\n編曲 / 白戸佑輔(Dream Monster)=
 キャラクターソング\n\n時間 / 01:32\n歌　 / ユキ（大空直美）\n作詞 / Manami（TRYTONELABO）\n作曲 / 錦織孝宏\n編曲 / 錦織孝宏=
 キャラクターソング\n\n時間 / 01:33\n歌　 / ペコリーヌ（Ｍ・Ａ・Ｏ）\n　　　コッコロ（伊藤美来）\n　　　キャル（立花理香）\n　　　シェフィ（近藤玲奈）\n作詞 / 磯谷佳江\n作曲 / 中土智博\n編曲 / 中土智博=
 キャラクターソング\n\n時間 / 01:33\n歌　 / ペコリーヌ（Ｍ・Ａ・Ｏ）\n　　　コッコロ（伊藤美来）\n　　　キャル（立花理香）\n作詞 / しほり\n作曲 / 田中公平\n編曲 / 根岸貴幸=Character Song\n\nVocals:\nPecorine (M・A・O)\nKokkoro (Miku Ito)\nKaryl (Rika Tachibana)\n\nTime / 01:33\nLyrics by / Shihori\nComposed by / Kohei Tanaka\nArranged by / Takayuki Negishi
+キャラクターソング\n\n時間 / 01:33\n歌　 / ランファ（原田彩楓）\n作詞 / 松坂康司 (SUPA LOVE)\n作曲 / 松坂康司 (SUPA LOVE)\n編曲 / 松坂康司 (SUPA LOVE)=
 キャラクターソング\n\n時間 / 01:34\n歌　 / アオイ（花澤香菜）\n　　　ユカリ（今井麻美）\n　　　ジュン（川澄綾子）\n作詞 / no_my\n作曲 / no_my\n編曲 / 青柳諒=
 キャラクターソング\n\n時間 / 01:34\n歌　 / アオイ（花澤香菜）\n作詞 / 山本真央樹（TRYTONELABO）\n作曲 / 山本真央樹（TRYTONELABO）\n編曲 / 山本真央樹（TRYTONELABO）=
 キャラクターソング\n\n時間 / 01:34\n歌　 / カオリ（高森奈津美）\n　　　スズナ（上坂すみれ）\n　　　ニノン（佐藤聡美）\n作詞 / 椎名宇伊（Cygames）\n作曲 / 中村早織（Cygames）、長谷部翔（Cygames）\n編曲 / 長谷部翔（Cygames）=
@@ -71,6 +73,7 @@
 キャラクターソング\n\n時間 / 01:40\n歌　 / ハツネ（大橋彩香）\n　　　シオリ（小清水亜美）\n作詞 / 磯谷佳江\n作曲 / 渡部チェル\n編曲 / 渡部チェル=Character Song\n\nVocals:\nHatsune (Ayaka Ohashi)\nShiori (Ami Koshimizu)\n\nTime / 01:40\nLyrics by / Yoshie Isogai\nComposed by / Cher Watanabe\nArranged by / Cher Watanabe
 キャラクターソング\n\n時間 / 01:47\n歌　 / ノゾミ（日笠陽子）\n作詞 / Manami\n作曲 / 内海孝彰\n編曲 / 岡野裕次郎=Character Song\n\nVocals:\nNozomi (Yoko Hikasa)\n\nTime / 01:47\nLyrics by / Manami\nComposed by / Takaaki Utsumi\nArranged by / Yujiro Okano
 キャラクターソング\n\n時間 / 01:48\n歌　 / ペコリーヌ（Ｍ・Ａ・Ｏ）\n　　　コッコロ（伊藤美来）\n　　　キャル（立花理香）\n作詞 / 高尾奏之介\n作曲 / 高尾奏之介\n編曲 / 奈良悠樹=Character Song\n\nVocals:\nPecorine (M・A・O)\nKokkoro (Miku Ito)\nKaryl (Rika Tachibana)\nTime / 01:48\nLyrics by / Sonosuke Takao\nComposed by / Sonosuke Takao\nArranged by / Yuki Nara
+キャラクターソング\n\n時間 / 01:50\n歌　 / ペコリーヌ（Ｍ・Ａ・Ｏ）\n　　　コッコロ（伊藤美来）\n　　　キャル（立花理香）\n　　　リリ(鈴木みのり)\n　　　クリア(前田佳織里)\n　　　プレシア(高尾奏音)\n作詞 / マイクスギヤマ\n作曲 / 東大路憲太\n編曲 / 東大路憲太=
 キャラクターソング\n\n時間 / 01:52\n歌　 / ペコリーヌ（Ｍ・Ａ・Ｏ）\n　　　コッコロ（伊藤美来）\n　　　キャル（立花理香）\n　　　ユイ（種田梨沙）\n　　　ヒヨリ（東山奈央）\n　　　レイ（早見沙織）\n　　　シェフィ（近藤玲奈）\n作詞 / しほり\n作曲 / 田中公平\n編曲 / 東大路憲太=Character Song\n\nVocals:\nPecorine (M・A・O)\nKokkoro (Miku Ito)\nKaryl (Rika Tachibana)\nYui (Risa Taneda)\nHiyori (Nao Toyama)\nRei (Saori Hayami)\nSheffy (Reina Kondo)\nTime / 01:52\nLyrics by / Shihori\nComposed by / Kohei Tanaka\nArranged by / Kenta Higashioji
 キャラクターソング\n\n時間 / 01:56\n歌　 / ペコリーヌ（Ｍ・Ａ・Ｏ）\n　　　コッコロ（伊藤美来）\n　　　キャル（立花理香）\n作詞 / 畑亜貴\n作曲 / 高尾奏之介\n編曲 / 奈良悠樹=Character Song\n\nVocals:\nPecorine (M・A・O)\nKokkoro (Miku Ito)\nKaryl (Rika Tachibana)\n\nTime / 01:56\nLyrics by / Aki Hata\nComposed by / Sonosuke Takao\nArranged by / Yuki Nara
 キャラクターソング\n\n時間 / 02:01\n歌　 / ノゾミ（日笠陽子）\n　　　チカ（福原綾香）\n　　　ツムギ（木戸衣吹）\n作詞 / 荘野ジュリ\n作曲 / 武田城以\n編曲 / TAKT=Character Song\n\nVocals:\nNozomi (Yoko Hikasa)\nChika (Ayaka Fukuhara)\nTsumugi (Ibuki Kido)\n\nTime / 02:01\nLyrics by / Juli Shono\nComposed by / Joi Takeda\nArranged by / TAKT
@@ -117,6 +120,7 @@
 ストーリーイベントテーマ\n-｢TwinkleStars｣アレンジ-\n\n時間 / 00:58\n作曲 / 石濱翔（MONACA）\n編曲 / 東大路憲太=Story Event Theme\n(Arrangement of "TwinkleStars")\n\nTime / 00:58\nComposed by / Kakeru Ishihama (MONACA)\nArranged by / Kenta Higashioji
 ストーリーイベントテーマ\n-｢We Are Golden｣アレンジ-\n\n時間 / 00:57\n作曲 / TAKU INOUE\n編曲 / 伊禮完（Cygames）=Story Event Theme\n(Arrangement of "We Are Golden")\n\nTime / 00:57\nComposed by / TAKU INOUE\nArranged by / Kan Irei (Cygames)
 ストーリーイベントテーマ\n-｢あの夏のメモリー｣アレンジ-\n\n時間 / 00:55\n作曲 / 滝澤俊輔（TRYTONELABO）\n編曲 / 江原大介=
+ストーリーイベントテーマ\n-｢アイノキズナ｣アレンジ-\n\n時間 / 01:08\n作曲 / 松坂康司 (SUPA LOVE)\n編曲 / 関根修平（Cygames）=
 ストーリーイベントテーマ\n-｢えがおのマイホーム｣アレンジ-\n\n時間 / 01:05\n作曲 / Lucas\n編曲 / 西村真吾=Story Event Theme\n(Arrangement of "Home Full of Smiles")\n\nTime / 01:05\nComposed by / Lucas\nArranged by / Shingo Nishimura
 ストーリーイベントテーマ\n-｢キンキラ☆ハピネス！｣アレンジ-\n\n時間 / 01:10\n作曲 / 斉藤裕也\n編曲 / 西村真吾=Story Event Theme\n(Arrangement of "Shining☆Happiness")\n\nTime / 01:10\nComposed by / Hironari Saito\nArranged by / Shingo Nishimura
 ストーリーイベントテーマ\n-｢さん！シャインPARTY｣アレンジ-\n\n時間 / 01:26\n作曲 / no_my\n編曲 / 関根修平（Cygames）=
@@ -154,6 +158,7 @@
 ストーリーイベントテーマ\n\n時間 / 00:51\n作曲 / 中村早織(Cygames)\n編曲 / 中村早織(Cygames)=Story Event Theme\n\nTime / 00:51\nComposed by / Saori Nakamura (Cygames)\nArranged by / Saori Nakamura (Cygames)
 ストーリーイベントボスバトル\n-｢わくわくSUMMER TIME！｣アレンジ-\n\n時間 / 03:10\n作曲 / 滝澤俊輔（TRYTONELABO）\n編曲 / 市橋卓也（Cygames）=
 ストーリーイベントボスバトル\n\n時間 / 01:21\n作曲 / 田山里奈\n編曲 / 田山里奈=
+ストーリーイベントボスバトル\n\n時間 / 01:27\n作曲 / 畑田浩孝（Cygames）\n編曲 / 畑田浩孝（Cygames）=
 ストーリーイベントボスバトル\n\n時間 / 01:28\n作曲 / 中村博\n編曲 / 中村博=Story Event Boss Battle\n\nTime / 01:28\nComposed by / Hiroshi Nakamura\nArranged by / Hiroshi Nakamura
 ストーリーイベントボスバトル\n\n時間 / 01:30\n作曲 / Enarak（Cygames）\n編曲 / Enarak（Cygames）=
 ストーリーイベントボスバトル\n\n時間 / 01:30\n作曲 / 武田城以\n編曲 / 坪田修平（TRYTONELABO）=

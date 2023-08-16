@@ -101,6 +101,7 @@
 サンフラワーストローハット=
 シーツタルトベレー=
 シーナビゲイタークロス=
+シーバードフローター=
 ジェネシスロッド=Genesis Staff
 ジェリーフィッシュロッド=
 シャークダガー=
@@ -113,9 +114,11 @@
 スクィーザーボウ=
 スケイルメイル=Scalemail
 スタッズドブラック=
+ステアリングホイーラー=
 ストームブリンガー=Stormbringer
 スノウフレークベレー=
 スパイクバングル=Spiked Bangle
+セイリングシューター=
 ゼノスフィアロッド=Xenosphere Rod
 ゼロフロストランス=Deepfrost Lance
 ソーサラーグラス=Sorcerer Glasses
@@ -139,6 +142,7 @@
 チョコスティックブレード=
 チョコバナナダガー=
 チョコレートメイル=
+ツインオールランス=
 ディアブロスカルぺ=
 ディアブロマッシェーラ=
 ディアブロメンブランス=
@@ -183,6 +187,7 @@
 パラソルワンピース=
 パラディングリーブ=Paladin Greaves
 バリアントデモンズホーン=
+バリアントマスト=
 パレスクロース=Palace Uniform
 パンキッシュガール=
 パンクニードルバングル=
@@ -195,6 +200,7 @@
 ファッションアーマー=Fashionable Armor
 ファンシーマカロンドレス=
 ファンタズムメイル=Phantasm Mail
+フィッシャーマンズソード=
 フェアリアルブーツ=Faerie Boots
 フェザーブレード=Feather Blade
 フェザーワルツ=Feather Waltz
@@ -298,6 +304,7 @@
 叫鳴拳バイオラフィスト=
 司法神の錫杖=Staff of Themis
 哲学者のローブ=Philosopher's Robe
+大灯刃アレキサンドリア=
 大賢者の宝珠=Archsage's Orb
 大魔導師のローブ=Grand Wizard's Robe
 天杖ステラスフィア=Sky Scepter Stellasphere
@@ -382,6 +389,7 @@
 流禍の蒼刃=Forsaken Blue
 流蒼装アズールロンド=Azul Rondó
 海神の耳飾り=Poseidon Earrings
+海賊王の義手=
 海龍神の髪飾り=Leviathan Clasp
 深結晶ゼノクリスタル=Xenocrystal
 清雅なる翠蝶杖=Graceful Butterfly Staff
@@ -475,6 +483,7 @@
 覇王樹の棘針鎧=
 譜唱装ムジカスコア=
 護天の聖槍=Guardian's Pike
+豪斧大抜錨=
 豪炎槍プロミネンス=Prominence Spear
 豪魔ノ爪刃=
 赫怒竜のペンダント=Wyrmswrath Pendant

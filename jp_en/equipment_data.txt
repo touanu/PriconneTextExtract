@@ -193,6 +193,8 @@
 シーツタルトベレーの設計図=
 シーナビゲイタークロス=
 シーナビゲイタークロス（欠片）=
+シーバードフローター=
+シーバードフローター（欠片）=
 ジェネシスロッド=Genesis Staff
 ジェネシスロッド（欠片）=Genesis Staff (Fragment)
 ジェリーフィッシュロッド=
@@ -217,11 +219,15 @@
 スケイルメイルの設計図=Scalemail Blueprint
 スタッズドブラック=
 スタッズドブラックの設計図=
+ステアリングホイーラー=
+ステアリングホイーラー（欠片）=
 ストームブリンガー=Stormbringer
 ストームブリンガーの設計図=Stormbringer Blueprint
 スノウフレークベレー=
 スノウフレークベレー（欠片）=
 スパイクバングル=Spiked Bangle
+セイリングシューター=
+セイリングシューターの設計図=
 ゼノスフィアロッド=Xenosphere Rod
 ゼノスフィアロッド（欠片）=Xenosphere Rod (Fragment)
 ゼロフロストランス=Deepfrost Lance
@@ -269,6 +275,8 @@
 チョコミントアイスヒール（欠片）=
 チョコレートメイル=
 チョコレートメイルの設計図=
+ツインオールランス=
+ツインオールランス（欠片）=
 ディアブロスカルぺ=
 ディアブロスカルぺ（欠片）=
 ディアブロマッシェーラ=
@@ -355,6 +363,8 @@
 パラディングリーブの設計図=Paladin Greaves Blueprint
 バリアントデモンズホーン=
 バリアントデモンズホーン（欠片）=
+バリアントマスト=
+バリアントマスト（欠片）=
 パレスクロース=Palace Uniform
 パレスクロース（欠片）=Palace Uniform (Fragment)
 パンキッシュガール=
@@ -379,6 +389,8 @@
 ファンシーマカロンドレスの設計図=
 ファンタズムメイル=Phantasm Mail
 ファンタズムメイルの設計図=Phantasm Mail Blueprint
+フィッシャーマンズソード=
+フィッシャーマンズソードの設計図=
 フェアリアルブーツ=Faerie Boots
 フェアリアルブーツの設計図=Faerie Boots Blueprint
 フェザーブレード=Feather Blade
@@ -575,6 +587,8 @@
 司法神の錫杖（欠片）=Staff of Themis (Fragment)
 哲学者のローブ=Philosopher's Robe
 哲学者のローブ（欠片）=Philosopher's Robe (Fragment)
+大灯刃アレキサンドリア=
+大灯刃アレキサンドリア（欠片）=
 大賢者の宝珠=Archsage's Orb
 大賢者の宝珠（欠片）=Archsage's Orb (Fragment)
 大魔導師のローブ=Grand Wizard's Robe
@@ -738,6 +752,8 @@
 流蒼装アズールロンドの設計図=Azul Rondó Blueprint
 海神の耳飾り=Poseidon Earrings
 海神の耳飾り（欠片）=Poseidon Earrings (Fragment)
+海賊王の義手=
+海賊王の義手（欠片）=
 海龍神の髪飾り=Leviathan Clasp
 海龍神の髪飾り（欠片）=Leviathan Clasp (Fragment)
 深結晶ゼノクリスタル=Xenocrystal
@@ -925,6 +941,8 @@
 譜唱装ムジカスコア（欠片）=
 護天の聖槍=Guardian's Pike
 護天の聖槍（欠片）=Guardian's Pike (Fragment)
+豪斧大抜錨=
+豪斧大抜錨の設計図=
 豪炎槍プロミネンス=Prominence Spear
 豪炎槍プロミネンス（欠片）=Prominence Spear (Fragment)
 豪魔ノ爪刃=
@@ -1088,6 +1106,7 @@
 「サンフラワーストローハット」の欠片。=
 「シーツタルトベレー」の設計図。=
 「シーナビゲイタークロス」の欠片。=
+「シーバードフローター」の欠片。=
 「ジェネシスロッド」の欠片。=Genesis Staff Fragment.
 「ジェリーフィッシュロッド」の設計図。=
 「シャークダガー」の欠片。=
@@ -1100,8 +1119,10 @@
 「スクィーザーボウ」の設計図。=
 「スケイルメイル」の設計図。=Scalemail Blueprint.
 「スタッズドブラック」の設計図。=
+「ステアリングホイーラー」の欠片。=
 「ストームブリンガー」の設計図。=Stormbringer Blueprint.
 「スノウフレークベレー」の欠片。=
+「セイリングシューター」の設計図。=
 「ゼノスフィアロッド」の欠片。=Xenosphere Rod Fragment.
 「ゼロフロストランス」の欠片。=Deepfrost Lance Fragment.
 「ソーンオブローゼズ」の欠片。=
@@ -1125,6 +1146,7 @@
 「チョコバナナダガー」の欠片。=
 「チョコミントアイスヒール」の欠片。=
 「チョコレートメイル」の設計図。=
+「ツインオールランス」の欠片。=
 「ディアブロスカルぺ」の欠片。=
 「ディアブロマッシェーラ」の設計図。=
 「ディアブロメンブランス」の欠片。=
@@ -1167,6 +1189,7 @@
 「パラソルワンピース」の設計図。=
 「パラディングリーブ」の設計図。=Paladin Greaves Blueprint.
 「バリアントデモンズホーン」の欠片。=
+「バリアントマスト」の欠片。=
 「パレスクロース」の欠片。=Palace Uniform Fragment.
 「パンキッシュガール」の設計図。=
 「パンクニードルバングル」の欠片。=
@@ -1179,6 +1202,7 @@
 「ファッションアーマー」の\n設計図。=Fashionable Armor Blueprint.
 「ファンシーマカロンドレス」の設計図。=
 「ファンタズムメイル」の設計図。=Phantasm Mail Blueprint.
+「フィッシャーマンズソード」の設計図。=
 「フェアリアルブーツ」の設計図。=Faerie Boots Blueprint.
 「フェザーブレード」の欠片。=Feather Blade Fragment.
 「フェザーワルツ」の設計図。=Feather Waltz Blueprint.
@@ -1271,6 +1295,7 @@
 「叫鳴拳バイオラフィスト」の欠片。=
 「司法神の錫杖」の欠片。=Staff of Themis Fragment.
 「哲学者のローブ」の欠片。=Philosopher's Robe Fragment.
+「大灯刃アレキサンドリア」の欠片。=
 「大賢者の宝珠」の欠片。=Archsage's Orb Fragment.
 「大魔導師のローブ」の欠片。=Grand Wizard's Robe Fragment.
 「天杖ステラスフィア」の欠片。=Sky Scepter Stellasphere Fragment.
@@ -1349,6 +1374,7 @@
 「流禍の蒼刃」の欠片。=Forsaken Blue Fragment.
 「流蒼装アズールロンド」の\n設計図。=Azul Rondó Blueprint.
 「海神の耳飾り」の欠片。=Poseidon Earrings Fragment.
+「海賊王の義手」の欠片。=
 「海龍神の髪飾り」の欠片。=Leviathan Clasp Fragment.
 「深結晶ゼノクリスタル」の欠片。=Xenocrystal Fragment.
 「清雅なる翠蝶杖」の設計図。=Graceful Butterfly Staff Blueprint.
@@ -1440,6 +1466,7 @@
 「覇王樹の棘針鎧」の欠片。=
 「譜唱装ムジカスコア」の欠片。=
 「護天の聖槍」の欠片。=Guardian's Pike Fragment.
+「豪斧大抜錨」の設計図。=
 「豪炎槍プロミネンス」の欠片。=Prominence Spear Fragment.
 「豪魔ノ爪刃」の欠片。=
 「赫怒竜のペンダント」の欠片。=Wyrmswrath Pendant Fragment.
@@ -1750,10 +1777,19 @@
 月の魔力を閉じ込めたクリスタルを\nあしらったブレスレット。\n放ち続ける霊妙な光は加護となり、\nいかなる呪詛をも振り払う。=This bracelet is decorated with crystals that contain the magic of the moon. The ethereal light emanating from the moon will cast blessings and shake off any curse.
 月明かりすら届かぬ地の奥から掘り\n出された黒瑪瑙をちりばめた黒衣。\n煌きの代わりに振りまかれる漆黒は\nあらゆる危難から纏う者を隠す。=
 未知の大陸を目指す調査船団で支給\nされている甲板用の靴。装備者に\n揺れや濡れをものともしない、平地\n以上の安定性を与えてくれる。=
+未知の大陸を目指す調査船団の上陸\n部隊に支給された短剣。強力な発光\n機能を有し、信号を送るだけでなく\n戦闘時敵の視界を奪うことも可能。=
+未知の大陸を目指す調査船団の初代\n船長愛用の鉤爪。荒々しさと獰猛さ\nを宿した見た目は、かつての私掠船\n時代の名残を今に伝えている。=
+未知の大陸を目指す調査船団の剛力\n自慢たちが振るう大錨。一度振るわ\nれれば敵だけではなく大嵐でさえも\n抑え込み船団に安寧をもたらす。=
 未知の大陸を目指す調査船団の勇敢\nなる水兵たちの制服。過酷な環境\nでも身軽に動けるよう最新の技術と\n最高の素材を用いて作成された。=
 未知の大陸を目指す調査船団の勇猛\nなる甲板員たちの制服。仲間と船を\n守るためかなりの重装ではあるが、\n着衣のまま泳ぐことも可能である。=
+未知の大陸を目指す調査船団の各船\nに一本ずつ備え付けられた巨剣。\n有事には折れたマストの代わりに\n使われるほどの頑健さを誇る。=
+未知の大陸を目指す調査船団の射手\nたちが使用する石弓。通常の矢だけ\nでなく漁に使う銛も装填可能で長い\n船上生活での必需品となっている。=
+未知の大陸を目指す調査船団の救助\n担当の船員たちが持つ浮輪。まるで\n意志を持つかのように要救助者の元\nへたどり着き、脅威から守りぬく。=
 未知の大陸を目指す調査船団の目で\nある見張り番の帽子。装備するだけ\nで感覚が研ぎ澄まされ危険の兆候や\n敵の隙も逃すことなく捉えられる。=
+未知の大陸を目指す調査船団の砲撃\n担当の船員が持つ杖。魔力を使用し\n船と感覚を共有することにより精密\nな艦砲攻撃を行うことができる。=
 未知の大陸を目指す調査船団の神業\n的な技術を誇る操舵手が用いる巨大\nな盾。圧倒的な強度を誇り、操舵輪\nが破損した時の代用にもなる逸品。=
+未知の大陸を目指す調査船団の脱出\n用の小舟に備え付けられたオール。\n鍛えられた船員たちにかかれば取り\n外して槍として使うことも容易い。=
+未知の大陸を目指す調査船団の船員\nたちが刀を改造してつくった釣竿。\n後付けされた針と糸が思わぬ軌道を\n描き敵の隙を釣りだすという。=
 未知の大陸を目指す調査船団の頭脳\nたる幹部の制服。運動性能を著しく\n上げることはないが、鮮やかな色彩\nで後方からでも仲間を鼓舞できる。=
 東国に存在するある剣術流派の\n免許皆伝者に与えられる刀剣。\n月光の力が宿っており、装備者の\n五感と霊感を研ぎ澄ませる。=A sword granted to those licensed in a sword style taught in an eastern kingdom. It contains moonlight and heightens the wielder's five senses along with their sixth sense.
 東天を司る守護天使の加護を受けた\n深緑の装束。病を遠ざける治癒の風\nを纏っており、守護天使の健やかな\n慈愛と献身を恩恵に授かるという。=A deep green dress blessed by the guardian angel of the eastern skies. Imbued with healing winds that keep illness at bay, it is said to grant the benefits of the guardian angel's love and devotion.
