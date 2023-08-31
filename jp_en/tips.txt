@@ -67,6 +67,7 @@
 人目のつかない所=The Perfect Hiding Place
 作ってオーラ=A Haunting Decision
 作戦説明=The Best-Laid Plans
+内緒のつまみ食い=
 最高の服を=A Devoted Tailor
 出口はこっち=Follow Me!
 勘違いされがち=Easily Misunderstood

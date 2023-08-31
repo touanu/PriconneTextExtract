@@ -75,6 +75,7 @@
 キッズアートウォール=Kids' Decorative Wallpaper
 キッズアートフロア=Kids' Decorative Flooring
 キャッと飛び出るワンダーボックス=Box of Surprises
+キャルのセイシュンスクールロッカー=
 キョウカの黒猫ほうき=Kyoka's Black Cat Broom
 ギルドハウスの壁=Guildhouse Wall
 ぐるぐるうさぎさん=Mummy Bunny
@@ -103,6 +104,7 @@
 シンフォニックスターステージ メインユニット=Symphonic Star Stage (Main Unit)
 スウィーツショーケース=Dessert Showcase
 スウィートバレンタイントロフィー=Sweet Valentine's Trophy
+スズナのアオハルスクールロッカー=
 ステージセットのドレープ壁=Stage Curtain Wall
 ステンドグラスのパーテーション=Stained Glass Partition
 スノーマンベア=Snowbear

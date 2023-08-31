@@ -213,6 +213,7 @@
 ヨリ=Yori
 ヨリ（エンジェル）=
 ヨリ（クリスマス）=
+ライラエル=
 ラビリスタ=Labyrista
 ラビリスタ（オーバーロード）=
 ラム=Ram
@@ -245,6 +246,7 @@
 ヴァイスフリューゲル　ランドソル支部=Weissflügel (Landosol Branch)
 カルミナ=Carmina
 サレンディア救護院=Sarendia Orphanage
+ジオ・テオゴニア=
 トゥインクルウィッシュ=Twinkle Wish
 ドラゴンズネスト=Dragons' Nest
 トワイライトキャラバン=Twilight Caravan
@@ -275,6 +277,7 @@
 ヒューマン、半人半竜=
 ヒューマン、獣人族、エルフ=
 半人半竜=half-dragon
+天使族=
 機械人族=
 獣人族=beastfolk
 鬼族=demon clan
@@ -336,6 +339,7 @@
 恋愛小説、恋愛舞台、恋愛漫画の鑑賞=romance novels, romance plays, romance manga
 慈善事業=charitable works
 料理、人間観察=cooking, people watching
+昼寝、新作スイーツの試食=
 昼寝、誰かの役に立つこと=
 書類仕事、散歩、ボードゲーム=
 格闘技=martial arts
@@ -426,6 +430,7 @@ M・A・O=M・A・O
 橋本ちなみ=Chinami Hashimoto
 水瀬いのり=Inori Minase
 沢城みゆき=Miyuki Sawashiro
+河瀬茉希=
 沼倉愛美=Manami Numakura
 洲崎綾=
 浅倉杏美=Azumi Asakura
@@ -499,6 +504,7 @@ M・A・O=M・A・O
 人見知りであまのじゃくな女の子=A timid girl who's scared of strangers
 仕事も私事も効率優先な傭兵少女=A mercenary who prioritizes efficiency in both her work and personal affairs
 傍若無人な王宮騎士団副団長=The audacious vice-captain of Nightmare
+優しさと傲慢さを併せ持つプリンセス=
 前世を信じる中二病患者、「疾風の冥姫」=A delusional girl who believes she was a hero in a previous life, "Hecate of the Gale"
 勇気！　友情！　リリカルズ！=
 占いが得意な霊能少女=A medium who's skilled at fortune-telling

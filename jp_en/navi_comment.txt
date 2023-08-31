@@ -23,6 +23,8 @@
 クエストを攻略すると、\nアイテムが手に入るんだって\nもらえるものは、\nもらっておきましょ！=You can also receive\nitems by clearing\nquests.\nLet's take all we can!
 クランに入れるらしいわよ\nせっかくだから入ってみたら？\nけっこう楽しいみたいよ♪=Looks like you can join\na Clan.\nWhy not give it a try?\nCould be a lot of fun! ♪
 クランに加入してみませんか？\nみんなといっしょに冒険した方が、\n楽しいですよ！=Want to join a Clan?\nIt's a lot more fun\ngoing on adventures\nas a team!
+ここからアリーナに\n挑戦できますよ！\n編成を工夫してライバルに\n挑んじゃいましょう！=
+ここからアリーナに\n挑戦できるわよ！\nしっかり編成を考えて\nライバルに挑みなさい！=
 ここから先は神聖な場所\nでございます。\n気を引き締めてお宝の\n調査探索に参りましょう=The ruins ahead seem to be\nancient places of worship.\nWe should steel ourselves if we\nare to seek the treasures within.
 ここから先は神聖な場所\nみたいです！\nどんなお宝が手に入るか\n楽しみですね！=Looks like we're heading into\nsacred territory, huh?\nI can't wait to see what crazy\ntreasures we'll find here!
 ここでは腕試しが\nできるんですって。\n自分の実力を測るのに、\nちょうどよさそうね。=
@@ -32,6 +34,7 @@
 ここにさらなる力を得るための\nアイテムが眠っているみたい！\nどんどん挑戦して\n強くなっちゃいましょ！=Looks like the items we find here\nwill help us unlock our true\npotential! Come on, let's get\nstronger than ever before!
 ここにさらなる力を得るための\nアイテムが眠っているみたい\nです！　どこから挑戦するか\n迷っちゃいますね！=Apparently there are items here\nthat'll let us unlock our own\nhidden strength! Where do you\nthink we should start looking?!
 こちらがフレンドの\n皆さんです\n素敵な関係を\n築いてくださいね！=These are all the friends\nyou've made so far.\nI hope you'll support one another\nin your adventures!
+こちらからアリーナに\n挑戦することができます。\n主さまらしい編成で\nライバルに挑みましょう。=
 こちらでクランに加入できます\n素敵なクランがたくさんあって、\n目移りしてしまいますね=You can join a Clan here.\nThere are so many\nwonderful Clans,\nit is difficult to choose.
 こちらでは、ＢＧＭの変更が\nできますよ\nどんな曲に変更しますか？\nふふふ、私も楽しみです♪=This is where you can change\nyour background music settings!\nWhat kind of track are you after?\nHaha, I can't wait to hear it!
 こちらでは、ＢＧＭを購入\nすることができますよ\n試聴することもできるので、\nじっくり選んでくださいね=This is where you can purchase\nnew music tracks to use!\nYou can listen to a sample first,\nso feel free to take your time.

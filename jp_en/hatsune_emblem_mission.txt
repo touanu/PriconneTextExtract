@@ -1,3 +1,8 @@
+「放課後クイズエデュケーション」でアーカイブを100%解放しよう=
+「放課後クイズエデュケーション」でアーカイブを30%解放しよう=
+「放課後クイズエデュケーション」でアーカイブを60%解放しよう=
+「放課後クイズエデュケーション」にてキャルとの思い出ゲージをmaxにしよう=
+「放課後クイズエデュケーション」にてスズナとの思い出ゲージをmaxにしよう=
 アクダイカンを1体倒そう（HARD限定）=Defeat the Evil Magistrate 1 times (HARD)
 アクダイカンを1体倒そう（NORMAL限定）=Defeat the Evil Magistrate 1 times (NORMAL)
 アクダイカンを1体倒そう（SPECIAL限定）=Defeat the Evil Magistrate 1 times (SPECIAL)
@@ -170,6 +175,10 @@
 忍びの頭領ハンゾウを1体倒そう（NORMAL限定）=Defeat Ninja Chief Hanzo 1 time (NORMAL)
 忍びの頭領ハンゾウを1体倒そう（SPECIAL限定）=Defeat Ninja Chief Hanzo 1 time (SPECIAL)
 忍びの頭領ハンゾウを1体倒そう（VERY HARD限定）=Defeat Ninja Chief Hanzo 1 time (VERY HARD)
+放たれし暴魔・アルゲースを1体倒そう（HARD限定）=
+放たれし暴魔・アルゲースを1体倒そう（NORMAL限定）=
+放たれし暴魔・アルゲースを1体倒そう（SPECIAL限定）=
+放たれし暴魔・アルゲースを1体倒そう（VERY HARD限定）=
 暴走のイノセントボウを1体倒そう （HARD限定）=
 暴走のイノセントボウを1体倒そう （NORMAL限定）=
 暴走のイノセントボウを1体倒そう （SPECIAL限定）=
