@@ -577,6 +577,7 @@ MODE3 部位C=MODE 3 Part C
 得意な宿題=
 復活の白き島クジラ=
 忍びの頭領ハンゾウ=Ninja Chief Hanzo
+放たれし暴魔・アルゲース=
 旗ゴブリン=
 時限爆弾=Time Bomb
 時限爆弾モチ=Timebomb Mochi
