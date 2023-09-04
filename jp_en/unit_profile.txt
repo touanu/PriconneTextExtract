@@ -55,6 +55,7 @@
 キャル（サマー）=Karyl (Summer)
 キャル（ニューイヤー）=Karyl (New Year)
 キャル（プリンセス）=
+キャル（編入生）=
 キョウカ=Kyoka
 キョウカ（サマー）=
 キョウカ（ハロウィン）=Kyoka (Halloween)

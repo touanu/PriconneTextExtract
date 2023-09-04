@@ -170,6 +170,7 @@ Half Anniversaryガチャ=Half Anniversary Gacha
 限定「エミリア」登場！期間中出現率UP！=Boosted rates for the limited character Emilia!
 限定「エリコ（サマー）」登場！\n期間中出現率UP！=
 限定「カオリ（ハロウィン）」登場！\n期間中出現率UP！=
+限定「キャル（編入生）」登場！\n期間中出現率UP！=
 限定「キャル」登場！\n期間中出現率UP！=Boosted rates for the limited character Karyl!
 限定「キャル」登場！期間中出現率UP！=Boosted rates for the limited character Karyl!
 限定「キョウカ」登場！\n期間中出現率UP！=Boosted rates for the limited character Kyoka!

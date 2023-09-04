@@ -45,6 +45,7 @@
 キャル（サマー）=Karyl (Summer)
 キャル（ニューイヤー）=Karyl (New Year)
 キャル（プリンセス）=
+キャル（編入生）=
 キョウカ（サマー）=
 キョウカ（ハロウィン）=Kyoka (Halloween)
 クウカ（オーエド）=Kuka (Oedo)
@@ -238,6 +239,7 @@
 風宮 あかり=Akari Kazemiya
 風宮 より=Yori Kazemiya
 
+アンブローズ魔法学園_屋上_昼=
 ウィッシュビーチ=
 エステレラ街道=Esterella Road
 エルフの森=Elven Forest

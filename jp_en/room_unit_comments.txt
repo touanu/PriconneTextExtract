@@ -133,6 +133,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 あ、ヤバ…運動の後に\nこのフカついたのは…\n秒でスヤれる…すやぁ=
 あ、夜更かししてちゃ\nダメですよー？\nほらほら、お布団に\nごーごー★=
 あ、忘れずに\nお花に水を\nあげなきゃ…=Oh, I mustn't forget to water the flowers.
+あ、明日あたしたち\n日直当番よね？\nめんどい仕事は\nあんたに任せるわ～=
 あ、衣装がほつれてる\nこれくらいなら自分で\n繕えますね…！=
 あ、遅刻ですよ\n待っていたんですから=Hey, you're late!\nI was waiting for you, you know.
 あ、頼んでた出前が\n届いたかな？=Ah, has the food arrived?
@@ -195,6 +196,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 あいつと繋がって\n生まれたこの絆は\nあたしの宝物だわ=
 あいつには、いつか\nたっぷり恩返しが\nしたいにゃ…=One day, I wanna repay him in full, fur all he's done.
 あいつには私の勇姿を\nちゃんと見ていて\nほしいものだな=
+あいつに貸したノート\n変な落書きとか\nしてなかったよね…？\n…その、相合傘とか…=
 あいつのこと、\n全部受け入れるって\n決めたから！=
 あいつのプレゼント\nちょっとだけ奮発\nしたのよね…\n喜んでくれるかしら=
 あいつの事を思うと\n胸があったかくなる？\nなんだコレ…？=Why does my chest get hot when I think about him? What's with this?
@@ -497,6 +499,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 あんたと一緒に\nいるときが一番楽しい\n一時かもしれないわ=
 あんたと一緒に\n初詣行くのも悪くない\n…かも=I guess going on a temple visit together isn't the worst idea...
 あんたと自分で\n正義の心を燃やして\n悪を一網打尽ッス！=Let's set our hearts alight with the flames of justice, and annihilate evil!
+あんたネクタイ\n曲がってるわよ～？\nほら直したげるから\nこっち向いて？=
 あんたの頭、座り心地\n良いわね…私専用の\n椅子にしてあげる♪=Your head's real comfy, you know that? You can have the privilege of being my own personal seat. ♪
 あんたまだ成長期だし\nさっさと寝なさい\n大きくなれないわよ？=
 あんたもあたしが\n操ってあげる！\nなんてね～♪=I'll control you like I control those monsters! Syke! ♪
@@ -797,12 +800,14 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 うーん…衣装、\nずれてねぇべか？=Hmmm... Ain't this costume a li'l out of sorts?
 うーん。ドレスの柄は\nお花とお星さま\nどっちにしまひょか=
 うぅ、お昼に\nあんパン食べ過ぎた…\n苦しい…眠い…=Urk... I think I had too many sweet buns for lunch. My tummy hurts... I'm sleepy...
+うう、ちょっと冷えて\n来たわね…\nスカートの下に\nジャージ穿こうかしら=
 うぅ、探検に出たい！\nじっとしてなんか\nいられないよ～！=Man, I wanna go exploring! Don't wanna sit around doing nothing!
 うう…\n髪がボサボサ…\nちゃんとしなきゃ…=Oh my... My hair is a mess. I have to pull myself together.
 うう…あんちゃんに\nツッコまれたくて\nうずうずしてきたべ～=Darn... I'm chompin' at the bit to hear more of your comebacks, cousin!
 うう…パーティーが\n楽しみで、あんまり\n眠れなかったよぅ…=Urgh... I was so excited about the party that I barely slept...
 うぅ…最近、\nアイツを見るとなんか\nドキドキするのよね=Urgh... My hearts starts pounding when I get a glimpse of him these days.
 うぅ…最近\nアイツを見るとなんか\nドキドキするのよね=Urgh... My hearts starts pounding when I get a glimpse of him these days.
+うう…学校の怪談\n思い出しちゃった…\n…別に怖くないけど！=
 うぅ…怖い話を\n思い出しちゃいました\n寝るまで一緒に\nいてくれますか…？=
 うぅ…暑いね…\n騎士クン、温度計は\n見ない方がいいよ～=
 うぅ…頭がガンガン\nする…昨日、\n飲み過ぎたかな…=Ufff... My head is pounding... I might've drunk too much last night.
@@ -1089,6 +1094,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 おはちぇる～ん☆\nハイ、ご一緒に～？=Chelly morning~! ☆\nNow say it with me!
 おはよ。お姉ちゃんが\n顔を洗うの\n手伝ってあげるね♪=Morning! Do you need me to help wash your face?
 おはよ\n早く顔洗いなさいよ、\nこのねぼすけ♪=
+おはよ～！\n今日も元気に登校よ！\n忘れ物ないようにね！=
 おはよ～♪\n朝ごはんは\n焼いたお餅とか\nどうかな？=
 おはよ～お兄ちゃん！\n妹モーニングコールの\n時間ですよっ♪=
 おはよー！\n今日も元気に\nいっちゃうよー！=Morning! Let's get this day started!
@@ -1582,6 +1588,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 かわいい天使のボクが\nいつもそばにいるんだ\nキミって幸せ者だね♪=
 かわいい妹を\n愛でたくなりました？\n思う存分、どうぞ♪=
 かわいい香り～！\n持って帰ろっと！\nすぅーっ…=What a cute smell!\nI'mma take it home!\nMmmmm...
+かわいくて癒されるわ\n寮に持ち込んでも\n大丈夫かしら…？=
 かわいすぎるな…\nセクシーユニには\nミスマッチか…=No... this is too cute.\nI suppose it just wouldn't match my Sexy Yuni image.
 かわいらしい\nぬいぐるみですね～\nキャルちゃんみたい☆=What an adorable plushie! It reminds me of Karyl! ☆
 かわいらしいですわ\nいくつになっても\nぎゅっと\nしたくなりますわね=
@@ -3266,6 +3273,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ふかふか、ぎゅう～…\n…あっ、これはその…\nストレッチしててっ…=
 ふかふか…\nこのまま\n寝てしまいそうです=Ah, how soft and fluffy... I could go to sleep right here.
 ふかふか…\nまるで主さまのような\n柔らかさでございます=
+ふかふか～\n…気持ち良すぎて\n制服のまま\n寝ちゃいそうね…=
 ふかふか～\nあたしの尻尾と\n互角とはやるね～=Ooh, fluffy!\nIt could give my tail a run for its money.
 ふかふか～♪\nおばけさんが\n中にいるのかな～？=Fluffy-fluffy! ♪\nAre there any ghosties curled up inside?
 ふかふかぁ…\nクリスマスの準備中に\n眠くなっちゃいますぅ=It's so fluffy... I've still got preparations to do, but I might end up falling asleep here.
@@ -3343,6 +3351,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ふふっ\nかわいいものって\n癒されるわね…=
 ふふっ\n正月っていいわね\nみんな楽しそうだもの=
 ふふっ♪\nあなたも、海水浴に\n行きますか？=Eheh. Would you like to join me for a little swim?
+ふふふ…扉に黒板消し\n仕掛けてるの…あいつ\n引っかかるかしら？=
 ふふふ\nずっと眺めてたく\nなっちゃうわね=Heheheh, I could stare at this forever.
 ふふふっ…そんなとこ\nツンツンしないで\nくすぐったいよ～=*giggle * Hey, that tickles! Don't poke me there.
 ふふふっ♪\n次はどんな悪戯を\nしてやろうかしら♪=Heehee! Time to think up a new prank to play! ♪
@@ -3764,6 +3773,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 もう眠いかもです…\n明日は友達\nできるといいなあ…=I'm getting tired... Hopefully I can make some friends tomorrow.
 もぐ、もぐ…\nあまり食べるところ\n見ないでほしい=
 もぐ…食べ過ぎた分は\n魔力に変換されるのだ\n…たぶん=
+もぐっ…もぐっ…\n食べとかないと教室で\nお腹なっちゃうわ～=
 もぐもぐ…\nいっぱい食べて\n強いヒーローに\nなるッスよ！=
 もぐもぐ…\nおーいしー！\n…太らないよね？=*munch, munch* Sooo good! ...Wait, it isn't fattening, is it?
 もぐもぐ…\nおいしいです…！\nみなさんもぜひ！=*munch, munch* This is great! Everyone should try it!
@@ -4567,6 +4577,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 別に、食いしん坊\nじゃないのよ？\nでも、もう一口だけ…=
 別に寒くなどないぞ！\n寒くないが、ちょっと\n暖まりたくなってな！=
 利益を考えると\n価格をあげるべきか？\n…いや、利益よりも\n皆の笑顔の方が大事だ=
+制服って好きな人とも\n自然にお揃いになれて\nいいわよね…って別に\nあんたとって訳じゃ…=
 前世って信じますか？\n私とあなたは\nもしかすると…=Do you believe in past lives? Maybe the two of us were...
 剣の手入れを怠らない\nようにしないと。\nいざという時、困るし=I have to keep my sword in top condition at all times. Who knows when I might need it?
 剣術書だけで強くなる\nには飛びぬけた才能と\n努力が必要だよね=Strategy books are only useful if you work hard to put them into practice.
@@ -4597,6 +4608,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 動物苑…って\n嫌なギルド名ね…=Menagerie... What an awful guild name.
 医学は日進月歩…\n闇医者とはいえ\n最新の論文には\n目を通しておかないと=
 医者たるもの\nいつだって\n清潔に…♪=A good doctor must always remain clean. ♪
+午前の授業疲れたわ～\nしっかりお昼を食べて\n午後も頑張るわよ！=
 午後のティータイム\nとかどう？\n良いカフェがあるの♪=Fancy some afternoon tea? I know a nice cafe. ♪
 午後の授業って\n眠いでしょう？\n気持ちは分かるけど\nがんばってね♪=You feel sleepy during afternoon classes, right? I get it, but hang in there! ♪
 午後は泳ぐのをやめて\nスイカ割りなど\nいかがでしょう？=This afternoon, shall we try our hand at the traditional activity of watermelon splitting?
@@ -4674,6 +4686,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 困ったな…\n彼が居ないだけで、\nここまで\n寂しいと思うなんて…=How worrying...\nCan I really feel this lonely just because he's not here?
 困ってる人がいたら\nまた力を貸しておくれ\n頼りにしてるよ=Lend me a hand if we come across someone in need of help again. I'm counting on you.
 困ってる人は\nいないみたいだし…\nちょっとここで、\n特訓しようかな♪=
+図書室で借りた本\n明日返却日なのよね…\n今日中に読むわよ！=
 地図が読めずとも\n道に迷わない方って\nいらっしゃるのですね=Some people just never seem to get lost, even without using a map.
 地図に水筒に…\n他に忘れもんは\nあらへんやろか？=
 地道な努力が\nリア充への\n第一歩！=Steady effort is the first step to living a satisfying life!
@@ -4886,6 +4899,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 学院の外でも\n私は君の先生よ\nなんでも聞いてね♪=I'm still your teacher even outside of school, so ask me anything. ♪
 学院の授業に\nついていくためにも、\n勉強しておこうかな…=I guess I'll do a bit of studying to make sure I don't fall behind at the academy...
 学院食堂のランチも\n美味しいけど…\nここのご飯も好きかな=The lunches at our\nschool cafeteria are good and all... But I like the\nfood here a lot too.
+学食のランチ、結構\nおいしいのよね～\n今度ペコリーヌに\n教えてやろうかしら？=
 守るべき人たちに\n笑顔でいてもらうのも\n大切なんですね=Seeing smiles on the faces of those I keep safe means so much to me.
 安く済んであいつが\n喜ぶ料理とか…\nないかしら=Might there be some food they'll like that isn't so expensive...
 安売りのお店の情報\n整理しないと…=I need to put together a list of cheap places to shop.
@@ -4910,6 +4924,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 家計簿をつけなきゃ！\n覚えている時に\nやっておかないとね=Oh, the accounting! Best to do things while I remember them.
 宿題、７つぐらい\n出しそびれたですけど\nまあ大丈夫ですぅ！=There's about seven assignments that I still haven't done. But it'll work out!
 宿題はもうやった？\n苦手なところは\n先生が見てあげる♪=Finished your homework? Let me know if you need help with something. ♪
+宿題教えてって？\nしょうがないわね～\nじゃあ一緒に\nやりましょ=
 宿題見てくんない？\nひとりじゃムリ～=Can you help me with my homework? I'm completely stuck!
 寒い？　そう…\nなら、もっとこっち\n来ていいわよ…？=
 寒い中並んで飲む\n甘酒って不思議なほど\nおいしいわよね=Why does warm amazake taste so good when you drink it out in the cold?
@@ -4930,6 +4945,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 寝る前に明日の予定を\n確認しておかないと！\nえっと、集合場所は…=
 寝付けないのでしたら\nわたくしが子守唄を\n歌ってさしあげます=
 寝起きの体を\n慣らしておこうか\nほら、剣を取って=
+寮生活は楽しいけど\n就寝時間が早すぎよね\nいきなり消灯されると\nビックリするわ=
 将来の夢は探検家！\n探したい物はないけど=I want to be an explorer! But what would I look for?
 将来的には夫婦漫才\nってのも…あ、ひ、\nひとりごとだべさ～！=Maybe we can be a comedic couple. Oh! Uh, just talkin' to myself!
 将来的には夫婦漫才\nってのも…あ、ひ\nひとりごとだべさ～！=Maybe we can be a comedic couple. Oh! Uh, just talkin' to myself!
@@ -5179,6 +5195,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 新しい必殺技の\n特訓もしなくちゃ\nいけないッスね…\n忙しいッス！=
 新しい練習相手に…\nって冗談だよ冗談！\n本気じゃないから！=I need a new training partner... I'm kidding, I'm kidding! It was just a joke!
 新しい美容液で\n肌まじスベスベ～\nヒデサイも\n触ってみる？=This new beauty cream makes my skin so silky! Here, try touching me a bit.
+新しい色の蛍光ペン\n買ったのよね\nこれで勉強が\n楽しくなるわ～♪=
 新しい薄い本の匂いの\nアロマとか…ダメ？\n私はあの匂い、なんか\n好きなんだよね～=
 新しい薬\nどうやってあの方に\n飲ませようかしら=Hmm, now how can I get him to try out my new medicine?
 新しい魔道書を\n買いに行かなくちゃ\nもっとたくさん\n魔法を覚えたいな=I need to buy some new spellbooks so I can learn even more spells.
@@ -5254,6 +5271,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 昔みたいにあちこち\n飛び回れないのって\nちょっと不便かも=
 昔よくシオリン\n構いすぎてハツネに\n文句言われたなァ…=I remember when I used to hang with Shiorin too much. Then Hatsune'd get mad at me...
 星と波音の中で\n三線鳴らすのも\nオツなものさ～=The sanshin becomes extra special when you're harmonizing with the waves under the starry night sky .
+昨日の家庭科で\n作ったクッキー…\nあいつにどうやって\n渡そうかな…？=
 昼の海と夜の海\nどっちが好き？　私は\n君といる海が一番よ=Do you prefer being at the beach during the day or at night? I prefer it whenever I'm with you.
 昼は稼ぎ時だからな！\n荒波を乗り切るため\n貴公も一緒に\n頑張ってくれるか？=
 昼下がりはカフェで\n優雅なティータイム\n…憧れるわ～=Teatime at a cafe as the afternoon winds down... Now that's something I'd love to do.
@@ -5392,6 +5410,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 来年も、再来年も\nみんなで一緒に\n新年を迎えたいな=I hope I can spend New Year's with everyone again. Ideally forever.
 栄養価はともかく\n味のバランスは\n悪くないわね=
 栄養補給しないと\n頭が回りませんからね\nきちんと食べましょう=
+校則で禁止だけど、\nにけつでほうき通学\nとか青春っぽくない？=
 森とは違う\n心地良さが…このまま\n眠っちゃいそうです…=This is comforting in a different way from the forest... I could fall asleep right here and now...
 森には危険が\nいっぱいでございます\nケガをなさらないよう\nお気をつけください=
 森の中で主さまたちと\nゆったり過ごす時間は\nわたくしにとって\n大切なひとときです=
@@ -5470,6 +5489,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 毎日が\nクリスマスだったら\nいいのにな～♪=I wish this holiday came around every day. ♪
 毎日の日課…それは\n炊事、洗濯、大喜利\nだべ！=My daily routine is... cookin', washin', and doin' my standup show at night!
 毎日牛乳を飲んでいる\nのだが、なかなか背が\n伸びないものだな…=I drink milk every day, but I'm still not getting any taller...
+毎日窮屈な制服着て\n学生も大変ね～\n…ま、かわいいけど=
 毒にも薬にもならない\n存在なんて嫌ですわ\nどうせならとびきりの\n毒でありたい…=Being the cure is better than nothing. But my greatest wish is to be the poison.
 毒を薄めると\n薬になるのって\n今でも不思議だわ=It still amazes me how antidotes are made by diluting poisons.
 気が付けばアキノさん\nのペースだけど…\n不思議と嫌では\nないのよね=
@@ -6226,6 +6246,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 部屋の飾りつけとか\nするのも…あり？\nふふ、浮かれすぎかな=
 部屋はきちんと\n片づけておかなくては\n部屋の汚れは\n心の汚れだ=We must keep this place spic and span. An unclean home makes an unclean heart!
 部屋中がいい香り…\nなんだかすごい贅沢\nしてる気分♪=This scent is lovely. It's like I'm really living in the lap of luxury. ♪
+部活するなら運動部も\n悪くないかもね～\n夕日に向かって\n突っ走ってやるわ！=
 都会でくつろぎ…\n自然の中でくつろぐ…\nくつろぎ無限ループ…=
 都会のことを\n学ばないと…\nふむふむ=I need to learn more about city life. Hmm...
 都会の人々は\nこんなふうに\n運動を…！？=This is how folks in the city stay in shape?!
@@ -6263,6 +6284,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 除霊は気を遣います\n一歩間違えると父まで\n成仏させてしまうので=
 陰に日向にあなたを\n支えていきます♪\n期待していてください=
 随分多くの女性と\n知り合いなのですね\n驚きました=You certainly are acquainted with a large number of young women.\nI'm a little surprised.
+集中力の高まる香りで\n勉強の効率爆上がりね\n次のテストで\nいい点取るわよ～！=
 集中力を高める香りも\nあるのよね…\n勝負をするときには\n持ち歩こうかしら=
 離れてても分かるよ…\n温かい力で騎士クンに\n守られてるの=
 雨の日でも運動\nできるのは、濡れ\nなくて便利だにゃ！=Being able to exercise without getting wet is awesome!
