@@ -97,6 +97,7 @@
 ああ～ん、\n砂が水着の中に入ってきちゃって\nくすぐったいわ～\nお願い、なんとかして～=Ahhh! Some sand slipped into my swimsuit! It's so tickly! Do something about it for me, please!
 あぁ～染み渡るわぁ～\n仕事の後はこれに限るわよね～！\nそうだキミ、肩揉んでくれない？\nんっ、あ～っ、上手ね、キミ…=Ahh, that hits the spot! Nothing better after a hard day's work!\nHey—can you rub my shoulders?\nMm... Ooh, you're good at this!
 あいつとの心のつながりが力に…\nこういうのも悪くないわね\nなっ！　あんた聞いてたの！？\nい、今すぐ忘れろばかぁぁ～！=Power from my bond with him...\nI guess it's not the worst feeling.\n...Wait, wha—?! You heard that?!\nW-wipe it clean outta your brain!
+あいつ遅いな…待ち合わせ場所、\nここで合ってるわよね…あれ\nやっぱり裏門だったかも…？\nもう…不安になるから早く来い！=
 あえいうえおあお…\nも、もっとみんなと、\nお話しできるように、\n練習です=I'm doing speech training so I can talk to others better. She sells seashells...
 あか、しろ、きいろ～\nきれいに咲いたお花さん～♪\n虫さんブーン\nちょうちょさんヒラヒラ～♪=Red, white, yellow... Such pretty flowers. ♪ Mr. Bug is buzzing, Mr. Butterfly fluttering! ♪
 あけましておめでと～☆\n君が新年をのんびりまったり\n過ごせるように、精一杯\nおもてなししちゃうよ～☆=
@@ -1362,6 +1363,7 @@
 な、なあ…あんちゃんのこと\n相方って呼んでもいいべか？\nそれがダメなら婿さんに…\nあ、逆だ！　こっぱずかしー！=C-can I call ya my pardner, pal? Or if not, my hubby? Whoops! Other way around!
 な、泣いてなんかないよ…！\n―あ、ううん、ちがうよね\nわたし…泣いちゃった。ふふっ\nでも泣けたから…もう大丈夫だよ=
 な～んか、ちょっとだけ\nいい気分になってきたかも…\n気のせい…かなぁ？=I feel all warm and fuzzy... Maybe it's just because of you?
+なーんか最近、青春のせいで\n感情駄々洩れ気味なのよね…\nうっかりしてるとあいつに告は…\n…って、うっかりすんなあたし！=
 なあ、いつか二人で\n旅に行こうぜ！　仕事とか\n関係なく、好きなとこ行くんだ\nキミとならきっと楽しいだろうな=
 なあ、仕事の依頼はないのか？\nだからケンカだって。ケンカの\n仕事。オレがたぎるようなやつを\n持ってきてくれよな=Hey, don't you have any jobs for me today? ...You know, brawling. Brawling jobs! Bring me the kind of work that'll get me fired up!
 なあに？　またモフモフするの？\nまあいいけどね、あなただから\nい～こい～こしてあげるわね=Hmm? You want to feel my fluffy wool again? Okay, I'll make an exception for you.
@@ -1393,6 +1395,7 @@
 なんでずっと見つめてるかって？\nお兄ちゃんと一緒に過ごす\nクリスマスを、いつまでも\n覚えていたいから！　ですよ♪=
 なんでもかんでもどんなことでも\nお姉ちゃんに言ってね！\nもっともっと頼って甘えて～\n遠慮しないでいいんだぞっ☆=You can talk to me about absolutely any tiny little thing. Let me take care of it!
 なんて優しい風…\nふふっ…まるで精霊たちが、\nわたくしと主さまを\n祝福してくれているようです♪=Ah, the wind feels so tender...\nEheh. It is as though the spirits are bestowing all their blessings upon me, and upon my lord.
+なんで青い春っていうのかしらね\n燃えるような赤い春でも、希望に\n満ちた黄色い春でもよくない？\n…めんどくさいって顔すんな～！=
 なんの遠慮もなく、自分が\nこうしてお仕事できるのは\nあんたのおかげッス\nこれからも、ずっと一緒ッス！=
 ナイトさんのこと、\nもっともっと教えてくださいっ！\nわたし、あなたに\n興味津々みたいなんですっ♪=
 ナデナデしてあげようか？\nそれとも肩もみ？　膝枕？\nチョコとセットで、お姉ちゃんの\nあま～いお世話はいかがっ？=Do you want any headpats? Or a shoulder rub? Or would you like to rest in my lap? Your big sis can be as sweet as any chocolate!
@@ -1421,6 +1424,7 @@
 ね、海の楽しみ方…\n先生に教えてもらえないかしら？\nできれば、あなたと一緒に\n夏を満喫したいなって…ふふ♪=
 ねーねー、あたしと一緒に\nのんびりゲームでもしようよ～\nたまには休むのも大事だよ？=Hey, c'mere. Kick back and play a game with me or something. You gotta make time to relax!
 ねーねー、ヒデサイってさ\n九九どの段まで覚えてるのー？\nうっそー？　マジ？　超天才ー！=How much of the times table do you know? All of it?! Forget smart, you're a brain genius!
+ねー新しくクレープ屋ができたん\nだって。今日帰りに二人で…\n…って、べ…別に放課後デートの\nお誘いとかじゃないんだから！=
 ねぇ、こういうところに\n連れてきてくれるってことは、\n私のこと、少しは女の子扱い\nしてくれてるってこと…かな=Does bringing me here mean you're sort of treating me like a proper girl, maybe?
 ねえ、このファンレター書いたの\nアンタでしょ？　アタシの魅力が\nやっと分かってきたようね！\n大事に読ませてもらうわ♪=
 ねぇ、どうかしら…？\n私を見て、何か感じない？\n恐怖？　…おかしいわね=Tell me... what do you feel when you look at me? Fear? Hmm, that's odd...
@@ -1654,6 +1658,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 べ、別になにもしてないですよ？\n気配を消して、お兄さんの話を\n盗み聞きしてたとかじゃないです\nホントホント、ただの未遂ですよ=
 へ、変身したら、\n髪型まで変わってる！？\n一体どういう理論で…はあ\nもう、考えないようにしよう…=W-wait, when I transform,\neven my hairstyle is different?\nWhat's the logic behind this?!\n*sigh* Best not to think about it...
 へ～、あんた、誕生日なんだ～\nあ、たまたまケーキ持ってるから\n一緒に食べましょ？\n…たまたまよ！　本当だからね！=Oh, it's your birthday? Talk about a weird coincidence. I've got a cake here, so let's eat it together. It really is a coincidence! I swear!
+へーあんた今日誕生日なんだー\n知らなか…って教室行くの禁止！\nみんなでサプライズパーティーの\n準備してんだからね！？=
 へぇ、今日が誕生日だったのか\nおめでとさん！\nんじゃ、せっかくだし\nなんかおごってやるよ！=Oh hey, today's your birthday? Congrats! Lemme treat you to some good grub!
 へへっ、海だー！\nな、なんだよ、あたしが\nはしゃいじゃおかしいかよ？=Woo-hoo! We're at the beach! Wh-what's with that look? Am I not allowed to get excited?
 へんし～んっ！\n…あっ、弟くん、見てたの？\n変身シーンに興味津々かな？\nじゃあもう一回…見せてあげるね=
@@ -1700,11 +1705,13 @@ fun in their costumes.\n...No, of course I'm not scared!
 まだまだ冒険者としては\n知らぬことばかりの身\nこれから近くで、冒険のいろはを\n学ばせてくださいませ。兄様=
 まだまだ寒い日が続きますね\n主さま、お手手を繋ぎ\n暖めあって歩くといたしましょう\nぎゅっと握ってくださいまし=The cold weather may continue for some time. Let us hold hands to share a little warmth, my lord. Try to hold mine nice and tightly.
 また大失敗しちゃいましたけど\nあなたがすぐに手を差し伸べて\nくれて…なんだか私、それが\nすごくうれしかったり…えへへ♪=
+まっすぐ寮に帰らないで\nどこかに寄り道しちゃいたいな…\n目的地なんてないけど、このまま\nあんたと一緒に歩きたいだけよ=
 まったく、あの甘っちょろ\nお姫さまったら！\n公務をなんだと思ってるのかしら=
 まったく、アキノさんの勢いに\nついていくのは大変だわ…\nまぁ、その分あたしも\n強くなれるんだけど=
 まったく、お主は大胆じゃのう…\n裳裾が濡れてしまったではないか\n風邪を引いてはならん…\n近う寄れ…く、くっつくのじゃ=
 まばたき禁止だよ、にいちゃん！\n今からイタズラじゃなくて、\nミソギたち３人の絆の力で\nにいちゃんを驚かせちゃうから！=
 まるで人魚みたい、ですか…？\nなら、おとぎ話のように、\n歌であなたを魅了しちゃいます\n…なんて、ふふ。冗談です=
+マジックアワーって名付けた人、\nきっとロマンチストな魔法使いね\n幻想的な空の下で、\nあいつとのんびり下校したいな…=
 マフラーをしている理由？\nふっ、カッコいいからに\n決まっているではないか！\n他の理由などあるわけがない！=
 マホマホ王国のお茶会へようこそ\nマホ姫が王子はんのために、\n愛を込めておもてなししますわ=
 マホマホ王国のパレード開始や～\n王子はんも、\nマホマホ王国の王子として、\nみんなと一緒に楽しんでな♪=Gather 'round, everyone, for the\nMaho-Maho Kingdom parade!\nAs the prince of our kingdom,\nI hope you'll join in the fun! ♪
@@ -2029,6 +2036,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 今日、お誕生日なんですよね\nおこづかいを貯めて、\nカップケーキを買ってきたので、\n召し上がってください=It's your birthday today, isn't it?\nI saved up my allowance to buy a cupcake for you. Here you go.
 今日、キミの誕生日なんだって？\nみんなから聞いたよ、おめでとう\n今からお祝いするって言ってたし\n一緒に行こうか=So I hear it's your birthday today?\nThe others told me. Congrats.\nThey were planning celebrations too, so shall we join them?
 今日、ヒデサイの誕生日とか\nまじエモくない？\n最高の日じゃん！\nうちと一緒にお祝いしよ♪=
+今日、夕方から雨らしいわよ。\n…へ～、傘持ってきてないんだ？\nったくしょうがないわね～\n入れてあげるから感謝しなさい！=
 今日、誕生日なんだよね？\nそれじゃあ私も、特別な\nサービスを提供しちゃおうかな☆\n…どんなこと、されると思う？=
 今日、誕生日なんだろ？\n食材の買い出し、付き合えよ\nあとでなんか作ってやるからさ\nおまえの好きなもの…教えろよな=It's your birthday, right? Then come help me do some grocery shopping. I'll make us something later, so tell me what you want to eat.
 今日、誕生日なんですよね！\nおめでとうございます！\n特別な日の特製特大ケーキ、\n一緒に食べませんか？=Today's your birthday, huh! Congrats! How about we eat a huge, custom-made cake on your special day?
@@ -2041,6 +2049,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 今日ってお前の誕生日だよな？\nぐ、偶然、たまたま作った\nケーキがあるんだけど…\n食わねぇか？=It's your birthday today, right? I-I just happened to, you know, bake a cake for no real reason, so... Wanna have some of it?
 今日ってキミのお誕生日だよね！\nえへへ、忘れるわけないよ～！\nパーティの準備もばっちりだし、\nいっぱい楽しく過ごそうね！=
 今日という日の奇跡のおかげで\nあなたと出会うことができました\nだから…どうか言わせてください\n万感の想いを込めた感謝と祝福を=
+今日の３時間目体育か～…ねえ、\nかったるいし屋上でサボらない？\n…はいはい、やっぱダメよね～\n分かりました～行くってば～=
 今日のあなたには、\n女難の相がでていますね\nあまり私以外の女性とは、\n話をしない方が…=I predict you'll have trouble with women today. You should just try to stay with me...
 今日のためにグレアと\nピアノの練習をしたんだ！\n曲はもちろん…\n『ハッピーバースデー』だよ♪=
 今日のために練りに練った\nクリスマスデートのプラン…\nあっ、お兄ちゃんは見ちゃだめ！\nこのメモはきぎょー秘密です！=
@@ -2224,6 +2233,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 初詣のおみくじ？　大吉だよ！\nいいことばっかり書いてたなー\n恋愛運！？　…内緒っ！　=You wanna know what fortune I pulled? Great luck, of course! The slip was full of positive stuff. How did it look in terms of love? Th-that's a secret!
 別の世界での思い出も、\nせいしゅんの１ページです！\nルゥ、とっても楽しいですぅ！=Making memories in a new world is just another part of youth! I'm having so much fun here!
 制服って、スカートなんですね…\nうう…足元がすーすーして\n落ち着かないです…=Oh... this uniform has a skirt...\nAhhhh... My legs feel so exposed, it's making me all antsy...
+制服ってけっこういいわね\nなんとなく気が引き締まるし\nそれに意外と…かわいいし？\nや…別に頷かなくていいから…！=
 前から好きだった自分の名前…\nもっともっと大好きになったよ！\n私はノゾミ─希望の名前！\nさあ、キミも呼んで！　せーの！=
 剣では救えない\n彷徨える魂たちも\n私と…あなたの力があれば\n救うことができます=
 剣に拳、そして魔法…\n気付けばいろんな戦い方が\nできるようになっちゃった\nどんどん私を頼っていいからね！=
@@ -2512,6 +2522,7 @@ being with you just gets me extra hype, you know?
 揉め事に巻き込まれたら\n私の名前、出しちゃっていいよ\n…もっと悪いことが起きる？\nだって、そのほうが楽しいし♪=
 撮影が終わったら\n一緒に海で遊ぼうよ！\nすぐ終わるから\nちょいまっててね♪=Let's go have fun after I finish this photoshoot! Don't worry, it'll be over in a flash! ♪
 攻撃に大事なのは、１に効率、\n２に効率！　３も４も５も効率！\n究極の効率を体現したこの技で、\n纏めてぶっ飛ばしてやるわ！=
+放課後暇だし部活とかしようかな\n吹奏楽とか美術とか…あたし、\n芸術的センスあると思うのよね～\n今度あいつと見学いこうかしら♪=
 救護院の皆さまに、水着を\n選んでいただきました…\n似合っていますでしょうか？=Our friends at the Orphanage chose this swimsuit for me...\nDoes it look all right, I wonder?
 整列手伝ってくれてありがと♪\nあんたと一緒だといつもより\n何倍も仕事が楽しいわ♪\nまたお願いね！=Thanks for helping me manage the lines. Work is so much more fun with you around!
 敵だったオマエとアタシが\n今は味方同士になれたんだ…\nだからきっと、オクトーだって…！=You and me were enemies once, but we're totally past all that now, right? So I'm sure there's still hope for me and Octo, too...
@@ -2956,6 +2967,7 @@ being with you just gets me extra hype, you know?
 誕生日？　どうでもいいじゃない\nいつ世界に生まれたかじゃなくて\n何を成すかが大事なのだから=
 誕生日おめでと！　ミソギ、\nにいちゃん大好き！　本当だよ！\nんーイタズラばっかりしてるから\n信じてもらえないや…=Happy birthday! I love you, mister! Honest! ...Maybe it's hard to believe me after I pranked you so many times...
 誕生日おめでと～！\nカボチャのサーターアンダギーを\nいーっぱい作ってきたんだ～\n遠慮せずたくさん食べるさ～♪=
+誕生日おめでと～！\n空の方見てて。今から魔法で、\nあんたの歳の数のバースデー花火\nぶっぱなすわよ～！=
 誕生日おめでと～。ゲームと\nあんパンでお祝いするよ～\nさあ、ゴロゴロしながら思い切り\n楽しもうね～=Hey, happy birthday. Time to celebrate with games and sweet buns! C'mon, let's laze about and enjoy ourselves to the max.
 誕生日おめでと～\nプレゼントは買い忘れてないよ～\n通販の時間指定を使ってるから、\nもうすぐ届くはずだよ～=Happy birthday! And hey, I didn't forget your present. Should be delivered any minute now.
 誕生日おめでと～\n特別な日だからこそ、\nぐうたら過ごすに限るよね\nあたしも一緒に付き合うよ～=Happy birthday! It's a special day, so kick back and relax all you want. Naturally I'll be joining you, too.

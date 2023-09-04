@@ -128,6 +128,7 @@
 キャル（サマー）のシャドウ=Karyl (Summer)'s Shadow
 キャル（ニューイヤー）のシャドウ=Karyl (New Year)'s Shadow
 キャル（プリンセス）のシャドウ=
+キャル（編入生）のシャドウ=
 キャルのシャドウ=Karyl's Shadow
 ギャングオッター=Mafiotter
 キューピッド=
@@ -1504,6 +1505,7 @@ SP MODE2=
 キャル（サマー）の姿をした特殊な魔物=A peculiar monster bearing a striking resemblance to Karyl (Summer).
 キャル（ニューイヤー）の姿をした特殊な魔物=A peculiar monster bearing a striking resemblance to Karyl (New Year).
 キャル（プリンセス）の姿をした特殊な魔物=
+キャル（編入生）の姿をした特殊な魔物=
 キャルの姿をした特殊な魔物=A peculiar monster bearing a striking resemblance to Karyl.
 キョウカ（サマー）の姿をした特殊な魔物=
 キョウカ（ハロウィン）の姿をした特殊な魔物=A peculiar monster bearing a striking resemblance to Kyoka (Halloween).
