@@ -196,6 +196,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 あいつと繋がって\n生まれたこの絆は\nあたしの宝物だわ=
 あいつには、いつか\nたっぷり恩返しが\nしたいにゃ…=One day, I wanna repay him in full, fur all he's done.
 あいつには私の勇姿を\nちゃんと見ていて\nほしいものだな=
+あいつに背中を\n預けるのもいい気分だ\nいつかは、全部…=
 あいつに貸したノート\n変な落書きとか\nしてなかったよね…？\n…その、相合傘とか…=
 あいつのこと、\n全部受け入れるって\n決めたから！=
 あいつのプレゼント\nちょっとだけ奮発\nしたのよね…\n喜んでくれるかしら=
@@ -2781,6 +2782,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ドングリでも\nつまみながら\n一緒にゲームしようよ=Let's play a game while munching on some acorns!
 ドングリの木\n近くに生えてない？=Have you seen any acorn trees around here?
 な、なんだか野生に\n帰っちゃいそう！=I-I almost feel like I could return to my wild roots!
+な、なんだよ？\nじっと見るんじゃねぇ\n尻尾が揺れちまうだろ=
 な、ナデナデとか\n恥ずかしいな～=These head pats are starting to get a little embarrassing.
 な、何…あんまジッと\n見ないでくんない…\nなんか、その、ハズい=Wh-what is it?\nD'you gotta keep staring like that? It's kinda, y'know... off-putting.
 な～に騎士きゅん♪\nここでイチャイチャ～\nし・ちゃ・う～？=
