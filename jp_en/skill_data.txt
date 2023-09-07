@@ -110,6 +110,7 @@
 ウォーターバレット=Aqua Bullet
 ウォーターバレット+=Aqua Bullet+
 ウルフェンバイト=Wolven Rend
+ウルフェンランページ=
 ウルフェンロンド=
 えい★えい★おー！=
 エーテルブラスト=
@@ -2589,6 +2590,7 @@ UB=UB
 目の前の敵１キャラに物理特大ダメージを与え、物理防御力と魔法防御力を特大アップさせ、物理攻撃力を中アップさせる。物理攻撃力アップの効果値は、残りＨＰが高い程増加する。=Deals massive physical damage to an enemy directly in front. Massive boost to own physical and magical defense and moderate boost to own physical attack. Physical attack boost increases with remaining HP.
 目の前の敵１キャラに物理特大ダメージを与え、物理防御力を中ダウンさせる。=
 目の前の敵１キャラに物理特大ダメージを与え、物理防御力を小ダウンさせる。【フィールド展開中】ダメージがアップする。=
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を特大ダウンさせる。さらに自分に【狼牙の咆哮】を付与する。【狼牙の咆哮】が付与されている間、すべてのスキルの効果値が増加する。=
 目の前の敵１キャラに物理特大ダメージを与え、長時間スタンさせて大きく吹き飛ばし、さらにそのキャラを中心とした範囲内の敵すべてに物理大ダメージを与え、混乱させる。=
 目の前の敵１キャラに物理特大ダメージを与える。=Deals massive physical damage to an enemy directly in front.
 目の前の敵１キャラに物理特大ダメージを与える。エリコのＨＰが低いほど、ダメージがアップする。=Deals massive physical damage to an enemy directly in front. Damage increases the lower Eriko's HP.

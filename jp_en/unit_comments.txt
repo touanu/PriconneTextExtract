@@ -108,6 +108,7 @@
 あたし、お腹ぺこぺこだよ\nあんた何か持ってない？\n美味しいあんパンでもあれば\n最高なんだけどね～…=I'm starving. Got anything to eat? Preferably a sweet bun?
 あたし、こんなに強かったっけ？\nきっと騎士くんのおかげだね！\nだからずっとそばにいてくれる？\nだ、だって、強くなりたくて…=Was I always this strong? I bet it's thanks to you, Mr. Knight! Will you stay with me forever? 'C-cause I wanna get stronger...
 あたし、なかなかキマってない？\nカッコよくない？\nまた人気出ちゃうよ～\n困るな～マジで～=Hey, do I look kind of cool?\nLike a total badass?\nMan, I'm gonna be so popular!\nThat sounds like a pain...
+あたしがおまえを守る\nおまえがあたしを守る\nそういう関係が続けばいいよな\nずっと…ず～っと、なっ♪=
 あたしがお客さん呼び込むから、\nあんたはこの看板持って\n誘導してくれる？=I'll call out to the customers. Can you twirl this sign to draw them in?
 あたしがサボってここにいるのは\nボスには内緒にするですよ？\nもしあのババアに見つかったら\n何されるか分からないです…=
 あたしがボスになったら\nイノリのお菓子工場を作らせます\nお小遣いとお菓子の両取りですよ\nくぅ〜！　夢が広がるです！=
@@ -119,6 +120,7 @@
 あたしだってアキノさんに\n張り合うことだってあるわよ？\nべ、別にあんたがどうとかは\n関係ないけど…！=
 あたしの前でボーっとするなんて\nいい度胸ですね、お兄さん！\n今日のぶんのオヤツが\nなくなっても知らないですよ～？=
 あたしの姿が変わっても、\n騎士くんはそのままなんだ…あ！\nこれと同じ服作る？　そしたら\n一緒にプリンセスフォームだよ！=
+あたしの本能が目覚めちまったぜ\n…こっから先は手加減なしだ\nこの研ぎ澄まされた爪と牙で\n刻みつけてやる…あたしの力を！=
 あたしの水着をこんな間近で\n見られるなんて、あんた本当に\n得してるわよ♪=You best count yourself lucky. Not many people get to see me in a swimsuit, let alone up this close. ♪
 あたしの知名度が広まるよう\nお兄さんはあたしを担いで…え？\n肩車すればいいのかって…\nそういう意味じゃねーですよ！！=
 あたしの親友の恩人なら、\nあたしの恩人みたいなもんだ\nお互い仲良くしていこうぜ！=If my friend owes you a debt, then so do I. Let's make this a great partnership!
@@ -1366,6 +1368,7 @@
 なーんか最近、青春のせいで\n感情駄々洩れ気味なのよね…\nうっかりしてるとあいつに告は…\n…って、うっかりすんなあたし！=
 なあ、いつか二人で\n旅に行こうぜ！　仕事とか\n関係なく、好きなとこ行くんだ\nキミとならきっと楽しいだろうな=
 なあ、仕事の依頼はないのか？\nだからケンカだって。ケンカの\n仕事。オレがたぎるようなやつを\n持ってきてくれよな=Hey, don't you have any jobs for me today? ...You know, brawling. Brawling jobs! Bring me the kind of work that'll get me fired up!
+なぁ…その、大丈夫だよな？\n全力のあたしを見て…\n引いたりしてないよな？\nっ！　そっか、よかった…へへ♪=
 なあに？　またモフモフするの？\nまあいいけどね、あなただから\nい～こい～こしてあげるわね=Hmm? You want to feel my fluffy wool again? Okay, I'll make an exception for you.
 なに、あんたもこの浮き輪\n使いたいの？　仕方ないわね\nこっち来なさ…ちょ、近い！\n顔が近いってもう！=
 なに、ぼくの運動不足が心配？\nそうか、よくぞ言ってくれた\nでは君に下肢部のストレッチを\n依頼する。ほれほれ、解したまえ=
@@ -1660,6 +1663,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 へ～、あんた、誕生日なんだ～\nあ、たまたまケーキ持ってるから\n一緒に食べましょ？\n…たまたまよ！　本当だからね！=Oh, it's your birthday? Talk about a weird coincidence. I've got a cake here, so let's eat it together. It really is a coincidence! I swear!
 へーあんた今日誕生日なんだー\n知らなか…って教室行くの禁止！\nみんなでサプライズパーティーの\n準備してんだからね！？=
 へぇ、今日が誕生日だったのか\nおめでとさん！\nんじゃ、せっかくだし\nなんかおごってやるよ！=Oh hey, today's your birthday? Congrats! Lemme treat you to some good grub!
+へへっ、すげぇ力だろ？\nおまえのために強くなったんだぜ\nだから…その、なんだ\n…あたしから目をそらすなよ=
 へへっ、海だー！\nな、なんだよ、あたしが\nはしゃいじゃおかしいかよ？=Woo-hoo! We're at the beach! Wh-what's with that look? Am I not allowed to get excited?
 へんし～んっ！\n…あっ、弟くん、見てたの？\n変身シーンに興味津々かな？\nじゃあもう一回…見せてあげるね=
 ぺんぽこりん、ごーごー★\nえ？　中の人？\nんもー★　そんなの\nいるわけないじゃないですかぁ♪=
@@ -2238,6 +2242,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 剣では救えない\n彷徨える魂たちも\n私と…あなたの力があれば\n救うことができます=
 剣に拳、そして魔法…\n気付けばいろんな戦い方が\nできるようになっちゃった\nどんどん私を頼っていいからね！=
 剣の練習に付き合ってあげるわ\n一刻も早く成長して\n私にそれを突き立てなさい=
+力がありあまってるからか\n体がうずきやがる…えっ？\nおまえが相手をしてくれる？\nいいね、じゃあぶつかりあうか！=
 力がみなぎってくるぜぇ！\nあたしから離れんなよ！\n何があっても絶対に\nお前を守ってやんよ♪=I'm brimming with power! Stay close. I'll protect you no matter what comes!
 力がわきあがってくるです！\n知性派のあたしですけど\nたまには本能のおもむくまま\nってのも、悪くないです！=
 力が溢れ出て、止まりません！\nこの力で、わたしの大切なものを\nぜ～んぶ守ってみせますね\n今度は何もなくしたりしません！=I'm full of overwhelming power! With this strength, I'll protect everything that's precious to me!\nI won't lose any of it this time!

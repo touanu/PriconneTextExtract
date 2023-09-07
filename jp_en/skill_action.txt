@@ -793,6 +793,7 @@ UB_範囲物理ダメージ=-
 自分に物理攻撃力アップ付与=Applies physical attack up to self.
 自分に物防中アップ=Moderate phys. def. up to self
 自分に物防大ダウン=Large phys. def. down to self
+自分に狼牙の咆哮を付与する=
 自分に間合い変更付与=Applies range change to self
 自分のHPに5％ダメージ=5% damage to own HP
 自分のＨＰを{0}回復=Recovers own HP by {0}.
