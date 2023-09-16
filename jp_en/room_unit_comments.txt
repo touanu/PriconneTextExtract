@@ -1352,6 +1352,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 お昼だね～\nおせちを用意したから\nみんなで食べよっか=
 お昼ですね！\n言ってくれれば、\nパンでもお握りでも\n買ってきますよ！=Oh, it's lunchtime!\nDo you need me to buy you anything from the school shop?
 お昼ですわね\n栄養補給をしつつ\n働きますわよ！=
+お昼どうしよっかな\nたまにはガッツリ\nいっちゃう系？=
 お昼になりましたし\nご飯は私が作…\nえっ、ダメですか！？=It's about time for lunch, so I'll make something for...\nH-huh? You're good?
 お昼になりましたわね\nさあ、\nパーティーの準備を\n進めますわよ！=
 お昼のランチは\nクウカがいいだなんて\n大胆過ぎです…じゅる=What are you having for lunch today? ...Me?\nOh, you beast... *drool*
@@ -1571,6 +1572,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 かわいいエンジェルの\n格好、お兄ちゃんなら\n喜んでくれますよね♪=
 かわいいかわいい♪\nお姉ちゃんの魔法で\n増やしちゃうぞ…♪=
 かわいいこの子と\nかわいいチエル！\n映ぁ～え～る～！=This li'l cutie with me, the big cutie!\nIs that snapworthy\nor what?!
+かわいいし、\n癒されるし、キュン死\nしちゃうじゃん…！=
 かわいいじゃな～い♪\nコッコロたんに\nプレゼントしたいわ=
 かわいいですねー\n君も一緒に、\n先輩を観察する？=Aww, how cute... Would you like to watch over him with me, little guy?
 かわいいと思う\n気持ちを、歌にしても\nいいかも知れませんね=Perhaps I could try expressing how cute it is in a song.
@@ -2486,6 +2488,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 そうだ！\n貴様の技にも\n名前をつけてやろう！=That's right! Your technique needs naming as well!
 そうだ…精霊に\n騎士クンのそばで\n見守っていてって\n頼んでみようかな…=
 そうやってじっと\n見られると…ちょっと\n恥ずかしいわ…=
+そだ！　これ着て\nルー学行こっかな？　\n制服自慢しちゃお♪=
 その、よろしければ\n私とお散歩など\nいかがです？=Um, if you don't mind, perhaps we can go for a stroll together?
 そのうち、王子はんの\nお国にも連れてって\nもらえますやろか？=I hafta insist that you take me to your kingdom one day, my prince.
 そろーりそろーり…\n気配を消せばお菓子も\n食べ放題…にやり=
@@ -2601,6 +2604,8 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ちょうどよかったさー\nゆっくり休んだら\nまた泳ぎに行くさ～！=Perfect timing! I'm all up for another swim now that I've gotten some rest!
 ちょうど良かったわ\nあなたも大掃除\n手伝ってくれる？=
 ちょうど退屈してた\nところだ、特訓に\n付き合ってくれよ=Oh hey, I was just getting bored.\nYou should join me for some training.
+ちょすー、うちの\nさいきょー魔法で\nテンアゲしてあげる～=
+ちょすちょす～\n今日も朝から\nバイブス十分♪=
 ちょっ…わたくしを\n叩いても、ホコリなど\nあまり出ませんわよ！=
 ちょっくらオレと\n腕相撲しねえか？\nこの新しい力\n試させてくれ！=
 ちょっち疲れたかも？\nガン寝しちゃおっかな=I'm beat! Think I'll go crash for a bit.
@@ -3194,6 +3199,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ビッグボスになったら\nお兄さんにいい思い\nさせてあげますから！=
 ビッグボスになったら\nみんなからたくさん\nお菓子をもらうです！=
 ヒデサイ～\nこの水着どうかな？\nイケてるっしょ♪=How's this bikini look on me? Super stylish, right? ♪
+ヒデサイセンセー\nうちにベンキョー\n教えて！=
 ヒデサイといるだけで\nうち、おに楽しいし！\nヒデサイもっしょ～？=
 ヒデサイといると\nドキドキする…\nなんでだろ～？=
 ヒデサイといると\n楽しくてうれしくて…\nカレシってこんな感じ\nなのかなぁ？=Hanging with whiz-boy always puts a smile on my face. Wonder if this is what it's like to have a boyfriend?
@@ -3203,6 +3209,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ヒデサイと一緒に\nハロウィンパーティー\n…えへへ、楽しみ～=
 ヒデサイと会ってると\n顔熱くなるんだよね\n熱なんかないのに…=Seeing you, whiz-boy, makes my face feel hot, but I don't have a fever...
 ヒデサイのこと\nうちがいつでも\nあっためたげるね！\n…あ！　手、手の話！=
+ヒデサイのバイブス\n上がる言葉教えてよ\nつらたんな時、うちが\nいっぱい言ったげるよ=
 ヒデサイの視線\nずっと独り占め\nしてたいな～=
 ヒデサイも\nメイクしてみる？\nハロウィンぽいやつ♪=
 ヒデサイを見習って\nうちも少し勉強して\nみよっかな…　=I should study more so that I can be a whiz-boy like you...
@@ -3372,6 +3379,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ふむふむ…\nいろんな知識があると\nキャンプはもっと\n楽しくなりますよね=
 ふむふむ…\nここにお宝が\n眠ってるんだにゃ=Hmmm... My nyose is twitching with the scent of treasure!
 ふむふむ…\nなるほどー\n水着の種類って\nそんなにあるんだぁ…=
+ふむふむ…\nねむみパない…\n続きはまた今度～=
 ふむふむ…\nふむふむふむ…！\n勉強になった、ブイ☆=Hmmm...\nHmmmmmm...\nYep, I've learned a lot from this! Go me!
 ふむふむ…\n前にアキノさんが\n言ってたのは\nこのことかしら？=
 ふむふむ…おもちゃの\n設計図を見るのも\n勉強になりますね！=
@@ -3474,6 +3482,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ヘアピンが…\n拾ってくれたんだ！\nありがとう騎士くん！=Where'd my hairpin go... Oh, you picked it up for me? Thanks!
 ベストタイミングだよ\nにいちゃん！\n今からみんなで探検に\n行くところなんだ！=
 ベストタイム更新！\nライブに向けて\n体力つけないと…=My best time yet! Gotta keep in shape for my concerts.
+ベンキョーつらたん…\n今度キャルっちに\n助けてもらお=
 ぼ、防犯魔石を\n鳴らしますよ！？=Don't make me sound my Siren Amulet!
 ほぁあアあァぁー…\nいい香りー…\nあアァあ…イイ…=Huwaaahhhh...\nWhat a nice scent...\nAwahhh... so good...
 ほう、悪くない香りだ\n戦いの匂いをうまく\n隠してくれそうだ…♪=Ah, a refined aroma.\nIt would do nicely to conceal the stench of bloody warfare...!
@@ -3483,6 +3492,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ぽかぽか…\n幸せなひとときですね=
 ぽかぽか～☆\nシオリンと一緒に\nぬくぬくしたら\n気持ちよさそう♪=
 ぽかぽかあったまって\n元気をチャージ\nするのだ～☆=
+ぽかぽかサイコー♪\n今日はもーずーっと\nここにいたいかも～=
 ぽかぽかだ…\nウケた会場みてぇだ=This place is as warm as a lively crowd.
 ぽかぽかだ…♪\nミミとミソギと\nあの人と一緒に\nいるときみたい=
 ぽかぽかで\nいい気持ち…\n夜道を歩く前に\n温まっておこうっと…=
@@ -3869,6 +3879,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 やばばばばー！\nかわいすぎだってば！\nマジらぶだよ～♪=Omigosh! This is totes adorbs! Losing my mind over here! ♪
 やはり、クリスマスは\n街が活発になり\nますわね…これは、\n絶好の商機ですわ♪=
 やはり転生者という\n設定はカッコイイ…\n天才だな、私！=Being reincarnated is the coolest lore... I'm such a genius!
+やべ、宿題まだ\nできてないし…\nヒデサイ助けて～=
 やるからには本気で\nやらせてもらおう\nトリックオア\nトリート！=
 やることは山積み\nだけど、手を動かす\nのは嫌いじゃないわ♪=
 やわらか～い…\nここでひと休みして\nまたいたずらしよう！=Ooh, this is fluffy!\nMaybe I'll take a nap before playing some\nmore tricks!
@@ -3949,6 +3960,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 リズムを意識して…\nわんつーわんつー！\nうん、調子はバッチリ=Feel the rhythm... One, two, one, two! Yeah, that's the way!
 リゾートリゾートっ\nのんびりしましょ♪=This is the resort life. ♪ Let's take it nice and easy. ♪
 リフレッシュできたわ\nこれでまた、バリバリ\n働けるわね！=I feel refreshed. Now I can get back out there and work!
+リフレッシュの\n魔法発見！\nいい香り～♪=
 リボンがかわいい？\nほ、ほぇぇぇ～～\nは、恥ずかしいですぅ=You like my ribbon? O-omigosh... I-I'm blushing!
 リボンや服に\n染み込ませておこう。\nいつでもいい匂い♪=I'm going to soak this in my ribbon and clothes, so I'll always smell good. ♪
 リボンや服に\n染み込ませておこう\nいつでもいい匂い♪=I'm going to soak this in my ribbon and clothes, so I'll always smell good. ♪
@@ -4204,6 +4216,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 久しぶりに水着を\n着たんだけど\n変じゃなかったかな…=It's been a while since I wore a swimsuit. I hope I didn't look weird in it...
 久しぶりの我が家って\n感じです！　やっぱり\nここが一番ですね〜！=
 乗り心地バッチリだね\nしゅっぱつしんこー！\nなんちゃって♪=
+九九って呪文ぽくね？\nほら、例えばヒチシ…\nヒチシ、なんだっけ？=
 予告状って…\n切手はどこに貼れば\nいいんだろう…？=
 予習が終わりました！\nさて、次は復習を\nしないと…=I'm all prepared for my next class! Now to review my lessons from yesterday...
 事件のオチは\n往々にして\n取るに足らないものさ=Some mysteries are more about the journey than the destination itself.
@@ -4276,6 +4289,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 今度のハロウィンは\nユイとヒヨリを\n誘ってみようかな=
 今度のライブでは\n夏らしい爽やかな歌を\nファンにお届けします=
 今度のライブ会場、\nいつもより大きいから\n楽しみなんだ～！=The next concert venue is bigger than usual, so I'm really excited!
+今度ヒデサイに\nお弁当作ったげる\n屋上で一緒に食べよ♪=
 今度一緒に…\nパーティにでも\n行きませんこと？=Perhaps you would... accompany me to a party sometime?
 今度天気がいい日には\nシオリンと彼を誘って\n一緒にお出かけ\nしたいな～♪=
 今度買い物に\n付き合いなさい\nセールがあるのよ=I need you to come shopping with me. There's a big sale.
@@ -4487,6 +4501,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 兄様のお留守の間\nわたくしが、兄様の\n御家を守ります！=
 兄様の本棚はまるで\n知識の宝庫ですね\n己の世間知らずぶりを\n実感してしまいます=
 兄様の話し相手…！？\nど、どうしましょう…\nわたくしには面白い\n話なんて…はうぅ…！=
+充電ちう～\n…ガッコーのイスも\nこれにして～=
 先生だって日々勉強よ\n新しいことを知るのは\nとても楽しいわ♪=
 先生と初詣に\n行きましょう〜♪\n迷子にならないように\n手を繋いで、ね？=
 先生なのに闇の力を\n持ってるのは秘密よ？\n他の子には\n知られたくないから…=
@@ -4579,6 +4594,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 別に、食いしん坊\nじゃないのよ？\nでも、もう一口だけ…=
 別に寒くなどないぞ！\n寒くないが、ちょっと\n暖まりたくなってな！=
 利益を考えると\n価格をあげるべきか？\n…いや、利益よりも\n皆の笑顔の方が大事だ=
+制服が一番映える\n場所ってどこだろ？\n教室？　遊園地？=
 制服って好きな人とも\n自然にお揃いになれて\nいいわよね…って別に\nあんたとって訳じゃ…=
 前世って信じますか？\n私とあなたは\nもしかすると…=Do you believe in past lives? Maybe the two of us were...
 剣の手入れを怠らない\nようにしないと。\nいざという時、困るし=I have to keep my sword in top condition at all times. Who knows when I might need it?
@@ -4890,6 +4906,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 子どもたちのために\n浮き輪を用意して\nおかないと…=I should get some swim rings for the children.
 子供たちの遊びって\nあたしが子供の頃と\nあまり変わらないのね=Children's games haven’t changed much since I was young.
 子供だましの怪談に\n関心はありませんが…\n霊には興味があります\n観察対象として、ね=
+学割マジ助かるー\nヒデサイ、一緒に\nどんどん使ってこー♪=
 学校に\n遅刻しないように\n早く準備しないとね=I have to get ready fast so I'm not late for school.
 学校の図書室に\n恋愛小説を\n置いて欲しいなあ=I wish they had romance novels in the school library.
 学校の給食でも\n食べたいわぁ～=It'd be nice if they served this at school, too.
@@ -5766,6 +5783,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 男の子と効率的に\n仲良くなる方法…\nこればっかりは難題ね=An efficient way to get along with boys... Why is it so difficult?
 男の子と海だなんて\n少女漫画みたいで\n憧れてたの～=Going to the beach with a boy is a scenario straight out of a shoujo manga. I've always wanted to experience it.
 男の子に水着を\n見られるのって\n少し緊張しちゃいます=I'm actually a bit nervous letting guys see me in this.
+男子の制服\nもにカワだった…\n今度ヒデサイに\n借りよっかな？=
 留守番はちょっと\n苦手かも…\nなんか寂しいんだもん=I don't really like staying home alone... I get too lonely.
 異世界であろうと、\nラムのやるべきことは\n変わらないわ\nまずは休憩するわよ=Even in another world,\nmy duties stay the same.\nFirst, I think I'll take a well-earned break.
 異世界ならではの\n面白い内容もあるわね\nとても興味深いわ=It's easy to tell these books come from a whole different world.\nVery interesting indeed.
@@ -6168,10 +6186,12 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 贈り物を模倣して\n潜入…試してみる\n価値はありそうですね=
 赤、白、緑、金\nクリスマスカラー\nってお洒落だよね=Red, white, green, gold... Aren't festive colors so stylish?
 赤ちゃんみたいだった\n時のことは、忘れて…\nお願いだから…=
+赤点回避の魔法とか\nあったら最高じゃね？\n誰かうちに教えて～=
 走って食べて！\n走って食べて！\n\この無限ループです！=Run, then eat! Run, then eat! It's an endless cycle!
 起きてすぐに会いに\n来てくださるなんて\nようやく私の伴侶たる\n自覚が…クスクス=
 起きろ、起きろー！\n大悪党の朝は早いんだ\nさっさと\n顔洗ってこい！=
 起きろ貴公！\n魔法少女の朝は\n早いぞ！=
+超おいし～♪\n学食にあったら\n毎日リピする～=
 超ふかふかしてる～\nちょっと休憩させて\nもらっちゃお=
 足取りが軽やか？\nあー…ダンスとか\n習ってるからですかね=I seem light on my feet? Oh... maybe that's 'cause of the dance lessons.
 踊りなら、\n私が手とり足とり\n教えてあげるさ～！=I’ll teach you everything you need to know about dancing!
@@ -6248,6 +6268,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 部屋の飾りつけとか\nするのも…あり？\nふふ、浮かれすぎかな=
 部屋はきちんと\n片づけておかなくては\n部屋の汚れは\n心の汚れだ=We must keep this place spic and span. An unclean home makes an unclean heart!
 部屋中がいい香り…\nなんだかすごい贅沢\nしてる気分♪=This scent is lovely. It's like I'm really living in the lap of luxury. ♪
+部活か…\nヒデサイと一緒に\nやったら楽し～かも♪=
 部活するなら運動部も\n悪くないかもね～\n夕日に向かって\n突っ走ってやるわ！=
 都会でくつろぎ…\n自然の中でくつろぐ…\nくつろぎ無限ループ…=
 都会のことを\n学ばないと…\nふむふむ=I need to learn more about city life. Hmm...
@@ -6405,6 +6426,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 魔法と科学\nどっちも極めて\nみせるわ=Magic and science... I will show the extremes of both!
 魔法の修行しなくちゃ\nもっともっと頼れる\n団長になりたいから！=
 魔法の研究は\n一旦、休憩！\n頭を休めなくちゃ=
+魔法の練習！\nむむむ～…\nそれっ…！=
 魔法の話ですか？\nそれはアンせんぱいに\n聞いてほしいですぅ…=You want to know more about magic? Sorry... Anne knows more about that than me.
 魔法はいつか解ける…\nでも、その時間は心に\n残り続けるわ♪=
 魔法は便利だけど\nあまり頼りすぎちゃ\nダメだよね=Magic is a useful thing, but I should be careful not to rely on it too much.

@@ -957,6 +957,7 @@
 この子、ニャットちゃんって\nいいます\nとっても聞き分けの\nいい子なんですよ～=This little one's name is Nyatt. He's very obedient.
 この子たちは私とお兄ちゃん\nにとって家族…それって…\n『子どもみたいなもんだな』\nち、ちち、違うからぁ！=
 この子の名前？　まだないけど…\n好きに呼べばいいんじゃない？\n…コヨリ？　私に似てるから？\nえ…えええええ！？=
+この屋上でも色々あったね\nヒデサイとの思い出いっぱいだよ\n…せっかくだし、今日も\n二人だけの思い出作っちゃう？=
 この帯が気になるんですか？\nつ、つまりクウカを回したいと…！\nそして着物のはだけたクウカを\nそのまま美味しく…ぐふふ=Were you looking at my belt just now? S-so, you want to spin me around... Until my kimono gets so loose that you can... Gueheheh...
 この広い海の中で、\n主さまと二人っきり…\nいまだけは、主さまを\n独り占めです♪=The two of us are alone in these vast ocean waters. At least for this moment, I have you all to myself.
 この後カラオケでも行きます？\nチエルが歌うんで、先輩には\nちーえるフゥ！　ちーえるフゥ！\nって跳ね散らかす係をあげますね=Wanna go out for karaoke later? I'll do all the singing, so you just chant "Chi~eru! Woo! Chi~eru! Woo!" to liven the mood, 'kay?
@@ -1274,6 +1275,7 @@
 ツムギが作ってくれたこの衣装\nとても素敵だね…ふふ、\n幽霊たちも、似合ってるって\n言ってくれているのかな？=
 ツリーの飾り付けが終わったら、\nお買い物と、お料理の準備と…\nうう…アヤネちゃん、雪だるま\n作ってないで手伝ってよぉ…=I've still got shopping and meal prep to do once I'm done decorating the tree. Ayane... Can you please help me instead of making a snowman?
 できればずーっと\nゴロゴロしてたい…\nねえ、あんたもそう思わない？=Wish I could just laze about forever, honestly. Don't you agree?
+てゆーか、いい時間だし\nちょっちお腹減ったね…\nあ、そだ、お菓子あるし食べる？\nふふ、センセーには内緒だよ♪=
 テーブルマナーはお互いが\n仲よく過ごすための心配りなんよ\nでも一番大切なのは\n一緒に楽しい時間を過ごすことや=
 テキだったコトもあっけどー\nそーゆーめんどいの忘れてー\nとりま、ユルめなカンジでよろー=
 デケデケデン！\nこのニノン、ショーグンのために\n忠義を尽くすデース！\n見ててクダサイ！=Dekedekeden! I'm always ready to prove my loyalty to my shogun! You just wait and see!
@@ -1448,6 +1450,8 @@
 ねぇ弟くん、お姉ちゃんの悩みを\n聞いてくれるかなぁ？　あのね、\nもっと弟くんに甘えてほしいんだ\n…どうしたらいいと思う？=
 ねっ、すっごく大きいでしょ♪\nこれはね、愛の大きさなんだよ？\nお姉ちゃんがどれだけ弟くんを\n想ってるか…伝わったかな♪=
 ねっ、次はなにしてあそぼっか！\n弟くんが楽しめること\nぜ～んぶやっちゃおう♪\nほら、立って立って♪=
+ねねね、ヒデサイ\nみんなに見つからないように\n隠れるのドキドキして楽しーね！　\nあっ、そっか今は、しー…だね♪=
+ねねね、ヒデサイは何派？\nセーラー、ブレザー、ボレロ、\nどれが好き？　教えて！\n…あ、もしかして全部好きの人？=
 は、ハッピーハロウィン…\nうう、恥ずかしいな…=H-Happy Halloween.\nAhh... this is embarrassing...
 は～…ほんとうに\nあたしたち以外にも\nドラゴン族っているんですかね？\n…そこらへんに歩いてないです？=
 は～い、あけましておめでとう！\n上手に新年の挨拶できましたね～\n今年も子どもたちとあなたの成長\nとっても楽しみにしてますね♪=
@@ -1598,10 +1602,15 @@ fun in their costumes.\n...No, of course I'm not scared!
 ビーチバレーにバーベキュー…\n夏にやってみたいこと、\nたくさんあるんです！\n…少し浮かれ過ぎでしょうか？=
 ピーマンとにんじんを食べないと\n大きくなれない…？\nううっ…大きくはなりたい\nですけれどぉ～っ=I'll never grow up if I don't eat my carrots and peppers? Urgh...\nI really do want to grow, but...
 ヒーローにも休息は必要ッス！\nあんたさえよければ\n今日は二人でごろごろする\nっていうのもいいッスよ？=
+ヒデサイ、おたおめ～！\nこないだ、パないお店\n見つけたから、一緒いこーよ\nもち、今日はうちがおごるし！=
 ヒデサイ、ちょす～！\nまた計算手伝ってほしいんだけど\nお願いしてもいいかなー？=Whattup, whiz-boy? I was hoping you could help me with my math again?
+ヒデサイ、どーうちの制服？\nアオハルって感じっしょ？\nどういう意味って…それは\nうちと一緒に見つけるんじゃん♪=
+ヒデサイ、暇な感じ？\n制服デートしよーよ\n楽しそーっしょ？\nじゃあ放課後よろ～♪=
 ヒデサイ、知ってた？\n海の水ってしょっぱいんだよ！\nうち物知りっしょ～♪\nでぃすいずあんだすたんど？=Whiz-boy, get this—the ocean's salty! Bet you didn't know that, huh? Just call me Professor Suzuna! ♪
+ヒデサイ、誕生日だよね\n今日はうちがハッピーな日に\nするから、覚悟してて！\nたくさんお祝いしちゃうよ♪=
 ヒデサイ～、ちょす～！\n一緒にごはんしよ！\n最近みつけた美味しいお店、\nうちが教えてあげる～=Whattup, whiz-boy? Wanna eat lunch together? Lemme take you to this hot new spot I found!
 ヒデサイが応援して\nくれてるってだけで\nうちすっごく楽しいんだよ？\n人生楽しんだもん勝ちっしょー！=
+ヒデサイといるとさ\nバイブス上がるんだよね\n楽しいし、ウキウキするし…\nうちに何か魔法かけたっしょ？=
 ヒデサイと一緒だと\nマジ楽しすぎてヤバいかも！\nテンション上がりすぎて\nやばばばーって感じ！=
 ヒデサイと話してると、なんか\nほっこりする～…あったか～い\nえ？　ウソじゃないよ、マジマジ！\nガチバナだって～！=Talking to you makes me feel, like, warm and relaxed. No, I mean it! Totes for reals!
 ヒデサイ誕生日おめ～♪\nプレゼントなにがいい？\nあ、一緒に選びに行く？\nりょ！　そんじゃ行こー！=
@@ -1986,6 +1995,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 久しぶりに水着を着るから\n今日のために新調したのよ\n似合ってるかな？　ってどうして\n顔をそむけちゃうのよ～=It's been a while since I wore a swimsuit, so I went out and bought a new one. Does it look okay? Hey, why're you averting your eyes?
 予想以上にお客さんが来てくれて\nビックリだわ！　せっかくだし\nあんたも寄ってきなさいよ！=I can't believe we got so many customers! You may as well go do your shopping, too!
 事件、すぐに解決できるといいね\nえっ？　なんでって…それは…\n…助手くんと遊びたいからだよ！\nそれくらい見抜きたまえ、もう！=
+二人でこーしてるとさ\nなんか少女漫画っぽくね？\nキラキラでアオハル系のやつ\nふふ、もうちょっと浸ってこーよ=
 二人で一緒に海デート♪\n仲良しきょうだいだもん\nこれくらい普通だよねっ！\nあ、腕組んで歩こっ、弟くんっ♪=
 二人で力を合わせて\n設営をしてお料理をして…\nキャンプの共同作業は\n非ぼっちの気分が味わえます…！=
 二人で歩いてるとよくカップルに\n間違われちゃうわね\n恋人同士に見えるのかな？\n私はイヤじゃないけど…　=When we're out together, people always think we're a couple. I guess I don't really mind it, though…
@@ -2242,6 +2252,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 剣では救えない\n彷徨える魂たちも\n私と…あなたの力があれば\n救うことができます=
 剣に拳、そして魔法…\n気付けばいろんな戦い方が\nできるようになっちゃった\nどんどん私を頼っていいからね！=
 剣の練習に付き合ってあげるわ\n一刻も早く成長して\n私にそれを突き立てなさい=
+割と風あるし\nちょっち冷えてきたね\nヒデサイも寒いっしょ？\n…ね、そっち寄ってもいい？=
 力がありあまってるからか\n体がうずきやがる…えっ？\nおまえが相手をしてくれる？\nいいね、じゃあぶつかりあうか！=
 力がみなぎってくるぜぇ！\nあたしから離れんなよ！\n何があっても絶対に\nお前を守ってやんよ♪=I'm brimming with power! Stay close. I'll protect you no matter what comes!
 力がわきあがってくるです！\n知性派のあたしですけど\nたまには本能のおもむくまま\nってのも、悪くないです！=
@@ -3179,6 +3190,7 @@ being with you just gets me extra hype, you know?
 魔法でお姫様に変身…じゃなくて\nなんだか勇者になったみたいです\nでも、自分の力で切り開くって\n意味では、ピッタリかもですね！=It's like I've been transformed into a princess... no, a valiant hero!\nBut I guess bravely forging a path forward is what idols do too!
 魔法はいつか終わっちゃう…\nでも魔法みたいに素敵な時間は\n自分の力で作っていけるのよね\n私、これからもがんばるわ♪=
 魔法は便利で強力な力だけど…\n私の一番の武器は団員との絆！\nこれからもあなたのこと\n頼りにさせてもらうからね！=
+魔法まじムズい\n九九といい勝負してるよ\nあ、もしかして両方できたら\nブンブリョードーってやつ？=
 魔法使いって結構\nいろんな依頼で重宝されるんだ！\nおかげで騎空艇のための貯金が\nいいペースで貯まってるよ！=
 魔法少女って憧れだったんです\n見た目は、その…\nちょっと恥ずかしいですけど=I've always looked up to magical girls. Even if their costumes can be, um... a little bit embarrassing.
 魔法少女と、パートナー\n探偵と、助手\n私たちはどうやら、離れられない\n運命のようだね。…ふふっ♪=A magical girl and her partner...\nA detective and her assistant...\nIt seems the tides of destiny don't want us to stay apart. Heheh! ♪

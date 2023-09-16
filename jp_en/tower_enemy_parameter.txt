@@ -73,6 +73,7 @@
 スカルフレイム=Flaming Skulls
 スズナのシャドウ=Suzuna's Shadow
 スズメのシャドウ=Suzume's Shadow
+スタンプ=
 スティンクスカンク=Stinkskunk
 スノウゴート=Snow Ram
 スパイククラブ=Spike Crab
@@ -158,6 +159,7 @@
 リンのシャドウ=Rin's Shadow
 ルインドール=Ruins Doll
 ルカのシャドウ=Ruka's Shadow
+ルナティックベア=
 ルナポッド=Lunapod
 レイジングジョー=
 レイのシャドウ=Rei's Shadow

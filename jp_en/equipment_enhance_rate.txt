@@ -425,6 +425,7 @@
 白霞の純花装=
 百華白桜刀=Whiteblossom Blade
 砂塵瀑布の手甲=
+碧海のアンカーブローチ=
 神兎乃大剣=Rabbit Broadblade
 神判の聖斧=Judgment Axe
 神湊剣アクアルーラー=Wharfblade Aqua Ruler
@@ -442,6 +443,7 @@
 精霊樹の弓=Feywood Bow
 精霊王の護石=Spirit King's Talisman
 紅天弓=Sunset Bow
+紅海のホイールブローチ=
 紅玉刀スカーレットムーン=
 紅色花飾菓子切包丁=
 紅鳥のクラリオンブローチ=
@@ -472,6 +474,7 @@
 英盾王の腕輪=Warden King's Armlet
 蒼夜のノクターンブローチ=
 蒼天のローブ=Azure Robe
+蒼海のフローターブローチ=
 蒼神弓マーシーサピロス=
 蒼輝の鎧=Azure Splendor
 蒼雷拳=Azure Thunder
