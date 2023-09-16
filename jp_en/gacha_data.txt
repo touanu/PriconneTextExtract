@@ -118,6 +118,7 @@ Half Anniversaryガチャ=Half Anniversary Gacha
 新キャラ「シノブ（パイレーツ）」登場！\n期間中出現率UP！=
 新キャラ「ジュン」登場！期間中出現率UP！=Boosted rates for the new character Jun!
 新キャラ「スズナ（ハロウィン）」登場！\n期間中出現率UP！=
+新キャラ「スズナ（編入生）」登場！\n期間中出現率UP！=
 新キャラ「タマキ（カフェ）」登場！\n期間中出現率UP！=
 新キャラ「チエル（聖学祭）」登場！\n期間中出現率UP！=
 新キャラ「チエル」登場！\n期間中出現率UP！=Boosted rates for the new character Chieru!

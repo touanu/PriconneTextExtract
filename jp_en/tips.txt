@@ -58,6 +58,7 @@
 ロックオン=Target Acquired
 わらしべ世界征服=Trading Quest of Evil
 一緒に！=
+一緒にアオハルを=
 一緒にいきたい=Puppy-Dog Eyes
 下剋上=
 不安の種=

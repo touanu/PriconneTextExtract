@@ -105,6 +105,7 @@
 スズナ=Suzuna
 スズナ（サマー）=Suzuna (Summer)
 スズナ（ハロウィン）=
+スズナ（編入生）=
 スズメ=Suzume
 スズメ（サマー）=Suzume (Summer)
 スズメ（ニューイヤー）=Suzume (New Year)

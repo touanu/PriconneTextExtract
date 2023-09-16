@@ -1,5 +1,6 @@
 ３つのラウンドを駆け抜け、\n総合１位を目指しましょう！\n参加者の皆さんの特徴や、\nＧＰの特徴にも注目です♪=
 カルミナメダルを使って、\n応援グッズをゲットしましょう！\nメダルはルピを使って\n交換できますよ。\n=
+キャルさん、スズナさんと一緒に\nクイズでお勉強しましょう！\n放課後の教室で二人きりって…\nなんだかドキドキしますね♪=
 クウカさんを引っ張ってより遠く\nへ飛ばしてあげましょう！\n色々なハプニングでクウカさんに\nエクスタシーを届けましょう！=Pull Kuka back, then let go and watch her fly! Thanks to all sorts of unexpected disasters, she might have quite the journey!
 こちらは{0}ルピで\n販売中！\nぜひ購入して\n遊んでくださいね！=This game is available for the low, low price of {0} rupies!\nI do hope you'll enjoy it!
 チームでクイズに挑みましょう！\nソロで自分の実力を試すか、マル\nチで仲間と一緒に遊ぶか、好きな\nモードを選んでくださいね♪=
