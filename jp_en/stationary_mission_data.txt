@@ -102,6 +102,8 @@
 8月クランバトル (クランモード)で4段階目に到達しよう=
 90キャラ獲得しよう=Recruit a total of 90 characters
 9人のプレイヤーと共闘をクリアしよう=
+9月クランバトル (クランモード)で3段階目に到達しよう=
+9月クランバトル (クランモード)で4段階目に到達しよう=
 ギルドハウスアイテムを1個設置しよう=Place 1 furniture item in the guildhouse
 ギルドハウスアイテムを2個設置しよう=Place 2 furniture items in the guildhouse
 クランでクランバトル・ルナの塔のサポートキャラを設定しよう=Set a Clan Battle support character for your clan
