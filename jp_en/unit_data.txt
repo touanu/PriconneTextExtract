@@ -90,6 +90,7 @@
 サレン（アキノ＆サレン）=
 サレン（クリスマス）=
 サレン（サマー）=Saren (Summer)
+サレン（サラサリア）=
 ジータ=Djeeta
 ジータ（ウォーロック）=
 シェフィ=
@@ -374,6 +375,7 @@
 【物理】中衛から、敵陣の後方を狙い撃つ幽霊狼少女。\n前方の相手を無視して妨害スキルやユニオンバーストを\n敵後方に放ち、特に防御力が低いキャラの脅威になる。=[Physical] A were-ghost who attacks the enemy's rear line from the midguard. Ignoring the front line, her skills and Union Burst target the furthest enemy, obstructing their actions and wreaking havoc upon enemies with low defenses.
 【物理】中衛で、どたばたと敵をかく乱する、純情少女。\n敵をスタンさせるスキルのほか、ユニオンバーストでは\n暗闇と混乱を付与することで敵を邪魔することができる。=[Physical] A purehearted girl who wildly disrupts the enemy from the midguard. Aside from stunning foes with her skills, she can also influct Blind and Confusion with her Union Burst to prevent their attacks from finding their mark.
 【物理】中衛で、万有を自在に創造する『迷宮女王』。\n七冠としての権能を解放するユニオンバーストで自身を\n極大に強化し比類ない攻撃能力で仇なす者を剿滅する。=
+【物理】中衛で、優艶に炎と踊り舞う情熱のサレンママ。\n物理攻撃から味方を守り、【炎舞の刻印】の数に応じて効\n果の上がる物攻アップとＴＰ回復で皆を奮い立たせる。=
 【物理】中衛で、味方の攻撃を鼓舞する、軍人娘。\n味方全体の物理、魔法攻撃力の大幅アップに加えて、\n攻撃速度もあげることで、戦闘の早期終結を実現する。=[Physical] A soldier that increases allied offense from the midguard. Ends battles swiftly by greatly boosting the party's physical and magical attack power as well as attack speed.
 【物理】中衛で、味方の速攻を支える海辺のサレンママ。\nバトル開始時に味方全体のＴＰを一気に溜めることで、\n迅速にユニオンバーストを発動させることを可能にする。=[Physical] The motherly Saren keeps her allies on the offensive from the midguard. Her ability to boost allies' TP at the start of each battle allows for rapid use of powerful Union Bursts.
 【物理】中衛で、味方をプリンで強化する幽霊聖少女。\n物理攻撃力と物理クリティカルアップのプリンパワーの\nフィールドで自分のスキルも強化し、猛攻を繰り出す。=

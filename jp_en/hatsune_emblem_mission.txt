@@ -41,6 +41,10 @@
 オブシダンゴーレムを1体倒そう（VERY HARD限定）=
 カオリのマブイ式空手道場EXTRAで1度にスコアを70000以上獲得=Score 70,000 or higher in a Kaori's Soulful Karate Dojo (EXTRA) attempt
 カオリのマブイ式空手道場で累計スコアを300000以上獲得=Achieve a total score of 300,000 in Kaori's Soulful Karate Dojo
+カリドを1体倒そう（HARD限定）=
+カリドを1体倒そう（NORMAL限定）=
+カリドを1体倒そう（SPECIAL限定）=
+カリドを1体倒そう（VERY HARD限定）=
 クイーンウタクラゲを1体倒そう（HARD限定）=
 クイーンウタクラゲを1体倒そう（NORMAL限定）=
 クイーンウタクラゲを1体倒そう（SPECIAL限定）=
@@ -158,6 +162,7 @@
 変貌せし従者・ブラドを1体倒そう（VERY HARD限定）=
 夏休みの絵日記を全て閲覧する=
 夏休み最後まで残りし宿題を1回終わらせよう=
+夢幻のマリッジ・シムのストーリーを全て閲覧=
 大慾暴君・カジノ王を1体倒そう（HARD限定）=
 大慾暴君・カジノ王を1体倒そう（NORMAL限定）=
 大慾暴君・カジノ王を1体倒そう（SPECIAL限定）=

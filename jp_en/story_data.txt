@@ -94,6 +94,7 @@
 サレン=Saren
 サレン（クリスマス）=
 サレン（サマー）=Saren (Summer)
+サレン（サラサリア）=
 サレンディア救護院=Sarendia Orphanage
 ジータ=Djeeta
 ジータ（ウォーロック）=
