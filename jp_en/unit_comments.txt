@@ -251,6 +251,7 @@
 あんたが？　送ってくれんの？\n何ソレ、誰が誰に言ってんのよ\n夜道は危ないって？　ウケる\nちょっとカッコいいじゃん=You? Walk me home? Now that's a reversal and a half. The streets aren't safe at night? Hah. When'd you learn to sound so cool.
 あんたがいると心の底から\nくつろげるねぇ…どうせだったら\nあんたも牧場に住んじゃえば？\nなんてね♪=
 あんたがくれた勇気で\n最強のヒーローに\nバッチリ変身ッス！=With the courage you give me,\nI'll transform into the world's greatest hero!
+あんたがよそ見できないくらい\n華麗な舞を見せてあげる♪\nあんたを想う気持ちなら\n誰にだって負ける気はないもの！=
 あんたが今見てるのは\n夢じゃなくて、本物のあたしよ\nじっくり拝んじゃいなさい♪=
 あんたが困ったときは、是非とも\n自分を呼んでほしいッス！\n見習いでも、\n心はヒーローッスから！　=If you're ever in trouble,\nyou can always call on me!\nI may only be an apprentice knight, but I'm a hero at heart!
 あんたが背中を守ってくれるから\n自分は正義に突き進めるッス！\nこれからもよろしく頼むッスよ！=
@@ -349,6 +350,7 @@
 いつだってどんな世界にいたって\nアタシたちでみんなを救うぞ！\n立ち止まるな！　前を向け！\nもう二度と負けないために！=
 いつでもお姉ちゃんに\n甘えてくれていいんだぞっ☆\nナデナデだって、ギューだって、\nいっぱいしてあげちゃうからね♪=Your big sis is always here to love on you, whether it's a gentle pat or a big hug!
 いつでも元気なのが一番っ！\n疲れた時はちゃんと休んでね？\nあたしは…まだ元気だもんっ=Gotta stay full of energy! But when you're tired, it's best to get some rest. Me? I'm not sleepy yet!
+いつもあんたが居てくれるから\nどこにいたって頑張れるの\n改まって言うと、変な感じね？\nでも…今言っておきたかったのよ=
 いつもお世話になってますから\n今度は私がお手伝いしますね？\nべ、別に騎士さんと一緒に\n居たいわけじゃないです…からっ=
 いつもお兄ちゃんの後ろに隠れて\nばかりだった私はもういません！\nこれからはお兄ちゃんの隣で…\n一緒に、歩いていきますからね♪=
 いつもお疲れ様♪\nあなたが頑張っているところ、\n先生はちゃーんと見ているからね\nいい子いい子=You're doing such a great job! I'm always watching how hard you work. Good boy!
@@ -359,6 +361,7 @@
 いつもと雰囲気が違う？\nまぁ、着物を着ているし、\nキミの隣にいるから…かな=Something about me feels different? It's the kimono, I'd say. That, and the fact that I'm by your side.
 いつものクリスマスより\n楽しく感じるのは\nキミと一緒だからかな？=The holidays this year feel even more fun than usual.\nCould it be because I'm with you?
 いつもは厳かな雰囲気の王城も\nハロウィンの時はムードがあるね\nはは、こんなところで二人っきり\nなんて、緊張しちゃってる？=
+いつもは子どもたちと一緒だけど\n今日はあたしに最初に祝わせて\n誕生日おめでとう。その…ずっと\nそばに居てくれて、ありがとうね=
 いつもより、私が穏やかな\n雰囲気に感じる…って？\nそれはね～、お客様向けに\n笑顔を作ってるからだよ♪=
 いつもより体が軽いのは、鎧を\n脱いでいるからだけじゃない…\n子どもみたいで恥ずかしいけど\n少し聖夜に浮かれているみたいだ=
 いつもより無防備な格好だが…\n君がそばにいてくれるおかげで\n心強いよ=
@@ -983,6 +986,7 @@
 この格好、お姉ちゃんとお揃いで\nとってもかわいいですよね？\nアカリ、お気に入りなんです\nお姉ちゃんは照れてますけど…♪=
 この格好、ハロウィンが好きな人\nみたいで恥ずかしいですけど…\n気に入ってもらえたら\n嬉しいです=This outfit makes me look like\na Halloween enthusiast,\nwhich is embarrassing...\nBut I still hope you like it.
 この格好、君もちょっとくらい\nドキッとしちゃうんじゃな～い？\n…ここまでアピールしてるのに\n顔が普通なの、逆にすごいわ=
+この格好、地元の子どもたちが\nきれいだって褒めてくれたわ♪\nあんたの感想も聞かせて？\n…ふふ、ありがと♪　うれしいわ=
 この格好、子供たちに\nウケがいいべ！　ネタでとった\n笑いじゃなくても\nやっぱ笑顔はうれしいべさ！=All the little 'uns seem to love my new getup! Even if it ain't with my jokes, I love puttin' smiles on people's faces!
 この格好でプレゼントを\n用意せぬのは無粋というもの…\nし、仕方ないから、あやつにも\nプレゼントを用意してやるか！=It would be folly to don this costume and not distribute gifts.\nS-so I suppose I shall have to find something for him as well!
 この格好にもすっかり\n慣れてしまったな\n子どもっぽいかと思っていたが\nこういうのも案外…悪くない=
@@ -1199,6 +1203,7 @@
 そこはさすがに近すぎます\nもう少し下がってください\nさもないと、日頃の鬱憤\nぶつけちゃいますよ？=You're getting a little close there. Back off a little, would you?\nUnless you want to become the new outlet for my daily stress!
 そっか、コッコロちゃんも\n精霊たちとお話しできるのね\nふふ、やっぱり他人とは\n思えないな=Oh, I see—Kokkoro can talk\nto spirits just like I can.\nEheh... She really does seem\nlike a sister to me.
 その…バースデーケーキ、\n作ってみたの。あんたみたいに、\n上手にできなかったけど…\nと、とにかく食べなさい！=
+その土地の匂いってあるわよね\nサラサリアだとスパイスの香りに\nお菓子と果物の甘い匂いも…\nあ～、おなか空いてきちゃった…=
 その格好で泳げるのか、だと？\nふっ、侮るなよ…港町の皆さんに\n泳ぎ方を教わっているからな\nいずれは泳げるようになる！=
 その目に、魂に刻めっ…！\nこれぞ我が禁断の\n最上究極殲滅魔法だ！=Witness the shape of despair! This is my forbidden art... The Ultimate Magick of Infinite Annihilation!
 それ！　きらーん☆\nキレイだからって、\n星ばかり見てちゃダメだからね☆=Take this! Sha-shing! ☆\nI know they're pretty,\nbut you can't give the stars\nall your attention, OK? ☆
@@ -1234,6 +1239,7 @@
 たまには思い出を\n懐かしむのもいいと思う…\nでもその後はちゃんと前を向いて\n未来へ進まなきゃ駄目だよな！=
 たまには愛の鞭も必要かしら！\nあれ？　どうしてうれしそうな\n顔をするの？\nしっかり反省して欲しいのに～！=Sometimes, discipline is the\ntruest form of love! ...Huh?\nWhy are you smiling? This is\nsupposed to be a punishment!
 たまの里帰りもいいものですが\n主さまと離れるのは心細いです\n次の里帰りは一緒に、というのは\n欲張りでしょうか…？=While I enjoy visiting my home,\nit pains me to leave your side, my lord. Would it be too much to ask you to accompany me next time?
+だめね、あたしったら\nどうにも浮かれちゃってるみたい\nあんたと二人っきりだと思うと…\nどうしても…熱くなっちゃうのよ=
 だめよユカリ…！\nこのままじゃいつもみたいに\nダメなところを見せちゃうわ！=Stop now, Yukari! You're gonna end up embarrassing yourself again!
 たんおめ～♪　…すみません！\nどう挨拶しようか考えすぎて\nフランクになりすぎました…！\n改めて、おめでとうございます！=
 ダチと一緒に戦うのが\nこんなに楽しいなんてな…！\n知らないこの世界で知った\n最高にたぎる感情だ！=I never knew it was such a rush to fight with a bud by my side! This is a whole new world for me, and I couldn't be more fired up for it!
@@ -2384,6 +2390,7 @@ being with you just gets me extra hype, you know?
 大好きなドングリの中で\nごろごろできるなんて…\nなんだい？\nここは天国かい？=Have I died and gone to heaven? Do I really get to roll around in my beloved acorns?
 大好きなにいちゃんのために、\nたっくさんイタズラ\n用意しなくっちゃ！=Since I like you so much, I'm gonna come up with lots more pranks just for you!
 大晦日にたくさん頑張ったし\n今日くらいは、もうちょっと\n食べちゃってもいいよね？=I worked real hard on New Year's Eve, so it's fine if I indulge myself a little bit more, right?
+大通りだけあって人が多いわね…\n迷子にならないようにしないと\nたとえば…う、腕を組む、とか？\n…ほら、照れてないで早くする！=
 天使なボクの姿を\nもっと見たいのかい？\nキミにならいいよ\n心ゆくまでじっくりと見てて♪=
 天使のように見えた…ですか\nそれは羽のせいでしょうか\nあるいは…別の理由が？\nふふ、教えてくださいませんか♪=
 天空より舞い降りし\nヴァイスフリューゲルの剣技！\nその華麗なる姿を、\n見せてやる！=The majesty of Weissflügel swordplay swoops down from the sky! Behold!
@@ -2570,6 +2577,7 @@ being with you just gets me extra hype, you know?
 日焼け止めを塗って欲しい？\nわ、わたしでよければ…！\n…じゃ、じゃあ、失礼します！\n騎士クンの背中…おっきいな…=
 日課の定期巡回！\nレアな魔導書なんかあった日には\nwktkが止まりませんぞー！\nさあ、いざ君もこっちの世界へ！=I love doing my regular rounds! There's nothing more hype than discovering a rare spellbook! Come on, join me in my world!
 日頃の労働のおかげか\n戦いでも案外動けるもんだべな\nよーし、このまま一気に\n終わらせちまうべ！=Maybe it's 'cause of all the hard work I do, but I feel pretty light on my feet in battle. Yeah, we'll be done here before breakfast!
+旦那さま、あたしと一曲\n踊っていただけるかしら？\n…なんてね、ふふっ♪\nさぁ、一緒に踊りましょ！=
 早く一人前の魔法少女に\nならなきゃって思うんですけど…\n読書の時間がなくなっちゃう…！=I know I have to work hard to become a capable magical girl... but I don't want to sacrifice my precious reading time...!
 早く準備して出かけるにゃ！\n「時はルピなり」だにゃ！=Hurry up and get ready so we can leave! Time is rupies!
 明けましておめでとう\nさぁ、横になってちょうだい\n初実験体は絶対君にしようって\n決めてたんだから♪=
@@ -2718,6 +2726,7 @@ being with you just gets me extra hype, you know?
 照れちゃって言えない\nお兄ちゃんへのこの気持ち…\n舞台の上から、この花に乗せて\n伝えられたらうれしいな…♪=
 蒸かし芋を食らうがいいわ\nおいしかったでしょう\n出来たて…いえ、\nふかしたてよ=Feast upon my steamed taters.\nDelicious, aren't they?\nThey're freshly baked...\nwell, freshly steamed.
 熱い日差しにキラキラ輝く海！\nそして水着のお姉ちゃん♪\n弟くん、ワクワクしてこないっ？\nねぇねぇ～♪=
+熱砂の国、灼熱の太陽…\n元気と勢いを存分に乗せた\n情熱的なステップで踊るの！\nそうそう、上手いじゃない♪=
 父がこの舞を見るたびに\n成仏しそうだと褒めてくれます\n父に成仏されては\n困るのですが…=Father says my dancing is so sublime, he may pass on. Which is nice, but I don't want that.
 父はあなたを\n誤解しているようです\nとてもいい人なのに…=Father seems to have the wrong impression of you. I know you're a very kind soul.
 父もあなたのお誕生日を\n祝福しているみたいですね\nあ…お父さん！　\nこの人を噛んじゃダメ！=I think my father wants to celebrate your birthday, too.\n...Father! It's not nice to bite!
@@ -2769,6 +2778,7 @@ being with you just gets me extra hype, you know?
 着てみたはいいものの、この格好\nやっぱり診察がしにくいわね\n…え？　でも、すごくきれい？　\nお、大人をからかわないの…！=
 着物が似合ってる？\nいちいち言わなくていいわよ！\nけど、見る目あるじゃない\nふふん。いい気分だわ♪=This kimono suits me? A-as if I need you to tell me that! Still...\nI guess you've got good taste. Heheh. Feels good to be loved!
 着物を着ると、いつもより\n歩き方や所作に注意して\n動くようになるんだ=I tend to take extra care when I'm wearing a kimono, particularly with how I walk and move in general.
+砂漠を渡る長旅なんて\n正直、一人だと心細かったのよ\nあんたが居てくれてよかったわ=
 研究に行き詰ったときでも\n君の顔を思い出すと、もう少し\nがんばろうって気になるのよ\n私にとっては、栄養剤ね♪=
 確かに、マナリアの第一王女では\nあるけど…あまり気にしないで、\n気軽に話してくれるとうれしいな！=Don't think too much about me being a princess and all that, okay? I'd prefer it if we just got along like normal.
 礼儀作法のことならうちに任し\nなんならうち、王子はんのために\nつきっきりで教えまひょか♪=
@@ -3016,6 +3026,7 @@ being with you just gets me extra hype, you know?
 誕生日おめでとう。キミの成長が\n感じられて私もうれしいよ\n来年のキミが今から楽しみだ=
 誕生日おめでとう。貴公のほしい\nものを言うがいい…え、私と\n一緒に過ごしたい？　そ、そうか\n欲がないな、貴公は=
 誕生日おめでとう\nあんたのおかげで\nもっと仲良くなれたから\n二人でお祝いさせてもらうわね♪=
+誕生日おめでとう\nあんたのためにごちそうを作って\n待ってたのよ。ほら早く♪\n熱いうちが美味しいんだから！=
 誕生日おめでとう\nあんまり大したものじゃないけど\nお祝いの品を用意しといたよ\nほら、受け取っておくれ=
 誕生日おめでとう\nお祝いの言葉なんて\n非効率的かもしれないけど…\nキミにはちゃんと言いたかったの=Happy birthday to you.\nFlowery phrases like this may not exactly be efficient, but I wanted to say it for you anyway.
 誕生日おめでとう\nその、ささやかなものだけど…\nプレゼントを用意してみたんだ\nぜひ受け取ってくれるとうれしい=
@@ -3120,6 +3131,7 @@ being with you just gets me extra hype, you know?
 静かな教会に白いハト\nなんとも神秘的な光景だね\n美しい鳴き声の響きがまるで\nクリスマスキャロルのようだ=
 面倒なことになったものね\nまぁ、危険人物はいないようだし\n楽できる分には問題ないわ=This situation is so awkward.\nStill, I suppose there are no dangerous individuals to worry about, so I'll sit back and enjoy it.
 靴下を脱ぎ散らかしちゃダメ？\nいいじゃん、もうオフなんだし\n文句があるならあんたが\n片付けといて～=
+音楽に乗せて体を動かすのって\n最高の気分ね！\nまだまだ体力は余裕かしら？\nなら、あたしについてきてよね♪=
 頼ってばかりではいけませんね\n私も自分のことは自分で…\nごほごほっ…！\nすみません…お水をください=I wish I could take care of myself more. *cough* S-sorry, can you get me some water?
 頼りになる家臣たちがいなければ\nわたしは国主たり得ません\n…みなの想いに応えるためにも\n迷いがあってはいけませんね=
 顔を見せられない分\n今なにをどう思っているか\n伝えるよう努力するよ=I know my mask hides my face,\nso I do my best to express my thoughts and emotions in other ways.

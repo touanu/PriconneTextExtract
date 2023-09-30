@@ -176,6 +176,13 @@
 オラムを25体倒そう（全難易度共通）=Defeat Olam 25 times (Any Difficulty)
 オラムを30体倒そう（全難易度共通）=Defeat Olam 30 times (Any Difficulty)
 オラムを5体倒そう（全難易度共通）=Defeat Olam 5 times (Any Difficulty)
+カリドを10体倒そう（全難易度共通）=
+カリドを15体倒そう（全難易度共通）=
+カリドを1体倒そう（VERY HARD限定）=
+カリドを20体倒そう（全難易度共通）=
+カリドを25体倒そう（全難易度共通）=
+カリドを30体倒そう（全難易度共通）=
+カリドを5体倒そう（全難易度共通）=
 ガルグを10体倒そう（NORMAL、HARD共通）=Defeat Garoog 10 times (NORMAL/HARD)
 ガルグを10体倒そう（全難易度共通）=Defeat Garoog 10 times (Any Difficulty)
 ガルグを15体倒そう（NORMAL、HARD共通）=Defeat Garoog 15 times (NORMAL/HARD)

@@ -323,6 +323,7 @@
 ギルドハウスで受け取れるアイテムがいっぱいになりました。私もお手伝いするので、一緒に片付けちゃいましょう！=Your stamina's all recovered! I'll do some stretches to prepare, so let's get down to some lessons soon! You guildhouse's skip ticket supply is full. Why don't we go on an adventure together for a change of pace? I think your guildhouse's stamina supply is full. I'm in top form too! I can still keep doing my best! There's a full supply of EXP potions in your guildhouse! Idols and adventurers both need to keep pushing their own limits! ♪ Your guildhouse has a full supply of Mana. If there's anything you need, shall we go on a quick shopping trip? All the items you can collect at your guildhouse are full! If you want to clean it all up, I'll be happy to help!
 ギルドハウスで受け取れるアイテムがいっぱいになりましたね。ハロウィンの冒険を始めませんか？=Your stamina is fully recovered... Apparently my father would like to go out and look at girls in Halloween costumes. Your guildhouse's skip ticket supply is full now... There's always time for some Halloween adventures. Your guildhouse has generated a full supply of stamina... Perhaps we should throw a big Halloween party. The EXP potion device in your guildhouse is overflowing... This should give us the strength to defeat any nasty Halloween spirits. The Mana generator in your guildhouse is full. Let's buy some candy to hand out at Halloween. All the resources being generated in your guildhouse are full. Do you think it's time for some Halloween adventures?
 ギルドハウスで受け取れるアイテムがいっぱいにゃ。きれいに片付けたら、たい焼きとコーヒーのご褒美にゃ♪=
+ギルドハウスで受け取れるアイテムがいっぱいね。せっかくの旅行だし、たまには贅沢しちゃっても…いいのかしら？=
 ギルドハウスで受け取れるアイテムがいっぱいね。でも浮かれて配り歩いちゃだめよ？自分で活用するように！=
 ギルドハウスで受け取れるアイテムがいっぱいみたい！みんなも呼んで、ベンキョー会しちゃう？=
 ギルドハウスで受け取れるアイテムがいっぱいみたい！もらいに行って、冒険に役立てちゃうのだー♪=
@@ -472,6 +473,7 @@
 ギルドハウスのEXPポーションがいっぱいだわ。これで泳げるようになっちゃうかも～？=Your stamina's completely refilled! You can forget about homework for now. Let's make the most of this holiday while we can! You've got full skip tickets at the guildhouse! Looks like this vacation's getting a perfect score! Your stamina at the guildhouse seems to be full, so would you mind helping with my swimming lessons? The guildhouse is just full of EXP potions. Maybe they'll help me in my quest to learn how to swim. Look at all that Mana at the guildhouse. How about we make our way to the beachside cafe for some food? The guildhouse is full of items now! Let's go see if there's anything we can use at the beach!
 ギルドハウスのEXPポーションがいっぱいだわ。みんなの成長が、私のなによりの幸せよ=Look at you and your full stamina. What say we go off together somewhere? ♪ My, my. Your skip tickets at the guildhouse are all full. Now we can go all sorts of places together. Your stamina at the guildhouse is full. And just where do you plan on taking me, young man? The guildhouse is full to the brim with EXP potions. Seeing everyone's growth always makes me happy. Goodness me! Look at all that Mana in the guildhouse! Just don't go wasting it now, you hear? Hehe. All of your items at the guildhouse are full. Don't forget to collect them now, okay?
 ギルドハウスのEXPポーションがいっぱいだわ。強くなって損はないんだし、ぱーっと使っちゃいましょ=
+ギルドハウスのEXPポーションがいっぱいだわ。砂漠では水分補給が欠かせないもの、ちゃんと準備しておかないとね=
 ギルドハウスのEXPポーションがいっぱいでございます。主さまのために、もっと強くなりたいです=
 ギルドハウスのEXPポーションがいっぱいです！いっぱい飲めば、お腹も気合も満タンですよ！=
 ギルドハウスのEXPポーションがいっぱいです！ガ、ガブ飲みさせてください…！ぼっち卒業のために！=
@@ -820,6 +822,7 @@
 ギルドハウスのスキップチケットがいっぱいになってますよ。キャンプ場まで楽しく向かえますね！=
 ギルドハウスのスキップチケットがいっぱいになってますわぁ。これ使うて世界の果てまでひとっ飛びや～♪=
 ギルドハウスのスキップチケットがいっぱいになってやがるです！早く回収してじゃんじゃん使うですよ！=
+ギルドハウスのスキップチケットがいっぱいになってるじゃない。旅行を楽しむためにも、用事は早く片付けちゃいましょ=
 ギルドハウスのスキップチケットがいっぱいになってるな。コイツでカルタってできるかな？=
 ギルドハウスのスキップチケットがいっぱいになってるね。ボクの美しさのために役立てちゃおうよ！=
 ギルドハウスのスキップチケットがいっぱいになってるね。遠慮せず使っちゃおうよ！そしてお姉ちゃんと夏をエンジョイしようねっ♪=
@@ -1030,6 +1033,7 @@
 ギルドハウスのスタミナがいっぱいになってるよ！あま～い一日、お姉ちゃんと一緒にたくさんお出かけしよっ♪=Your stamina's all full up! Are you ready for a sugary-sweet Valentine's Day with your big sis? ♪ Look, your guildhouse is full of skip tickets! Were you planning on a little Valentine's adventure? I'd love to come too! ♪ Your guildhouse is full of stamina! Now we can enjoy the whole day together without ever getting tired! ♪ Look at all these EXP potions at your guildhouse! Your big sis might get even stronger now! ♪ Your guildhouse is full of Mana! Here, let me budget it all out for you. All the items at your guildhouse are full! Come on, let's tidy up together. If you do a good job, I'll pat you on the head! ♪
 ギルドハウスのスタミナがいっぱいになってるわ。これとお雑煮で、元気いっぱいのお正月にしましょう～！=
 ギルドハウスのスタミナがいっぱいになってるわ。医療の現場は体力勝負よ、忘れずに手に入れて有効活用しましょう=
+ギルドハウスのスタミナがいっぱいになってるわね。元気を補給したら、街をもう一回りしてみましょうか！=
 ギルドハウスのスタミナがいっぱいになってんな。これでクリスマス用のお笑いネタもばっちり練習できるべ♪=
 ギルドハウスのスタミナがいっぱいになりました！これでまた、一緒に冒険できますねっ。えへへ、楽しみですっ！=
 ギルドハウスのスタミナがいっぱいになりました！これで服作りもライブ運営も余裕でこなせます！=Mr. Knight! Your stamina is full! No more sitting around—let's get moving! Hey, you've got full skip tickets at the guildhouse! Let's get out there and use them up as fast as we can! Oh, is that not how it works? Your stamina at the guildhouse is completely full! Now I can  juggle making costumes and organizing concerts, no problem! You've got full EXP potions at the guildhouse! Once I take my needlework to the next level, I'm going to stitch up a storm! Look at all that Mana at your guildhouse! I bet you're going to buy a present for Rei— What? For me? Wh-why would I want one? All your items at the guildhouse are full! Um, hello? Mr. Knight? Are you listening to me?
@@ -1319,6 +1323,7 @@
 ギルドハウスのマナがいっぱいよ！さっそく使っちゃいましょ。でも、使い道はしっかり考えなさいよ？=
 ギルドハウスのマナがいっぱいよ！そういえばゲームショップのクリスマスセールがもうすぐね…いくわよ！=
 ギルドハウスのマナがいっぱいよ。パーッと使っちゃいましょ！=Looks like your stamina's full to bursting. So are you coming to the temple with me, or aren't you? Your guildhouse's supply of skip tickets is full. I hope you're not just going to leave them lying around! There's a full supply of stamina in your guildhouse, you know. Let's burn some energy in a game of hanetsuki. Uh, your guildhouse is overflowing with EXP potions right now! I'm sure we can use all that extra strength for something. Have you seen how full the Mana supply in your guildhouse has gotten? Come on, less skimping, more spending! All your guildhouse items are full like you wouldn't believe. If you're not going to use them, maybe I will!
+ギルドハウスのマナがいっぱいよ。バザールでの買い物ならあたしも付いてくわ。価格交渉は任せておいて♪=
 ギルドハウスのマナがいっぱいよ。ほら、ユカリお姉さんからのクリスマスプレゼントよ～、なんてね♪=
 ギルドハウスのマナがいっぱいよ。マナを使って色々揃えたら冒険が楽になるわよね！=All right, your stamina is completely recharged! Now we can do some serious gaming! Your skip tickets are full at the guildhouse! Now we'll be knocking out quests left and right! Your stamina at the guildhouse is completely full! Sounds like an opportunity for a nice, long questing session! We have a lot of EXP potions at the guildhouse. Leveling up increases stats, too! How cool is that! You've built up a lot of Mana at the guildhouse. We can use it to buy all kinds of gear that makes completing quests easier! You've got lots of items at the guildhouse. Come collect them all so we can put them to use on our quests!
 ギルドハウスのマナがいっぱいよ。マナを無駄遣いしないように、お姉ちゃんが見ててあげる♪=Uh-oh, look who has full stamina again! How about we go on a picnic... or rather, a big adventure! You've got full skip tickets at the guildhouse! Now you don't have to fight any of those scary battles! Yoo-hoo, there's full stamina at the guildhouse! Time to go on an adventure with your big sis! You have lots of EXP potions at the guildhouse! I can't wait to see my little bro all grown up! You have lots and lots of Mana at the guildhouse. But don't worry... Big Sis will be right there to make sure you don't spend it frivolously! ♪ The guildhouse is completely full of items! And they're all yours, just like your big sis!
@@ -1449,6 +1454,7 @@
 スタミナが全回復したわ。新しい冒険に出るには、良い頃合いじゃないかしら？=
 スタミナが全回復したわ。私、正月のお祭りへ行ってみたいのだけど、一緒についてきてくれるかしら？=
 スタミナが全回復したわね！さ、物産展も舞台も張り切っていくわよ！=
+スタミナが全回復したわね。それじゃサラサリア観光に付き合ってちょうだい。あんたと回るの、楽しみにしてたのよ♪=
 スタミナが全回復したわね。よーし、事故ゼロ・怪我ゼロ・効率全開で頑張るわよ！キミもついてきて！=
 スタミナが全回復したわね。海の冒険は体力勝負だから、助かるわね！=You certainly seem full of stamina. Just what you need for some seaside adventures! I think your skip ticket supply at the guildhouse is full. Let's head out and enjoy the summer sun! Your guildhouse's stamina supply is full to the brim. I'm sure you'll be able to power through the summer heat now! Your guildhouse has generated a full stock of EXP potions. Let's boost our levels and conquer the beach! The Mana you've been generating at your guildhouse is full. Let's use it to fund a summer expedition! All the items at your guildhouse are at full capacity. Let's put them to use and maximize our seaside efficiency!
 スタミナが全回復したわね。準備ができたらミッション開始よ！クリスマスのエンジェルは大忙しなんだから=

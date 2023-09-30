@@ -180,6 +180,7 @@ Half Anniversaryガチャ=Half Anniversary Gacha
 限定「クレジッタ」登場！\n期間中出現率UP！=
 限定「コッコロ（レンジャー）」登場！\n期間中出現率UP！=
 限定「コッコロ」登場！\n期間中出現率UP！=Boosted rates for the limited character Kokkoro!
+限定「サレン（サラサリア）」登場！\n期間中出現率UP！=
 限定「サレン」登場！期間中出現率UP！=Boosted rates for the limited character Saren!
 限定「ジータ（ウォーロック）」登場！\n期間中出現率UP！=
 限定「シェフィ（ニューイヤー）」登場！\n期間中出現率UP！=

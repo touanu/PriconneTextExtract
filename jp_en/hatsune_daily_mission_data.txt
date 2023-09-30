@@ -18,6 +18,7 @@
 オオドクマンドラゴラに1回挑戦しよう（全難易度共通） =Battle the Toxic Mandragora 1 time (Any Difficulty)
 オブシダンゴーレムに1回挑戦しよう（全難易度共通） =
 オラムに1回挑戦しよう（全難易度共通） =Battle Olam 1 time (Any Difficulty)
+カリドに1回挑戦しよう（全難易度共通） =
 ガルグに1回挑戦しよう（NORMAL、HARD共通） =Battle Garoog 1 time (NORMAL/HARD)
 ガルグに1回挑戦しよう（全難易度共通） =Battle Garoog 1 time (NORMAL/HARD)
 クイーンウタクラゲに1回挑戦しよう（全難易度共通） =
