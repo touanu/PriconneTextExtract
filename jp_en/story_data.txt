@@ -259,6 +259,7 @@
 ルカ（ニューイヤー）=
 ルナ=Luna
 ルナの塔=Tower of Luna
+ルナの塔 次元断層=
 レイ=Rei
 レイ（サマー）=
 レイ（ニューイヤー）=Rei (New Year)
@@ -268,7 +269,6 @@
 ロボリマ来襲！=Attack of the Robo Lima!
 序章_絆をつなぐものたち=Prologue_First Connections
 悪魔偽王国軍\nーディアボロスー=Diabolos
-次元断層（仮）=
 牧場ーエリザベスパークー=Elizabeth Park
 王宮騎士団ーNIGHTMAREー=Nightmare, Defenders of the Throne
 王都終末決戦=Final Battle of Landosol
