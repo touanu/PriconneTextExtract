@@ -232,6 +232,9 @@
 カスミ（マジカル）のエピソード第2話=Kasumi (Magical)'s Episode 2
 カスミ（マジカル）のエピソード第3話=Kasumi (Magical)'s Episode 3
 カスミ（マジカル）のエピソード第4話=Kasumi (Magical)'s Episode 4
+カスミのエピソード第10話=
+カスミのエピソード第11話=
+カスミのエピソード第12話=
 カスミのエピソード第2話=Kasumi's Episode 2
 カスミのエピソード第3話=Kasumi's Episode 3
 カスミのエピソード第4話=Kasumi's Episode 4
@@ -239,6 +242,7 @@
 カスミのエピソード第6話=Kasumi's Episode 6
 カスミのエピソード第7話=Kasumi's Episode 7
 カスミのエピソード第8話=Kasumi's Episode 8
+カスミのエピソード第9話=
 カヤ（タイムトラベル）のエピソード第2話=
 カヤ（タイムトラベル）のエピソード第3話=
 カヤ（タイムトラベル）のエピソード第4話=
