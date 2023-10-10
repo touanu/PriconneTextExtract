@@ -11,6 +11,7 @@
 …じ、時間じゃな！\nプレゼントの準備…よし！\nこ、ここ、心の準備…よ、よし！\nあとはあやつに渡すだけじゃ！=...Th-the moment of truth is nigh!\nI have his present... right here!\nAnd m-my heart is... a-also ready!\nNow I need only hand it to him!
 …ついさっき思い出しましたけど\n今日は騎士さんの誕生日でしたね\nはいこれ、誕生日プレゼントです\nあっ…これは今買ったんですよ！=
 …にゃんだおまえ\nおやつがほしいにゃ～？\nって、き、貴公っ！\nいつから聞いていたのだ！？=
+…ねぇ、助手くん。私たちは\n探偵と助手としてなかなかの\n名コンビになったと思うんだ\nだから、ね…次は仕事以外でも…=
 …ふとした弾みで、思い出すの\nコッコロさんに甘えてたこととか\nキャルのしっぽの味とか…\nもう…顔から火が出そうよ…=
 …もう少しだけ、近くに…\nそばにいるだけで、不思議と\nメロディが浮かんでくるんです=Come here, just a bit closer. When you're nearby, the melodies come naturally to me.
 …や、やっぱり恥ずかしいね\nあまりジロジロ見てはダメだよ？\nこ、こら！　近い、近いったら！\nもう、これは現行犯で確保だね！=Th-this really is embarrassing...\nPlease try not to stare too much.\nH-hey! Get back! Not so close!\nUrgh... Do I need to arrest you?!
@@ -46,6 +47,7 @@
 『今の私』にとって\n正月を過ごすのは初めてだから\nあなたの行きたい場所があれば\n私も一緒に連れて行ってくれる？=
 『俺たちともっと遊べ』って\nぷうきちが怒ってたよ=Pukichi was pretty annoyed at you 'cause you don't play with us enough.
 『兄様』と呼ぶのが、まだ少し\n恥ずかしいようで。呼ぶたびに…\nドキドキ、してしまいます…=
+『大好きです、先輩♪』\nわぁ違う！　今のは私じゃなくて\nキーリが言ったんだよ！\nもうっ、正直すぎるよキーリは！=
 『小さな勇気、小さな一歩！\nみんなの希望の光…\n魔法少女べルルちゃん参上☆』=
 『星々の海』…この素晴らしい\n光景を、主さまとともに\n見て、感じて、味わうことができ\nたいへんうれしく思います♪=
 『王家の装備』の力は強大で…\n反動も覚悟しなければなりません\n…傲慢なわたしを見ても\nどうか怖がらないでください=
@@ -965,6 +967,7 @@
 この広い海の中で、\n主さまと二人っきり…\nいまだけは、主さまを\n独り占めです♪=The two of us are alone in these vast ocean waters. At least for this moment, I have you all to myself.
 この後カラオケでも行きます？\nチエルが歌うんで、先輩には\nちーえるフゥ！　ちーえるフゥ！\nって跳ね散らかす係をあげますね=Wanna go out for karaoke later? I'll do all the singing, so you just chant "Chi~eru! Woo! Chi~eru! Woo!" to liven the mood, 'kay?
 この怪盗の衣装…\n私にはもったいないくらい\nかっこよくて、着るたびに\nちょっとドキドキしちゃいます…=
+この手にあるのは真実の輝き\nずっと、私が求めていたものさ\n今度はちゃんと笑顔を贈るよ\nキーリ…大切な、もう一人の私=
 この新しい力であんたを\n守ってあげるから…その…\nあ、あたしのそばから\n離れるんじゃないわよ！=I'm gonna use this new power to protect you, so... uh...\nJ-just don't go wandering off anywhere, you got that?!
 この日を待ってたわ！\n思いっきり遊ぶから、\n覚悟しなさいよね！=I have so been waiting for this! I'm gonna go all out, so you better be ready!
 この景色を見たこと…\nわたし、忘れないよ\n静けさも、光も、自分の気持ちも\n騎士クンが隣にいてくれたことも=
@@ -2289,6 +2292,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 合体必殺攻撃なのだ～☆\n二人でカッコよく、\nキメちゃおうね、シオリン♪=
 同じ騎空士として\n一緒に頑張ろうね！\n何か困ったことがあったら\nいつでも相談して！=Let's do our best as fellow skyfarers! Don't hesitate to ask if you ever need anything!
 同年代の子と話しても、みんな\n子どもっぽくって退屈なのよね\nだからアンタと遊んであげるわよ\n感謝しなさいよね！=Kids my age are so childish. I get bored with them. So be glad I hang out with you!
+名探偵としての私\n儚く弱々しい私\nどちらも紛れもなく私だよ\n全部見せられるのは、君だけさ♪=
 君、もしかして少し背が伸びた？\n気のせいじゃないと思うよ\n君の成長を感じると、なんだか\nうれしくて胸がドキドキするから=Did you get a bit taller? I'm sure I'm not imagining it. Just seeing you grow gets me all excited.
 君、今日が誕生日でしょう？\nはいこれ。私からのプレゼント\n特別に調合した薬なの。効能？\n…飲んでからのお楽しみ♪=It's your birthday today, I hear? Here's your present—a potion I prepared specially. The effects? You'll find out when you drink it!
 君があまりにも頼もしいから\n私たちが先生と生徒って事を\n忘れちゃいそうなの…\nそれでも…ううん、なんでもない=You're so reliable that it almost makes me forget that you're my student. But even then, I... No, forget I said anything.
@@ -3094,6 +3098,7 @@ being with you just gets me extra hype, you know?
 輝け、愛の力！\nちょっとかわいすぎるか？\n…今からでも全砲門、発射！\nとかにした方がいいだろうか…=
 近道より、遠回りがしたいな～\nだってせっかくのお兄ちゃんと\n一緒の冒険なんだもん♪\nね、あっちにも行ってみようよ！=
 近頃少年を近くに感じていると\n力が溢れて止まらないんだ\nこれってもしかして…恋？\n…いや、愛だ！　だよね、少年！=
+迷い惑う人々に救いの光を与える\n知的で格好良い名探偵、か\n…そう在り続けたいものだね\n『私自身』への、誓いとして=
 迷宮女王とプリンセスナイトが\n力を合わせれば、どんな敵が\n相手でも勝てるさ\nさあ少年、一緒に迎え撃とう！=
 追試と赤点の毎日ですけど、\nルゥはマナリア魔法学院が\nだぁーい好きですぅ♪=I fail and retake tests on a daily basis. But even so, I really love Mysteria Academy!
 追試の女帝、落第の女王…\n数々のいみょうを持つルゥの実力\n見せてやるですぅ！=They call me the Empress of Retakes! The Queen of Failure! And you're gonna feel her power!
