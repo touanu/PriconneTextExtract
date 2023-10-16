@@ -889,6 +889,7 @@
 こういう形でもアンタと一緒に\nクリスマスを過ごせるなんて…\nハッ！？　なんでもないわよ\nなんでもっ。あはははは…=
 こういう海でのすごし方って\n経験がなかったけど…\n楽しいものね\nキミといるからかしら？=I've never spent much time\nat the beach in the past...\nIt's more fun than I realized.\nOr is that because I'm with you?
 こうしていると\nいつもより君を近くに\n感じられる気がするよ=
+こうしてると、まるで世界に\nアタシらしかいないみたいだね…\n大丈夫さ、もしそうなっても\nアタシが養ってやるよ♪=
 こうして下から見上げるのも\n悪くない光景だな\nふふ…しばらくそこに立っていろ\nワタシが見飽きるまで、な♪=
 こうして二人で遊んでいると\nあっという間に時間が過ぎて\nしまいますね…\n楽しくて…少しだけ、切ないです=
 こうして同じ足湯に浸かるだけで\n元気がもらえるだなんて…\n君の効能ってすごいのね\n分析したいわ。触れてもいい…？=
@@ -974,6 +975,7 @@
 この晴れ着を披露するのに\nうってつけの舞台はないかの？\nなに、今から魔物の討伐とな？\nまあそれでもよかろう…ゆくぞ！=
 この書類はあの部署に提出して…\nこの申請はあの人にして…\nこの討伐依頼は…あっ！\nちょうどいいところに！=
 この服、かわいいですよね♪\n巫女さんの服を着る機会なんて\n普段はありませんから\n新鮮で楽しいんです=This outfit's so cute, isn't it? ♪\nI don't usually get the chance to dress up as a shrine maiden, so it's such a fresh experience!
+この服、すごく快適だねえ…\n覚えときな。その土地にある\n伝統的なものってのは、そこに\n生きる人々の知恵そのものなのさ=
 この服、刺激が強くないかな…？\nだってほら、こんなに布が\n少なくて…はっ！\nあんまり近くで見ないで～！=
 この服、結構動きやすいんだな\nへへっ、これなら、\n思いっきり暴れられそうだぜ！=
 この服、結構目立つので\n恥ずかしいですけど…\nあなたに見てもらえるのなら\n好きになれそうです=I'm usually too embarrassed to wear a flashy outfit like this, but... Knowing you're looking at me makes it feel worth it.
@@ -1094,6 +1096,7 @@
 さあ少年、そこに座って！\n今回の事象についてもっと\n詳しく解析させてもらうね？\nあっ！　もう、逃げないでよ～！=
 さあ構えて！\n私から一本取るんだろう？\nのんびりしている暇はないよ！=Ready your weapon! If you ever plan to land a clean blow on me, there's no time to waste!
 ささやかだけど誕生日の贈り物…\n喜んでくれてるみたいでうれしいな\n君の反応をよーく見たくて\n兜を脱いだかいがあったよ=
+さすがにこの服に刀二本は\n目立ちすぎるからねえ…\n今回は別に用意してみたよ\n試し斬りがてら冒険にでも行こうか=
 さっきからどうして\n頭を撫でてるんですか！\nかわいいから、って…\nもう！　もう～～～っ！=Why do you keep patting my head like that?!\nBecause I'm... cute...?\nOh... ohhhhhhh...!
 さっきから何見てるんですか？\n言いたいことはハッキリと…\nあ、でも変なこと言ったら\n縛りますからね！=
 さっきから私たちをじっと見て\nどうかしましたか？　なんだか\n目つきがあやしい…やっぱり\nへんたいふしんしゃさんです！=
@@ -1632,6 +1635,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 ふぁぁ…ハロウィンって\nとっても楽しいね～！\nねえねえ、おにいちゃんも\nいっしょにパレードしよ～♪=Ahhhh... Isn't Halloween\njust so much fun?\nHey, mister, can we go to the parade together? ♪
 ふう、日差しが暑くて\nかなわんわぁ～\n王子はん、あっちの日陰で\n涼みまへんか♪=Phew… The sunlight's mighty\nstrong, isn't it? What say we cool\nourselves off in the shade? ♪
 ふう、暑いわね…\n熱中症には気を付けないと\n喉がかわいたらすぐに言ってね？\n麦しゅわ以外も用意してるわよ♪=
+ふう…いい風が吹くね\nもうちょっとこっちへきなよ\nそっちだと日陰から出ちまうよ？=
 ふう…汗かいちゃったから\n水分はしっかり取らないとね♪\n騎士くんは大丈夫？\n熱中症には気を付けようね！=
 ぷうきちは私の大切な\nお友達なんだよ\nお兄ちゃんも、ぷうきちと\n仲良くしてね！=Pukichi's my dearest friend, so try to get along with him!
 ぷうきち大家族完成～♪\nこっちは、ぷうすけとぷうきち…\nあっちは、ぷうままとぷう兄…\nじゃなくて、お兄ちゃん♪=The Pukichi family's all together! ♪Over here we've got Pusuke and Pukichi. Over there we've got Pumama and Pubro— Wait, that's just you! ♪
@@ -1665,6 +1669,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 ふむ…そろそろ睡眠を\n取ろうと思っていたのだが、\n君が話相手になってくれるなら\n起きているのもやぶさかではない=Hrm... I was planning to retire\nto bed fairly soon, but if you'll\nprovide me with conversation,\nI may consider staying awake.
 ふむ…大人らしい水着で、\n私によく似合っている、と…\n褒め方を教えた覚えはないですが\nしかし…悪くありませんね=
 ふむふむ…この本によると\nそんな効果まで…？\n…あっ、独り言聞こえてました？\nお、お恥ずかしいです…=
+ふん、ふん…♪　今のかい？\nサラサリアの踊りなんだけどね\n振りを覚えたらお前さんのために\n踊ってやるから待ってておくれよ=
 ファイトファイト～♪\nキミが元気いっぱい\nがんばれるように\n私がいっぱい応援するよ！=
 フッフッフ…とっておきの\n新忍法の見せどころデース！\nムム、まだ使っちゃダメデスか？\nショーグンのイケズデス～…=Heh heh heh... You're about to witness my latest ninja spectacle! What's that? I shouldn't use this one yet? Aw, but Shogun...!
 プリンセスナイトとしてではなく\n貴方だけが持つ可能性\nそれに賭けさせてもらいます=I'm staking my bets on you.\nNot because of your Princess Knight powers, but due to your personal potential.
@@ -1839,6 +1844,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 やっぱりフェスの最後はお約束、\nヒロインたちのライブだよねー！\n会場のみんなも配信のみんなも…\nえ、これ魔石配信してないの？=
 やっぱり今年も、私にはキミが\n必要だ。…お願い。これからも、\nキミの力を貸して欲しい=Your support means the world to me. So please stick by me, just like you did last year.
 やっぱり少年は、アタシすら\n変えてしまえるんだね…\nキミという存在の可能性\nこれからも見守らせてもらうよ=
+やっぱり旅ってのはいいねえ…\nお前さんはどこに行きたい？\nたとえどこだろうと付き合うよ\n二人一緒なら退屈しないだろう？=
 やっぱり私が着るには、\nヒラヒラしたものが多すぎる…\n似合ってる？　そうかな…\n…ねえキミ。全部聞いてたの？=
 やはり私には赤が似合いますわ\nこの全てを焼き尽くす炎でさえ\n私にとっては艶やかに彩る装飾の\n一つでしかありませんわ！=
 やはり船首に立つと胸が躍るな！\n…マストの上？　あ、あそこは\nちょっと高すぎるから…いや、\nあの場所は貴様に譲ってやろう！=
@@ -1927,6 +1933,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 ワタシのカチュヤク、しっかり\n見ていてクダサイ！　いつか\nチューシンと呼ばれるその日まで\nシロクジチュウおそばにいマス=Don't take your eyes off my ninja techniquery for a second! I won't leave your side until I go down in history as your right-hand ninja!
 ワタシの前に散っていった\n男たちは、この胸を触ったオマエを\n心底憎く思うだろうなあ\n安心しろ、全員墓の中だ☆=I bet the men who failed to touch my chest would resent your unwitting success. But fear not! They met with an early demise.
 ワタシの幼女時代の写真が\nもっと見たいだと？　もしや\n第二次性徴期前の幼子にしか\n興奮しない性癖だったのか？=You want to see more of my childhood photos? Please don't tell me you really are only interested in younger girls...
+ん、どうした\n眠くなっちまったのかい？\nなら、アタシの膝枕で\n少し眠るといいさ=
 ん、尻尾が動いているだと？\nさすがにそれはないさ。鎧だぞ？\n…ま、オマエと二人きりだからな\n尻尾を振りたい気分ではあるが☆=
 ん？　ああ、オマエか！\nアタシになんか用か？\n困ったことがあったらちゃんと\n言うんだぞ？=Hmm? Oh, hey, it's you!\nSo what, didja want something?\nYou better let me know if you ever need my help!
 ん？　この格好？\nキョンシーの仮装だよ～\n…で、キョンシーってなに？=
@@ -2036,6 +2043,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 今までの人生の中で\nこの夏が一番ドキドキして\n一番、幸せでした\n…あなたのおかげです=
 今までの修行の成果\n見せてあげる！\nいくよっ！=Time to show you how my training has paid off! Here goes!
 今までは一人で\n探偵をしていたけれど、\nあの頃に戻りたいとは思わない…\n君と出会ってしまったからね=I always worked alone before I met you. And to be honest? I much prefer things the way they are now.
+今みたいな何もない時間を\n一緒に過ごして楽しいってのが\n相性ってやつなのかもしれないね=
 今回用意した計画もバッチリよ\nもし街の外に行くのなら\n早めに出かけましょう=I've come up with the perfect plan. If we're going outside the town, let's get moving.
 今夜のミヤコは、きっと\n生きていた時より輝いてるの！\nオマエとのハロウィン、\nミヤコの大切な思い出にするの～=Tonight, Miyako's life is even betterer than when Miyako was living! Halloween with you is Miyako's favoritest time!
 今夜は語り明かしましょうね？\nＢＢ団の今後について…！\n私たちの壮大なぼっち卒業計画を\n大自然や星々に聞かせましょう！=
@@ -2108,6 +2116,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 今日はお兄さんの誕生日？\n一億年前から知ってましたよ！\nタコスおごるので、お兄さんは\nあたしにタコスおごるですよ！=
 今日はお兄ちゃんの生まれた日…\n私にとってはどんな記念日より\n大切な日です♪　全力で\nお祝いしちゃいますよ～！=
 今日はお兄ちゃんの誕生日！\nおめでとうございます！\nえへへ、またお兄ちゃんが\n格好よくなっちゃいましたね…♪=
+今日はお前さんの誕生日\nだったね。おめでとう\n出会った頃に比べたらずいぶん\n頼りになる男になってきたね♪=
 今日はお前さんの誕生日だよね\nお祝いとして、アタシの手料理を\nたくさん用意しておいたんだよ\nさ、向こうで一緒に食べようか=
 今日はお姉さんのおごりよぉ\nたくさん食べていいわよぉ～\n本当は手料理とかご馳走して\nあげたいんだけど…今度ね=It's my treat today! Eat as much as you like! ...I'd rather treat you to my home cooking if I could, but... maybe another time.
 今日はお姉ちゃんにとって\n何よりも大事な日…♪\nそう、弟くんの誕生日！\n魔法の力で、お祝いしちゃうぞ♪=
@@ -3028,6 +3037,7 @@ being with you just gets me extra hype, you know?
 誕生日おめでとう！\n貴公のために特別なパンケーキを\n用意したから一緒に食べよう♪\n味見をしたが絶品だったぞ？=
 誕生日おめでとう！\n魔法少女の役目が\n終わったあとで、\n二人でお祝いしようね♪=
 誕生日おめでとう。キミの成長が\n感じられて私もうれしいよ\n来年のキミが今から楽しみだ=
+誕生日おめでとう。無事に一年を\n過ごせたかい？　次の一年も\nアタシがついててやるから\n大船に乗ったつもりでいなよ♪=
 誕生日おめでとう。貴公のほしい\nものを言うがいい…え、私と\n一緒に過ごしたい？　そ、そうか\n欲がないな、貴公は=
 誕生日おめでとう\nあんたのおかげで\nもっと仲良くなれたから\n二人でお祝いさせてもらうわね♪=
 誕生日おめでとう\nあんたのためにごちそうを作って\n待ってたのよ。ほら早く♪\n熱いうちが美味しいんだから！=
@@ -3110,6 +3120,7 @@ being with you just gets me extra hype, you know?
 違う世界に来てしまうなんて…\nでも、あなたたちみたいな\n優しい人に出会えて、よかった=I never dreamed we'd end up\nin a whole other world.\nBut I'm glad we met such wonderful people here.
 遠慮せずにもっと近付きなよ？\n体温すら感じるくらいにさ\nそれくらいの距離じゃないと\n見えない美があるからね=
 遠路はるばるランドソルに来て\n正解だったよ！\nまさにラッキー！　クッキー！\nビッキィ！　だね！=
+郷に入りては郷に従え、\nってことでこっちの衣装に\n着替えてみたよ\n似合ってるかい？=
 都会では山籠もりのことを\nキャンプって言うんですよね？\nわぁ〜、キャンプかぁ〜…\nなんだかハイセンスな響き…！=
 都会を離れてこうやって\n自然に触れるのもええなぁ\n危険がいっぱいのジャングルも\n王子はんとなら大丈夫や♪=
 野良猫たちに、\nたい焼きを買ってあげてるにゃ！\nみんな喜んでくれるんだにゃ♪=I buy taiyaki for all the stray cats, you knyow! It makes them purr with satisfaction!
@@ -3142,6 +3153,7 @@ being with you just gets me extra hype, you know?
 顔を見せられない分\n今なにをどう思っているか\n伝えるよう努力するよ=I know my mask hides my face,\nso I do my best to express my thoughts and emotions in other ways.
 願いと引き換えに\n手に入れたこの『力』…\n私の愛する人たち…\n家族やあなたは私が守るわ=
 風が通り抜けて風鈴が鳴ると\nああ、今年も夏が来たなぁ…\nって感じたりするじゃないか\nあの空気が、好きなんだよね=
+風さえ通れば涼しいもんだね\nなるほど、それでこんなに\n布地が…って、お前さん\n視線がまる分かりだよ♪=
 風のウワサで聞いたんですけど…\nBBQというものがあるそうです\n親近感がわく名前ですよね！\n多分ぼっちに優しいもののはず♪=
 風の魔法は便利よ。敵を\n切り裂くだけでなく、面倒な男を\nねじ切ることだってできるわ\nどこを？　ご想像にお任せするわ=Wind magic is useful. Not only can it slice up enemies, it can also neutralize irritating men. How?\nI'll leave that to your imagination.
 風情のある舞台で主さまと\n二人きりで過ごせる…\nわたくしにとって最高の\nお年玉でございます=Spending a private moment\nwith my lord upon this beautiful stage... I could not ask for a more wonderful New Year's gift.

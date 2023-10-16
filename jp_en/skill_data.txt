@@ -1309,6 +1309,7 @@
 小悪魔のキス=Impish Kiss
 幽玄足刀=
 幽玄足刀+=
+序の太刀・流水刃=
 形而上学的拡張理論=
 忍法・チュバメ返し=Ninpo: Swoopy Swallow
 忍法・チュバメ返し+=Ninpo: Swoopy Swallow+
@@ -1319,6 +1320,7 @@
 忍法・灼熱地獄=Ninpo: Scorching Hell
 忍法・烈火之紅蓮旋風=
 怖がりベルスイング=Fearful Bell Bash
+急の太刀・流れ八艘=
 恍惚絶頂の舞～！=Dance of Purest Ecstasy
 恐怖のデカドングリ=
 恐怖のデカドングリ+=
@@ -1356,6 +1358,8 @@
 残花流転=
 気脈呼応・波動の型=Vital Resonance: Sheer Focus
 気脈呼応・波動の型+=Vital Resonance: Sheer Focus+
+水郷の契=
+水郷の契+=
 氷の飛礫=Ice Needles
 氷壁の構え=Glacier Stance
 氷壁の構え+=Glacier Stance+
@@ -1419,6 +1423,7 @@
 真理と実存の共同幻想=
 真破・天楼覇断剣=
 真輝・天楼双迅撃=
+破の太刀・巴円舞=
 碩学の教え=Scholastic Principle
 碩学の教え+=Scholastic Principle+
 祝福の新風=Auspicious Wind
@@ -1572,6 +1577,7 @@
 【挑発】敵全体を挑発し、自分の物理防御力を大アップさせる。さらに自分のＨＰを中回復させる。=[Taunt] Taunts all enemies. Large boost to own physical defense, and recovers own HP by a moderate amount.
 【挑発】敵全体を挑発し、自分の魔法防御力を特大アップ。挑発後のモーション中に攻撃された場合、前方範囲内の敵に物理中ダメージを与え、物理防御力を小ダウンさせスタンさせる。=[Taunt] Taunts all enemies, massively boosts own magical defense, and enters a stance. If attacked during this stance, deals moderate physical damage to all enemies in range, lowers their physical defense by a small amount, and inflicts Stun.
 【挑発】敵全体を挑発する。挑発後のモーション中に攻撃を受けた場合、前方範囲内の敵すべてに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。=[Taunt] Taunts all enemies and enters a stance. If attacked during this stance, deals small physical damage to all enemies in range and lowers their physical defense by a small amount.
+【挑発】自分の物理防御力を特大アップし、物理吸収バリアを展開する。さらに、敵全体を挑発して自分のＴＰを中回復する。=
 【挑発】自身に物理/魔法吸収バリアを展開し、さらに敵全体を挑発する。=[Taunt] Deploys a barrier around self that absorbs physical and magical damage, and taunts all enemies.
 【挑発】自身に物理/魔法吸収バリアを展開し、味方全体の物理攻撃力を大アップさせ、さらに敵全体を挑発する。=
 【氷竜の印】を４つ得る。=
@@ -2489,6 +2495,7 @@ UB=UB
 目の前の敵１キャラに物理中ダメージを与え、さらに自分の物理攻撃力を小アップさせる。対象の最大ＨＰに対する残りＨＰの割合が少ない程、ダメージと攻撃力の上昇量がアップする。=
 目の前の敵１キャラに物理中ダメージを与え、スタンさせる。さらに物理防御力を小ダウンさせる。=
 目の前の敵１キャラに物理中ダメージを与え、朧ろ状態を付与し、クリティカルを受けた際のダメージを小アップさせる。=
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を中ダウンさせる。=
 目の前の敵１キャラに物理中ダメージを与え、物理防御力を中ダウンさせる。自分のＨＰが低いほどダメージがアップする。=
 目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。=
 目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。さらに、【霊錨の刻印】を２つ追加で付与する。=
@@ -2526,6 +2533,7 @@ UB=UB
 目の前の敵１キャラに物理中ダメージを与える。自分の残りＨＰが80％以上だった場合、物理大ダメ―ジを与える。自分の残りＨＰに応じて、このスキルのダメージがアップする。自分の残りＨＰが90％以上だった場合、さらに自分の物理攻撃力を特大アップさせる。=
 目の前の敵１キャラに物理中ダメージを与える。自分の残りＨＰが多いほどダメージがアップする。=
 目の前の敵１キャラに物理中ダメージを与え大きく吹き飛ばす。さらに自分を中心とした範囲内の敵すべてに物理大ダメージを与える。この攻撃は必ずクリティカルする。=
+目の前の敵１キャラに物理大ダメージを与え、ＴＰ上昇を小ダウンさせ、ＴＰを中ダウンさせる。さらに、自分のＨＰを中回復する。=
 目の前の敵１キャラに物理大ダメージを与え、さらにその敵が物理攻撃を受けた際のダメージを小アップさせる。七冠の権能を解放し自分の物理攻撃力を大アップさせる。=
 目の前の敵１キャラに物理大ダメージを与え、さらに味方全体の物理攻撃力を中アップさせる。=Deals large physical damage to an enemy directly in front. Moderate boost to all allies' physical attack.
 目の前の敵１キャラに物理大ダメージを与え、さらに大きく吹き飛ばしてスタンさせる。=Deals large physical damage to an enemy directly in front, inflicts Stun, and knocks it back a large distance.

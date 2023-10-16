@@ -638,6 +638,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 いい座り心地ね～\nまさに天にも昇る\n心地よさだわ～=
 いい感じですね…\n服に合わせた香りって\nいうのも、いいかも…=
 いい手触りね～\nウチにもほしいけど\n麦しゅわをこぼしたら\n大変そうだわ…=
+いい時間だね\n日が昇りきる前に\nやることをすませ\nとかないと=
 いい時間ですし\nランチにしませんか？\n次の冒険の\n作戦会議も兼ねて♪=
 いい朝だな。絶好の\n仕事日和だぜ！\n今日もよろしくな！=
 いい朝デス！\nトーゴク風の朝ゴハン\n作るデス！=What a great morning! I'm gonna cook a Togoku-style breakfast!
@@ -1058,6 +1059,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 おっと、朝だな。\nそろそろ寝るか、\n朝更かしは体に悪い=Ah, sunrise is here. Perhaps I should retire to bed soon. Late mornings are bad for my health.
 おっと…この仮装\n袖がすごく長いからさ\n引っ掛けないように\n気を付けないとね～=
 おっと…鎧姿の時と\n重心が違うせいか\nちょっと不安定だな=
+おっと\nサラサリアの連中から\n便りが来てるよ\nさ、一緒に読もうか=
 おっはよ～！\n一日の始まりだし\nテンション上げてこ！=Morning! It's the start of a new day,\nso let's begin it on a good note!
 おっはよー！\nさあさあ騎士くん！\n今日も一緒に\nはりきっていこー♪=
 おっはよーう！\n今日はバカンス日和！\n海へゴーですぞ～♪=
@@ -1718,6 +1720,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 キョンシーって\nどんなお化けなのか\n本で調べようかな？=
 キラキラ無病息災、\nドキドキ一日一善…\n作詞って難しい～=Be healthy and glow, do good and sparkle... Writing lyrics is hard!
 ギルドの経費\nあとちょっとだけ\n削れそうね…=Looks like I can cut back a little more on guild expenses...
+ギルドの連中に\n土産をわたしに\n行くところなんだ\n付き合っておくれよ=
 ギルドハウス\nどんどん素敵に\nなっていくな～♪=The guildhouse is looking more and more amazing! ♪
 ギルドハウスか…\nこういう隠れ家\n欲しかったんだよな=A guildhouse, huh...\nIt's like the dream hideout I always wanted.
 ギルドハウスで\n宅コスしてる人\n実は結構\nいるんじゃないかな～=
@@ -2101,6 +2104,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 この格好は目立つな…\nいや、提督とは人々の\n視線を集めるものだ！=
 この格好も\n慣れてくれば\n動きやすいわ=
 この格好をしていると\nなんだか神殿にいる\n気分になりますね=When I wear this outfit, it feels like I'm back at the temple!
+この格好を冷やかしに\n来たのかい？\n生憎、もうすっかり\n慣れちまったよ=
 この極上の肌触り…\n言い値で買いますわ\n一体おいくらですの？=
 この楽譜、\nサックスで吹いて\nみたいなぁ♪=I wish I could play this music on the sax! ♪
 この楽譜\nサックスで吹いて\nみたいなぁ♪=I wish I could play this music on the sax! ♪
@@ -2157,6 +2161,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 この香り、\n弟くん好きかな？=Do you like this fragrance, Little Bro?
 この香り、チョコに\n使えるかな…？=Hmm, could I use this scent in my chocolates?
 この香り…\nきっと主さまも\n気に入ります=This scent... I'm sure my lord would love it too.
+この香り…\nサラサリア土産の\n香木かい？=
 この香り…\n南国にいる気分やねぇ\n癒されるわぁ～=This scent sure makes you feel like you're on a tropical island. It's so relaxing.
 この香り…\n夏限定のやつでしょ？\nいいセンスしてるね♪=
 この香り…\n弟くんと同じ…\nくんくん、くんくん…=
@@ -2346,6 +2351,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 さて、なにか気づいた\nことはあるかな？\n言ってごらん♪=
 さて、他の連中が\n帰ってくる前に、\nなんか料理でも\n作っといてやるか=
 さて、推理の時間だ\n…サボってないよ？\n考えてるんだからね？=
+さて、早めに寝ようか\n砂漠の夜は冷えるから\n…っと、まだ旅行中の\n気分でいたよ=
 さて、本格的に\n活動を再開します\n貴方も同行しなさい\n昼食は済みましたか？=
 さて…次の事業は\nどうしましょう\n何か面白いことは…=
 さてと、お昼休み！\n紅茶淹れてくるから\n一緒に飲もうよ！=
@@ -2360,6 +2366,8 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 サラサリアで見た\nぬいぐるみも\nかわいかったわね=
 サラサリアで食べた\n料理が恋しい…？\nもう…また今度\n作ってあげるわよ=
 サラサリアで食べた\n料理を再現してみたの\n味見してくれる？=
+サラサリアにいた時は\n砂まみれで大丈夫かと\n思ってたけど、今じゃ\n懐かしく感じるよ=
+サラサリアの人たちも\n気のいい連中だったが\n元気にやってるかねえ=
 サラサリアの香辛料、\nランドソルでも\n人気が出そうよね\nいいビジネスの予感！=
 サレンさんとあのお方\n仲がいいですわね\nも、もちろん仲がいい\nのはよいことですわ！=
 サレンディア救護院に\nユニちゃん８歳として\n潜入済みだが何か？=Yes, I've infiltrated the Sarendia Orphanage as\nLi'l Yuni (age 8).\nIs that a problem?
@@ -2580,6 +2588,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 たまには掃除でも\nするか。部屋が\n綺麗になるのは\n喜ばしいことだ=Cleaning sounds like a good idea. Tidy quarters are always welcome.
 たまには時間を忘れて\n私とのーんびり\n海を眺めるさ～=Let's forget everything and just stare at the ocean together.
 たまには朝の陽ざしを\n浴びるのも…\n悪くないわね=
+たまには違う服装\n違う得物を使うのも\n悪くないね=
 たまには釣りじゃなく\n一緒に素潜りでも\n行きませんか？=How about we skip the fishing and dive right in next time?
 だらけたお姉ちゃんは\n弟くんには\n見せられないな～=
 だらしない身なりでは\n取引相手に信用して\nいただけませんものね=A slovenly appearance will not inspire confidence!
@@ -2851,6 +2860,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 なんだ？　新たな\n賞金の情報を\n持ってきたのか？=Yes? Have you brought word of a bounty?
 なんだ？\nオマエも初詣に\n行きたいのか？=
 なんだ？\nワタシへの挑戦か？\nよし、受けた♪=What's that?\nYou desire to challenge me?\nI accept, of course! ♪
+なんだいお前さん？\n…なんだか若奥さん\nっぽいって？　まあ、\nそりゃあ、ねえ…=
 なんだか、\nリゾート気分です…=Sure does feel like I'm at a resort.
 なんだか、\n人魚姫に\nなった気分です♪=I almost feel like a mermaid. ♪
 なんだか、お腹が\n空いてきました。\nお昼ごはんー♪=Hmm, my stomach is growling. Time for lunch. ♪
@@ -3342,6 +3352,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ふふ、ボクに触ると\nキミも美しく\nなっちゃうかもよ？=Heheh, touch me and maybe some of my beauty will rub off on you.
 ふふ、今年もまた一年\n彼のバイタルを\n記録できるのね♪=
 ふふ、寝かしつけの\n子守唄を\nお望みですか？=Hehe. Hoping for a little lullaby, maybe?
+ふふ、慣れてる味も\nいいけど、むこうの\n味付けが懐かしく\nなっちまうね=
 ふふ、水着でゴロゴロ\nするのってなんだか…\nいけないことみたい=
 ふふ…\nこれがレンジャーの\n制服ですか=
 ふふ…\n今日はなんだか\n調子がいいかも=Hee hee...\nI think I might be feeling good today.
@@ -3393,6 +3404,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ふむふむ…\nねむみパない…\n続きはまた今度～=
 ふむふむ…\nふむふむふむ…！\n勉強になった、ブイ☆=Hmmm...\nHmmmmmm...\nYep, I've learned a lot from this! Go me!
 ふむふむ…\n前にアキノさんが\n言ってたのは\nこのことかしら？=
+ふむふむ…\n千夜一夜物語か\nおもしろいもんだねえ=
 ふむふむ…おもちゃの\n設計図を見るのも\n勉強になりますね！=
 ふむふむ…この本…\nシオリンが好きかも！\n今度おすすめしよっと=
 ふむふむ…ちゃんと\n読まないとクロエ先輩\nみたいになっちゃう！=
@@ -3969,6 +3981,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ランドソルは\n夜でも賑やかだね！=Landosol is quite lively at night!
 ランドソルは広いね…\nアンと一緒にいろんな\n場所へ行ってみたい=
 ランフェスの\n戦利品～♪\nねえねえ\n見たい？　見たい？=
+ランプの魔神に\nあげたら喜ぶかねえ？\n次に会う時までに\n見繕ってみようか=
 リズムを意識して…\nわんつーわんつー！\nうん、調子はバッチリ=Feel the rhythm... One, two, one, two! Yeah, that's the way!
 リゾートリゾートっ\nのんびりしましょ♪=This is the resort life. ♪ Let's take it nice and easy. ♪
 リフレッシュできたわ\nこれでまた、バリバリ\n働けるわね！=I feel refreshed. Now I can get back out there and work!
@@ -4225,6 +4238,8 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 主さまはどのような\n初夢をご覧になった\nのでしょう？=What good portents appeared in your first dream of the year, my lord?
 主さまも精霊の召喚を\n試してみますか？=
 主さまを導くことで\nわたくしも未知なる\n領域へと辿り着けます=
+久々に水場で\n釣りがしたいねえ…\nもちろんお前さんも\nくるんだろう？=
+久々の長旅で\n里心がついちまったね\nしばらくランドソルで\nのんびりしようか=
 久しぶりに水着を\n着たんだけど\n変じゃなかったかな…=It's been a while since I wore a swimsuit. I hope I didn't look weird in it...
 久しぶりの我が家って\n感じです！　やっぱり\nここが一番ですね〜！=
 乗り心地バッチリだね\nしゅっぱつしんこー！\nなんちゃって♪=
@@ -4572,6 +4587,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 最近、忙しいけど…\nキミの顔見たら\n疲れなんて\n消えちゃった！=
 最近、毎日あの人の\nこと考えちゃいます\nどうしてだろう…=All I can think about these days... is him. Why?
 最近ゲームばかりだし\nたまにはいいかな？=All I do lately is play games. I guess once in a while is fine?
+最近サラサリアの踊り\nを練習してるんだ\nあとで振付けを\n見ておくれよ=
 最近どことなく\nファミリーの連中が\n浮き足立ってんだよな\n…なんでだ？=
 最近なにも\nしてくれません…\n焦らしてるんですね=He's been ignoring me lately. He's trying to make me desperate.
 最近ファンの年齢層が\n幅広くなってきたかも\nこれって私…国民的\nアイドルに近づいた？=
@@ -5257,7 +5273,9 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 新記録です！\n一週間連続、\n平熱を保ちました！=That's a new record! I haven't had a fever for an entire week!
 新魔法思いついた！\n私って天才！？=I just came up with\na brand-new spell!\nAm I a genius, or what?
 旅って、終わる時は\nきっとさびしいよね…\nお兄ちゃん、帰り道は\n手をつないでもいい？=
+旅の恥はかき捨てって\nいうけど、悪い旅じゃ\nなかったね。次は\nアイツとどこに行こう=
 旅の荷物って多いな…\nねぇぷうきち～\nすこしは持ってよぉ～=
+旅先での焚火を\n思い出すよ\nなんだかほっとするね=
 旅先で人見知りなんか\nしてちゃだめだよね…\nまずはあいさつだ…！=
 旅先にはクッションも\nソファもないよね…\n『俺でいいだろ』=
 旅先の香りも\n思い出に持って\n帰れたらいいのにな～=
@@ -5310,6 +5328,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 星と波音の中で\n三線鳴らすのも\nオツなものさ～=The sanshin becomes extra special when you're harmonizing with the waves under the starry night sky .
 昨日の家庭科で\n作ったクッキー…\nあいつにどうやって\n渡そうかな…？=
 昼の海と夜の海\nどっちが好き？　私は\n君といる海が一番よ=Do you prefer being at the beach during the day or at night? I prefer it whenever I'm with you.
+昼はどうしようかね\nサラサリア風の\n食事でもつくろうか=
 昼は稼ぎ時だからな！\n荒波を乗り切るため\n貴公も一緒に\n頑張ってくれるか？=
 昼下がりはカフェで\n優雅なティータイム\n…憧れるわ～=Teatime at a cafe as the afternoon winds down... Now that's something I'd love to do.
 昼寝をすればいい\nワタシが周囲を\n警戒していてやる=
@@ -5865,6 +5884,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 知らない場所で寝るの\n怖いな…寝る時だけ\n帰ってこようかな…=
 知識から過去を学んで\n未来に活かすわよ=Learn the wisdom of the past, and apply it to the future.
 知識はともかく\n私の力はまだ\n必要なようですね=You may not need my knowledge, but you still require my strength, I see.
+砂上での戦いは\nなかなかいい鍛錬に\nなったね…今度は\n修行しに行くとしよう=
 砂浜で走ると\nいいトレーニングに\nなるんだぜ=Sprinting along the beach makes for good endurance training, you know.
 砂浜で走ると\nいい具合に体幹を\n鍛えられそうだ=
 砂浜に飾って\nおきたいさ～\nきっとかわいいさ～！=I bet this'd look even cuter on the beach!
@@ -6112,6 +6132,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 船の上では食材が\n限られるので料理の\nいい練習になります=
 良い匂い…あっ！\nぷうきちにこの\n匂いを移せば…！\n『匂い袋にするな』=What a nice smell... Oh! I should try moving this onto Pukichi... "I'm no scent sachet, kid."
 良い匂いに\n釣られてしまった…\nまさか、孔明の罠！？=I've been lured in by a luscious scent... Could\nthis be a cunning trap?!
+良い座り心地だ\nサラサリア宮殿の\n応接間を\n思い出すねえ…=
 良い椅子ではないか\nここから聖夜の宴を\n眺めるのもよいかもな=A fine seat this is indeed. I would not mind observing the festivities from this comfortable throne.
 良い香り…\nロズワールの屋敷にも\nこういうのって\nあるのかな？=What a nice smell...\nDo we have anything like this in Roswaal's mansion, I wonder?
 良い香りだ…\n普段はどうしても\n鉄くさくなるからな=That's a nice fragrance. I tend to have a metallic smell most of the time.
@@ -6450,6 +6471,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 魔法と科学\nどっちも極めて\nみせるわ=Magic and science... I will show the extremes of both!
 魔法の修行しなくちゃ\nもっともっと頼れる\n団長になりたいから！=
 魔法の研究は\n一旦、休憩！\n頭を休めなくちゃ=
+魔法の絨毯、あれは\n楽だし速いし便利\nだったねえ…土産に\n一枚欲しかったな=
 魔法の練習！\nむむむ～…\nそれっ…！=
 魔法の話ですか？\nそれはアンせんぱいに\n聞いてほしいですぅ…=You want to know more about magic? Sorry... Anne knows more about that than me.
 魔法はいつか解ける…\nでも、その時間は心に\n残り続けるわ♪=

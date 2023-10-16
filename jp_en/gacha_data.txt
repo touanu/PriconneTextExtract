@@ -154,6 +154,7 @@ Half Anniversaryガチャ=Half Anniversary Gacha
 新キャラ「リリ（フォールン）」登場！\n期間中出現率UP！=
 新キャラ「リン（レンジャー）」登場！\n期間中出現率UP！=Boosted rates for the new character Rin (Ranger)!
 新キャラ「リン」登場！期間中出現率UP！=Boosted rates for the new character Rin!
+新キャラ「ルカ（サラサリア）」登場！\n期間中出現率UP！=
 新キャラ「ルカ」登場！期間中出現率UP！=Boosted rates for the new character Ruka!
 新キャラ「ルナ」登場！\n期間中出現率UP！=Boosted rates for the new character Luna!
 新キャラ「レイ（ハロウィン）」登場！\n期間中出現率UP！=
