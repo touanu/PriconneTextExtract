@@ -110,6 +110,7 @@
 時間切れ=
 月下に詠う=
 本の虫=The Bookworm
+機能的だけど…=
 機銃掃射=
 気づいたら=Happens to the Best of Us
 気合入れて募集=Doing Her Best

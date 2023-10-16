@@ -304,6 +304,7 @@
 叫鳴拳バイオラフィスト=
 司法神の錫杖=Staff of Themis
 哲学者のローブ=Philosopher's Robe
+唐紅姫武将大鎧=
 大灯刃アレキサンドリア=
 大賢者の宝珠=Archsage's Orb
 大魔導師のローブ=Grand Wizard's Robe
@@ -319,6 +320,7 @@
 太陽剣=Sun Blade
 妖刀血鴉=Demon Blade Bloodcrow
 妖蝶の刀=Beautiful Butterfly Katana
+姫法師秋草装=
 宵刀影桜=
 宵桜の紫鎧=
 嵐神テンペストギア=Stormlord Tempest Gear
@@ -328,6 +330,7 @@
 忍び装束=Ninja Outfit
 忍び足=Ninja Shoes
 忘哭の冠=Crown of Anguish
+恋染紅葉秋模様=
 恵雨の耳飾り=
 慈宣杖アルテマクラリオン=
 戦女王の烈斧=Warrior Queen's Battle Axe
@@ -436,6 +439,8 @@
 神轟斧テラブレイク=Earth-Quaker Terrabreak
 神降りの枝刃刀=Branched Summoner
 福音のティアラ=Gospel Tiara
+秋天紅兜アキシグレ=
+秋風裂装・紅=
 秘剣訃雷返し=
 稲妻の斧=Lightning Bolt Axe
 竜の涙=Dragon's Tears
@@ -513,6 +518,7 @@
 鬼焔の闘衣=Fiendflame Gear
 魔奏帽タンバリンキャスケット=
 鳳凰刀=Sunbird Katana
+鳴降遊靴アキヨナガ=
 鷲獅子の羽飾り=Gryphon Feather Headdress
 鷹神の煌剣=Falcon Sword
 麗花の戦斧=Graceful Flower Battleaxe
