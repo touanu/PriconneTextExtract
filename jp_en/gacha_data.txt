@@ -160,6 +160,7 @@ Half Anniversaryガチャ=Half Anniversary Gacha
 新キャラ「レイ（ハロウィン）」登場！\n期間中出現率UP！=
 有償ジュエル限定 ★3確定プラチナガチャ開催！=
 有償ジュエル限定\n★3確定プラチナガチャ開催！=
+有償ジュエル限定\nハロウィン★3確定プラチナガチャ開催！=
 有償ジュエル限定\n第2弾 限定★3確定ガチャ開催！=
 有償ジュエル限定\n限定★3確定ガチャ開催！=Available to draw using Premium Jewels only!\nGet a limited 3★ character guaranteed!
 限定「アカリ（クリスマス）」登場！\n期間中出現率UP！=
