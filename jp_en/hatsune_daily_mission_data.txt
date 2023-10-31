@@ -42,6 +42,7 @@
 ペテルギウスに1回挑戦しよう（全難易度共通） =Battle Petelgeuse 1 time (Any Difficulty)
 ボスに1回挑戦しよう（前後編の全難易度共通）=Battle a boss 1 time (Part 1 or 2 / Any Difficulty)
 マジムンに1回挑戦しよう（全難易度共通） =Battle Majimun 1 time (Any Difficulty)
+ミソラに1回挑戦しよう（全難易度共通） =
 ムーンレイゲートに1回挑戦しよう（全難易度共通） =
 リビングメイルに1回挑戦しよう（全難易度共通） =Battle the Living Mail 1 time (Any Difficulty)
 叡智の錬金術師・モーヴに1回挑戦しよう（全難易度共通） =

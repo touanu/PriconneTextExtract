@@ -77,6 +77,7 @@
 占い師=Telling Fortunes
 反面教師=Setting the Best Example
 口ではそう言っても=Secret Desires
+口ほどに物を言う=
 増える舎弟=Unexpected Entourage
 変わらないもの=
 夢見る=

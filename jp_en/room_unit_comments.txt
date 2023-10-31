@@ -13,6 +13,7 @@
 …うにゃっ！？\nこ、この姿になっても\n尻尾は触っちゃ\nダメー！=
 …うん、落ち着く\n精霊との魔法で\nこんな風に誰かを\n安心させたいな=
 …おまえの前でなら、\nこういう格好を\nすんのも…\nな、なんでもねえよ！=
+…お兄さん\nお暇なんですか？\nじゃあ一緒に冒険へ\n出かけましょう♪=
 …お昼の薬？\nあ、飲み忘れてました\nありがとうございます=Afternoon medicine? Oh, I forgot to take it. Thank you for reminding me.
 …かわいい\nこの子もパレードに\n連れて行きたいな=
 …クスクス\n薬の調合を考えるのは\n至福の時間ですわ…=
@@ -585,6 +586,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 アヤネちゃんが\n摘み食いしないように\n見ておかないと…=I need to make sure Ayane doesn't try to snatch some food without telling anyone.
 アロマか、興味深いな\nミツキ印ポーションも\n気化させて鼻腔から\n吸入してみるか…=
 アロマとかよく\n分かんねえけど\n土産にはいいかもな\n覚えておくぜ=
+アロマの癒し効果…\n上手くアレンジして\nみなさんの治療に\n活かせないかな～？=
 アン・ドゥ・トロワ\nアン・ドゥ・トロワ\n練習はばっちりね♪=
 アン…？\nあっ、ご、ごめんね！\n間違えちゃった…=Anne...?\nOh! I-I'm so sorry...\nI got mixed up for a second.
 アンがおススメ\nしてくれた本は\nこれかな…？=
@@ -717,6 +719,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 いつか自分の\nヒミツ図鑑が出たり\nして…いやいやいや=
 いっけな～い！\nひづめで床に傷が！=Oh dear! I've scraped the floor with my hooves!
 いっそ鏡の中に\n閉じ込めてしまえたら\n私だけのものに…=If I could seal him in a mirror, then he would belong only to me...
+いつでもお兄さんを\n守れるように\nこの姿でいることに\n慣れておきますね…！=
 いつでも全力で\nケンカするために\n力を蓄えないとな=I always go all out when I fight, so I've gotta conserve energy till then.
 いつの間にそこに！？\nまさかクウカを監視\nしていたのですか！？=What are you doing there?! Are you... spying on me?
 いっぱい人がいるな…\nアタシの悪党っぷりを\n広めるチャンスだ！=
@@ -860,6 +863,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 うにゃぁ～♪\nにゃん、にゃお～ん♪=Meowwr! ♪ *meow, meow*
 うひゃっ！？\nど、どうしてあんたは\nいつも驚かせるのよ！=Uwahhh! Wh-why are you always sneaking up on me like that?!
 うふふ、\nかわいいものを\n見るのは幸せね～=Ehehe! It's a joy to see such adorable things!
+うふふ、おいしい♪\nプレシアちゃんなら\n無限にぱくぱく～って\nしちゃいそうです…♪=
 うふふ、お兄ちゃん！\n今日は何を\nするんですか？=Ehehe! Big Bro! Watcha gonna do today?
 うふふ、かわいい～\nアオイちゃんや\nハツネちゃんも\nきっと気に入るわね♪=
 うふふ…\n一緒に海…行く？=
@@ -1164,6 +1168,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 おはようございます♪\n今日も一日がんば…\nきゃ、きゃあ！=Good morning! I hope we have a... E-eeek!
 おはようございます♪\n声出しして、お芝居の\n練習しなくちゃ=Good morning! I must practice my stage acting out loud.
 おはようございます♪\n少し歌の練習を\nしてきますね=Good morning! I'm going out for a bit to practice my singing.
+おはようございます♪\n朝、元気に挨拶すれば\n幸せな一日が過ごせる\nそうですよ♪=
 おはようございますっ\n今日もフルパワーで\nがんばりましょうっ♪=
 おはようございまふ…\n秘密道具のお手入れで\n夜更かししちゃって…\nちょっと眠たいです～=
 おはようございマス！\n天下統一に向けて\n急いで準備するデス！=
@@ -1209,12 +1214,17 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 お仕事に集中できる\nアロマを設置するのも\nよさそうですね♪=
 お仕事以外の時も\nあなたと…い、いえ！\nなんでもないです！=Even when I'm not working, I'd like to spend time with...\nN-no, it's nothing!
 お兄さんが側近なら\nあたしも安心して\n夜眠れるですよ！=
+お兄さんこういうの\n好きなのかな～…\nふふっ、わたしも♪\nぎゅ～～～っ♪=
 お兄さんだったら…\nお宝を山分けして\nあげてもいいですよ=
 お兄さんと話してると\n時間が速いような…？\nこの時間泥棒！=
+お兄さんに\n感謝の手紙を書いて\n枕元に隠して\nおこうかな…♪=
 お兄さんのことは\nこのあたしが\n守ってやるですよ！=
 お兄さんは\nヒマそうですね…\nうらやましいです=
 お兄さんはアレですよ\n大怪盗イノリさまの\n相棒みたいなものです=
+お兄さんは苦手な食材\nとかありますか？\nあの、もしよければ\n今から手料理を…♪=
 お兄さんも\nあたしがボスなら\nうれしいですよね！=
+お兄さん怪我を…！？\nわたしが治療を…\nふー…ふー…=
+お兄さん眠そうです…\nちょっとお昼寝\nしちゃいましょうか♪\nはい、膝枕…♪=
 お兄ちゃん、イジワル\nしないでください…=Hey now, don't tease me like that...
 お兄ちゃん、ほっぺに\nケーキのクリームが\nついちゃってますよ♪\n私がとってあげます！=
 お兄ちゃん、もっと\n上級編のテクニック、\n教えてくださいね！=You know, I'd like it if you taught me more advanced techniques!
@@ -1327,6 +1337,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 お掃除、お掃除\nふんふふ～ん☆\nあ、聞かれてました？=La la laaa. Cleaning's so fun. ☆ Oh, did you overhear me?
 お掃除が終わったら\n次は書類を片付けて…\nその次は…=
 お掃除するなら\nヴァンピィちゃんも\n手伝ってあげよー♪=
+お掃除でも…と\n思いましたけど、\nさすがお兄さんのお家\nきれいにしてますね♪=
 お掃除も終わったので\n少し休憩を…ふわぁ…\n急に眠気が…=I've finished the cleaning, so I'll take a little rest. *yawn*\nNow I feel... sleepy...
 お散歩してこよっと！\nシオリンとお出かけ\nするのにいい場所\n探さなくっちゃ！=
 お料理などを作って\n兄様を出迎えられたら\nいいのに…料理の腕も\n磨かなくては…！=
@@ -1336,6 +1347,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 お昼か～…\n食後のデザートは\nハロウィンのお菓子で\n決まりだね～♪=
 お昼ごはん…\n失敗しちゃいましたぁ\nお、おやつでリベンジします！=Lunch turned out... terribly. I-I'll try to redeem myself with dessert.
 お昼ごはん\n作らなきゃ…\n騎士クンも食べる？=I should get lunch ready. Would you like some as well?
+お昼ごはんの時間です\n…手がふさがってる？\nわかりました、じゃあ\nあ～んしますね♪=
 お昼ごはんはロシアン\nサンドイッチだよ！\nさあ、にいちゃん！\n好きなの選んでよ！=
 お昼ごはん代わりに\nメタモルアップルを\n食べておきましょう=
 お昼ごはん行かない？\n誰にも知られてない\nお店があるんだけど！=How about lunch together? There's this place no one else knows about!
@@ -1488,6 +1500,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 お菓子をもらう\n練習をしなくちゃ！\nトリックオア\nトリート～♪=I'd better practice for when we get candy!\nTrick or treat~! ♪
 お菓子をもらうのも\nアンタと一緒なら\n恥ずかしくないわ！=I'm fine with asking for treats if I'm with you!
 お菓子を作って、\nみなさんに振る舞って\n友達作戦！　とか…=Bake sweets, give them out to everyone, make friends! Good plan?
+お菓子焼こうかな…♪\nちょっと多めに作って\nお兄さんにも\n食べてもらおうっと♪=
 お遊戯会の配役、\n考え出すと\n大変だわ～=Deciding on roles for everyone at the school festival is quite the task!
 お邪魔しまーす★\nなーんてもう\nすっかりくつろいで\nますけどー♪=
 お部屋おっきいねー=This room is so big.
@@ -1945,6 +1958,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 このおいしさ…！\n今度はキャンプに\n持っていこうかな…=
 このおいしさで\n元手がゼロ…\nすばらしい\n商品ですわ！=
 このおうち、いつも\nいろんな人がいて\nドキドキぴょんぴょん\nって楽しいな～♪=
+このお家、とっても\n大好きになりました♪\nだからその…もう少し\nいてもいいですか…？=
 このお家の持ち主は\nナイトさんですよね？\nそれじゃここでは\nご主人さまですねっ=
 このお菓子、でーじ\nおいしいねー！\nキミも食べる？=These sweets are crazy delish! Wanna try some?
 このお話、面白い…\n脚本を書く\n参考にもなりそう…♪=
@@ -3024,6 +3038,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 は、早起きしたのは、\n楽しみで眠れなかった\nからじゃないわよ！=Sure, I got up early. But not because I was so excited I couldn't sleep or anything!
 は～　いい気分なの…\n成仏しそうなの…=Ahh... This is so nice. Miyako just might pass on.
 は～い、良い子は\nもう寝る時間ですよ\n素敵な初夢が\n見られますように♪=
+は～気持ちいい～♪\n身体が暖まると\n心もぽかぽかです♪=
 は～落ち着くなぁ～\n教師には\nこういうゆとりも\n必要よね♪　=Phew, it's nice to kick up my feet! Teachers need breaks like this every so often. ♪
 はー…\nちょっと肩が\nこっちゃった…=Uh oh... My shoulders are feeling a bit stiff.
 はーっはっは！\n強くてカッコいい\n大悪党、ここに参上！=
@@ -3330,6 +3345,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ふっふっふ\n吸血鬼らしく\n驚かせてあげましょう=
 ぷにぷにでしょう～？\nい～っぱい食べるのが\nぷにぷにの秘訣です！=I'm all squishy, right? The secret to that is eating lots of food!
 ふにゃ～…\nこのまま働かずに\nまるまってたいにゃ…=
+ふにゃ～～…♪\nこんな姿、他の人には\n見せられません…♪\nもふもふ～～…♪=
 ふにゃ～ん…ゴロゴロ\nコーヒーと同じくらい\n癒されるにゃ～…♪=
 ふにゃあ、\nあったかいと猫は丸く\nなっちゃうのにゃあ…=Myawwn, cats like to curl up and doze when it's warm...
 ふにゃあ、ねえねえ、\n一緒にゴロゴロ\nしようにゃあ？=Myawn... Hey, wanna laze around with me?
@@ -3431,6 +3447,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ふわあ…吸血鬼の\n姿でも、眠い時は\n眠いんですよね…=
 ふわぁ…眠い…\n仕事とかの疲れ、\nたまってるのかな…？=
 ふわあ…眠いにゃ…\n猫は布団で\n丸くなるにゃ=*yawn* This cat is gonna go curl up in bed.
+ふわぁ…眠くなって\nきちゃいました…\nお兄さん…お泊りして\nいいですか…？=
 ふわぁ…魔法少女も…\n眠気、には…い、いや\n寝てないぞ！？=
 ふわぁ～！\n温かいと、つい\nウトウトしちまうな=*yawn* Being all warm like this makes me nod off.
 ふわぁ～…\n眠くなってきちゃった\nそろそろ休もっかなぁ=*yawwwn*... Man, I'm getting sleepy. Maybe I should call it a night already.
@@ -3621,6 +3638,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 まだ立派ではないかも\nですけど、私よりも\n大人なあなたのことは\n頼りにしてますからね=
 まだ起きてるの？\nそれじゃあ、\nお姉ちゃんも\n夜更かししちゃお☆=You're still awake? Then, your Big Sis is going to stay up with you. ☆
 まったりなの～\nあとはプリンがあれば\n完璧なの～=So comfy! If Miyako had some pudding, this would be the bestest!
+まったり過ごす\nお家時間もいいですね\n冒険者には羽休めも\n大事ですから♪=
 まるでおとぎ話の中に\n入ってしまったかの\nよう…別世界とは\nよく言ったものです=
 まるで人魚になった\n気分…なんて、ふふ=
 まわりはかわいい子\nばっかりだけど…\nこの服なら\nアピールになるかな？=I'm hardly the cutest of the bunch, but maybe this outfit can work its own charm?
@@ -4070,8 +4088,10 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 わたしが戦えてるのは\n騎士クンのおかげだよ\nいつもありがとう！=
 わたしが触っても\n平気なんて…！\nかわいくて頑丈っ！\n好きですっ！=
 わたしたちの\nギルドハウスへ\nようこそ～！=Welcome to our guildhouse!
+わたしたちもいつか\n立派なギルドハウスが\n持てる冒険者に\nなりたいです…♪=
 わたしの食欲に\nついてこられますか？\nまだまだ食べますよ！=
 わたし一人にするの\n不安だったりします？\nちゃーんとイイコに\nしてますってー★=
+わたし冒険者ですけど\n家を守ってお兄さんの\n帰りを待つのも\n悪くない…かも？=
 わたし食べても\n太らないんです♪\nほらほら～触って\nみてくださいよ～=I never gain weight no matter what I eat! ♪ C'mon, you can feel for yourself!
 わっ、おーいしー！\nこれはテンション\n上がっちゃうね♪=Wow, this is good! Now I'm feeling twice as peppy! ♪
 わっ、すごいすごい！\n不思議な絵本ですね♪\nこの本でお兄ちゃんに\nイタズラしちゃお♪=
@@ -5449,6 +5469,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 本のなかに\nいたずらのヒント\nないかな～？=Do these books have\nany tips on setting up clever tricks?
 本の中の世界で先輩と\n旅をするなんて…\n幸せすぎて、罰が\n当たりそうだよぉ…=
 本は…読むと、\nすぐ眠気がぁ…\n…ぐぅ…=Books just... make me... so tired... Zzz...
+本はわたしを\n知らない世界に\n連れていってくれる…\nまるでお兄さんです♪=
 本を読んで\n猫の気持ちを\n勉強するのにゃ！=To understand cats better, I'm reading books on them nyow!
 本を読んでる\n知的なお姉ちゃん\n素敵でしょ♪=Don't you think your\nbig sister looks extra intellectual today?
 本屋さんに行こうかな\nみんなで読める\n面白い本が\nあるといいなぁ=
@@ -6012,6 +6033,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 空が飛べるんだから\nもっとたくさんの人を\n助けにいけちゃう！\n…ここじゃ飛べないや=
 空を冒険するには\n色んなことを\n知っておかないと…=You have to know lots of things to go exploring the skies.
 空手の型の\n練習するさー\nキミもどう？=I'm gonna run through some karate forms. Wanna join me?
+立派なギルドハウス♪\n帰る場所が素敵だと\n冒険に出るのも\n楽しくなりそうです♪=
 立派な大人に\nなれるように\nいっぱい勉強\nしておかなくっちゃ！=
 立派な大人は\n朝の時間の使い方が\n上手だと聞きました\nあなたはどうですか？=
 笑いをとることを\n忘れるほど\nあったけぇべ～=I feel so warm it almost makes me forget to crack jokes!
