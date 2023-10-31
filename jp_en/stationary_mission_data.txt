@@ -211,6 +211,7 @@
 クリアランクの☆を1380個集めよう=Gather 1380 clear rank stars
 クリアランクの☆を13850個集めよう=
 クリアランクの☆を13950個集めよう=
+クリアランクの☆を14050個集めよう=
 クリアランクの☆を1410個集めよう=Gather 1410 clear rank stars
 クリアランクの☆を1440個集めよう=Gather 1440 clear rank stars
 クリアランクの☆を1470個集めよう=Gather 1470 clear rank stars
