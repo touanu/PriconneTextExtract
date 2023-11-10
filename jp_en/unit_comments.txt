@@ -171,6 +171,7 @@
 あなたとこの蒼い空を守る…！\n私たちならきっとできるよ！\nさあ立って！　一緒に戦おう！=
 あなたとの冒険はいつだって\nワクワクがいっぱい！\nさあ、次はどこへ行こっか！\nその道は絶対空に続いてるから！=
 あなたとロザリアって、\nちょっと似てるかも？\n例えば…\n一緒にいて安心するところ、とか=You kinda remind me of Losaria. Like, for example, I feel relaxed when we're together.
+あなたと一緒だと、どんなことも\nドキドキで彩られて、楽しくて…\nそんな毎日を過ごしたいです\nこれからも、ずっとずっと…=
 あなたと一緒なら、どんな場所に\n行ってもへっちゃらです！\nこれからもずっとずっと冒険を\n続けましょうね！　絶対ですよ☆=
 あなたと一緒なら\nどこまでも遠くへ\n行けそうな気がします\nこの海の果てまででも…=
 あなたと一緒なら\nどんな危険な場所でも\n不安はありません\n背中はお任せしますね♪=
@@ -1159,6 +1160,7 @@
 ずーっと一緒に歩きまひょ\nたまぁに足踏み外したかて\n二人でいてたら心配あらへんよ\nせやろ？　マホ姫の王子はん♪=Let's just keep on walkin'! Even if one of us trips up, we'll be fine as long as we're together—right, my prince?
 ずいぶんと熱心に見つめるのだな\nいいだろう、教えてやる\nオマエが今感じているのはな…\nギャップ、というヤツだよ♪=
 すぅ〜…うん、空気がおいしい…\nもうこれだけで永遠に飲めそう…\n自然そのものが最高のおつまみ…\n朝から乾杯…しちゃおっかしら…=
+すぅ…はぁ…すぅ…はぁ…\n呼吸を合わすって不思議ですね\nあなたと一つになったみたいで、\n力が湧いてきます！=
 すぐに焦って、暴走しちゃって…\nこんな私で、いつもごめんね\n…どうしてそうなるのか、って？\nそ、それは…大好きだから…=
 すげえぜ、この力！\n体の奥から\nどんどん溢れてきやがる！\nオレたちに壊せないものはねえ！=This power... It's somethin' else!\nIt just comes roaring up from the depths of my body! With you here, there's nothing I can't crush!
 すごい、これが３人の絆の力…！\n今のミソギたちなら\nどんなことでもできちゃいそう！\nなんだかワクワクしてきた！=
@@ -1168,6 +1170,7 @@
 ずっとずっと、こうして主さまと\n過ごしていたいです…\nいずれお勤めに戻らなくては\nなりませんが、それでも…=
 ずっと剣を扱ってきたからか\n魔法にはまだ慣れないな…\nしかし剣先から光線が出るのは\nなぜかワクワクするな…！=
 ずっと胸がドキドキして\nどうにも抑えきれないんだ\n…夏の雰囲気に\n私も当てられたのかな…？=
+ずっと諦めていたことにも\n向き合っていきます\n生きているかぎり、可能性は\n私の中にあるはずですから=
 ずっと走り続けていれば\nいつか疲れ切ってしまいますわ\nさざ波の音に耳を傾け\nしばしの休憩といたしましょう♪=
 すみません、夏の海はあまり\n縁がないので楽しみ方が\n分からなくて…よければ教えて\nいただけますか？=
 スタイリッシュなレディの魅力に\nメロメロなのはわかるけど…\nそ、そんなに見つめられると\nさすがに恥ずかしいわ…もうっ！=
@@ -1662,6 +1665,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 ふふ、お兄ちゃん見てください！\nジャズのリズムに乗って\nアカリ流ポールダンスです！=Heheh, look what I can do! Put on a little jazzy music for the... Akari Pole-Dance Extravaganza!
 ふふ、きれいでしょこの飾り付け♪\nん？　どこを見てるんです？\n…わ、私じゃなくて飾り付けを\n見てください！　もうっ！=
 ふふ、ハッピーバースデー！\nキャンプ場でケーキだなんて\n他には体験できないでしょ？\nほらほら、早速食べてみて！=
+ふふ、心強いですね\nあなたと力を合わせれば\nなんだって射抜ける気がします\n…さあ、いきますよ！=
 ふふ～ん♪\n優秀なあたしの完っ璧な大魔法で\nどんなやつだって\nぶっ飛ばしちゃうんだから！=
 ふふっ、新しい海賊の掟を\n思いついたぞ。記念すべき\n66個目の掟がな！\n…えっ、多すぎる？=
 ふふっ、黒っぽい衣装って\nなんだか新鮮だよ～\nお姉ちゃんって清純派だからね♪\n…えへへ、ワルイコトしちゃう？=
@@ -2337,6 +2341,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 周りのビンが気になりますか？\nご安心を、すべて調味料です\n料理するときは手になじむものを\n使いたいという、乙女心ですわ=You're wondering about all these bottles? Don't worry, they're only flavorings. I just prefer to use my usual equipment when cooking.
 周りはカップルだらけ…\n郷に入っては郷に従え！\nということで、その…\n二人で手を繋いでみませんか♪=
 呪文を唱えてる理由が知りたい？\nなんていうんだろう、魔法の形を\nイメージしやすくなるんだよね\n…それにほら、カッコいいでしょ=You want to know why I chant these incantations? I suppose it just helps me visualize the magic. And, you know... it sounds cool.
+命中したらデートしてください！\nなんて台詞、あこがれちゃいます\n…あ、恋愛小説の話ですよ！\nえ、いいんですか？　うれしい！=
 唱喚士として、アイドルとして…\nみんなの期待に応えるためにも\nこの夏、もっと成長したいです\nどうか見守っていてください=
 唱喚士として、もっともっと\n頼られる存在になりたい…\nどうか、そばで見ていてください=I want to become even more reliable as a Song Summoner. So please stay by my side and watch over me.
 喧嘩屋の本領、見せてやるよ！\nダチが一緒じゃ負けられねぇ！\n誰だろうとぶっ倒して、オレ様が\n最強だって証明してやるぜ！=Time to show what a real brawler can do! I can't lose in front of my best bud! I'll crush the enemy and prove that I'm the strongest!
