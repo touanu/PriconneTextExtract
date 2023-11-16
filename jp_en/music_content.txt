@@ -1,3 +1,4 @@
+アドベンチャー\n\n時間 / 01:21\n作曲 / 西村真吾\n編曲 / 西村真吾=
 エイプリルフールイベント\n\n時間 / 01:12\n作曲 / 東大路憲太\n編曲 / 東大路憲太=April Fool's Event\n\nTime / 01:12\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji
 エイプリルフールイベント\n\n時間 / 01:27\n作曲 / 東大路憲太\n編曲 / 東大路憲太=April Fool's Event\n\nTime / 01:27\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji
 エイプリルフールイベント\n\n時間 / 01:38\n作曲 / 東大路憲太\n編曲 / 東大路憲太=April Fool's Event\n\nTime / 01:38\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji
@@ -26,6 +27,7 @@
 キャラクターソング\n\n時間 / 01:27\n歌　 / クルミ（植田佳奈）\n作詞 / 藤村鼓乃美、北川勝利 (ROUND TABLE)\n作曲 / 北川勝利 (ROUND TABLE)\n編曲 / 北川勝利 (ROUND TABLE)=
 キャラクターソング\n\n時間 / 01:27\n歌　 / ムイミ（潘めぐみ）\n　　　ネネカ（井口裕香）\n作詞 / 野村イクミ (Cygames)\n作曲 / 池田健仁（Cygames）\n編曲 / 池田健仁（Cygames）=
 キャラクターソング\n\n時間 / 01:27\n歌　 / モニカ（辻あゆみ）\n　　　トモ（茅原実里）\n作詞 / ミズノゲンキ\n作曲 / 睦月周平\n編曲 / 睦月周平=
+キャラクターソング\n\n時間 / 01:27\n歌　 / リリ（鈴木みのり）\n　　　クリア（前田佳織里）\n　　　プレシア（高尾奏音）\n作詞 / 宮谷礼治\n作曲 / 宮谷礼治\n編曲 / アッシュ井上（Dream Monster）=
 キャラクターソング\n\n時間 / 01:27\n歌　 / ルカ（佐藤利奈）\n作詞 / 絵伊子、野村イクミ（Cygames）\n作曲 / 渡部チェル\n編曲 / 渡部チェル=
 キャラクターソング\n\n時間 / 01:28\n歌　 / アヤネ（芹澤優）\n　　　クルミ（植田佳奈）\n作詞 / 磯谷佳江\n作曲 / 馬渕直純\n編曲 / 馬渕直純=Character Song\n\nVocals:\nAyane (Yu Serizawa)\nKurumi (Kana Ueda)\n\nTime / 01:28\nLyrics by / Yoshie Isogai\nComposed by / Naozumi Mabuchi\nArranged by / Naozumi Mabuchi
 キャラクターソング\n\n時間 / 01:28\n歌　 / イノリ（藤田茜）\n　　　カヤ（小市眞琴）\n　　　ホマレ（大西沙織）\n作詞 / eNu\n作曲 / R・O・N\n編曲 / R・O・N=Character Song\n\nVocals:\nInori (Akane Fujita)\nKaya (Makoto Koichi)\nHomare (Saori Onishi)\nTime / 01:28\nLyrics by / eNu\nComposed by / R・O・N\nArranged by / R・O・N
@@ -81,6 +83,7 @@
 キャラクターソング\n\n時間 / 02:01\n歌　 / ノゾミ（日笠陽子）\n　　　チカ（福原綾香）\n　　　ツムギ（木戸衣吹）\n作詞 / 荘野ジュリ\n作曲 / 武田城以\n編曲 / TAKT=Character Song\n\nVocals:\nNozomi (Yoko Hikasa)\nChika (Ayaka Fukuhara)\nTsumugi (Ibuki Kido)\n\nTime / 02:01\nLyrics by / Juli Shono\nComposed by / Joi Takeda\nArranged by / TAKT
 キャラクターテーマ\n-｢万華色めく新天地｣アレンジ-\n\n時間 / 02:37\n作曲 / 守谷勇人・佐藤遥（Cygames）\n編曲 / 守谷勇人=
 キャラクターテーマ\n\n時間 / 01:59\n作曲 / 関根修平（Cygames）\n編曲 / 関根修平（Cygames）=
+キャラクターテーマ\n\n時間 / 02:41\n作曲 / Enarak（Cygames）\n編曲 / Enarak（Cygames）=
 キャラバン\n\n時間 / 01:39\n作曲 / 東大路憲太\n編曲 / 市橋卓也（Cygames）=
 クランバトル\n\n時間 / 00:45\n作曲 / 庄司真吾（Cygames）\n編曲 / 庄司真吾（Cygames）=Clan Battle\n\nTime / 00:45\nComposed by / Shingo Shoji (Cygames)\nArranged by / Shingo Shoji (Cygames)
 クランバトル\n\n時間 / 00:58\n作曲 / 加藤慶\n編曲 / 加藤慶=Clan Battle\n\nTime / 00:58\nComposed by / Kei Kato\nArranged by / Kei Kato
@@ -126,6 +129,7 @@
 ストーリーイベントテーマ\n-｢We Are Golden｣アレンジ-\n\n時間 / 00:57\n作曲 / TAKU INOUE\n編曲 / 伊禮完（Cygames）=Story Event Theme\n(Arrangement of "We Are Golden")\n\nTime / 00:57\nComposed by / TAKU INOUE\nArranged by / Kan Irei (Cygames)
 ストーリーイベントテーマ\n-｢あの夏のメモリー｣アレンジ-\n\n時間 / 00:55\n作曲 / 滝澤俊輔（TRYTONELABO）\n編曲 / 江原大介=
 ストーリーイベントテーマ\n-｢アイノキズナ｣アレンジ-\n\n時間 / 01:08\n作曲 / 松坂康司 (SUPA LOVE)\n編曲 / 関根修平（Cygames）=
+ストーリーイベントテーマ\n-｢イリドロータス｣アレンジ-\n\n時間 / 01:31\n作曲 / 宮谷礼治\n編曲 / 佐藤遥（Cygames）=
 ストーリーイベントテーマ\n-｢えがおのマイホーム｣アレンジ-\n\n時間 / 01:05\n作曲 / Lucas\n編曲 / 西村真吾=Story Event Theme\n(Arrangement of "Home Full of Smiles")\n\nTime / 01:05\nComposed by / Lucas\nArranged by / Shingo Nishimura
 ストーリーイベントテーマ\n-｢キンキラ☆ハピネス！｣アレンジ-\n\n時間 / 01:10\n作曲 / 斉藤裕也\n編曲 / 西村真吾=Story Event Theme\n(Arrangement of "Shining☆Happiness")\n\nTime / 01:10\nComposed by / Hironari Saito\nArranged by / Shingo Nishimura
 ストーリーイベントテーマ\n-｢さん！シャインPARTY｣アレンジ-\n\n時間 / 01:26\n作曲 / no_my\n編曲 / 関根修平（Cygames）=
@@ -197,6 +201,7 @@
 ストーリーイベントボスバトル\n\n時間 / 02:10\n作曲 / 東大路憲太\n編曲 / 東大路憲太=Story Event Boss Battle\n\nTime / 02:10\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji
 ストーリーイベントボスバトル\n\n時間 / 02:12\n作曲 / 西木康智\n編曲 / 佐藤遥（Cygames）=
 ストーリーイベントボスバトル\n\n時間 / 02:12\n作曲 / 関根修平（Cygames）\n編曲 / 関根修平（Cygames）=
+ストーリーイベントボスバトル\n\n時間 / 02:15\n作曲 / IM.Lab\n編曲 / IM.Lab=
 ストーリーイベントボスバトル\n\n時間 / 02:18\n作曲 / 植田能平\n編曲 / 植田能平=
 ストーリーイベントボスバトル\n\n時間 / 02:20\n作曲 / 千葉梓(Cygames)\n編曲 / 千葉梓(Cygames)=
 ストーリーイベントボスバトル\n\n時間 / 02:24\n作曲 / 中村博\n編曲 / 中村博=
@@ -231,6 +236,7 @@
 ストーリーイベントミニコンテンツ\n-｢Asymmetric World｣アレンジ-\n\n時間 / 03:27\n作曲 / 伊藤翼\n編曲 / 中川峻彰=
 ストーリーイベントミニコンテンツ\n-｢Gothical Radical † Eternal Wedding｣\nアレンジ-\n\n時間 / 01:28\n作曲 / 毛蟹（LIVE LAB.）\n編曲 / 中村早織（Cygames）=
 ストーリーイベントミニコンテンツ\n-｢ma.sa.yu.me.｣アレンジ-\n\n時間 / 02:04\n作曲 / ウツミタカアキ\n編曲 / Enarak（Cygames）=
+ストーリーイベントミニコンテンツ\n-｢イリドロータス｣アレンジ-\n\n時間 / 01:35\n作曲 / 宮谷礼治\n編曲 / 田山里奈=
 ストーリーイベントミニコンテンツ\n-｢ツバサのプロローグ｣アレンジ-\n\n時間 / 01:58\n作曲 / 本多友紀 (Arte Refact)\n編曲 / 亀井瑠美=
 ストーリーイベントミニコンテンツ\n-｢メタモル・カレイドスコープ｣アレンジ-\n\n時間 / 01:42\n作曲 / やしきん\n編曲 / 塚越廉=
 ストーリーイベントミニコンテンツ\n-｢わくわくSUMMER TIME！｣アレンジ-\n\n時間 / 02:40\n作曲 / 滝澤俊輔（TRYTONELABO）\n編曲 / 畑田浩孝（Cygames）=

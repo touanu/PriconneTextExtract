@@ -607,6 +607,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 い、今のうちに、\nこの子でお世話の\n練習を…=
 いーい？\nヴァンピィちゃんの\nいうこと聞くのよ？=
 いーニオイする～\nなんのニオイとかー\nよくわかんないけどー=
+いい、におい\nでも、お兄\nもっと、いい、におい=
 いいお天気～♪\nお外でみんなと\nいっぱい遊びたいな♪=
 いいか、魔法の\n詠唱中は絶対に\n声をかけるなよ？=Look, do not talk to me while I'm performing magical incantations.
 いいけど、\n散らかしめの部屋だと\n片付けたくなるよね…=Not to point fingers, but when I see a messy room, I get the urge to tidy up...
@@ -1026,6 +1027,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 おいしそ…\nか、かわいいです～=Looks delicio— E-err, cute!
 おいひ～です～\nこれ、海水浴にも\n持っていきたいですね=Delicious! Wish I could take this with me while I'm swimming!
 おいひいわ～\nマホマホ王国には\nない味やわぁ=Deeelicious! Now that's a flavor we don't have in the Maho-Maho Kingdom.
+おうち\nにぎやか\nさみしく、ない=
 おうちで水着って\nなんだかコスプレ\nみたいで楽しいかも♪=
 おぉ、この香りは…！\n集中力が上がりそうだ\n海賊船の船長室に\nぜひ置きたいな！=
 おお、ちょうど今\n貴様専用の設定集を\n作成中だぞ！=Aha! I was just in the middle of making a collection of settings specifically for you!
@@ -1055,6 +1057,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 おせち料理\nネビアの分も\n用意しなくちゃね=
 おせち料理も\n魔物尽くしだったり\nしないわよね！=I'd better not see any monster meat in our New Year's dishes!
 おせち料理一緒に\n食べる？\n結構おいしいわよ=Wanna eat some New Year's dishes together? They're actually pretty good.
+おそうじ、にがて\nでも\nれんしゅう\nきゅっきゅ=
 おっ、やっほー！\n元気そうだね～、キミ\n私？\nもちろん元気～！=Oh, hey there!\nYou're looking lively today! ...Who, me?\nI'm always lively!
 おっ、次はこの本に\nのってるキャラのコス\nしてみよっかな？=
 おっ、生まれ変わった\n喧嘩屋にご用命か？\nいいぜ、キミの\n依頼なら二つ返事だ！=
@@ -1214,6 +1217,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 お仕事がんばると\nいつもよりお腹\n空いちゃう～！=
 お仕事に集中できる\nアロマを設置するのも\nよさそうですね♪=
 お仕事以外の時も\nあなたと…い、いえ！\nなんでもないです！=Even when I'm not working, I'd like to spend time with...\nN-no, it's nothing!
+お兄\nおつかれ？\nれっつ、まいぺーす=
 お兄さんが側近なら\nあたしも安心して\n夜眠れるですよ！=
 お兄さんこういうの\n好きなのかな～…\nふふっ、わたしも♪\nぎゅ～～～っ♪=
 お兄さんだったら…\nお宝を山分けして\nあげてもいいですよ=
@@ -1275,6 +1279,8 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 お兄ちゃんを大好きな\n妹が待ってますよ～\n…まだですかね～=
 お兄ちゃんを見ると、\n顔が赤くなっちゃうの\n…な、なんでかな？=When I look at you, my face starts to flush... I-I wonder why.
 お兄ちゃん大好き♪\n何度でも言いますよ！\nお兄ちゃん大好きっ♪=
+お兄の、おうち\nきょうみ、ましまし\nたんけん\nするね=
+お兄の、けはい…\nん、みつけた\nぎゅ=
 お出かけします？\nそれともおうちで\nまったりしますー？=
 お出かけでしたら、\nレムも同行\nさせてくださいね=If you're heading out, please allow me to accompany you.
 お出かけですか？\nわたくしもお供\nいたします=Will you be going out? I shall accompany you.
@@ -1566,6 +1572,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 かくれんぼする人\nこの指、と～まれ！=Who wants to play hide-and-seek?
 かっわいー★\n名前はー、んー…\nぱんぱかぷんで★=
 かまってほしいです？\nまったく…いいですよ\nしょうがないですね=
+かみ、りぼん\nおてつだい\nよろ\nです=
 かわい～！\nぎゅってしたく\nなっちゃうかも！=So cute! Makes me wanna squeeze it!
 かわいー♪\nベスちゃんに負けない\n抱き心地！=
 かわいい〜♪\nラーゴのお友達に\nなってくれる？=
@@ -1661,6 +1668,8 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 きゃわたーん☆\n君もおしゃれしよっか=What a cutie! ☆ Let's snazz you up!
 ぎゅ〜っ！\nわたしたちは\nどんなことがあっても\nずっと一緒ですよ？=
 きょーも～\n好きぴに囲まれて～\nシ・ア・ワ・セ♪=
+きょだい、おにぎり\nきょだい、肉まん\nきょだい…お兄？=
+きょろきょろ\nここも\nぱとろる、するよ=
 きらーん☆\nハツネちゃんに\n不可能はないのだ☆=Sha-shing! ☆\nNothing's impossible for Hatsune! ☆
 きらきらーん☆\nよし、次のステージは\nこれで行けるかも！=Sha-shing! ☆\nYeah, I think I'm ready for our next stage event now!
 ぎるどはうす…\nぎるど活動の拠点だと\n管理協会？　の方に\nうかがいました=
@@ -1754,16 +1763,19 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 くっくっくっ…\n貴様は特別団員に\nしてやろう=Heheheh... I'll make you an honorary member.
 ぐっすり眠って\nパワーを\nフルチャージっ☆=Gonna sleep lots and recharge! ☆
 ぐっすり眠れるよう\n早めに用事を済ませて\nお休みしましょうね=Let's get our tasks out of the way early, so that we can have a good night's sleep.
+ぐっもにん\nあさごはん\nあさごはん=
 くつろいで油断\nしているスキに何を\nされるのでしょう！？=How could you take advantage of my momentary vulnerability?!
 くつろぐのに\n持ってこいね～\nテントの中に置いても\nよさそうだわ！=
 ぐぬぅ…たまには\n本でもと思ったけど\nやっぱりアタシは\nバトル担当だな！=
 ぐふふ、じゅるり…\nい、いけない、また\nいつの間にかよだれが=Gueheh... *drool* O-oh dear, I'm drooling again.
 くるくる〜♪\nうちのドレス\nかわええなぁ=
 ぐるるる～…\nあ、お腹が\n鳴っちゃいました…=Grrr... Oh no, my stomach is growling.
+くろぷれしあ\nかっこいい？\nん…あざます=
 くんくん、\n弟くんのにおい…\n近くにいるね？=*sniff, sniff* Little Bro's scent again. You're nearby, aren't you?
 くんくん…\nスイカのにおいだね♪\nこのにおいだいすき！=
 くんくん…\nたまにはこういうのも\n悪くないかもな=*sniff sniff*\nStuff like this isn't so bad once in a while.
 くんくん…おおー！\nステーキの香り！\nやばいですね☆=
+くんくん…この、へや\nお兄の、におい\nすんでる\nすめる？=
 くんくん…この匂い！\nたい焼き持ってるなら\nちょうだいにゃ♪=
 くんくん…はあ\n癒されるさ…\n故郷の夏の匂いさ～=*sniff, sniff* Ahh, now that's a relaxing scent. Reminds me of summertime back home.
 くんくん\nなんか…いい匂い？=*sniff, sniff* Something... smells good.
@@ -1884,6 +1896,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ここ、ミソギ探検隊の\n基地にしようよ！=Let's make this the Misogi Explorers' base!
 ここ、女の子らしい\nものでいっぱいね～！\nときめいちゃうわ～♪=This placed is filled with such girlish things! Be still, my beating heart! ♪
 ここ、好きだよ。\nみんな優しいから…=I like it here.\nEveryone is friendly and kind.
+ここ\nすむ\nね？\nまいにち、いっしょ=
 ここが、今のわたしに\nとっての帰る場所…\n…そう思っても、\nいいのかしら…？=
 ここがお兄ちゃんの\n部屋…\nドキドキしちゃう～=This is Big Bro's room... I can feel my heart racing!
 ここがナイトさんの\nお家なんですねーっ！\n雰囲気そっくりっ！=
@@ -2302,6 +2315,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 こんな私にも\nできることはある…\nそう信じています=
 こんな賑やかさも\nいいものだね\n彼といられるのなら\nなおさら…=
 こんな魔物がいたら\n操るのも楽しいかも=A monster like this seems like it'd be pretty fun to control.
+こんにちは\nぷれしあ、です\nおともだち、なろ？=
 こんばんちぇるるん☆\nさあ朝まで楽しいを\n探しに行きますよー！=
 こんばんちぇるるん☆\nハイ、ご一緒に～？=A very chelly evening! ☆\nNow you say it too!
 ご希望ならすぐにでも\n夏の飛空艇遊覧ツアー\nへご招待しますわ♪=
@@ -2502,6 +2516,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 せっかく海に来たのだ\n泳ぎも上手に\nなりたいものだな=
 せっかく羽が\nついてるのに\n飛べないのが残念だわ=
 ぜひおすすめしたい\n依頼があるんです\nこちらをどうぞ♪=
+ぜんぶ、よんだ\nもっと、ぶあついほん\nでも、いーよ？=
 セミの鳴き声に入道雲\nそしてクリームソーダ\nこれでこそ夏ですね=
 センサーによると…\nこの香りはいい香りに\n該当するみたいですっ\nなるほどーっ！=
 センスがあって\nいいお部屋ですわね\n私も見習いたいですわ=
@@ -2766,6 +2781,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 とっても可愛いです♪\nお芝居の相手役に\nしたいなぁ…♪=How adorable! I'd love to use it as a practice partner for my acting. ♪
 どでかいクリスマス\nケーキをこさえるべ\nあんちゃんも作るの\n手伝ってくんろ♪=
 とどめを刺される\n準備はできているのに\nまだなのかしら…？=
+とりま\nお肉、やこ=
 どれだけ野営に\n慣れたとしても\nベッドで眠れるなら\nそうしたいところです=
 どれもこれも読んだわ\n新しい婚活本の\n入荷はまだかしら…=
 どんどん出てくる…\nこれ、救護院にも\nほしいわね…=
@@ -2841,6 +2857,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 なごんじゃうわね…\nよぉし、次のバイトも\n頑張らないと！=Aww, how sweet.\nAll right, I feel ready to take on my next challenge!
 なぜか、動物などに\n好かれる体質で…\n迷い猫捜しのバイトの\nお役に立てますか？=
 なぜだか\n眠り足りないような\n感じがしますわ…=For some reason, I feel like I need more sleep...
+なでなで、される…と\nねむ…く…\nぶぅ…ぶぅ…ぶぅ…=
 なに、お腹空いたの？\nなら、おいしいご飯を\n食べに行きましょ♪=
 なに、コーヒーを\n淹れてほしい？\nふふっ♪\n仕方のない奴だな！=
 なに？　困ってる？\nちょうど良かった！\n今は体力満タンだよ☆=Something wrong? Good timing! I’m all charged up today. ☆
@@ -3103,6 +3120,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 はっ！\nこれは闇の気配！\n…クウカ自身でした=
 はっ！\nリラックスしたら\n閃きましたわ！=Ah! A bit of relaxing gave me an idea!
 はっ！\n弟くんが困ってる\n気がする！=Oh! I sense that my little brother needs me!
+はっぴーちゃん\nどこ？\nお兄、たべた？=
 はふぅ～…\nたまにはこうして\nゆったりするのも\n悪くないな…=
 はむ、はむ…んぐっ\nた、食べてるところを\n見つめられると～…=
 はむ、んぐ…あっ\nほっぺについちゃった\nベトベトですよぉ～=
@@ -3192,6 +3210,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ぴっぷるぴっぷる♪=
 ぴっぷるんるん♪=
 ひとつ屋根の下\nって感じ…\nいいですねえ…=It's like we're all living under the same roof. How nice!
+ひとりで、ねれる\nでも\nひとりじゃ、なくても\nねれる、よ…？=
 ひと休みしよっと\n………うん、\nひと休みおしまい♪=Let's take a breather. ...Okay, breather complete!
 ひと休みの時間ですね\n食事にお昼寝…\nすべきことを行って\n英気を養いましょう=
 ぴぴっ♪=
@@ -3319,6 +3338,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ふかふか、ぎゅう～…\n…あっ、これはその…\nストレッチしててっ…=
 ふかふか…\nこのまま\n寝てしまいそうです=Ah, how soft and fluffy... I could go to sleep right here.
 ふかふか…\nまるで主さまのような\n柔らかさでございます=
+ふかふか\nパパの、おなか\nみたい=
 ふかふか～\n…気持ち良すぎて\n制服のまま\n寝ちゃいそうね…=
 ふかふか～\nあたしの尻尾と\n互角とはやるね～=Ooh, fluffy!\nIt could give my tail a run for its money.
 ふかふか～♪\nおばけさんが\n中にいるのかな～？=Fluffy-fluffy! ♪\nAre there any ghosties curled up inside?
@@ -3665,6 +3685,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 みなさん個性的で\n普通じゃない人ばかり\nいるような気が…=There are so many unique people here,\nit feels like nobody is exactly normal...
 みなで暖をとりながら\n互いに語り笑い合う\n…心休まる時間ですね=
 みなに晴れ着を\n褒められて、とても\nよい気分なのじゃ♪\n次はお主の番じゃぞ？=
+みみ、さわり、たい？\nんー…だめ…\nむずむず\nなので=
 みょんみょんみょん…\n魔法の練習は\nこれぐらいですね=Woom woom woom...\nThat should do for today's magic practice.
 みらくるまほりん\nくるりんぱ～♪\n王子はんのために\n花嫁修業や～♪=Miracle Mahorin, twinkle twinkle hoy! I'll become a sweet wife and make my prince happy! ♪
 みんな、体重\nどれくらいなのかな？=I wonder how much everyone else weighs...
@@ -3834,6 +3855,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 もぐもぐ…\nお化けもリスも\nお腹は空くんだよ=
 もぐもぐ…\nこの美味しさ…\nとんでもない罠ですね=
 もぐもぐ…\nボケることも\n忘れちまう美味さだ～=*munch, munch* I was gonna crack a joke, but these viddles are just too good!
+もぐもぐ…\nむげん肉まん、も\nきぼう=
 もぐもぐ…\n腹が減っては\n戦ができぬ、よ！=*munch, munch* No battle was ever won on an empty stomach!
 もぐもぐ…あんまり\n速う食べられへんけど\n美味しいわぁ=*munch, munch* I can't eat it very fast, but it is quite tasty.
 もぐもぐ…うん、\n結構おつまみにも\nむいてそうね～♪=

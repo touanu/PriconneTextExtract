@@ -1062,6 +1062,11 @@
 ロレッタ海岸 10-7=Loretta Coast 10-7
 ロレッタ海岸 10-8=Loretta Coast 10-8
 ロレッタ海岸 10-9=Loretta Coast 10-9
+渦炎密林 67-1=
+渦炎密林 67-2=
+渦炎密林 67-3=
+渦炎密林 67-4=
+渦炎密林 67-5=
 神殿調査クエストLv1=Temple Trek Lvl 1
 神殿調査クエストLv2=Temple Trek Lvl 2
 経験値クエストLv1=EXP Quest Lvl 1
