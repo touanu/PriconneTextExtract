@@ -161,7 +161,7 @@
 ヒヨリ（ニューイヤー）=Hiyori (New Year)
 ヒヨリ（プリンセス）=
 ぷちゴーレム=Mini-Golem
-プレシア=
+プレシア（フォールン）=
 ぺコリーヌ=
 ペコリーヌ=Pecorine
 ペコリーヌ（オーバーロード）=
@@ -536,6 +536,7 @@
 【魔法】中衛から、強力な魔法で攻め立てる、双子の姉。\n自身のＨＰと引き換えに魔法攻撃力を増幅し、\nユニオンバーストやスキルの威力を高めて攻撃する。=[Magic] An elder twin who attacks with powerful magic from the midguard. Boosts magic power at the cost of her own HP to enhance the destructive ability of her Union Burst and skills.
 【魔法】中衛から全体魔法攻撃を放つ超能力チアガール。\nユニオンバーストで敵全体に絶大な一撃を放ち、\nその後、超能力発動の反動で枕を抱えて夢の中へ。=
 【魔法】中衛から圧倒的な魔力で攻撃する、疾風の冥姫。\nユニオンバーストで敵全体に大ダメージを与えるが、\n高すぎる魔力の為、自分自身にも相応のリスクが生じる。=[Magic] Hecate of the Gale, who attacks from the midguard with overwhelming magical force. Her Union Burst deals massive damage to all enemies, but is also risky for her due to its uncontrollable strength.
+【魔法】中衛で、マイペースに味方を支える破杖の少女。\n【飛行】し、クリティカルの強化やＨＰ・ＴＰ回復で味方\nを支援し、魔法攻撃力を加えた物理攻撃で敵を平らげる。=
 【魔法】中衛で、他の術者と魔力を束ねる究竟の魔導士。\n味方への魔法攻撃支援とＴＰ回復に加え、敵陣の攻防両面\nの弱体化で戦況を整え、自らも強力な攻撃魔法を放つ。=
 【魔法】中衛で、光を灯し幸せを届ける双子の姉サンタ。\n最も近い１キャラの魔法攻撃力や行動速度アップ、ＴＰの\n回復に加え、全員を支援するスキルで聖夜の勝利を飾る。=
 【魔法】中衛で、守護の賛歌を捧げる夏海の歌姫。\n最序盤に味方の魔法防御を大幅に強化し、吸収バリアや\nＨＰ回復スキルで、如何なる猛攻からも味方を守る。=

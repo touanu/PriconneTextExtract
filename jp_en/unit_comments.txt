@@ -532,6 +532,8 @@
 お主はちっとも、わらわを\n恐れないのじゃな？\nな？　可愛らしいじゃと？\n眷属の分際で何を申すー！=Do you not find me at all terrifying? Wha—? "Cute"?!\nDon't overstep your bounds, minion!
 お仕事が終わったら\n夕飯でも一緒にどう？\n近場の安くておいしい\nお店、見つけたのよ♪=
 お休みの日って何をすれば\nいいのか分からないんですよね…\nもしよければ一緒に休日の計画を\n立ててくれませんか？=
+お兄\nいつも、おいしそう\nぱわーふーど？　かも\n…じゅる…=
+お兄\nて、よぶと\nはっぴーな、きもち\n…お兄…♪=
 お兄さんには見えますか！\n空に輝くあの一番星が！\nあれこそギャングスターです！\n今は昼？　心の目で見るですよ！=
 お兄さんに誓わせてください\nこの力を正しく使えるように…\n堂々と前を向けるように…\nわたしは強くなります…！=
 お兄さんの仕事は\nそのお人好し力を\nあたしのために使うことです！\nよそ見は禁止ですよ！！=
@@ -847,6 +849,8 @@
 ぐっすり眠って元気いっぱい！\nほらほらぼーっとしてると\n置いてっちゃうぞー！=A good sleep and I'm raring to go! Don't lollygag or I'll leave you in the dust!
 ぐふふふ…\nえ？　な、何でもないですよ？\nあなたを見て、妄想なんて…\nはぁはぁ…=Gueheheh... Huh? Oh, uh, nothing! I was just imagining things while looking at you... *pant*
 ぐるるる～…\nあ、お腹が鳴っちゃいました\nわ、笑っちゃダメですよ！=Grrrrr... M-my stomach's growling. H-hey, don't laugh!
+くろい、ちから。も\nわたしの、ちから\nつよくなる。よ\nみてて。お兄=
+くろい、はね\nわるいこ、ぽい？\n…かも=
 ク、クリスマスはサンタが\nプレゼントを贈る日で、\n今のわらわはサンタだから…\nと、とにかく受け取れ馬鹿者～！=I-it is traditional for Santa to distribute presents on this day, and right now I am Santa, so...\nA-accept this gift, you fool!
 クウカ、ドMビーーーーーーム！\nぐふふ、今日も街の平和を\n守ってしまいました～♪\nみなさん、幸せそうです～♪=
 クウカはもうドＳさんなしでは\n生きられない体に…\nこ、この責任はちゃんと\n取ってくれるのですよね？=My body can't live without you, Mr. Sadist... Y-you're willing to accept the responsibility, right?
@@ -919,6 +923,7 @@
 ここは私に任せてください！\nアンチビーストを倒して\nみなさんに笑顔を取り戻します！=Leave this to me!\nI'll defeat the Antibeasts and rescue everyone's smiles!
 ここまでボクについてこられる\nなんて、キミは想像以上だよ\nそんなにボクの隣がいいのかい？\nならこれからもいるといいよ♪=
 こそこそ隠れるのは終わりです\nこれから先は打って出ます\n貴方とその仲間たち…\n戦力として当てにしていますよ=The time for hiding away is over. From this point on, I'll be taking action. I hope you and your friends won't fail me in battle.
+ごちそうの、けはい\nくんくん…ちかい…\n…はっ\nお兄…だった=
 こちょこちょこちょ…えへへ～\nハロウィンのいたずらだよ～♪\nトリックオアトリート！=Tickle, tickle, tickle... Eheheh!\nThat was a trick for Halloween!\nTrick or treat! ♪
 こちらの世界では、\n角があっても\n珍しくはないのですね\nなんだか、少しうれしいです=It seems that having horns is not such a rare thing in this world. That makes me a little happy.
 こちらを見つめてどうした？\nいいや言わんでも分かるさ\n景色よりワタシの方が綺麗だと\n言いたいんだろう？　あっはは☆=Why are you gazing at me?\n...Actually, you needn't explain.\nMy beauty simply exceeds that of the scenery, doesn't it? Ahahah!
@@ -1126,6 +1131,7 @@
 じゃ～んっ♪\n魔法少女のお姉ちゃんだよっ！\nね、どうかな？　うれしい？\n変身、もう一回見せてあげよっか=
 じゃーん！　どうどう？\n今日のナナカちゃんは\n自称ハロウィン魔法少女なのだ！\nシャランラッ☆=
 じゅるり…この力があれば、\nすべての人々をドMに…\nはっ！　闇の力に負けそうです！\nクウカにお仕置きを、ドSさん！=
+しんまい、ぼうけんしゃ\nできない、こと\nしらない、こと、たくさん\nおしえて、ね？　お兄=
 ジー…っは！\nせ、先輩！？　えっとあのその…\nな、なんでもないですぅ…=*staaaaaare* ...Ah!\nH-hello there!\nN-no, I wasn't, um, looking at anything in particular...
 シオリンがおすすめしてた本を\n読んでたんだ☆\nわくわくドキドキな冒険の連続で\nすっごく面白いね！=
 シオリンとの絆とキミの優しさ！\nこの二つがあれば、私は\nどんな相手にだって\n絶対に負けないのだ～☆=
@@ -1256,6 +1262,7 @@
 だめね、あたしったら\nどうにも浮かれちゃってるみたい\nあんたと二人っきりだと思うと…\nどうしても…熱くなっちゃうのよ=
 だめよユカリ…！\nこのままじゃいつもみたいに\nダメなところを見せちゃうわ！=Stop now, Yukari! You're gonna end up embarrassing yourself again!
 たんおめ～♪　…すみません！\nどう挨拶しようか考えすぎて\nフランクになりすぎました…！\n改めて、おめでとうございます！=
+たんじょうび、おめでと\n肉まん…どぞ\nじー…\n……ごくり=
 ダチと一緒に戦うのが\nこんなに楽しいなんてな…！\n知らないこの世界で知った\n最高にたぎる感情だ！=I never knew it was such a rush to fight with a bud by my side! This is a whole new world for me, and I couldn't be more fired up for it!
 タロットカード、星占い、\n四柱推命…いろいろ\nありますが、私のおススメは、\n父を使った水晶占いです=There are many methods of fortune-telling. I prefer using my father as my crystal ball.
 ちぇる～ん！　ちぇる　ちぇろぱ\nちぇるぴぴぱ　ちぇぴらぺぽー？\nうんうん、だよねーおっけー！\nじゃあリズムを上げて行くよー！=
@@ -1502,6 +1509,8 @@
 ばっきゅ～ん♪\nどうどう？　うちのランウェイ！\nもにカワっしょ？　あ、ヒデサイ\n顔赤くなっててわろ～♪=
 ばっちり準備万端さー！\n何って、キミの誕生日だよー！\nさぁ手と手を繋いで、\nレッツダンスさー！=Everything all ready! For what? Your birthday, of course! Come on! Let's hold hands and dance!
 はっはっはーっ！\nどけどけえっ！！\nノウェム様のお通りだぁ！=Hahahah! Step aside, weaklings! Make way for the great Novem!
+はっぴーばーすでー\nきのうより、おとな？\nじゅくした、お兄\nあじみ。するね=
+ぱとろーる、いこ？\nあ\nそのまえに\nごはん。ね=
 はは、なんだか分かんないけど\nすっごい力を感じるぞ！\nこいつでオマエを守ってやる！\n明日も明後日もその先もな！=
 はやての速度で事件を暴き\n犯人確保は雷撃のごとし！\n名探偵・カスミに\nお任せあれ！=No incident goes unsolved. No perpetrator roams free. The finest detective in the land, Kasumi, is on the case!
 はわわ、しぇんぴゃい！？\nほほ、ほんじちゅはお日柄もよく\nか、噛んじゃった…恥ずかしいよ=Awawahhh! I-it's you!\nU-um, v-very wine feather we're having today! Ahh, I flubbed it...\nThis is so embarrassing...
@@ -1704,6 +1713,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 ほ、欲しいものとか…ある？\nアンタ、今日アレでしょ？\nいわゆる…誕生日？　でしょ？\nほら、いいから欲しいもの言う！=
 ほーい、集まってけれ～！\nエリザベスパーク印の\n牛乳、ヨーグルト、チーズ！\n直売だべよ～！=Gather 'round, folks! Farm-to-table Elizabeth Park milk, yogurt, and cheese for sale!
 ぽーん！　子守唄を再生します！\n♪ユニちゃん良い子だ眠りゃんせ\n♪夢の扉で真理に接続\n♪多次元宇宙で神を見な～=
+ぽかぽか、もちもち\nいーにおい\nお兄の、こと\nずっと、はむって、たい=
 ぼくが笑顔でいれば\nつられてみんなも笑顔になる\nだからぼくはいつも\n笑っていたいんだ！=
 ぼくにとって失いがたい学びは、\n君たちとの青春だ。世界の真理\nより大切なのさ。ことに生まれて\n初めて友達になってくれた君がね=My most valued lessons are the days of youth we share. Arcane secrets cannot compare. Not to you, the first friend I ever made.
 ぼくは本質的に文系なのでね、\n余白や行間を愛すのだよ\nゼロかイチかの理系思考に\nあまり浪漫は感じないのさ=I'm a scholar of the humanities,\nso I treasure subtle allusions and nuance. The absolutes of science leave little space for the heart.
@@ -1838,6 +1848,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 もし急ぎの用事がないんなら\nここでゆっくりしていきなよ\n何をするわけでもないけど\nたまにはこういうのも、ね=
 もし暑いようでしたら\nもっと私のそばにどうぞ…\n体温が低いので\nきっと涼しいと思います…=
 もし美しさが罪になるのなら\nボクは世界一の大罪人に\nなっちゃうね！　ああ、自分の\n美しさが恐ろしいよ…！=
+もっと、おおきく…\nもっと、つよく…\nお兄、まもれる、くらい=
 もっとドキドキを感じたい！\nよくわかんないけど、\nそうすれば騎士くんとなんだって\nできそうな気がするから！=I wanna feel more of this fluttery sensation in my heart! I don't totally get it, but it makes me feel like we can do anything!
 もっともっともっともっと\nたくさんプリンを買って来るの！\nそうじゃないとミヤコ、\n成仏しちゃうかもしれないの！=Pudding pudding pudding pudding! Buy me more pudding! Else I might pass on from starvation!
 もっと強く、もっと高く…\n絆が生んだこの羽で\n主さまと未来に羽ばたきます\nいつまでも…どこまでも一緒に…=
@@ -1848,6 +1859,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 やあ同志、君も午睡に来たのか\n遠慮せず横になりたまえよ\nロゼッタの膝枕は売約済みだが、\nぼくので良ければ貸してやろう=
 やあ少年。元気にしてる？\nたまには店に寄っていってよ\n美味しいクレープ作るからさ\n味は普通？　…そうかな？=
 やったーにいちゃんと海だー♪\n今日は最高の思い出つくろうよ！\nねっ！　にいちゃん！=
+やっと。なかま、なれた\nいっしょに、たたかう。よ\n…だから。お兄\nどこにも、いかないで。ね？=
 やっとオマエと味方になれたんだ\n早いとこオクトーの目を覚まして\nアイツとも一緒に戦いたいな！=I finally managed to make friends with you... Now if only I could slap some sense into Octo, so he can fight by our side as well!
 やっぱここに飾んねぇとだな\nこのクリスマスリースが\nあんちゃんにも幸せを\n運んでくれますように♪=
 やっぱり…自然はいいですね～\n小鳥さんや草花さんたちの\nおしゃべりも盛り上がっていて…\n心が落ち着きます…♪=
