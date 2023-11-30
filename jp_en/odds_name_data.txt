@@ -56,6 +56,7 @@ RANK5～8の装備アイテム=Rank 5~8 Equipment
 ノゾミのメモリーピース=Nozomi's Memory Shard
 ハツネのメモリーピース=Hatsune's Memory Shard
 ヒヨリ（サマー）のメモリーピース=
+ペコリーヌのメモリーピース=
 マコトのメモリーピース=Random Equipment Box
 マツリ（ハロウィン）のメモリーピース=
 マツリのメモリーピース=Matsuri's Memory Shard
