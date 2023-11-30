@@ -206,6 +206,7 @@ Half Anniversaryガチャ=Half Anniversary Gacha
 限定「ビカラ」登場！\n期間中出現率UP！=
 限定「ヒヨリ」登場！期間中出現率UP！=Boosted rates for the limited character Hiyori!
 限定「ペコリーヌ（オーバーロード）」登場！\n期間中出現率UP！=
+限定「ペコリーヌ（クリスマス）」登場！\n期間中出現率UP！=
 限定「ペコリーヌ」登場！\n期間中出現率UP！=
 限定「ペコリーヌ」登場！期間中出現率UP！=Boosted rates for the limited character Pecorine!
 限定「ホマレ（ニューイヤー）」登場！\n期間中出現率UP！=
