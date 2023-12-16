@@ -433,6 +433,7 @@
 百華白桜刀=Whiteblossom Blade
 皇蓉楓刃=
 砂塵瀑布の手甲=
+碧夜扇イノコカエデ=
 碧海のアンカーブローチ=
 神兎乃大剣=Rabbit Broadblade
 神判の聖斧=Judgment Axe
@@ -457,6 +458,7 @@
 紅玉刀スカーレットムーン=
 紅色花飾菓子切包丁=
 紅葉巫女之枝垂串=
+紅葉扇コチョウモミジ=
 紅蛙手甲・拳楓=
 紅鳥のクラリオンブローチ=
 純潔の巫女装束=Priestess Garb
@@ -471,6 +473,7 @@
 翆奏のハープブローチ=
 翠緑の霊衣=Viridian Robe
 翠風刃エメラルドエッジ=
+翠風扇カノコイチョウ=
 翠風神ノ太刀=Fujin's Emerald Longsword
 翡翠花飾箸=
 聖信徒のペンダント=Disciple's Pendant

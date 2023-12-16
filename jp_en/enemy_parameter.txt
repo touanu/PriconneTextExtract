@@ -77,6 +77,7 @@ MODE3 部位C=MODE 3 Part C
 ウパルパ=Sludge Salamander
 エリコ(ev11)=Eriko (ev11)
 エリコのシャドウ=Eriko's Shadow
+エリマキレックス=
 エルダークラウド=Elder Cloud
 エルダータイラント=Elder Tyrant
 エルダーホーン=Elder Staghorn
