@@ -218,7 +218,9 @@
 クリアランクの☆を1410個集めよう=Gather 1410 clear rank stars
 クリアランクの☆を14150個集めよう=
 クリアランクの☆を14250個集めよう=
+クリアランクの☆を14350個集めよう=
 クリアランクの☆を1440個集めよう=Gather 1440 clear rank stars
+クリアランクの☆を14450個集めよう=
 クリアランクの☆を1470個集めよう=Gather 1470 clear rank stars
 クリアランクの☆を1500個集めよう=Gather 1500 clear rank stars
 クリアランクの☆を150個集めよう=Gather 150 clear rank stars
@@ -591,6 +593,7 @@
 プレイヤーLvを260にしよう=
 プレイヤーLvを270にしよう=
 プレイヤーLvを280にしよう=
+プレイヤーLvを290にしよう=
 プレイヤーLvを30にしよう=Reach player level 30
 プレイヤーLvを40にしよう=Reach player level 40
 プレイヤーLvを50にしよう=Reach player level 50
@@ -1717,11 +1720,18 @@
 メインクエスト66-7 (NORMAL)をクリアしよう=
 メインクエスト66-8 (NORMAL)をクリアしよう=
 メインクエスト66-9 (NORMAL)をクリアしよう=
+メインクエスト67-1 (HARD)をクリアしよう=
 メインクエスト67-1 (NORMAL)をクリアしよう=
+メインクエスト67-10 (NORMAL)をクリアしよう=
+メインクエスト67-2 (HARD)をクリアしよう=
 メインクエスト67-2 (NORMAL)をクリアしよう=
 メインクエスト67-3 (NORMAL)をクリアしよう=
 メインクエスト67-4 (NORMAL)をクリアしよう=
 メインクエスト67-5 (NORMAL)をクリアしよう=
+メインクエスト67-6 (NORMAL)をクリアしよう=
+メインクエスト67-7 (NORMAL)をクリアしよう=
+メインクエスト67-8 (NORMAL)をクリアしよう=
+メインクエスト67-9 (NORMAL)をクリアしよう=
 メインクエスト7-1 (HARD)をクリアしよう=Clear Main Quest 7-1 (HARD)
 メインクエスト7-1 (NORMAL)をクリアしよう=Clear Main Quest 7-1 (NORMAL)
 メインクエスト7-10 (NORMAL)をクリアしよう=Clear Main Quest 7-10 (NORMAL)
@@ -1896,6 +1906,8 @@
 ルナの塔710階をクリアしよう=
 ルナの塔720階EXクエストをクリアしよう=
 ルナの塔720階をクリアしよう=
+ルナの塔730階EXクエストをクリアしよう=
+ルナの塔730階をクリアしよう=
 ルナの塔80階をクリアしよう=Clear Floor 80 of the Tower of Luna
 ルナの塔90階をクリアしよう=Clear Floor 90 of the Tower of Luna
 神殿調査クエストLv1をクリアしよう=Clear Temple Trek Lvl 1

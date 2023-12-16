@@ -699,6 +699,7 @@
 お誕生日おめでとうございます\n占いによると海が縁起がいいと\nでましたので、そちらでお祝い\nさせてください=
 お誕生日おめでとうございます\n喜んでもらえるとうれしいですが\n…受け取ってくれますか？\nプレゼントは…わたしです☆=
 お誕生日おめでとうございます\n実は…アルバイトで貯めたお金で\nプレゼント買ったんです…\n受け取ってください…お兄さん♪=
+お誕生日おめでとうございます\n本日ばかりはケチケチせずに\n貴方の希望を聞いて差し上げます\nさ、言ってごらんなさいな=
 お誕生日おめでとうございます\n歌以外にいいプレゼントが\n思いつかなくて…\nよかったら聞いてください=Happy birthday! The only present I could think of was to sing you a song, so... Will you listen for me?
 お誕生日おめでとうございます\n知り合いの霊から海賊に伝わる\n祝い唄を教えてもらったんです\n喜んでもらえるといいのですが=
 お誕生日おめでとうございます\n短いものですが、お祝いに\n曲を書いてみました\nここで歌ってもいいですか？=Happy birthday! It's rather short, but I wrote you a song to celebrate. Do you mind if I sing it here?
@@ -872,6 +873,7 @@
 クリスマスのごちそう楽しみ～♪\n…なんか、お兄ちゃんから食べて\nばかりと思われている気がする！\n私だってお料理できるんだから！=I can't wait for our big meal! ♪ Hey. You think I'm just gonna eat, don't you? I can cook as well, you know!
 クリスマスの賑やかさ…\n場の空気があったまってると\n笑いも取りやすいべな\nさ、ドッカンと笑わせにいくべ！=
 クリスマスはミヤコとずっと\nくっついててもらうの～！\n嫌がっても憑いてくの～！=
+クリスマスは年に一度の稼ぎ時！\nそう思っていたわたくしですが…\n今年は一味違いますわよ！=
 クリスマスは繁忙期だけど\n束の間の休息は君と過ごしたい\n…ふふ、クリスマスの魔法で\n心の鎧まで脱げてしまったのかな=
 クリスマスパーティーなら\nアカリにお任せあれです♪\nアカリの演奏で、みーんな\nハッピーにしちゃいますよ～=
 クリスマスを\n幸せな歌で彩ることができたら…\n唱喚士としてこの上ない幸せです=There's no greater joy for me as a Song Summoner than to contribute to the holidays with a special song.
@@ -920,6 +922,7 @@
 こう見えてもわたし、\nシュヴァリエなんですっ！\n『王家の装備』を\nお守りしてるんですよっ！=
 こう見えて私は女なんだ\nわけあって鎧は外せないが\nよろしく頼むよ=There are reasons why I can't remove my armor, but I'm still a woman under this mask.
 こう見えて薬で治すだけじゃなく\n手術の腕もなかなかなのよ\n痛みなんて感じさせないわ…♪=
+こう見えまして、わたくし\nモデルの経験もありますの\n商工会の広告費節約のために\nなかなか様になってますでしょ？=
 ごきげんよう\n私が一人前の商人になるため、\nご指導ご鞭撻のほど\nよろしくお願いしますわ！=Good day. I request your guidance and support to help me become a true merchant!
 ここ、ないしょのお花畑なんだ！\nでもね、おにいちゃんには\nとくべつにおしえてあげる\nだってだいすきなんだもん！=This is my secret flower garden! But I'll tell you all about it, Mr. Nice Guy. After all, you're the best!
 ここが異世界。正直、\n信じられるものでもないけど…\nバルスの軽口よりは\nいくらかましかもしれないわね=So this is another world. Frankly,\nI find it difficult to believe, but I suppose it's better than some of the nonsense Barusu spouts.
@@ -1287,10 +1290,12 @@
 ちょすー！\nヒデサイ、誕生日なんだよね？\nおめでとー！\n今日はパーティーだね！=Whattup! It's your birthday today, right? Happy birthday! We gotta arrange a party for you!
 ちょっとこの雑誌見てー！\n右の服と左の服、\nどっちがアタシに似合うと思う？=Look at this magazine! Which of these outfits do you think would look better on me?
 ちょっとちょっと秘書1号？\n定時だからって\n上がれませんわよ？\nまだ仕事は残っておりましてよ！=
+ちょっとちょっと秘書１号？\nなぜ少年に撮影を任せようと\nしていますの？　小休憩？\nまったく…少しだけですわよ=
 ちょっと休憩しようぜ\nお、なんかおまえの手、\nひんやりして冷たいな！\nって…わりぃ、触りすぎたな=Let's take a quick break. Whoa! Your hands are so chilly! Err, sorry. I got a bit too touchy-feely there.
 ちょっと前までは色々と\n不安だったけど、今はもう\n大丈夫だぞ！　オマエやみんなと\n助け合えるからな！=Up until recently, I had more worries than I knew what to do with, but I'm fine now! 'Cause you and the guys are here for me!
 ちょっと動かないでくださいね～\n何してるのって？　えへへ、\nお兄ちゃんのサイズを測って\nおそろいの衣装を作るんですよ♪=
 ちょっと小耳に挟んだんだけど、\nあんたお金食べようとしたこと\nあんだって？　ウケる\nアレあんま美味しくないよね=So I heard this dumb rumor\nthe other day that you tried to\neat money. Hilarious, right?\nThat stuff's not even tasty.
+ちょっと少年？　お仕事ですわよ\nもう少しこちらにいらっしゃいな\nまさか緊張なさっているとでも？\nあらあら、おませさんですわね♪=
 ちょっと待って！\n動かないでよく見せて…\nよし、キミの瞳の中のボクは\n今日もとても美しいね♪=
 ちょっと手を出して～？\n…よしっ、つかまえたよ～♪\nもう逃げられないからね～？\n夜が明けるまで、踊ろうね～♪=
 ちょっと派手じゃないかしら\nこの格好…ま、まあ、\nキミが気に入ってくれてるなら\nいいんだけどね？=
@@ -1634,6 +1639,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 ぴぇええええ！！！\n大怪盗のかっこいい逃走劇が\nはじまるはずだったのに！\nなんで…こうなるですかぁ～！？=
 ひと仕事終えたし\n釣りにでも行くとするか…\nお前さんもどうだい？=Work's done for now, so I think it's time to go fishing. How about you join me?
 ひゃぁ！？　お、お兄ちゃん…！\n急に触っちゃ嫌ぁ…！\n…で、でも…嫌いって言ってる\nわけじゃないですからね…！=
+ひゃあっ！？　む、胸に…胸に！\nこの量ですら麦しゅわが何杯も\nおかわりできますのに…！\nああ…なんてもったいない～っ！=
 ぴゃっ！　って、お兄さんですか\n何じろじろ見てるです、えっち！\n煩悩まみれ！　不審者だったら\n叩き潰してるところですよ？=
 ひゃわあんっ！？\nえ、えへへ…転んじゃいました\nでも私、くじけませんから！\n一人前のメイドになる日までっ♪=
 ひゅ～どろろろ～\nお誕生日～\nおめでとうなの～～♪=Woooo, spooky-spooky!\nHappy birthday... to yooooou! ♪
@@ -1940,10 +1946,13 @@ fun in their costumes.\n...No, of course I'm not scared!
 わあ～い！　にいちゃんまた\nイタズラにひっかかったね♪\nどうだった？　今どんな気分？\nやっぱり楽しかった？　だよね♪=
 わぁっ、やりましたね～！\n塩水しょっぱいぃ～\nこうなったらわたしも本気です！\n覚悟してくださいよぉ～！=Oof, you got me good! The water's so salty, too! Don't think you'll get away with this, you little scoundrel!
 わかってるよ、ちゃんとゴミは\n持って帰るってば！　\nきれいな海のほうが探検する時、\n気持ちいいもんね♪　=
+わたくし、サンタさんには\nお会いしたことがありませんの\nあいにくと「良い子」のままでは\n生活できなかったものですので=
+わたくし、見た目を隠している\nつもりはございませんの\n隠しているのは…\n個人の資産だけですわ♪=
 わたくしたちの旅がどんな結末を\n迎えようとも、主さまのために\n戦います。迷いはありません\nこの力が全ての証明でございます=
 わたくしの力は忌むべきもの\nそれでも頼らねばならぬのは\nわたくしが未熟者ゆえ…\nだから必ず、強くなります…！=
 わたくしの想いに、\n精霊たちが応えてくれている…\nこの力があれば、\nもっと主さまにご奉仕できます♪=The spirits are responding to the powerful emotions I feel...\nWith this newfound power, I will be of greater service to my lord!
 わたくしの想いに反応して\n精霊たちも楽しそうに\n舞っておりますね。主さまも\nお楽しみいただけておりますか？=I see the spirits are dancing happily in response to the feelings I expressed. Did you also enjoy the performance, my lord?
+わたくしの記憶によれば\n今日は貴方のお誕生日でしたわね\nおめでとうございます\nケーキの一つでもいかがかしら？=
 わたくしの過ちを知っても\n受け入れてくださったこと\nとてもうれしく思っております…\nわたくしは果報者ですね…=
 わたくしの願いは、ただ一つ…\n末永く主さまの隣にいることです\nどんな困難もこの力で乗り越えて\n必ずや叶えてみせます！=
 わたくしは今日という日を心から\nお待ちしておりました。主さまの\nお誕生日を、全身全霊をかけて\nお祝いいたしますね=
@@ -3136,6 +3145,8 @@ being with you just gets me extra hype, you know?
 貴方、誕生日ですって？\nそれはおめでとうございます\n何か食べたいものはありまして？\nご馳走くらいしてあげますわよ=
 貴方が望むなら、わたくしが\n雇ってさしあげましてよ？\nまずは見習いからですけれどね=
 貴方といると、犬を\nもう一匹飼い始めた気分です\n飼ったこと？　ありませんよ？=When you're around, it feels almost as though I have another dog to take care of. What?\nNo, I haven't had a dog before.
+貴方にでしたらエスコートを\n依頼してもよろしくてよ？\n知らない仲ではありませんし…\n報酬も格安で済みますものね♪=
+貴方にはジュースがお似合いです\nただ…そうですわね\nいつか大人になったあかつきには\nご一緒してあげてもよろしくてよ=
 貴方の好みのタイプを\n教えなさい。再現してあげます\n妹系？　姉系？　幼馴染？=Tell me your preferred type, and I'll replicate it for you. Do you prefer little sisters? Big sisters? Childhood friends?
 貴様も技を持っているなら\nかっこよく放つべきだ！\n例えばだな…=If you have special techniques of your own, be sure to unleash them with flair! Let me demonstrate...
 貴様も早く前世の記憶を\n取り戻すのだ！　我が宿敵にして\n盟友、閃光のシグルドよ！=The time is nigh for you too to reawaken to your past self! My greatest of allies and direst of foes... Sigurd of the Fulgor!
@@ -3180,6 +3191,7 @@ being with you just gets me extra hype, you know?
 防御を捨て、攻撃に特化した\n『撃滅形態』をとくと見よ！\n…ど、どこを見ているのだ！？=By purging my defenses, I achieve the ultimate offensive mode! Annihilation Forme! W-wait, stop staring!
 限定アイテムの列はこちらが\n最後尾です…あら、奇遇ね\nあんたも寄ってかない？\nあたしたちが主催するバザー！=The line for limited items starts here... Oh, you came too! Welcome to our bazaar!
 限界なんてものはない…\nキミとの絆が私に教えてくれたよ\nだから私は剣を振るい続ける！\nあらゆる困難を断ち切るために！=
+陛下のクリスマスを彩るには\n忠臣であるわたくしも\nふさわしい格好をするのが筋！\nこれは忠誠心の体現なのです！=
 陰キャとか陽キャとか\nよく分からないけど…\nどっちのビカラちゃんも大好き！\nあなたもそうだよね？=
 陽射しが強くなってきたな…\nあっちで涼みながら\nかき氷でも食べるのはどう？\n…決まりだね。行こうか！=
 雪…こうして触れてみると\n儚いものなのですね\nあっという間に形が変わる…\n少し、親近感を覚えます=

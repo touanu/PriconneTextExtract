@@ -113,6 +113,7 @@ Half Anniversaryガチャ=Half Anniversary Gacha
 新キャラ「クリア（フォールン）」登場！\n期間中出現率UP！=
 新キャラ「クルミ（ステージ）」登場！\n期間中出現率UP！=
 新キャラ「グレア」登場！期間中出現率UP！=Boosted rates for the new character Grea!
+新キャラ「クレジッタ（クリスマス）」登場！\n期間中出現率UP！=
 新キャラ「クロエ（聖学祭）」登場！\n期間中出現率UP！=
 新キャラ「クロエ」登場！\n期間中出現率UP！=Boosted rates for the new character Chloe!
 新キャラ「シオリ（レンジャー）」登場！\n期間中出現率UP！=
