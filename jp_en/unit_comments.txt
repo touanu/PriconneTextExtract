@@ -129,6 +129,7 @@
 あたしの知名度が広まるよう\nお兄さんはあたしを担いで…え？\n肩車すればいいのかって…\nそういう意味じゃねーですよ！！=
 あたしの親友の恩人なら、\nあたしの恩人みたいなもんだ\nお互い仲良くしていこうぜ！=If my friend owes you a debt, then so do I. Let's make this a great partnership!
 あたしの計画ではお兄さんは側近\nカヤぴぃは右腕にして、ふふっ\nボスは雑用係にしてやるですよ！\nぴっ！？　今寒気がしたような…=
+あたしの顔に落書きした罰です\nその顔にたーっぷりと\n仕返ししてやるですからね！=
 あたしの魔力とあんたの力が\n一つになっていく…！\nさあ、かかってきなさい！\n今日のあたしは一味違うわよ！=My magic and your power are fusing together completely...!\nAll right, here goes! You're gonna be blown away by the new me!
 あたしの魔力にびっくりした？\nしょうがないわね～\n仕方がないから\n自慢させてあげるわ！=
 あたしの魔法、\nけっこうすごいでしょ？\nふふ～ん♪\nもっと褒めて褒めて♪=Isn't my magic amazing? Heh heh. That's right, keep the compliments coming!
@@ -391,6 +392,7 @@
 いらっしゃいませぇ～！\n…や、なんかバイト先で愛想よく\nしろとか言われて。はーマジだる=How can I help you today~?!\n...Uh, yeah. The manager at my job told me I gotta act cheerful. Ugh, what a drag.
 いろんな人にいたずらするのも\n楽しいけど\nにいちゃんにいたずらするのが\n一番楽しいなー！=It's fun pranking all sorts of people, sure, but I still love pranking you best of all!
 いんだけどさ、最近テレ女の空気\n全体的にちょっとアレじゃない？\nや、なんか校風崩れっていうの？\nルーセンティズム入ってきてね？=
+イ、ノ、リ、さ、ま、専、用っと\nふっふっふ、これでお兄さんは\nあたしの所有物ですよ！=
 イイ…イイですよ…もっと…！\nえっ、なにをしているのかって？\nご覧の通り、海を楽しんでいます\nドＳさんも一緒に、どうですか？=
 イかれてなどいないさ\n人間の命は儚く脆い…\nその刹那の時もワタシは\n楽しみ切ってやるのさ☆=Of course I'm not insane.\nHuman lives are fragile and fleeting... I'm just making the most of mine while I still can!
 イタズラとからかいの違いか～…\nそうだなぁ多分、好きな人にしか\nやらないのがからかいかな…って\n別に今の告白とかじゃないよ！？=
@@ -484,6 +486,7 @@
 お、お兄ちゃん…\nクリスマスは恋人たちの夜って\nいいますよね…だ、だからその…\nあうぅぅ…何でもないですぅ…=H-hey... They say that this holiday is a special time for lovers, right? So... Urgh! Never mind...
 お、お誕生日お、おめ、おめで…\nや、やっぱり無理！\nおめでとうなんて言えないー！\nプレゼントなんて渡せないよー！=H-happy bir... birth... H... happy... Aaaahhh, it's no use! I can't say it to his face! How will I ever give him this present?!
 お、お誕生日よね、今日は\nめ…めでたいわね～。ほんとにっ\nで、で…えっと、でかしたわ！\nと…と？　と～…と、とうッ！=
+お、弟くんっ、お姉ちゃんだぞ♪\n…いま、もっと絆を深めるために\nお姉ちゃんになりきってるんです\nわっ、笑わないでくださいよ～！=
 おーっほっほっほ！　この私に\nかかれば、料理など造作も\nありませんわ！　さあ、遠慮せず\n召し上がってくださいませ♪=
 おーっほっほっほ！\n聖夜を彩るパーティーも\nこのアキノ・ウィスタリアに\nお任せあれ！=
 おーほっほっほ！\n情熱の炎が燃え滾りますわ！\n今の私は完全無欠！　遅れずに\nついてきてくださいませ！=
@@ -545,6 +548,7 @@
 お兄さんの前では普通の女の子で\nいられるから居心地いいです…♪\nだからお兄さん、少しの間だけ…\n二人っきりでいていいですか…？=
 お兄さんの誕生日？\n覚えてるですよ、今日ですよね？\nほーら、どんなもんです！\nうたがったおわびをするですよ！=
 お兄ちゃん、\nまたあとでサックスの練習、\n付き合ってくれますか？=Say, would you come help me with my saxophone practice later?
+お兄ちゃん、あとで私とお出かけ\n…デート、しませんか？\nこの衣装、見せびらかしたくて…\nお姉ちゃんには秘密ですよっ♪=
 お兄ちゃん、アカリなんだか\nドキドキしてます…\nお兄ちゃんの愛の力を\n感じてるから、ですかね♪=
 お兄ちゃん、アカリの愛の力\n受け止めてくださいね！\nアカリしか見えなくなるくらい\nメロメロにしちゃいますからっ♪=
 お兄ちゃん、お誕生日…\nお、おめでとうございますぅ…！\n私なりに一生懸命お祝いするから\nよ、喜んでくれると嬉しいです…♪=H-happy birthday! I'll celebrate with you the best I can. Hopefully it's enough to make you happy. ♪
@@ -553,6 +557,7 @@
 お兄ちゃん、お誕生日おめでと♪\nぷうきちからも\nプレゼントがあるみたいだよ！\nいっぱいもらえて、いいな～！=Happy birthday! ♪ You're getting a present from both me and Pukichi! Must be nice to get so many!
 お兄ちゃん、お誕生日ですよね\nおめでとうございます！\nアカリと一緒に、\n大人の階段、上りましょうね♪=It's your special day today, isn't it? Happy birthday! Now we can do even more... grown-up things together!
 お兄ちゃん、お誕生日の\nお祝いしちゃいますよ！\nプレゼントはア・カ・リ♪\nな～んて、ドキドキしましたか？=
+お兄ちゃん、さぁどうぞ\n私とお姉ちゃんの間に♪\nえへへ、どうですか？\nこれが姉妹ホールドですっ♪=
 お兄ちゃん、そんなに\nアカリのが見たいんですか…\nそ、それじゃ…恥ずかしいけど\n行きます！　アカリ大車輪―！=You really want to see me do it, huh? Okay then... It's a little embarrassing, but... Here I go! Akari 360° Flip!
 お兄ちゃん、もっと見て…？\nアカリサンタのお洋服！\nエンジェルの羽もついてて\nとってもかわいいでしょ？=
 お兄ちゃん、今日のアカリも\nかわいいですか？\nもう、恥ずかしがらないで、\nかわいいって褒めてほしいです～=
@@ -563,7 +568,9 @@
 お兄ちゃん、誕生日おめでとー！\n大切な日を家族みたいに\n一緒に過ごせてうれしいな！\nぷうきちも喜んでるよ！=Happy birthday! It's so nice to spend the day with you like we're real family! Pukichi's super happy as well!
 お兄ちゃん！\n大丈夫？　けがはない？\nもう平気だよ、安心して\n私とぷうきちが来たからね！=Hey! Are you hurt? Any wounds? It's okay now—Pukichi and I are here to help!
 お兄ちゃんがそばにいると\nアカリのカラダ…\nなんだかすごく火照っちゃって…\n冬の寒さもへっちゃらです♪=
+お兄ちゃんがまた一つ\nお兄ちゃんになっちゃいましたね\n妹として誇らしいです！\n恰好いいですよ、お兄ちゃん！=
 お兄ちゃんが一緒なら、\nなんだってできる気がします！\nよーし、どんどん行きましょう！=I feel like I can do anything when you're with me, big bro! Let's keep going!
+お兄ちゃんっ、ちょっと私の手を\n引いて、歩いてもらえませんか？\n…こんなにきれいな衣装ですから\n特別感を味わいたくて…えへへ♪=
 お兄ちゃんったら\nいつも激しすぎて、私…\nドキドキが止まらないんです…=You always push me so hard, it makes me all sweaty... My heart's pounding like crazy...
 お兄ちゃんといっしょですから\n今の私は無敵ですよ！\nイヤでも鉄砲でもどんとこいです！=Since I'm with you, Big Bro,\nI'm invincible right now!\nIt's like they say! Sticks and\nstones can't break my bones!
 お兄ちゃんとの特訓はいつも\n『ハジメテ』だらけで楽しいです！\nこれからも二人で『ハジメテ』を\nいっぱい体験しましょうね♪=
@@ -662,6 +669,7 @@
 お誕生日おめでとう～\n浜辺で見る君の顔が\nすっかり大人にみえるわ\nふふ、夏のせいかしらね=Happy birthday! You're looking even more mature than usual today. Maybe it's that summer magic? Hehe.
 お誕生日おめでとう～♪\nミミも早く大きくなって、\nおにいちゃんの、\nおねえちゃんになりたいな～♪=Happy birthday! ♪\nI wanna grow up fast so I can be Mr. Nice Guy's big sister. ♪
 お誕生日おめでとう～♪\n昨日より一つ大人になったのね\nお祝いに先生が、\nナデナデしてあげるわ♪=Well, well. Happy birthday!\nYou're growing up so quickly.\nHere, let Miss Io give you a pat on the head to celebrate!
+お誕生日おめでとう♪\nリノちゃんと一緒に選んだ\nプレゼントだよっ♪　…それと\nお姉ちゃん一人からのもあるよ♪=
 お誕生日おめでとう♪\n先生、ちょっと趣向を凝らして\n誕生日雑煮を作ってみたの！\nあなたの好物、てんこ盛りよ～♪=
 お誕生日おめでとう♪\n急いで来ちゃったから\nこんな格好でごめんね？\n少しでも早くお祝いしたかったの=
 お誕生日おめでとうございます！\n…あはは、やっぱり緊張しますね\n私の挨拶、大丈夫でしたか？\n声とか裏返ってませんでした？=
@@ -677,6 +685,7 @@
 お誕生日おめでとうございます！\n可愛い後輩から可愛い笑顔を\nプレゼント！　ちぇる～ん☆\n良かったですね、一生ものですよ=A very chelly birthday to you!\nYou can have this adorable smile as a present! Cheru~n! ☆ Isn't that the best? Treasure it for life!
 お誕生日おめでとうございます！\n森にいる小鳥さんたちと\n合唱団を結成して、\nお祝いの歌を作ってきました！=A very happy birthday to you!\nI formed my own little chorus with the birds in the forest, and we'd like to sing for you now!
 お誕生日おめでとうございます！\n私たち二人でたっぷりと\nお祝いさせていただきますわ！\nささ、こちらへどうぞ♪=
+お誕生日おめでとうございます！\n私とお姉ちゃんでプレゼントを\n用意したんです、けど…実は\n私一人からのもあったり…えへへ=
 お誕生日おめでとうございます！\n私もあなたにプレゼントを…\nって、あれ…？　ない！？\nわ、忘れちゃいましたぁ…！=A very happy birthday to you!\nI brought a present just for...\nWait, huh...? Where did it go?!\nOh no, I think I left it at home!
 お誕生日おめでとうございます！\n色んなことでお世話になったので\nそのお礼も兼ねたプレゼントです\nどうぞ、受け取ってください♪=Happy birthday to you! You've given me all sorts of help, so here's a present to say thank you for everything. I hope you like it!
 お誕生日おめでとうございます\nあなたの成長をお祝いできて\nとてもうれしいです。これからも\nよろしくお願いしますね♪=
@@ -716,6 +725,7 @@
 お誕生日おめでとうです！\nあたしは部下想いのボスですから\nわがままを聞いてあげなくも…\nってなんですその本気の目は！？=
 お誕生日おめでとうです！\nこのあたしに祝われるなんて\nそうそうない名誉ですからね！\n感謝して何かおごりやがれです！=
 お誕生日おめでとうです！\nしょうがないからプレゼントを\n用意してあげてもいいですよ\nさあ、どーんと言ってみるです！=
+お誕生日おめでとうですよ！\nさあ、このあたしの晴れ姿、\nプレゼント代わりに\n目に焼き付けとくがいいです！=
 お誕生日おめでとうなぁ～\nまだまだ暑いさかい\n今日は、和菓子と冷やし抹茶で\nお祝いしまひょ♪=Happy birthday, my prince.\nIt's still a li'l bit hot out, so what\nsay we celebrate with some\nsweets and iced matcha? ♪
 お誕生日おめでとう騎士くん！\nえへへ、こんなカッコでごめんね\n早くお祝いしたくて\n急いで来ちゃった♪=
 お誕生日おめでとさん♪\nお祝いにとっておきの紅茶と\nお菓子を用意してますんよ\n森のお茶会にご招待や～♪=
@@ -917,6 +927,7 @@
 こうして男の子と海にくるなんて\n初めてのことだから\nなんだか照れちゃうわ\nねえ、君はいまどんな気持ち？=This is the first time I've come to the beach with a guy, so I'm feeling a bit restless. How about you?
 こうして研究をしていると\n心が弾みます…\n薬が完成すればあなた様を\n自由にできると思うと…=When I think about how this potion'll let me do whatever I want to you... I love my work.
 こうやってお兄ちゃんと一緒に\n居ると、本当の兄妹みたいだね\nえへへ♪　今日は妹として、\n思いっきり甘えちゃおうかな♪=
+こうやってお揃いの衣装を\n着るの、仲良し姉妹って\n感じがしていいですよね！\nお兄ちゃんも揃えちゃいますっ？=
 こうやって踊れば、\n幽霊とだって友達になれるさ～♪\nほら、キミも一緒に\n自由に楽しく踊るさー！=
 こう暑いと、かき氷が食べたいね\nお前さんも一緒にどうだい？\n色んな種類があるみたいだし\n別々の味を買おうじゃないか=
 こう見えてもわたし、\nシュヴァリエなんですっ！\n『王家の装備』を\nお守りしてるんですよっ！=
@@ -980,6 +991,7 @@
 この姿に変身すること自体は\n造作もないことなのですが\n姿が変わる最中を見られるのは\n…す、少し恥ずかしいです=
 この姿の自分も受け入れられる…\nたとえ恐れられてしまっても\n誰かを守る盾となれるのなら…\nそれがわたしの贖罪です…！=
 この姿はまるでおとぎ話の\n妖精のようでございます\nいつも主さまの隣で\n舞っていたいものです=
+この姿は私とお姉ちゃんの\n繋がりの証、なんですよね\n心強くて…力が湧いてきます\nこれがお姉ちゃん力…え、違う？=
 この姿を民草に披露するか\nお主にじっくり堪能させてやるか\n…今は後者の気分じゃな。お主、\n年明けから運に恵まれたのう♪=
 この子、ニャットちゃんって\nいいます\nとっても聞き分けの\nいい子なんですよ～=This little one's name is Nyatt. He's very obedient.
 この子たちは私とお兄ちゃん\nにとって家族…それって…\n『子どもみたいなもんだな』\nち、ちち、違うからぁ！=
@@ -1105,6 +1117,7 @@
 コッコロちゃんって賢くて\nすごーくかわいいわよね\n…本当に私の妹だったら\nよかったのにな=Kokkoro is so smart, and incredibly cute as well.\n...I wish she really could have been my little sister.
 さ、次はお洗濯しなきゃ…\nえ？　手伝ってくれるの？\nありがとう、助かるわ♪\nあっ！　そっちの洗濯物は私の…=
 さ～て、みんなを\nマホマホ王国にご招待や～\nみらくるまほりんくるりんぱ♪\nも一つおまけにくるりんぱ～♪=Come one, come all, to the\nMaho-Maho Kingdom! Miracle\nMahorin, twinkle twinkle hoy! ♪\nAnd one more hoy for luck! ♪
+さあ、バースデープレゼントは\nあたしの直筆サインです！\nこうやってたっぷりの墨で…\nふふっ、遠慮はいらねーですよ！=
 さあ、最っ高の\nクリスマスが始まるわよ♪\nキミも早くおいで～！=
 さあ、始めようか！\n破壊と再生…\nあらたな神話を\n目に焼き付けるがいい！=
 さあ、手を出して？\n幽霊たちと一緒に\nハロウィンのダンスを踊ろうよ=
@@ -1346,6 +1359,7 @@
 どうだい、坊や\n聖夜に相応しい絶景だろう？\n感謝するがいいよ。ここに連れて\n来たのはオマエが初めてだ♪=How's this, boy? A sight worthy of this special night, is it not?\nLet's see some gratitude. You're the first person I've brought here!
 どうだいお前さん、アタシの\n晴れ着姿は。キマってるだろ？\nえ、キレイだって？\nあ、ありがとな=
 どうッスか、この勇姿！\nどんな悪も\nホワイトタイガーからは\n逃げられないッスよ！=
+どうです？　大幹部にふさわしい\nゴージャスな装いってヤツです！\nさあ、思う存分\n褒めるがいいですよ！=
 どうですか、このポーズ！\n…え？　台の上はあぶない？\nお兄さんは分かってないですね\n高い所に登るのがボスの鉄則です=
 どうですか、このマフラー！\nいかにも大怪盗って感じで\nテンション上がるです…って、\n引っ張るのはダメですよ！=
 どうですか、この水着！\nサマーライブのために\n私が作った衣装なんですよ！\nかわいいでしょう！？=
@@ -1382,6 +1396,7 @@
 どんな苦難が待っていようが\nオレはもう立ち止まらない\nダチも仲間も、自分自身も！\nまとめて未来へ連れてくぜ！=
 どんな魔法を勉強しよう…\n恋が成就する魔法…\nそ、そんなのあるわけないよね！=Hmm, what kind of magic should I study next? L-love magic, maybe? N-no, I'm sure there's no such thing!
 ト、トリックオアトリート…\n実はこういうことには不慣れでね\nよければ、キミが私の\n師匠になってくれるかな=
+トーゴクにはドラゴンの年\nってのがあるらしいですね\nまさにあたしのための年\nじゃないですか！=
 ドSさんとクウカのアジト…\nこ、ここでクウカに何をしようと\nいうのですかっ！？　ぐふふ…\n何があってもご褒美です～！=
 ドSさんのお誕生日をお祝いする\nために…クウカ、愛と希望と、\n闇の力を溜め込んできました…！\n受け取ってくださいドMビーム！=
 ドＳさん、そんなに\n熱い眼差しで見つめられたら\nクウカ…痺れちゃいます…♪\n体がビリビリして…止まりません=
@@ -1441,6 +1456,7 @@
 なんてーか、あんたのバイブス\nわりと悪くないんじゃない\n知んないけど=So, like, uh.\nThe vibes you're giving off?\nThey're not all that bad.\nI guess.
 なんでアタシ、こうなったんだろ\n少年と強く繋がり過ぎたかな？\nありえるね…愛ゆえの行動が\n二人を結びつけちゃったか～！=
 なんですか、ジロジロ見て…\nもしかして騎士さんも仮装\nしたいんですか？　なら…\n仕方ないので作ってあげますよ！=
+なんですか？　いくらあたしの\n晴れ着姿がキレイだからって\nそんなにジロジロみてたら\n通報もんですからね？=
 なんでずっと見つめてるかって？\nお兄ちゃんと一緒に過ごす\nクリスマスを、いつまでも\n覚えていたいから！　ですよ♪=
 なんでもかんでもどんなことでも\nお姉ちゃんに言ってね！\nもっともっと頼って甘えて～\n遠慮しないでいいんだぞっ☆=You can talk to me about absolutely any tiny little thing. Let me take care of it!
 なんて優しい風…\nふふっ…まるで精霊たちが、\nわたくしと主さまを\n祝福してくれているようです♪=Ah, the wind feels so tender...\nEheh. It is as though the spirits are bestowing all their blessings upon me, and upon my lord.
@@ -1483,6 +1499,7 @@
 ねぇ、月が見えないわ\nんー、そこだと景色が見えない\nだからそっちじゃなくて…もうっ\nそばに来なさいって言ってるのよ=
 ねえ、次の休みはいつ？\nげぇ～、マジで…\n働き過ぎて死んじゃうよ～=Hey, when's our next day off?\nUrgh... You're kidding...\nAll this working's gonna kill me!
 ねえ、衣装の後ろの方\nちょっと直してくれない？\n…ひゃぁっ！？　バカバカ！\nど、どこ触ってんのよ～！！=
+ねぇ…あとでお姉ちゃんと\n一緒にお出かけしない？\nこの衣装でデートしよっ♪\n…リノちゃんには内緒だよ♪=
 ねえ…またこのお花畑を\n一緒に見に来てくれる？\n…精霊使いにとって約束は\n何よりも大切なんだからね=Hey, will you visit this field of flowers with me again sometime?\n...Promises are very important to Spirit Users, you know.
 ねぇ…今度、一緒に\nデートしない？\nそれとも、私みたいなのが\n相手じゃ、いやかな…？=What'cha say we go out on a date? Or would you rather not be seen with me?
 ねえ…君の目に、今の私は\nどんな風に見えてるのかな？\n怖い？　かっこいい？\n私はね…心の底から楽しいよ♪=
@@ -1499,6 +1516,7 @@
 は、ハッピーハロウィン…\nうう、恥ずかしいな…=H-Happy Halloween.\nAhh... this is embarrassing...
 は～…ほんとうに\nあたしたち以外にも\nドラゴン族っているんですかね？\n…そこらへんに歩いてないです？=
 は～い、あけましておめでとう！\n上手に新年の挨拶できましたね～\n今年も子どもたちとあなたの成長\nとっても楽しみにしてますね♪=
+はー、どこも人ごみだらけで\nまともに歩けないですね…\nはぐれちゃ大変ですから\n手をつないどいてやるですよ！=
 はーっはっは！　大悪党コンビ\nここにふっかーつ！\n『この感じ、懐かしいね\n柄にもなく心が踊るよ』=
 はーっはっはっは！　見よ！\n月までもがわらわたちを\n祝福しておるようじゃ=
 はーっはっはっは！\nビッグボス・イノリ様の登場です\nお兄さんは今日から側近として\nあたしをサポートするですよ！=
@@ -1680,8 +1698,10 @@ fun in their costumes.\n...No, of course I'm not scared!
 ふかふかのベッドもいいけど\n自然に包まれてだらけるのも\nまた乙なんだよねぇ…=Nothing beats a comfy bed, but being enveloped in nature's a close second.
 ふっ、こうしてると前世で海原を\n冒険した記憶がよみがえってくる\n私と魂で結ばれた貴様も、\nいずれ思い出すはずだ！=
 ふっ、この服どうですか？\nかっこいいって言っても…\nはぁ！？　か、かわいいって\n言うのは、やめやがれですー！=
+ふっふっふ、あたしの勝ちです！\nさーて、何を描いてやるですかね\n覚悟するですよ～♪=
 ふっふっふ、ナナカちゃんが\n魔法をかけちゃうぞ♪\n何の魔法かって？　それじゃあ\n恋の魔法～、な、なんちゃって…=
 ふっふっふ、君と私の絆の力が\n最強の魔法なのだ～っ！\nって、真顔でうなずかれると\nちょっと恥ずかしいんだけどぉ…=
+ふっふっふ、新年早々\nあたしの晴れ着姿を見られて\nお兄さんは運がいいですね！\nさあ、お年玉をよこすですよ！=
 ふっふっふ…！\nあたしこそは神出鬼没の大怪盗！\n狙ったものは必ずいただくです！\n金銀財宝からボスの座まで！=
 ふっふっふ……\nおもしろいことするヤツらなの\nだからお返しに、もっとも～っと\nおもしろいことをしてやるの…！=
 ふっふっふ…心技体ともに\n覚醒した今のあたしには\n死角はないです…ってぴゃあ！\nあ、足場が崩れたですよぉ！=
@@ -1762,6 +1782,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 ホントは派手な花火が好きだけど\n線香花火もきれいだね～\nずっとずっと見てたいから\nまだ消えちゃわないでほしいなぁ=
 ま、魔物と戦うのは怖いけど、\n私だって、\nアリスちゃんの力を受けた一人！\nやるときはやるんですぅ！=
 ま、魔物なんてこわくないです！\nで、でもその…守ってくれて\n助かりました…=I... I'm not scared of monsters!\nB-but it was nice of you...\nto protect me...
+ま～たあたしの勝ちですね！\nお兄さんザコザコすぎですよ\nもしかしてあたしに描いて\nほしくて手を抜いてやがるです？=
 まさか、私が\n魔法少女になれるなんて！\n…おっと、このことは\nみんなに内緒にしないとね♪=
 まさかオマエと新年を\n過ごすことになるなんて…\nでも悪い気はしないな！\nなんか美味いもんでも食うぞ！=
 まさか私が貴族様の舞踏会に\n出られるなんて…きちんと\nレッスンがんばらなきゃ！=
@@ -1882,6 +1903,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 やっとオマエと味方になれたんだ\n早いとこオクトーの目を覚まして\nアイツとも一緒に戦いたいな！=I finally managed to make friends with you... Now if only I could slap some sense into Octo, so he can fight by our side as well!
 やっぱここに飾んねぇとだな\nこのクリスマスリースが\nあんちゃんにも幸せを\n運んでくれますように♪=
 やっぱり…自然はいいですね～\n小鳥さんや草花さんたちの\nおしゃべりも盛り上がっていて…\n心が落ち着きます…♪=
+やっぱりあたしが最強です！\nこの調子で勝ちまくって\nランドソルをせーふくして\nやるのもいいですね！=
 やっぱりあなたと囲む食卓が\n一番ですね☆　いっそのこと\n王宮で一緒に住みませんか？\nやっぱり、まずいですかね～？=I'm always happiest at a dinner table with you! ☆ Why don't you come live at the palace with me?\nOr would that be... a problem?
 やっぱりフェスの最後はお約束、\nヒロインたちのライブだよねー！\n会場のみんなも配信のみんなも…\nえ、これ魔石配信してないの？=
 やっぱり今年も、私にはキミが\n必要だ。…お願い。これからも、\nキミの力を貸して欲しい=Your support means the world to me. So please stick by me, just like you did last year.
@@ -2466,6 +2488,8 @@ being with you just gets me extra hype, you know?
 好みの男性のタイプ？\n「食べものを粗末にしない人」\nです！=What type of men do I like? Well, the type of men who don't waste food!
 妖魔や幽霊の能力を参考に\n新しい忍法を考えてみまショウ！\n変装したり…姿を消したり…\nいい忍法が開発できそうデス！=
 妹さえいれば兄に金棒ですよ！\n私の活躍しっかり見てて下さいね\nお兄ちゃん♪=Where there's a sis, there's a bro!\nYou're gonna watch me show off what I'm really capable of,\naren't you, Big Bro?
+姉と妹のダブルアタックだぞ♪\nえへへ、覚悟してね弟くん！\nパワーアップした私たちからは\nもう逃げられないんだからっ♪=
+姉妹の力でパワーアップだよっ♪\nリノちゃんとお姉ちゃんの\n愛の力で、大好きな弟くんを\n守り抜いてみせるからね…！=
 姉様がメイドの仕事を\nしないで休憩している…ですか？\nさすが姉様！\nお休みする姿もすてきです！=My sister is resting instead of attending to her duties as a maid? Ah, how bold! Even in sleep, she is a wonder to behold!
 姿形が変わっても\nわたくしはわたくしのまま…\nですが、これまで以上に\n主さまにお仕えいたします=
 子どもたちが笑顔で\nクリスマスを\n過ごせること\nそれが一番の幸せよ=
@@ -2527,12 +2551,15 @@ being with you just gets me extra hype, you know?
 弟くん、大好きだよ♪\nチョコはまだまだあるから\nあげるたびに言ってあげるね♪=I love you, Little Bro! ♪\nI made plenty of chocolates,\nso I'll tell you that again\neach time I give you one!
 弟くん、暑いでしょ？\nお姉ちゃんが冷やしてあげよっか\n…ふ～っ♪\nえへへ、涼しいでしょ？=
 弟くん、欲しいものはある？\nまた一つ大人になった弟くんには\nなんでもあげちゃうよっ♪\nお姉ちゃんでも…いいんだぞ♪=
+弟くんお兄ちゃんっ♪\n今ね、姉妹の絆を深めるために\nリノちゃんになりきってるの♪\n似てるでしょ？　似てるよねっ？=
 弟くんが海で危ない目にあっても\nお姉ちゃんがいるから大丈夫！\n絶対にキミのそばを離れたり\nしないんだからねっ♪=
 弟くんっ、お姉ちゃんだよっ☆\nえへへ、ビックリした？\nじゃあ今度は驚かないように\n耳元で優しく…お姉ちゃんだよ♪=
 弟くんっ♪\n決めポーズのリクエストはある？\nお姉ちゃんがどんなポーズでも\nバッチリ決めてあげちゃうぞ…♪=
+弟くんと、リノちゃんと、私\nこの繋がりは特別なものなんだ\nだから必ず、守ってみせるからね\nあなたたちの、お姉ちゃんとして=
 弟くんとのひとときを邪魔する\n野暮な奴は許さないよ！\nチョップくらいじゃ\n済まさないんだから！=If any of those slobs give you grief, I'll give them more than just a chop!
 弟くんと一緒に海水浴なんて\nお姉ちゃん、ドキドキしちゃうな\n…ねぇ、弟くん？　私たち…\n周りからはどう見えるのかな…？=
 弟くんのお誕生日だから\n水着でお祝いしてあげるねっ♪\nえ？　なんで水着なのかって？\nもうっ、うれしいくせに～♪=
+弟くんの生まれた日、それは\nお姉ちゃんとリノちゃんにとって\n運命の日、なんだよ…！\n盛大にお祝いしちゃおうねっ♪=
 弟くんをいじめるなんて、\n神さまが認めても、\n天が見逃しても、\nお姉ちゃんが許さない！=Even if the heavens and gods themselves allow you to be bullied, I won't.
 弟くんを守れるのなら\n愛でも、希望でも\n…闇の力でも構わないよ\n全部、お姉ちゃん力なんだから♪=
 弱い奴らばっかで、\n暴れ足りねぇ\n歯ごたえのある奴は、\nいねぇのか！？=I can't let loose against all these wimps! I want an enemy who'll give me a fight!
@@ -2893,6 +2920,7 @@ being with you just gets me extra hype, you know?
 私とあなた様が結ばれるべき\n運命だということを…この夏に\n証明して差し上げますわ\nどんな手段を使ってでも…=
 私とキミ…お互いへの気持ちを\nより強くするにはどうしたら…\n剣を交える以外の方法を\n見つけないといけないな=
 私とぷうきちと、お兄ちゃん！\n三人そろえば、\n怖いものなしだね！=You, me, and Pukichi! Together, we're unstoppable!
+私とリノちゃんがお揃いなんだし\n弟くんも着替えるべきだよねっ！\n…恰好よくタキシードとかどう？\nお姉ちゃん、隣を歩きたいな…♪=
 私と一緒にいて安心するって\n思ってくれたらすごく嬉しいわ\n私も、あなたといると胸が\nとってもあったかくなるの=It makes me so happy to hear that you feel at ease around me. There's always a pleasant warmth in my heart when you're around, too.
 私と戦ったのが失敗だったね\n見た目で油断したんだろうけど…\nこう見えても私、結構強いんだ\n自分の甘い判断を恨むんだね=Your mistake was taking me on. Maybe I didn't look like much to you... but I'm stronger than you'd think. An unlucky misjudgment.
 私ドジだから、砂のお城って\n完成させたことないんです～\n…一緒に作ってくれるんですか？\nありがとうございます♪=I'm too much of a klutz to ever make a proper sand castle, so... Would you mind making one with me? Thank you! ♪

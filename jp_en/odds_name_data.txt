@@ -14,6 +14,7 @@ RANK5～8の装備アイテム=Rank 5~8 Equipment
 アンナのメモリーピース=Anna's Memory Shard
 イオ（サマー）のメモリーピース=Io (Summer)'s Memory Shard
 イオのメモリーピース=Io's Memory Shard
+イノリ（ニューイヤー）のメモリーピース=
 イノリのメモリーピース=
 イリヤのメモリーピース=Illya's Memory Shard
 エリコ（バレンタイン）のメモリーピース=Eriko (Valentine)'s Memory Shard

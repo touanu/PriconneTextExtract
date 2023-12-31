@@ -27,6 +27,7 @@
 イオ（ノワール）=
 イノリ=Inori
 イノリ（タイムトラベル）=
+イノリ（ニューイヤー）=
 イノリ（怪盗）=
 イリヤ=Illya
 イリヤ（クリスマス）=Illya (Holiday)
@@ -97,6 +98,7 @@
 シズル（サマー）=
 シズル（ノワール）=
 シズル（バレンタイン）=Shizuru (Valentine)
+シズル＆リノ=
 シノブ=Shinobu
 シノブ（サマー）=
 シノブ（パイレーツ）=
@@ -282,6 +284,7 @@
 ハーフエルフ=half elf
 ヒューマン=humanfolk
 ヒューマン、エルフ=
+ヒューマン、ヒューマン=
 ヒューマン、半人半竜=
 ヒューマン、獣人族、エルフ=
 半人半竜=half-dragon
@@ -344,6 +347,7 @@
 小説を読むこと=reading novels
 小説執筆=writing novels
 屋内でできる遊び=indoor activities
+弟を愛でること＆兄に甘えること=
 強敵との闘争=fighting strong opponents
 忍法開発=developing ninja arts
 恋愛小説、恋愛舞台、恋愛漫画の鑑賞=romance novels, romance plays, romance manga
@@ -447,6 +451,7 @@ M・A・O=M・A・O
 浅倉杏美=Azumi Asakura
 潘めぐみ=Megumi Han
 生天目仁美=Hitomi Nabatame
+生天目仁美、阿澄佳奈=
 田所あずさ=Azusa Tadokoro
 相坂優歌=
 福原綾香=Ayaka Fukuhara
@@ -546,6 +551,7 @@ M・A・O=M・A・O
 泣き虫で臆病な守ってあげたい女の子=A cowardly crybaby you can't help wanting to protect
 甘え上手なみんなの人気者=The town darling who everyone wants to dote on
 男勝りで情に厚いワイルド娘=A wild girl who's strong-minded and compassionate
+真実も偽りも超えるきょうだい=
 研究所に隠れ住む物静かなお姉さん=A researcher of few words who lives a secretive life
 礼儀正しくしっかり者のちびっ子優等生=A polite, level-headed young honor student
 秘密結社ラビリンスの『迷宮女王』=
