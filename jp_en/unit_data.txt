@@ -620,6 +620,7 @@
 【魔法】後衛で後ろの味方を強化する魔法少女の看板娘。\n後衛の味方をバリアとＴＰ継続回復で支援し、自分の魔法\n攻撃力に応じ強化される攻撃力アップスキルで鼓舞する。=
 【魔法】後衛で攻防共に活躍するパッション溢れる少女。\nダメージを受けた味方中心に回復魔法で補助をし、\nさらに魔法攻撃を仕掛けて、敵を一網打尽にする。=[Magic] A passionate girl who contributes to both offense and defense from the rearguard. While supporting damaged allies with targeted healing, she fires off magical attacks to decimate the enemy formation.
 【魔法】後衛で物理パーティを補助する、歩く芸術作品。\n味方のユニオンバースト発動を早めるスキルのほか、\n暗闇状態にするスキルで敵の物理攻撃を封じる。=[Magic] A living work of art that buffs physical parties from the rearguard. Uses skills that allow allies to use Union Bursts more quickly, and hampers enemy offense with blinding status effects.
+【魔法】後衛で特別な景色を共にする初夢超能力ガール。\n敵が物理攻撃を行う場合、攻撃性能の強化に加えて複数の\n弱体効果が追加され、攻守ともに味方を支援し敵を掃う。=
 【魔法】後衛で皆を支える、ギルド管理協会の職員さん。\n通常攻撃の代わりに味方の能力を高める魔法を掛け、\n味方の守護や敵への妨害など、完璧なサポートをこなす。=
 【魔法】後衛で真心重ねて味方をもてなす仲居姿の先生。\n全スキルで味方の物理攻撃力とクリティカル能力を上げ、\n魔防やＴＰ上昇の支援とＨＰ、ＴＰの回復で万福を願う。=
 【魔法】後衛で祈りによるサポートを行うドジっ娘巫女。\nスキルの魔法無効バリアで耐久力を高め、ユニオン\nバーストでＨＰ回復と行動速度アップで戦況を整える。=[Magic] A clumsy maid-turned-shrine-maiden who provides support through prayers from the rearguard. Not only can she bestow protection with a barrier that nullifies magic damage, her Union Burst heals HP while boosting her allies' speed.

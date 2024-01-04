@@ -216,6 +216,7 @@
 ギルドハウスで受け取れるアイテム、全部いっぱいよ…。あなたのお世話ができないと…寂しい…わ？=
 ギルドハウスで受け取れるアイテム、全部いっぱいよ。ったく、早く受け取りに来なさいよね…待っててあげるからさ=
 ギルドハウスで受け取れるアイテムが、いっぱいいっぱいみたいです…まるで人と話してるときの私のよう…！=Your stamina seems to be full. Will this help us say bye-bye to our bashful lives of lonerdom...? I think the skip tickets in your guildhouse are at their limit! They, um... aren't useful for making friends, are they? No, I didn't think so... Your guildhouse has generated a big supply of stamina! What are we going to do with it all? Sh-should I practice introducing myself?! Your guildhouse is full of EXP potions... If I drink the whole supply, will I level up from "loner" all the way to "normie"?! Your guildhouse is overflowing with Mana! Could I use some of it to build a brand new version of My Little Buddy? All the item stocks in your guildhouse are bursting at the seams... just like me when I have to talk to new people...!
+ギルドハウスで受け取れるアイテムが、いっぱいだよ～！受け取ってギルドハウスを大掃除しちゃおう！=
 ギルドハウスで受け取れるアイテムが、いっぱいになっちゃってますよー？早く来ないと…ぜーんぶ壊しちゃうかも♪=
 ギルドハウスで受け取れるアイテムが、いっぱいになってやがるです！…交渉によっては山分けもアリですよ？=
 ギルドハウスで受け取れるアイテムが、いっぱいになりましたね。聖夜の冒険に役立てましょう！=Our stamina has completely refilled. Now I can give it my all at the holiday concert... I hope you'll be there to hear it. Say, the skip tickets at the guildhouse are full. Let us use these blessed gifts wisely! Oh my, there's so much stamina at the guildhouse. Could it be a present from Santa Claus? Oh, the EXP potions at the guildhouse are full. I have a feeling these can help me sing even nicer hymns. Oh, look at all the Mana in the guildhouse. Heehee, shall we throw a big holiday party? All your items at the guildhouse are full! They should come in really handy for some holiday adventuring!
@@ -483,6 +484,7 @@
 ギルドハウスのEXPポーションがいっぱいだよ。変身したわたしも、これがあればもっと成長できるんだね=
 ギルドハウスのEXPポーションがいっぱいだよ。精霊を召喚するために、わたし自身も強くならないと…！=
 ギルドハウスのEXPポーションがいっぱいだよ。魔法少女として悪を討つため、もっと強くならないと！=
+ギルドハウスのEXPポーションがいっぱいだよ～！これで強くなって、今年も健康に過ごすのだ～！=
 ギルドハウスのEXPポーションがいっぱいだよ～。これを飲めば冒険者スキル、ちょっとは上がるかな…？=
 ギルドハウスのEXPポーションがいっぱいだよ～。ハロウィンの人混みも乗り切れるくらい、成長できるかも？=
 ギルドハウスのEXPポーションがいっぱいだよ～♪お姉ちゃんもまだまだ成長途中！弟くんと一緒に、夏の海ですくすく育っちゃうよ♪=
@@ -797,6 +799,7 @@
 ギルドハウスのスキップチケットがいっぱいデス！踊れや騒げや、ハロウィンパレードに出かけまショウ！=
 ギルドハウスのスキップチケットがいっぱいデスよ！ショーグンと天下統一を目指してシュラシュシュシュデース！=Your stamina is full, Shogun! Let us go out on the town in disguise! Shogun! Your guildhouse cannot hold all these skip tickets! Let's mount a swift offensive and conquer lands upon lands upon lands! Your guildhouse has finished making stamina, Shogun! The ninja night is still young! Your guildhouse is full of EXP potions! Time to complete my training and become an unbeatable ninja! Look at these piles of Mana in your guildhouse! I'm sure they'll tip the balance in our favor when we contest with rival nations! Shogun! Your guildhouse is full of all kinds of items! It's a cornucopia of conquest supplies!
 ギルドハウスのスキップチケットがいっぱいなの！じゃんじゃん使ってクリスマスプレゼントを配りまくるの！=
+ギルドハウスのスキップチケットがいっぱいなんだって！年賀状も届いてるかな？見に行こうよ！=
 ギルドハウスのスキップチケットがいっぱいになったぞ！ふふ、我らの歴史に新たな１ページを刻むとしよう！=
 ギルドハウスのスキップチケットがいっぱいになったぞ！世界で一番の大悪党になる近道だな！=
 ギルドハウスのスキップチケットがいっぱいになったそうですね。あのク…眼鏡の協会派遣員が待っておりますわ=
@@ -1008,6 +1011,7 @@
 ギルドハウスのスタミナがいっぱいなの！早くハロウィンパーティーに行くの！=Your stamina filled right up! Time to go buy special Halloween pudding! Trick or pudding! Your guildhouse is full of skip tickets! Your guildhouse made too much stamina! Time for a Halloween party to use it up! Your guildhouse filled up with EXP potions. Miyako will play tricks if you don't pick them up! How much Mana is in your guildhouse now? Enough to buy puddings and treats for Miyako! Your guildhouse is all filled up with items! Pick them up and let's do Halloween!
 ギルドハウスのスタミナがいっぱいなの。プリンはいっぱいじゃないの？さっさとミヤコにプリンをよこすの～=
 ギルドハウスのスタミナがいっぱいなの～。全部プリンのために使うの～=Your stamina is super full! Hurry up! Go buy Miyako pudding! Hey you! Full skip tickets at the guildhouse! Time to take Miyako on a pudding hunt! All your staminas at the guildhouse are full up! Use them all to get pudding for Miyako! Ooo, the guildhouse is full of EXP potions... Pour them on some pudding and give them to Miyako! Hey, the guildhouse is super full of Mana! Just what we need for buying all the puddings! There's too many items in the guildhouse now. Come pick them up and give all the puddings to Miyako!
+ギルドハウスのスタミナがいっぱいなのだ～！お正月料理を食べて、この後も頑張るぞ～！=
 ギルドハウスのスタミナがいっぱいに！早く回収しないとサレンさんにもったいないと叱られますわ！=
 ギルドハウスのスタミナがいっぱいに～♪ぐふふ…クウカと一緒に全部解き放ちましょう～！=
 ギルドハウスのスタミナがいっぱいになった！これで一日中悪さできるな！はーっはっはっは！=
@@ -1347,6 +1351,7 @@
 ギルドハウスのマナがいっぱいのようです。この世界のマナは不思議ですね=Your stamina seems to have fully recovered. Shall we go on an adventure? Your skip ticket supply at the guildhouse is full. You should probably collect them. I noticed your guildhouse's stamina supplies are full. Let's go and pick them up—it would be a waste not to. Your guildhouse has generated a full supply of EXP potions. I'd be happy to try them myself, if you like. Your guildhouse has produced a full supply of Mana. This world's Mana is so mysterious... All the items you can collect at your guildhouse seem to be full. You should pick them up soon, or I might have to tidy them up.
 ギルドハウスのマナがいっぱいのようですわ。これで終わらない夏を手に入れましょう、あなた様…=
 ギルドハウスのマナがいっぱいのようデス！たくさん貯めて、お城を買うのデス！=Your stamina is completely restored, Shogun! Now is the time to conquer the lands! Shogun! The guildhouse is full of skip tickets. They're just like using my Ninpo: Flying Squirrel no Jutsu! Shogun, your stamina is full at the guildhouse! I bet it works just like my ninja rations! The guildhouse is chock full of EXP potions! I can feel the inspiration coming for a new ninja technique! The guildhouse is laden with Mana, Shogun! We should save it up to purchase a castle! All items at your guildhouse are full, Shogun! They'll all be vital resources to help us conquer the lands!
+ギルドハウスのマナがいっぱいみたい！お正月セールにダッシュだよっ！早く早く～！=
 ギルドハウスのマナがいっぱいみたい！受け取らなきゃおこだよ！=Whiz-boy, you've got full stamina! Time to use it all at the beach! You've got full skip tickets at the guildhouse! It'd be a waste not to use them, right? There's full stamina waiting for you at the guildhouse! Let's go get it! Did you hear? There's full EXP potions at the guildhouse! They'll boost my cute game for sure! The guildhouse is bursting with Mana, my dude! Better not sleep on it! Omigosh, you should see all the items at the guildhouse! You could swim in all of that, LOL!
 ギルドハウスのマナがいっぱいみたい！豪華なクリスマスパーティーができそうだね！=Your stamina's fully recovered! Let's go into town and enjoy the holidays together! Wow, your guildhouse is full of skip tickets! With all these tickets, we could hold a seasonal concert! Your stamina supply at the guildhouse is full! With this much energy, I could sing all night long! Did you notice your EXP potions at the guildhouse are full? Maybe they'll help me improve my performance! There's a full supply of Mana at your guildhouse! Let's spend it on a fancy party for the holidays! All the items at your guildhouse are completely full! Even Santa would be amazed by such a mountain of gifts!
 ギルドハウスのマナがいっぱいみたい。ねえ、おにいちゃん！アイスを買っていっしょに食べよ♪=
@@ -1421,6 +1426,7 @@
 スタミナが全回復したの！ハロウィン限定プリンを買いに行くの～=Your stamina filled right up! Time to go buy special Halloween pudding! Trick or pudding! Your guildhouse is full of skip tickets! Your guildhouse made too much stamina! Time for a Halloween party to use it up! Your guildhouse filled up with EXP potions. Miyako will play tricks if you don't pick them up! How much Mana is in your guildhouse now? Enough to buy puddings and treats for Miyako! Your guildhouse is all filled up with items! Pick them up and let's do Halloween!
 スタミナが全回復したの～！みんなにクリスマスプレゼントを配りにいくの。オマエも手伝うの～！=
 スタミナが全回復したの～。とっととプリンを買いに行けなの～=Your stamina is super full! Hurry up! Go buy Miyako pudding! Hey you! Full skip tickets at the guildhouse! Time to take Miyako on a pudding hunt! All your staminas at the guildhouse are full up! Use them all to get pudding for Miyako! Ooo, the guildhouse is full of EXP potions... Pour them on some pudding and give them to Miyako! Hey, the guildhouse is super full of Mana! Just what we need for buying all the puddings! There's too many items in the guildhouse now. Come pick them up and give all the puddings to Miyako!
+スタミナが全回復したのだ～！元気もりもりで、初詣に行くよ～！=
 スタミナが全回復したのね！一緒に、お仕事しましょ～♪=Oh my, your stamina has fully recovered! Let's go put in some work together! ♪ Your skip tickets are full at the guildhouse! I hear they make work as easy as pie! Uh-oh, you've got full stamina at the guildhouse. Eheheh, now we can really chew the cud. ♪ Looks like the guildhouse is full of EXP potions. Could these be what I need to become a human? My, there's a lot of Mana at the guildhouse! I just love the way it all sparkles! Hey, you have full items at the Guildhouse! Must be nice being popular! ♪
 スタミナが全回復したのね。それじゃあしっかりクリスマスを楽しみつくすわよ！=
 スタミナが全回復したべ。ささっ、お仕事の時間だべ！=Looks like ya got full stamina again. C'mon, hoss, time to roll up those sleeves an' get to work! The guildhouse is chock-full of skip tickets! Ya reckon they can help me practice my stand-up quicker, too? Hey, you got a buncha stamina at the guildhouse! Just what we need to keep on truckin' at the farm! You got a gaggle of EXP potions at the guildhouse. I reckon these li'l fellas can help me get 'em all laughing! What? You got loads of Mana at the guildhouse? Haven't ya heard it's bad "Mana-rs" to leave Mana sittin' 'round like that? Hey, ya got full items waitin' at the guildhouse. Maybe we can use 'em in some comedy sketches!

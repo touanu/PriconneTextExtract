@@ -104,6 +104,7 @@
 あえいうえおあお…\nも、もっとみんなと、\nお話しできるように、\n練習です=I'm doing speech training so I can talk to others better. She sells seashells...
 あか、しろ、きいろ～\nきれいに咲いたお花さん～♪\n虫さんブーン\nちょうちょさんヒラヒラ～♪=Red, white, yellow... Such pretty flowers. ♪ Mr. Bug is buzzing, Mr. Butterfly fluttering! ♪
 あけましておめでと～☆\n君が新年をのんびりまったり\n過ごせるように、精一杯\nおもてなししちゃうよ～☆=
+あけましておめでとう！\n新年の始まりに相応しい\nきらーんっ☆　な景色だね～\nきっといい一年になるよ！=
 あけましておめでとう！\n騎士クン。今年もよろしくね\nおみくじはもう引いた？=Happy New Year! I hope it's another great one for you! Did you get your fortune slip already?
 あけましておめでとう\nまぁ今年もよろしくね\nまた騒がしい一年に\nなりそうだけど…=Happy New Year.\nI guess I wish you all the best.\nThough I'm guessing this year will be another bumpy ride...
 あけましておめでとうございます\n今年もたくさんおいしいものを\nいっぱい食べましょう！\n新年最初の約束です☆=
@@ -446,6 +447,7 @@
 え？　なんです？　今日は\nお兄さんの誕生日ですか？\nじゃあ特別に、あたしに\n何かおごる権利をやるですよ！=
 え？　もっとするの…？\n今日はもうヘトヘト…\n私、限界です、お兄ちゃん…=What? You want to keep going? But I'm so worn out... I don't have much more in me...
 え？　私とグレアは\nいつも一緒にいるって？\nもちろん別行動だってするよ！\n最近だって…ええと、ええと…？=
+え～っと、おみくじの結果は…\n待ち人来る…これって\nもしかしてキミのことだったり？\n…なんだかドキドキしてきたかも=
 えー！　お菓子くれるの！？\nやったやったー！\n…って、喜んでないわよ！\n子ども扱いしないでよね！=Wait, that candy's for me?! Woo! B-but don't assume I'm super happy about it! I'm not a kid, okay?!
 えいっ！　やあっ！　魔物めぇ！\nこ、こっち来るなったらぁ！\nあっ、そっちもダメ！\nお兄ちゃんの方に行くなー！=Hi-yah! Back off, ya mangy monsters! Ack, no! Don't go near him!
 ええと…誕生日おめでとう\nこれから一緒にプレゼントを\n見に行かない？\nデ、デートじゃないわよ、もう！=
@@ -823,6 +825,7 @@
 キミとあたしがそろえば、どこに\nお宝が隠されてようと楽勝にゃ！\nファントムキャッツに\n不可能はないのにゃ～♪=With you and me on the hunt, we'll nyab the treasure wherever it's hidden! There's nyo hiding from the Phantom Cat! ♪
 キミといるとそれだけで\nいつも以上に能力を\n発揮できる気がするのよね…\nなんでなのかしら…？=
 キミと一緒なら、\nどんな冒険もなんくるないさ～！=When I'm adventuring with you, I know everything's gonna be right as rain!
+キミと一緒ならハツネちゃんは\n最強だねっ！　この景色も\nキミがいたから見られたんだし\nこれからもずっと隣にいたいな♪=
 キミと一緒に\nハロウィンを過ごすのは\n気恥ずかしいんだけど…\nうれしいよ=
 キミと一緒にいると、いつだって\n胸の奥のリズムが高鳴るね～♪\nどうしてかな～？\nねぇ、どうしてだと思う～？=
 キミと一緒にいれば\nなんか面白いことが起きるだろ？\nだから期待させてもらってるよ\nさ、どっか遊びにいこうぜ！=Interesting stuff always happens when I'm with you, y'know?\nI can't pass up that kind of opportunity. Let's go hang out!
@@ -1081,6 +1084,7 @@
 これが噂の着物ですね…\n見てよし、\n脱がせてよし、\n回してよしの魔性の服…！=So this is the "kimono" I've heard so much about... A beautiful garment that's far easier to remove than it is to put on...!
 これが自分の新しい姿ッス！\nただの鎧じゃないッスよ？\nなんと、お母さんの手作りッス！\nいかしてるッスよね～♪=
 これだけの大きな魔力、\n本当に使いこなせるのかな…\n…ううん、わたしはもう迷わない\nこの瞬間に、全力を出し切る！=
+これだけ空高く浮かんでると\n風もちょっと冷たいね…\n新年早々に風邪を引いたら\n大変だしくっつくのはどうかな？=
 これってキョンシーの仮装\nなんだけどさ、袖が\nお気に入りなんだよね～\nだら～っとした感じがさ～♪=
 これでも、しっかり者だと\n言われているのですよ？\n…あなたには気を抜いたところを\nよく見られてしまっていますが=
 これでも、困ってる人がいたら\n助けずにはいられないのにゃ！\n今夜は正義のため、猫と一緒に\n飛び回るのにゃー！=I always help those in nyeed! Tonight I'll be prowling around town with my fellow felines!
@@ -1154,6 +1158,7 @@
 じゃ～ん、旅のお洋服だよ♪\n『おお…完璧装備じゃねぇか！\n何が起きても大丈夫だな』\n…でもお兄ちゃんは側にいてね？=
 じゃ～んっ♪\n魔法少女のお姉ちゃんだよっ！\nね、どうかな？　うれしい？\n変身、もう一回見せてあげよっか=
 じゃーん！　どうどう？\n今日のナナカちゃんは\n自称ハロウィン魔法少女なのだ！\nシャランラッ☆=
+じゃじゃーん！\nシオリンに振袖の着付けを\n手伝ってもらったのだ～\nえへへ、かわいいでしょ～=
 じゅるり…この力があれば、\nすべての人々をドMに…\nはっ！　闇の力に負けそうです！\nクウカにお仕置きを、ドSさん！=
 しんまい、ぼうけんしゃ\nできない、こと\nしらない、こと、たくさん\nおしえて、ね？　お兄=
 ジー…っは！\nせ、先輩！？　えっとあのその…\nな、なんでもないですぅ…=*staaaaaare* ...Ah!\nH-hello there!\nN-no, I wasn't, um, looking at anything in particular...
@@ -1233,6 +1238,7 @@
 せっかくの穏やかな時間なのよ？\nあくせくしないで波に身を任せて\nのんびり過ごすの。こういうのも\nたまにはいいでしょ♪=
 せっかく別の世界に来たんだし、\nあなたとも仲良くなりたいな！\nよろしくねっ=It'd be a waste to not make new friends in a whole new world! So I'll start with you!
 せっかく君と一緒のお正月なのに\n全然ゆっくりできなくて残念\n残業・休日診療いたしません！\nなんて言ってみたいものだわ=
+せっかく振袖を着てるんだし\nキミと二人で初詣に行きたいな～\nまだ草履を履き慣れてないから\n手を繋いでさ…どうかな？=
 せっかく温泉があるんだし\n二人で一緒にあったまっていく？\n…なんて、抜け駆けしたら\nいろんな子から恨まれそうだね☆=
 せっかく花畑に来たんだし…\n好き、嫌い、好き、嫌い…す、\nわああ！　な、なんでもないわよ！=Since we have all these flowers here... He loves me, he loves me not... Eep!
 せんぱーい！\n違うな…せ～んぱいっ！\nよし、こっちの方がかわいい\nあ、呼んだだけで用はないです=Hey, bro! ...No, not quite.\nHe~y, bro! ☆ Yep. That sounds way cuter. ...Hm? Nope, I don't actually want to talk to you.
@@ -2248,6 +2254,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 仕事はまだまだ山積み…\nこうなったら少年、貴方にも\n手伝わせて差し上げますわ！\nお礼の方は、応相談でしてよ♪=
 仕事も遊びも、気付けば\nいつもあんたと一緒だね\nそばに誰かいてくれるって\n案外いいもんだね=Whether I'm working or playing, lately it seems like I'm always with you. It's not so bad to have someone you can count on.
 仕事持って帰ってきたけど\n終わりそうにないよ～！\nうぅ…キミ、\n少し手伝ってくれない？=I brought my work home, but there's just no end in sight! *groan* Can you help me?
+仕事納めの解放感…\nそれがお正月の醍醐味だよね～\nだから、今日はキミと一緒に\nゆっくり休むのだ～♪=
 他者に操られていたとはいえ\n罪を重ねたのは事実…\nそれを止めてくださった兄様には\n感謝してもしきれません=
 以前にも増して主さまを近くに\n感じています\n主さまも、わたくしを感じて\nおいででしょうか…？=
 仲間に頼らないと何もできない…\nそんなあなたには負けられないの\n私の強さを証明させてもらうわよ=
@@ -2331,6 +2338,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 出店がいっぱいだな！　これじゃ\nお年玉がいくらあっても\n足りないぞ！　なあ、オマエのは\nまだ…な、なんでもない！=
 初めての彼氏はどんな人かな\n転んでもバカにせず助けてくれる\n君みたいに優しい人がいいな…=I wonder what my first boyfriend will be like? I hope he's like you, and helps when I fall.
 初日の出、キレイだね…\n…騎士クン？　どうしたの？\n太陽、まぶしくない？=The first sunrise of the year always feels extra pretty... Mr. Knight? What's wrong? Is it too bright for you?
+初日の出には、その年の幸せを\n祈る意味があるんだって\n私はこれからも、キミと一緒に\n冒険できれば、それで幸せだな～=
 初詣のおみくじ？　大吉だよ！\nいいことばっかり書いてたなー\n恋愛運！？　…内緒っ！　=You wanna know what fortune I pulled? Great luck, of course! The slip was full of positive stuff. How did it look in terms of love? Th-that's a secret!
 別の世界での思い出も、\nせいしゅんの１ページです！\nルゥ、とっても楽しいですぅ！=Making memories in a new world is just another part of youth! I'm having so much fun here!
 制服って、スカートなんですね…\nうう…足元がすーすーして\n落ち着かないです…=Oh... this uniform has a skirt...\nAhhhh... My legs feel so exposed, it's making me all antsy...
@@ -2631,6 +2639,7 @@ being with you just gets me extra hype, you know?
 抱き締めるのはよせって？\n分かっちゃいるんだけどね\nお前さんがいい男なのが\n悪いんだよ？=You want me to quit hugging you? Sorry, but you're to blame for being so cool.
 押してダメならもっと押せ…\nお兄ちゃんを振り向かせるには、\nさらに大胆無敵なアプローチが\n必要ってことですね！？=
 拝むがよい、称えるがよい！\n今のわらわはいくら褒められても\n足らぬ気分じゃ。お主からの\n賛辞であれば、なおさらのう♪=
+振袖を着ると姿勢が\nシャキッとするんだよね～\nあ、ひょっとして寝落ち対策に\nなったりするのかな…？=
 捕まえてみなさ～い♪\nな、なんてことあたしが\nできるわけないじゃない！！=Catch me if you can! ♪ Th-there's no way I'd actually be able to say something like that!
 探偵と助手という関係の\n私たちだけど、今はそれを\n抜きにしても君のことを大事な\nパートナーだと思っているよ♪=We've reached the point where I consider you an important partner, even outside of our detective work. ♪
 探求心は人間の限界を超えていく\n全ての不可能はやがて可能になる\n…君と実験を続けていけば\nそれを証明できると信じているわ=
@@ -2976,6 +2985,7 @@ being with you just gets me extra hype, you know?
 科学の発展はみんなのため\nこう見えても、病気や怪我を\n治すのが目標なの=Science is meant to benefit everyone. My goal really is to heal people, you know.
 秘密とは人にとって大事なもの…\n貴方も秘密を作るといいでしょう\nただし、私にだけはその内容を\n共有すること。いいですね？=
 稽古に付き合ってほしいな\n大丈夫大丈夫！\nきちんと手加減するから！\nふふ、多分だけどね=I'd like to do some training with you. Don't worry, don't worry!\nOf course I'll go easy on you!\nHaha... Unless I change my mind.
+空でも冷静でいられるキミとなら\nいいコンビになれるはずだよ～\n私はちょっと慌てることが多いし\n持ちつ持たれつってやつだねっ！=
 空に剣の光が輝き続ける限り\n私は負けない！　だって私には\nあなたとの冒険が待ってるから！=
 空も海も輝いて…この世の\n全てが、主さまのお誕生日を\n祝福しているようです\nわたくしも心よりお祝いします♪=The sky and sea are sparkling...\nIt's as though the world itself is celebrating the day of your birth, my lord. It fills my heart with joy.
 空中で書類を書くコツ、ですか？\nう～ん…紙が落ちるよりも早く\n筆を動かす、ですかね？\n一緒に練習してみましょう！=
@@ -3102,6 +3112,7 @@ being with you just gets me extra hype, you know?
 誕生日おめでとう、少年\n…そんなにじっと顔を見られると\nどうにも照れてしまうが…\n君が望むなら、受け入れるさ=
 誕生日おめでとう、騎士クン\n今日はケーキの他にも\nいろんな料理を用意したから\nみんなでお祝いしようね！=Happy birthday, Mr. Knight! I made a cake, and lots of other treats so we can all celebrate together!
 誕生日おめでとう！　お祝いに\nパーティーしようよ！　それと何か\n欲しいものがあったらプレゼント\nしてあげるから言ってね！=Happy birthday! Let's throw a party! And if there's anything you want, I'll get it for you as a present!
+誕生日おめでとう！　キミに\n特別な景色をプレゼントなのだ～　\nえへへ、めでたいでしょ？\nこれで今日もいい日になるね☆=
 誕生日おめでとう！　ん、急に\n押しかけて迷惑だった？　今日は\nあなたの部屋を片付けようと思って\nまるでお嫁さんみたいじゃない？　=Happy birthday to you! Hmm?\nIs this not a good time? I thought I'd tidy up your room as a treat.\nJust like a devoted wife might do!
 誕生日おめでとう！　今日一日\nきみのお祝いをしてあげるよ！\nビッキィを独り占めできるなんて\nきみは幸せ者だね！=
 誕生日おめでとう！　何か\nお願い事はないかい？　そ、それは\nダメだ少年！　兜を脱ぐなんて…\n恥ずかしくて爆発してしまうよ！=Happy birthday, young man!\nIs there anything you would like from me? ...N-no, not the helmet!\nI would die of embarrassment!
@@ -3116,6 +3127,7 @@ being with you just gets me extra hype, you know?
 誕生日おめでとう！\n二人きりでバースデーパーティー\nしましょうか♪　なんてね=Happy birthday! How about we have a little birthday party together, just the two of us? Just kidding.
 誕生日おめでとう！\n今日はいっぱい\nお祝いしてあげるね！=Happy birthday! Today's all about you, so let's celebrate!
 誕生日おめでとう！\n今日は一日アタシが\n一緒にいてやるよ！\nうれしいだろ？　うれしいよな！=
+誕生日おめでとう！\n振袖姿でお祝いなのだ～！\n今日はお正月以上に\n盛り上げていくよ～☆=
 誕生日おめでとう！\n私たちも友達として\nお祝いさせて！\nプレゼントもグレアと選んだの♪=
 誕生日おめでとう！\n貴公のために特別なパンケーキを\n用意したから一緒に食べよう♪\n味見をしたが絶品だったぞ？=
 誕生日おめでとう！\n魔法少女の役目が\n終わったあとで、\n二人でお祝いしようね♪=
