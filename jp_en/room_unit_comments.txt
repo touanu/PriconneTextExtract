@@ -647,6 +647,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 いい夜だな！\nアタシと一緒に\n夜更かしを楽しむか？=
 いい夢が見られるよう\n暖かくして\n眠るといたしましょう=You should wrap up warm for the night to ensure you have pleasant dreams.
 いい子と悪い子って\nどう見分けるのかしら\n…まさか素直さとか？\nだったら困る！=
+いい座り心地～\n寝正月で過ごすのも\n最高なのだ～=
 いい座り心地だわ～\n腕のいい職人の仕事ね\nうちでも扱いたいわ=
 いい座り心地です～\nこれならお嬢さまも\nゆったりできますね♪=It's very comfortable to sit on! I'm sure milady would enjoy relaxing on it! ♪
 いい座り心地ね～\nまさに天にも昇る\n心地よさだわ～=
@@ -677,6 +678,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 いい香り～！\nなんだか気持ちが\n落ち着くね=What a nice, relaxing scent!
 いい香り～…\nあれ？　お腹が空いて\nきちゃった…！？=
 いい香り～…\nグレアもこういうの\n好きなんだよ！=
+いい香り～\nリラックスすると\n眠たくなっちゃうよ…=
 いい香り～\n森の中にいるみたいに\nとっても落ち着く～=Such a lovely smell! It's so calming, like walking in the forest!
 いい香り～♪\n気持ちが\n落ち着く～…=Beautiful smell! ♪ Makes me feel real calm!
 いい香りがする\nおもちゃはどうかな…\n森の薬草を使って…=
@@ -741,6 +743,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 いっぱい働いたから\nいっぱい食べても\nカロリー０だよ=I worked hard, so I can eat all I like and gain zero calories.
 いっぱい働いて遊んで\nよく休んでまた働く。\nそれが健全な生活よね=Work well, play well, rest well, then work some more. Now that's a healthy lifestyle.
 いっぱい働いて遊んで\nよく休んでまた働く\nそれが健全な生活よね=Work well, play well, rest well, then work some more. Now that's a healthy lifestyle.
+いっぱい寝たから\n元気いっぱいだよ～\n今日もがんばろう！=
 いっぱい食べたら\n早く大人になれたり\nしないかな…？=
 いっぱい食べて、\nみんなを応援する\nパワーをつけなきゃ！=
 いっぱい食べて\nいっぱい考える\n探偵の本分だね！=An active mind requires plenty of sustenance. And that's what being a detective is all about!
@@ -786,6 +789,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 イタズラもいいけど\nミミとキョウカと\nにいちゃんと、普通に\n遊ぶのも楽しいなぁ♪=
 イノリちゃん、また\nお金くすねてる…\n帰ってきたら\nお尻ペンペンだ♪=
 イノリちゃんがお年玉\n欲しいんだって♪\n悪い子だったし\n10ルピでいいかな☆=
+イノリちゃんも\nカスミンも振袖姿が\nかわいかったな～=
 イノリのヤツ\nやたらと脇腹\nつついてきやがって…\nくすぐったいっての=
 イノリ様の側近に\n選ばれるなんて\n名誉なことですよ！=
 イブもプリン！\nクリスマスもプリン！\nプレゼントもプリン！=
@@ -1410,6 +1414,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 お昼だ～腹が減っては\n笑いはできぬ～！=Lunchtime! A comedian can't get no laughs on an empty stomach!
 お昼だな\nご飯を食べたら、\nネタの練習するべ！=Lunchtime! After we eat, wanna practice them punch lines?
 お昼だね！\nおいしいチーズを\n持ってきたから\nぼくと半分こだ！=
+お昼だね～\nおせちがあるから\nキミも食べるでしょ？=
 お昼だね～\nおせちを用意したから\nみんなで食べよっか=
 お昼ですね！\nディナーの買い出しが\n済んだら、少しお昼寝\nしちゃいましょうか☆=
 お昼ですね！\n言ってくれれば、\nパンでもお握りでも\n買ってきますよ！=Oh, it's lunchtime!\nDo you need me to buy you anything from the school shop?
@@ -1447,10 +1452,12 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 お正月だからお雑煮を\n作ったんだけど\nカヤちゃんには\n大好評だったよ♪=
 お正月だからって\nギャングのボスは\n油断できないよ～？=
 お正月だし\nみんなで楽しく\n遊んじゃおー！=It's New Year's! Let's make the most of it!
+お正月っぽい遊びを\n色々と用意したのだ～\nたまにはギルドハウス\nでゆっくり過ごそうよ=
 お正月ならではの\n大きなシノギ…\nなにかないですかね？=
 お正月ならではの\n漫画ネタってある？\n参考にしたいんだよね=
 お正月なんだから\nいつまでも寝てないで\nさぁ、実験開始よ♪=
 お正月のお作法も\nたくさんあるのね～\n先生も日々勉強だわ～=
+お正月のトラブルも\nハツネちゃんが\nめでたく解決\nしてみせるのだ～！=
 お正月は晴れ着の子が\nやっぱり多いよね～\n今度、私の漫画でも\n出してみようかな？=
 お正月は空気も\n透き通ってるから\nいつも以上に\n素敵な香りに感じるわ=
 お正月用に\n着物を縫って\nあげたいな=I kind of want to knit a kimono for it.
@@ -1644,6 +1651,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 かわいいですね～♪\nサンタさんからの\n贈り物でしょうか～？=
 かわいいですねー\n君も一緒に、\n先輩を観察する？=Aww, how cute... Would you like to watch over him with me, little guy?
 かわいいと思う\n気持ちを、歌にしても\nいいかも知れませんね=Perhaps I could try expressing how cute it is in a song.
+かわいいな～\n癒されてぐっすり\n眠れそうだよ～=
 かわいいなぁ…\nわたしも今度\n作ってみよう。\nえっと、材料は…=How cute. Let me try making one. First, the materials...
 かわいいなあ。\nこの子とも\n友達になりたい…=How cute. I want to be friends as well!
 かわいいなぁ～\n海のお土産屋さんに\n売ってるかなぁ？=
@@ -2131,6 +2139,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 この愛らしさ…\n要捜査対象だね！=How lovely. Perhaps too lovely. I hereby call for an investigation!
 この感触…分かった！\n助手くんだね！\nふふっ、やっぱり♪=
 この感触と安らぎ…\n素晴らしい\n費用対効果ですわ…=This touch and feeling of comfort... It's so wonderful... And cost effective.
+この振袖どうかな？\nすっごくかわいいよね\nえへへ、ありがとう～=
 この料理…\n冒険するときに\n作ってみまひょか=
 この時間なら\nビーチにも人は\n少ないだろうね…\n遊びに行くかい？=
 この時間に軽く\n休憩をとるといい\n能率がよくなるよ=This is the perfect time to take a little break. It'll boost your efficiency a lot.
@@ -2490,6 +2499,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 シオシオって\nどんな本読んでんだ？\n…難しい字が\nぎっしりだべや…=
 シオリに魔法少女の\n本を借りたんだ\n一緒に読まないか？=
 シオリンとおそろいの\n水着で応援…\nしてみたいなぁ～=
+シオリンに\nお年玉あげたいし\n彼にバイトを紹介\nしてもらおうかな？=
 シオリンに過保護って\n言われちゃった…♪\nそれでも心配しちゃう\nのが姉心…だよね？=
 シオリンの前だけ\nじゃなくて、キミにも\nかっこいい私の姿を\n見てほしいな☆=
 シオリンもキミも元気\nいっぱいだと、私も\n元気になっちゃうよ☆=
@@ -2592,6 +2602,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 そうだ、ナナカに\nこの間借りた本を\n返さないと…=Oh yes, I need to return that book I borrowed from Nanaka the other day.
 そうだ、ラーゴのご飯\n買いに行かないと\n今日は何がいいかな？=
 そうだ、今度、\n森に一緒に木の苗を\n植えに行きませんか？=Hey, would you like to come plant saplings in the woods sometime?
+そうだ、新年会に\nサプライズ大作戦を\nしかけちゃおう！=
 そうだ、隠しておいた\nおやつがありました！\nまだ食べられますね☆=I know—I hid some snacks just over here! They're still totally good to eat! ☆
 そうだ！　水着なら\n濡れてもいいし\n今度洗ってあげるね♪=
 そうだ！\n貴様の技にも\n名前をつけてやろう！=That's right! Your technique needs naming as well!
@@ -2629,6 +2640,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 そろそろ寝ましょ？\n明日も朝日を眺める\nためにね。もちろん\nコーヒー付きで♪=
 そろそろ寝ましょ\nいい初夢が見られると\nいいわね=Okay, time to sleep.\nHere's hoping we have good first dreams of the year.
 そろそろ寝るべ！\n健全なお笑いは\n健全な肉体に宿るべ！=Always best to get an early night! Healthy laughs start from a healthy body!
+そろそろ寝る時間だね\n今日はどんな夢を\n見られるかな～=
 そろそろ寝る時間よ。\n夜更かししたら、\nめっ！　だからね！=It's probably time for bed.\nYou really mustn't stay up too late, OK?
 そろそろ就寝の\n時間ですね～\n枕元にくつ下の準備を\nお忘れなく～☆=
 そろそろ新しい\n案件を始めないと\nいけませんわね=I need to come up with a new plan, and fast!
@@ -3217,6 +3229,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 バイト先になじめる\nように笑顔の練習を！\nに、にへぇ〜…=
 バイト先に新しい子が\n入って来たんです…\nわ、私、先輩です♪=A new waitress joined at my part-time job... I'm not the new girl anymore!
 バカンス楽しかった～\nまた騎士くんと\n一緒に行きたいな♪=
+ハツネちゃんおみくじ\n開始！　きらーんっ☆\nキミは大吉なのだ～\nどう元気出たかな？=
 ハッ！　ラムが作る\n蒸かし芋は完璧ね\n…気が向いたら、また\n作ってやろうかしら=Hah! My steamed taters are second to none.\nMaybe I'll make them for you again, if you're lucky.
 バッグの中身？\n仕事に必要なものと…\n心を潤わせるための\n宝石がいくつか♪=
 パック以外から\n家族って呼ばれたの\n初めて…ふふっ♪\nちょっと嬉しいかも！=Nobody but Puck has\never called me their family before... Heheh.\nIt's a nice thing to hear!
@@ -3308,6 +3321,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ひょっとして\n今のも一本だなんて\n言わないよね？=Don't tell me you consider that getting a hit on me?
 ぴょん、ぴょん♪\nこの服のおかげで、\n体が軽いなぁ…♪=
 ぴょんぴょん\n跳ねるよ\nうっさぎっさ～ん♪=Boing, boing! I'm a hoppy bunny! ♪
+ひらめいた！\n彼への年賀状は\nきらーんっ☆って\n感じにしよう！=
 ビーチスポーツか…\nキミとなら\nいい勝負ができそうだ=
 ビーチで子どもたちと\n一緒に砂のお城を\n作りたいわ♪=I'd love to build some sandcastles at the beach with the children. ♪
 ビーチにいると\n日焼けが心配だわ=The beach is fun, but I'm always worried about getting sunburned.
@@ -3528,6 +3542,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ふむふむ…なるほど\nこんな調合も\nあるのですね…\n奥が深いです=
 ふむふむ…猫の\nしつけ方は、と…=Hmm... You wanna know how to train cats, eh?
 ふむふむ。たい焼きの\nアレンジレシピ集…\nためになるにゃ…=
+ふむふむ\nお正月料理も\n色々あるんだね～\n今度作ってみようかな=
 ふりかかる火の粉は\nワタシが払うデス！\nバンバン！=If sparks of danger fall your way, I will brush them aside with a brushy-brush!
 ぶるぶるぶるっ！\n毛が濡れちゃっても\nへっちゃらさ～！=*shake, shake* Doesn't matter if my fur gets all wet! I can just shake it off!
 ふわ…\nああ、ついあくびが…\n居心地がよすぎるのも\n困り物ですね…ふふ♪=
@@ -3676,6 +3691,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 ぼんやり海に浮かんで\n波に揺られるのも\n悪くないわよ？=Just floating on the water and letting the waves do their thing is pretty nice. You should give it a shot.
 ポーションをどうぞ\n大丈夫、効果は\n確認済みですので♪=
 ボートを漕ぐの、少し\n上手になったんですよ\n今度お見せしますね=
+ポカポカいい気持ち～\n初日の出の温もりを\n思い出しちゃうな～♪=
 ポカポカする～\n…なんだかのどが\nかわいてきたわね=
 ポカポカするね…\n助手くん\n君もおいでよ=
 ポカポカね～♪\n…ああー！\nチョコが溶けてる！=It's so nice and warm. ♪ Wait, my chocolate's melting!
@@ -3932,6 +3948,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 もぐ、もぐ…\nあまり食べるところ\n見ないでほしい=
 もぐ…食べ過ぎた分は\n魔力に変換されるのだ\n…たぶん=
 もぐっ…もぐっ…\n食べとかないと教室で\nお腹なっちゃうわ～=
+もぐもぐ、おいし～\nでもいっぱい食べたら\n眠くなっちゃった…=
 もぐもぐ…\nいっぱい食べて\n強いヒーローに\nなるッスよ！=
 もぐもぐ…\nおーいしー！\n…太らないよね？=*munch, munch* Sooo good! ...Wait, it isn't fattening, is it?
 もぐもぐ…\nおいしいです…！\nみなさんもぜひ！=*munch, munch* This is great! Everyone should try it!
@@ -3964,6 +3981,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 もしかして、この服が\n気になってるの？\nだったら、もっと\n近くで見ていいよ♪=
 もしかして…\n少し露出多いかしら？=Could it be that I’m exposing myself a bit too much?
 もしかして実験に\n付き合ってくれるの？\nえ？　違う？=Have you come to help with my experiments? Huh? You haven't?
+もしかして眠たいの？\n…じゃあ、また膝枕\nしてあげてもいいよ？=
 もしかして運命の\n相手だったり…\nするのかな=What if they turn out to be "the one"...?
 もしドＳさんが\nＭに転じたらと思うと\n身の毛がよだちます！=If Mr. Sadist became Mr. Masochist, my hair would stand on end!
 もしまたあいつが\n寝たままになったら\nなんだってするわ\nキ…キスでも…=
@@ -4445,12 +4463,14 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 今度、子どもたちと\nおやつを作るから、\n食べに来てね=I'm making snacks for the children, so please come have some.
 今度、私が考えた\n運気上昇のおまじない\nかけてあげますね♪=I came up with a new good luck charm, so you'll have to let me cast it on you!
 今度、財団主催で\n大規模なキャンプを\nやってみるのも\nいいかもしれないわね=
+今度エルフの森にある\n薬草を使って七草粥を\n作ろうと思うんだ～\nぜひ食べてほしいな♪=
 今度シグルドに\n私の魔法を一つ\n伝授してやるか=Perhaps I shall teach you one of my magical arts, Sigurd.
 今度ドラちゃんに\nお年玉を持っていって\nやりたいですね=
 今度のバイトも\nなかなか大変そう\nね…腕が鳴るわ=This next job sounds like a challenge. I'm raring to get started.
 今度のハロウィンは\nユイとヒヨリを\n誘ってみようかな=
 今度のライブでは\n夏らしい爽やかな歌を\nファンにお届けします=
 今度のライブ会場、\nいつもより大きいから\n楽しみなんだ～！=The next concert venue is bigger than usual, so I'm really excited!
+今度はどんな凧を\n飛ばそうかな？\nみんなが驚くような\n凧がいいよね～=
 今度は子どもたちも\nサラサリアに連れて\n行ってあげたいわ=
 今度ヒデサイに\nお弁当作ったげる\n屋上で一緒に食べよ♪=
 今度一緒に…\nパーティにでも\n行きませんこと？=Perhaps you would... accompany me to a party sometime?
@@ -4489,6 +4509,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 今日はあの人と\n一緒に冒険できる…\nなんだかワクワク\nしてきちゃった…！=
 今日はオフの日だし\n朝から飲んでも\n怒られないわよね？=
 今日はオマエと\nプリンを買いに行くの\n強制なの～　=You're buying pudding with Miyako today. No saying no!
+今日はキミが\nギルドハウスに来る\n予知夢を見たんだよ～\nふふ、正夢になったね=
 今日はキミと\nいつまでも歌って\n踊りたい気分さ～♪=
 今日はご機嫌なんだ♪\nだって、シオリンの\n調子がいいんだもん☆=
 今日はどこ行く？=Where are you headed today?
@@ -5617,6 +5638,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 来年のテレフェスも\n今から楽しみだなあ…\nまた一緒にお化け屋敷\n入ってくださいね=
 来年も、再来年も…\nこうしてみんなで\n新年がお祝いできると\n素敵だね～♪=
 来年も、再来年も\nみんなで一緒に\n新年を迎えたいな=I hope I can spend New Year's with everyone again. Ideally forever.
+来年も彼の隣で\n初日の出が\n見られるといいな～=
 栄養価はともかく\n味のバランスは\n悪くないわね=
 栄養補給しないと\n頭が回りませんからね\nきちんと食べましょう=
 校則で禁止だけど、\nにけつでほうき通学\nとか青春っぽくない？=
