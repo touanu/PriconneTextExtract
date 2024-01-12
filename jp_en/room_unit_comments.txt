@@ -4742,6 +4742,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 最近、彼の姿が\nまぶしく見える…\nどうして…？=His presence is almost blinding recently. Why is that?
 最近、忙しいけど…\nキミの顔見たら\n疲れなんて\n消えちゃった！=
 最近、毎日あの人の\nこと考えちゃいます\nどうしてだろう…=All I can think about these days... is him. Why?
+最近カレを見てたら\n何故かおいしそうに\n思えてくるんだよな…=
 最近ゲームばかりだし\nたまにはいいかな？=All I do lately is play games. I guess once in a while is fine?
 最近サラサリアの踊り\nを練習してるんだ\nあとで振付けを\n見ておくれよ=
 最近どことなく\nファミリーの連中が\n浮き足立ってんだよな\n…なんでだ？=
@@ -5358,6 +5359,7 @@ VRでも飯はうまい！\n腹が減るのはちゃんと\n生きてる気が�
 手作りのたい焼き\nあいつは食べて\nくれるかにゃ…？=I wonder if he would enjoy some handmade taiyaki?
 手合わせしたいの？\nいいよ、たまには\n団長らしいところ\n見せてあげるね！=
 手土産のお菓子は\nどちらに置けば\nよいでしょうか？=
+手握っててくれるか？\nじゃないとオレ…\n力が抑えきれない…=
 手裏剣の数が\n合わないデス！\nどこかに落とした\nデスか…？=I'm missing some shuriken! Maybe I dropped them somewhere...
 押すなよ、\n絶対押すなよ\n…なんて\n言ってないべさ？=Don't push it! Whatever you do, don't push it... Just kiddin'!
 押すなよ\n絶対押すなよ\n…なんて\n言ってないべさ？=Don't push it! Whatever you do, don't push it... Just kiddin'!
