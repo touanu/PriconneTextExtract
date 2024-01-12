@@ -92,6 +92,7 @@
 あ～れ～～～～～！\nドＳさん、見ていたのですか！？\nクウカの回る姿を楽しんでいたの\nですね…やはり人格破綻者…！=Ohhhh myyyyy~! Mr. Sadist, were you watching just now?! I know you enjoyed seeing me spin out of control... You sick degenerate...
 あーあー…ちょっと待ちなさい\n髪が変になってる…これでよし\n相変わらずおっちょこちょいね=
 あーら、私におしおきされたいの？\nそう…目覚めちゃったのね\nたっぷりと可愛がってあげる♪=Oh my, you want me to punish you? You've come around, then. I'll happily oblige!
+ああ、ちくしょう…なんでだ…！\n喉が渇いて仕方ねぇ…！\n早く全部ぶっ壊さないと\nオレ様がおかしくなっちまう…！=
 ああ、ボクの周りのこの枠かい？\n美を統べる者としての圧倒的な\nかわいい力で具現化したものさ！\nどうだい、すごいでしょ♪=
 ああ、まさにこの空間は、\nあたしのために\nあるような場所だね…\n戻ってこれなくなりそうだよ=Ahh, it's like this place was built just for me. I might not ever wanna leave.
 ああ、また服が…\nちょっとこっちに来てください\nすぐに直してあげますから=Oh, just look at your clothes... Come over here a second, and I'll fix them right up for you.
@@ -867,6 +868,7 @@
 くっ…！　魔力を封じた\n「瞳」が疼く…！\n目薬？　いらんわっ！=Urgh...! My eye burns with the energy of the dark magicks sealed within! ...No, I don't need any eye drops!
 くっくっく……\nこれぞわらわの真の力じゃ\n眷属として誇りに思うがよい=
 ぐっすり眠って元気いっぱい！\nほらほらぼーっとしてると\n置いてっちゃうぞー！=A good sleep and I'm raring to go! Don't lollygag or I'll leave you in the dust!
+くはははっ！　すげぇ…！\nコイツが本当の覚醒か！\n最高に気持ちいいぜ！\n力がたぎって止まらねぇ！=
 ぐふふふ…\nえ？　な、何でもないですよ？\nあなたを見て、妄想なんて…\nはぁはぁ…=Gueheheh... Huh? Oh, uh, nothing! I was just imagining things while looking at you... *pant*
 ぐるるる～…\nあ、お腹が鳴っちゃいました\nわ、笑っちゃダメですよ！=Grrrrr... M-my stomach's growling. H-hey, don't laugh!
 くろい、ちから。も\nわたしの、ちから\nつよくなる。よ\nみてて。お兄=
@@ -2341,6 +2343,7 @@ fun in their costumes.\n...No, of course I'm not scared!
 初日の出には、その年の幸せを\n祈る意味があるんだって\n私はこれからも、キミと一緒に\n冒険できれば、それで幸せだな～=
 初詣のおみくじ？　大吉だよ！\nいいことばっかり書いてたなー\n恋愛運！？　…内緒っ！　=You wanna know what fortune I pulled? Great luck, of course! The slip was full of positive stuff. How did it look in terms of love? Th-that's a secret!
 別の世界での思い出も、\nせいしゅんの１ページです！\nルゥ、とっても楽しいですぅ！=Making memories in a new world is just another part of youth! I'm having so much fun here!
+制御しようなんて考えるな\nどうせ抑えられないんだ…\n…だったらもう、ただ欲して\n焼き尽くせばいいんだよな…！=
 制服って、スカートなんですね…\nうう…足元がすーすーして\n落ち着かないです…=Oh... this uniform has a skirt...\nAhhhh... My legs feel so exposed, it's making me all antsy...
 制服ってけっこういいわね\nなんとなく気が引き締まるし\nそれに意外と…かわいいし？\nや…別に頷かなくていいから…！=
 前から好きだった自分の名前…\nもっともっと大好きになったよ！\n私はノゾミ─希望の名前！\nさあ、キミも呼んで！　せーの！=
@@ -3203,6 +3206,7 @@ being with you just gets me extra hype, you know?
 軍人は、受けた恩は返すものだ\nだから…私にできることが\nあれば、なんでも言ってくれ\n頼りにしてくれよな=A soldier always pays her debts. If there's ever something I can do for you, just name it.
 軽くお散歩でもする？\n精霊の子たちとお話ししにいくの\nそれがこの子たちとの\n契約条件の一つだから=Do you want to go for a walk?\nI was about to head over and chat with the little spirits. It's one of their contract conditions, you see.
 輝け、愛の力！\nちょっとかわいすぎるか？\n…今からでも全砲門、発射！\nとかにした方がいいだろうか…=
+近づくんじゃねぇ！　今はダメだ\n炎でキミまで傷つけちまう…！\nやめろって！　おい！　ちょっ！\n分かったから抱き締めんなって！=
 近道より、遠回りがしたいな～\nだってせっかくのお兄ちゃんと\n一緒の冒険なんだもん♪\nね、あっちにも行ってみようよ！=
 近頃少年を近くに感じていると\n力が溢れて止まらないんだ\nこれってもしかして…恋？\n…いや、愛だ！　だよね、少年！=
 迷い惑う人々に救いの光を与える\n知的で格好良い名探偵、か\n…そう在り続けたいものだね\n『私自身』への、誓いとして=
@@ -3247,6 +3251,7 @@ being with you just gets me extra hype, you know?
 靴下を脱ぎ散らかしちゃダメ？\nいいじゃん、もうオフなんだし\n文句があるならあんたが\n片付けといて～=
 音楽に乗せて体を動かすのって\n最高の気分ね！\nまだまだ体力は余裕かしら？\nなら、あたしについてきてよね♪=
 頼ってばかりではいけませんね\n私も自分のことは自分で…\nごほごほっ…！\nすみません…お水をください=I wish I could take care of myself more. *cough* S-sorry, can you get me some water?
+頼むから止めないでくれよ？\nもしそんな真似しやがったら\nオレ様はキミを…！\n…違う…オレは…アタシは…！=
 頼りになる家臣たちがいなければ\nわたしは国主たり得ません\n…みなの想いに応えるためにも\n迷いがあってはいけませんね=
 顔を見せられない分\n今なにをどう思っているか\n伝えるよう努力するよ=I know my mask hides my face,\nso I do my best to express my thoughts and emotions in other ways.
 願いと引き換えに\n手に入れたこの『力』…\n私の愛する人たち…\n家族やあなたは私が守るわ=
