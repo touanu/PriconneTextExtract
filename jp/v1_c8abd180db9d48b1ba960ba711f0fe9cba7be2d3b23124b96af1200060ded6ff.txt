@@ -14,6 +14,7 @@ SPECIALかEXHIBITIONで久遠の園を象る者を5回以内に討伐しよう=
 SPECIALかEXHIBITIONで楽園の守護者を5回以内に討伐しよう=
 SPECIALかEXHIBITIONで赤い霧の精霊を5回以内に討伐しよう=
 SPECIALかEXHIBITIONで顕れる苦衷 アイラ＆シナツを5回以内に討伐しよう=
+SPECIALかEXHIBITIONのバトルでボスを5回以内に討伐しよう=
 SPECIALのMODE1をクリアしよう=
 SPECIALのMODE2をクリアしよう=
 SPECIALのボスのHPを108000000まで減らそう=
